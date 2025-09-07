@@ -1,0 +1,2133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="source_doc" attr.type="long"/>
+<key id="d4" for="edge" attr.name="properties" attr.type="string"/>
+<key id="d3" for="edge" attr.name="type" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_docs" attr.type="string"/>
+<key id="d1" for="node" attr.name="properties" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="5G Ultra Wideband">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0, 15]</data>
+</node>
+<node id="fiber ownership">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Verizon Private 5G Network">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="virtualized networks">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="America">
+  <data key="d0">Country</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="advanced technology">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="advanced electronics">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="life-changing technologies for consumers and businesses">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Verizon’s 5G network">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="J.D. Power">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="spectrum position">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="capacity">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="5G network">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="network transformation">
+  <data key="d0">Process</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Wireless Network Quality">
+  <data key="d0">Award</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Port of Southampton">
+  <data key="d0">Location</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="faster downloads, HD video chatting, multiplayer gaming on the go with low lag">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="fully networked economy">
+  <data key="d0">Economy</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="5G use cases">
+  <data key="d0">Use Case</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="spectrum holdings">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Associated British Ports">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="5G">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0, 1, 15, 16]</data>
+</node>
+<node id="more than 200 million people in the U.S.">
+  <data key="d0">Population</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="Verizon">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 23]</data>
+</node>
+<node id="Fiber network">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[0]</data>
+</node>
+<node id="RootMetrics">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="J.D. Power 2023 award">
+  <data key="d0">Award</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="5G products &amp; plans">
+  <data key="d0">Products</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="HD availability">
+  <data key="d0">Characteristic</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="network and coverage conditions">
+  <data key="d0">Conditions</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="Most reliable 5G network">
+  <data key="d0">Characteristic</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="5G-capable device">
+  <data key="d0">Device</data>
+  <data key="d1">{}</data>
+  <data key="d2">[1]</data>
+</node>
+<node id="Ronan Dunne">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[2]</data>
+</node>
+<node id="Kyle Malady">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[2]</data>
+</node>
+<node id="Sellside Analyst Meeting">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[2]</data>
+</node>
+<node id="Hans Vestberg">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[2, 16]</data>
+</node>
+<node id="Clarence Otis, Jr.">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="the CEO on talent development">
+  <data key="d0">Development</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="succession planning and assignments to key leadership positions">
+  <data key="d0">Planning</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="human capital management, including with respect to employee diversity, equity and inclusion, talent acquisition, retention and development, employee engagement, pay equity and corporate culture">
+  <data key="d0">Management</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="the Board">
+  <data key="d0">Board</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Daniel Schulman">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Verizon's executive compensation program and policies">
+  <data key="d0">Program</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Laxman Narasimhan">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Mark Bertolini">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="corporate goals relevant to the CEO’s compensation">
+  <data key="d0">Goals</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="the CEO’s performance">
+  <data key="d0">Performance</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="compensation and benefits for selected senior managers">
+  <data key="d0">Benefits</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Verizon’s clawback policies">
+  <data key="d0">Policies</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Verizon’s executive compensation policies and practices, and the performance metrics underlying the compensation program, on Verizon’s risk profile">
+  <data key="d0">Profile</data>
+  <data key="d1">{}</data>
+  <data key="d2">[3]</data>
+</node>
+<node id="Verizon’s terms and charges">
+  <data key="d0">Terms</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="10-digit dialing">
+  <data key="d0">Characteristic</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="unlimited domestic nationwide calling">
+  <data key="d0">Feature</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="International Calling Plan">
+  <data key="d0">Plan</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="500, 700, 900, 950, 976, 0, 00, 01, 0+ or dial-around calls (e.g., 10-10-XXXX)">
+  <data key="d0">Calls</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="you">
+  <data key="d0">Customer</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4, 12, 17]</data>
+</node>
+<node id="accept collect calls or third-number billed calls">
+  <data key="d0">Calls</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="until the Service Cancellation Date">
+  <data key="d0">Date</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="Verizon operating companies">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="Verizon Voice Link Service">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="fax machines, DVR services, credit card machines, home security systems, medical alert, or other monitoring services or some High Speed or DSL Internet services">
+  <data key="d0">Services</data>
+  <data key="d1">{}</data>
+  <data key="d2">[4]</data>
+</node>
+<node id="battery backup">
+  <data key="d0">Component</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="directory assistance">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="Verizon Customer Service">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="commercial power">
+  <data key="d0">Resource</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="My Verizon">
+  <data key="d0">Platform</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="Service">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5, 6, 8, 10]</data>
+</node>
+<node id="customer support">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="Device">
+  <data key="d0">Equipment</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="directory listings">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[5]</data>
+</node>
+<node id="Customer">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[6]</data>
+</node>
+<node id="Collection">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[6]</data>
+</node>
+<node id="Agreement">
+  <data key="d0">Document</data>
+  <data key="d1">{}</data>
+  <data key="d2">[6]</data>
+</node>
+<node id="Payment">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[6]</data>
+</node>
+<node id="Disputes">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[6]</data>
+</node>
+<node id="Amounts Due">
+  <data key="d0">Financial Obligation</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="90 days">
+  <data key="d0">Timeframe</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Termination Fee">
+  <data key="d0">Financial Obligation</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Customer Deposit">
+  <data key="d0">Deposit</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Either Party">
+  <data key="d0">Entity</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Consumer Credit Reporting Agencies">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Notice">
+  <data key="d0">Communication</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Credit Check">
+  <data key="d0">Process</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Affiliates">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="Termination">
+  <data key="d0">Process</data>
+  <data key="d1">{}</data>
+  <data key="d2">[7]</data>
+</node>
+<node id="public Internet">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="managed data network">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="third-party networks">
+  <data key="d0">Network</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="Privacy Policy">
+  <data key="d0">Policy</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="voice and other communications">
+  <data key="d0">Communications</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="personal information">
+  <data key="d0">Information</data>
+  <data key="d1">{}</data>
+  <data key="d2">[8]</data>
+</node>
+<node id="Customer Proprietary Network Information">
+  <data key="d0">Information</data>
+  <data key="d1">{}</data>
+  <data key="d2">[9]</data>
+</node>
+<node id="other Verizon companies">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[9]</data>
+</node>
+<node id="CPNI">
+  <data key="d0">Information</data>
+  <data key="d1">{}</data>
+  <data key="d2">[9]</data>
+</node>
+<node id="Services">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[9]</data>
+</node>
+<node id="User">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[10]</data>
+</node>
+<node id="Software">
+  <data key="d0">Product</data>
+  <data key="d1">{}</data>
+  <data key="d2">[10]</data>
+</node>
+<node id="EULA">
+  <data key="d0">Document</data>
+  <data key="d1">{}</data>
+  <data key="d2">[10]</data>
+</node>
+<node id="CONSUMER LAWS">
+  <data key="d0">Law</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="YOU PERTAINING TO YOUR USE OR MISUSE OF THE SERVICE OR FOR YOUR BREACH OF THE AGREEMENT">
+  <data key="d0">Claim</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES">
+  <data key="d0">Damage</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="VERIZON">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="ANY CLAIMS AGAINST YOU BY ANY OTHER PARTY">
+  <data key="d0">Claim</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="SERVICE CHARGES WITH RESPECT TO THE AFFECTED TIME PERIOD">
+  <data key="d0">Charge</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="YOU">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11, 13]</data>
+</node>
+<node id="ANY DELAY OR FAILURE TO PROVIDE THE SERVICE">
+  <data key="d0">Service</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="ANY INTERRUPTION OR DEGRADATION OF VOICE QUALITY CAUSED BY ANY OF THE FOLLOWING">
+  <data key="d0">Cause</data>
+  <data key="d1">{}</data>
+  <data key="d2">[11]</data>
+</node>
+<node id="parents, affiliates, subsidiaries, agents and predecessors and successors in interest">
+  <data key="d0">Entity</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="or such claim or cause of action is barred">
+  <data key="d0">Timeframe</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="acts of a governmental body">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="Federal Arbitration Act and the substantive laws of the state of your billing address">
+  <data key="d0">Law</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="acts of third parties">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="fires">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="are void">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="you and Verizon">
+  <data key="d0">Entity</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="as directed">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="all or any part of this Agreement without notice">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="with respect to the subject matter hereto and supersedes any and all prior or contemporaneous agreements whether written or oral">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="other things we do not control">
+  <data key="d0">Reason</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="strikes or other labor-related disputes">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="floods">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="an inability to obtain necessary equipment or services">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="to reflect any change in any governing law, underlying network service or component affecting the Service">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="government body of competent jurisdiction">
+  <data key="d0">Entity</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="located in the county of your billing address">
+  <data key="d0">Location</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="delays, damages or failures in performance due to causes beyond its reasonable control">
+  <data key="d0">Reason</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="acts of God">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="for any suits or causes of action connected in any way to the subject matter of this Agreement">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="shall not be construed to be a waiver of such terms in the future">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="any other term or condition of this Agreement">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[12]</data>
+</node>
+<node id="One Verizon Way, VC54N090, Basking Ridge, NJ 07920">
+  <data key="d0">Address</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13, 14]</data>
+</node>
+<node id="Federal Arbitration Act">
+  <data key="d0">Act</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="parties' rights">
+  <data key="d0">Rights</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="www.verizon.com/terms/disputes">
+  <data key="d0">Website</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="free internal mediation program">
+  <data key="d0">Program</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="Notice of Dispute Form">
+  <data key="d0">Form</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="voluntary and free">
+  <data key="d0">Characteristic</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="employee">
+  <data key="d0">Employee</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="arbitration or small claims court">
+  <data key="d0">Dispute Resolution Method</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="protections associated with mediation">
+  <data key="d0">Protections</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="right to bring a claim in court or in front of jury">
+  <data key="d0">Right</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="mediation program">
+  <data key="d0">Program</data>
+  <data key="d1">{}</data>
+  <data key="d2">[13]</data>
+</node>
+<node id="Arbitrator">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="$5000">
+  <data key="d0">Amount</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="Attorneys' fees and expenses">
+  <data key="d0">Expense</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="AAA">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="NoticeOfDispute@verizon.com">
+  <data key="d0">Email</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="Verizon Dispute Resolution Manager">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[14]</data>
+</node>
+<node id="By the numbers: 5G and robotics">
+  <data key="d0">Report</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15]</data>
+</node>
+<node id="digitized operations">
+  <data key="d0">Concept</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15]</data>
+</node>
+<node id="Industrial Internet of Things (IIoT)">
+  <data key="d0">Concept</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15]</data>
+</node>
+<node id="Thierry Sender">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15, 16]</data>
+</node>
+<node id="humans">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15]</data>
+</node>
+<node id="robots">
+  <data key="d0">Robot</data>
+  <data key="d1">{}</data>
+  <data key="d2">[15]</data>
+</node>
+<node id="all aspects of industry">
+  <data key="d0">Industry</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="There’s no area more prepared for positive 5G disruption than the manufacturing industry.">
+  <data key="d0">Statement</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="production floor">
+  <data key="d0">Location</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Worker">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="AGVs">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="no-code machine reprogramming">
+  <data key="d0">Concept</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="what they’re hauling">
+  <data key="d0">Information</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Autonomous vehicle technology">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Robot">
+  <data key="d0">Equipment</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="We talk about 5G as the Fourth Industrial Revolution.">
+  <data key="d0">Statement</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Robot patrol">
+  <data key="d0">Concept</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="5G network technology">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Forklift">
+  <data key="d0">Equipment</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="autonomous vehicle technology">
+  <data key="d0">Technology</data>
+  <data key="d1">{}</data>
+  <data key="d2">[16]</data>
+</node>
+<node id="Verizon Ethics">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[17, 18]</data>
+</node>
+<node id="third-party website">
+  <data key="d0">Website</data>
+  <data key="d1">{}</data>
+  <data key="d2">[17]</data>
+</node>
+<node id="information you provide">
+  <data key="d0">Information</data>
+  <data key="d1">{}</data>
+  <data key="d2">[17]</data>
+</node>
+<node id="Matt Ellis">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[18]</data>
+</node>
+<node id="You">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[18]</data>
+</node>
+<node id="3rd Quarter Earnings results">
+  <data key="d0">Earnings</data>
+  <data key="d1">{}</data>
+  <data key="d2">[18]</data>
+</node>
+<node id="Frontier Communications">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[19]</data>
+</node>
+<node id="SEC">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[19]</data>
+</node>
+<node id="investor.frontier.com">
+  <data key="d0">URL</data>
+  <data key="d1">{}</data>
+  <data key="d2">[19]</data>
+</node>
+<node id="verizon.com/about/investors">
+  <data key="d0">URL</data>
+  <data key="d1">{}</data>
+  <data key="d2">[19]</data>
+</node>
+<node id="Licensed Psychologist">
+  <data key="d0">Profession</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="Finsta">
+  <data key="d0">Concept</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="Laura Tierney">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="It causes kids to stop and be more selective about who they’re sharing things with">
+  <data key="d0">Description</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="None">
+  <data key="d0">None</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="2010">
+  <data key="d0">Year</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="A secondary Instagram profile that can't be tied to their real name">
+  <data key="d0">Description</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="Dr. Nicole Beurkens">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="The Social Institute">
+  <data key="d0">Organization</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="Instagram">
+  <data key="d0">Platform</data>
+  <data key="d1">{}</data>
+  <data key="d2">[20]</data>
+</node>
+<node id="Ask, “Did anything fun happen on social media?”">
+  <data key="d0">Question</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="Take in their responses and their feelings about what’s going on in their lives.">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="And if you can do that, then I am confident a student becomes more open to having conversations about technology and social media,">
+  <data key="d0">Statement</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="All those conversations are building empathy, and they build trust with your parents,">
+  <data key="d0">Statement</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="Tierney">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="Ask questions and simply listen.">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="Ask your teenage daughter about her day.">
+  <data key="d0">Action</data>
+  <data key="d1">{}</data>
+  <data key="d2">[21]</data>
+</node>
+<node id="Securities and Exchange Commission (SEC)">
+  <data key="d0">Regulatory Body</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Yahoo!">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Goldman Sachs">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Verizon Communications Inc.">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Fran Shammo">
+  <data key="d0">Person</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Yahoo's operating business">
+  <data key="d0">Business</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="Goldman Sachs 25th Annual Communacopia Conference">
+  <data key="d0">Event</data>
+  <data key="d1">{}</data>
+  <data key="d2">[22]</data>
+</node>
+<node id="proxies from Yahoo's investors and stockholders">
+  <data key="d0">Proxy Solicitation</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="Yahoo">
+  <data key="d0">Company</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="annual report on Form 10-K for the year ended December 31, 2015">
+  <data key="d0">Report</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="SEC filings on Forms 3, 4 and 5">
+  <data key="d0">Document</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="proxy statement for its 2016 annual meeting of stockholders filed with the SEC on March 21, 2016">
+  <data key="d0">Document</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="directors and executive officers">
+  <data key="d0">Group</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="proxy statement for its 2016 annual meeting of stockholders filed with the SEC on May 23, 2016">
+  <data key="d0">Document</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<node id="executive officers">
+  <data key="d0">Group</data>
+  <data key="d1">{}</data>
+  <data key="d2">[23]</data>
+</node>
+<edge source="5G Ultra Wideband" target="more than 200 million people in the U.S." id="0">
+  <data key="d3">AVAILABLE_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G Ultra Wideband" target="life-changing technologies for consumers and businesses" id="0">
+  <data key="d3">CAN_DELIVER</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="America" target="Verizon’s 5G network" id="0">
+  <data key="d3">HAS_MOST_RELIABLE_5G_NETWORK</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon’s 5G network" target="faster downloads, HD video chatting, multiplayer gaming on the go with low lag" id="0">
+  <data key="d3">CAN_PROVIDE</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="J.D. Power" target="Verizon" id="0">
+  <data key="d3">AWARDED_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G network" target="Verizon" id="0">
+  <data key="d3">MAINTAINED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G network" target="Verizon’s 5G network" id="0">
+  <data key="d3">IS_RELIABLE</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G network" target="Verizon’s 5G network" id="1">
+  <data key="d3">IS_SECURE</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G network" target="Verizon’s 5G network" id="2">
+  <data key="d3">IS_HIGH_PERFORMING</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Port of Southampton" target="Associated British Ports" id="0">
+  <data key="d3">SERVED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G use cases" target="virtualized networks" id="0">
+  <data key="d3">RELY_ON</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Associated British Ports" target="Verizon Private 5G Network" id="0">
+  <data key="d3">UTILIZES</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G" target="fully networked economy" id="0">
+  <data key="d3">IMPACTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G" target="Verizon" id="0">
+  <data key="d3">DEVELOPED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G" target="Verizon" id="1">
+  <data key="d3">DEPLOYED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="5G" target="5G-capable device" id="0">
+  <data key="d3">REQUIRES_DEVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="5G" target="network and coverage conditions" id="0">
+  <data key="d3">DEPENDS_ON_NETWORK_CONDITIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="5G" target="digitized operations" id="0">
+  <data key="d3">ENABLER_OF_DIGITIZED_OPERATIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="5G" target="all aspects of industry" id="0">
+  <data key="d3">DELIVERS_ENHANCEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Verizon" target="America" id="0">
+  <data key="d3">WORKS_IN</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="Wireless Network Quality" id="0">
+  <data key="d3">HAS_AWARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="spectrum position" id="0">
+  <data key="d3">HAS_SPECTRUM_POSITION</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="fiber ownership" id="0">
+  <data key="d3">HAS_FIBER_OWNERSHIP</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="advanced technology" id="0">
+  <data key="d3">HAS_ADVANCED_TECHNOLOGY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="network transformation" id="0">
+  <data key="d3">UNDERGOES_NETWORK_TRANSFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="advanced electronics" id="0">
+  <data key="d3">HAS_ADVANCED_ELECTRONICS</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="spectrum holdings" id="0">
+  <data key="d3">HAS_SPECTRUM_HOLDINGS</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Verizon" target="5G products &amp; plans" id="0">
+  <data key="d3">OFFERS_PRODUCTS_AND_PLANS</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="Verizon" target="J.D. Power 2023 award" id="0">
+  <data key="d3">HAS_AWARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="Verizon" target="RootMetrics" id="0">
+  <data key="d3">RANKED_FIRST</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="Verizon" target="Most reliable 5G network" id="0">
+  <data key="d3">HAS_CHARACTERISTIC</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="Verizon" target="HD availability" id="0">
+  <data key="d3">HAS_CHARACTERISTIC</data>
+  <data key="d4">{}</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="Verizon" target="Sellside Analyst Meeting" id="0">
+  <data key="d3">HOSTED_MEETING</data>
+  <data key="d4">{}</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="Verizon" target="Service" id="0">
+  <data key="d3">PROVIDES_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Verizon" target="Service" id="1">
+  <data key="d3">CHARGES_PRICES</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Verizon" target="Service" id="2">
+  <data key="d3">PROVIDES_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="commercial power" id="0">
+  <data key="d3">REQUIRES_POWER</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Verizon" target="directory listings" id="0">
+  <data key="d3">MAINTAINS_DIRECTORY</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Verizon" target="directory assistance" id="0">
+  <data key="d3">PROVIDES_DIRECTORY_ASSISTANCE</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Verizon" target="Agreement" id="0">
+  <data key="d3">REVISES_TERMS_AND_CONDITIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Verizon" target="Customer" id="0">
+  <data key="d3">NOTIFIES_CUSTOMER</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Verizon" target="Customer" id="1">
+  <data key="d3">TERMINATES_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Verizon" target="Customer" id="2">
+  <data key="d3">CHARGES_LATE_FEES</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Verizon" target="Credit Check" id="0">
+  <data key="d3">PROVIDES_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Verizon" target="Consumer Credit Reporting Agencies" id="0">
+  <data key="d3">REQUIRES_CONSENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Verizon" target="Affiliates" id="0">
+  <data key="d3">SHARES_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Verizon" target="Amounts Due" id="0">
+  <data key="d3">USES_DEPOSIT</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Verizon" target="managed data network" id="0">
+  <data key="d3">USES_NETWORK</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="public Internet" id="0">
+  <data key="d3">USES_NETWORK</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="third-party networks" id="0">
+  <data key="d3">USES_NETWORK</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="personal information" id="0">
+  <data key="d3">TREATS_PERSONAL_INFO</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="Privacy Policy" id="0">
+  <data key="d3">MAINTAINS_PRIVACY_POLICY</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Verizon" target="Customer Proprietary Network Information" id="0">
+  <data key="d3">COLLECTS_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">9</data>
+</edge>
+<edge source="Verizon" target="Customer Proprietary Network Information" id="1">
+  <data key="d3">USES_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">9</data>
+</edge>
+<edge source="Verizon" target="other Verizon companies" id="0">
+  <data key="d3">SHARES_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">9</data>
+</edge>
+<edge source="Verizon" target="Software" id="0">
+  <data key="d3">LICENSOR_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="Verizon" target="Software" id="1">
+  <data key="d3">SUPPLIER_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="Verizon" target="User" id="0">
+  <data key="d3">TERMINATES_LICENSE</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="Verizon" target="delays, damages or failures in performance due to causes beyond its reasonable control" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="acts of a governmental body" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="acts of God" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="acts of third parties" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="fires" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="floods" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="strikes or other labor-related disputes" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="other things we do not control" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="an inability to obtain necessary equipment or services" id="0">
+  <data key="d3">NOT LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="all or any part of this Agreement without notice" id="0">
+  <data key="d3">MAY ASSIGN AGREEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="parents, affiliates, subsidiaries, agents and predecessors and successors in interest" id="0">
+  <data key="d3">NOT FOR BENEFIT OF THIRD PARTY</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="Federal Arbitration Act and the substantive laws of the state of your billing address" id="0">
+  <data key="d3">AGREE TO GOVERN AND CONSTRUE ALL RIGHTS AND DUTIES</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="to reflect any change in any governing law, underlying network service or component affecting the Service" id="0">
+  <data key="d3">RESERVE RIGHT TO MODIFY SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="shall not be construed to be a waiver of such terms in the future" id="0">
+  <data key="d3">FAILURE AT ANY TIME TO INSIST UPON STRICT COMPLIANCE WITH PROVISIONS OF AGREEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="with respect to the subject matter hereto and supersedes any and all prior or contemporaneous agreements whether written or oral" id="0">
+  <data key="d3">CONSTITUTE ENTIRE AGREEMENT BETWEEN YOU AND VERIZON</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Verizon" target="free internal mediation program" id="0">
+  <data key="d3">OFFERS_PROGRAM</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Verizon" target="employee" id="0">
+  <data key="d3">HAS_EMPLOYEE</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Verizon" target="One Verizon Way, VC54N090, Basking Ridge, NJ 07920" id="0">
+  <data key="d3">HAS_ADDRESS</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Verizon" target="One Verizon Way, VC54N090, Basking Ridge, NJ 07920" id="1">
+  <data key="d3">ADDRESS_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon" target="arbitration or small claims court" id="0">
+  <data key="d3">AGREES_TO_RESOLVE_DISPUTES</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Verizon" target="Federal Arbitration Act" id="0">
+  <data key="d3">AGREES_TO_APPLY_FEDERAL_ARBITRATION_ACT</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Verizon" target="NoticeOfDispute@verizon.com" id="0">
+  <data key="d3">NOTICE_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon" target="AAA" id="0">
+  <data key="d3">REIMBURSEMENT_OF_FILING_FEES</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon" target="Arbitrator" id="0">
+  <data key="d3">SETTLEMENT_OFFER_MAKER</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon" target="$5000" id="0">
+  <data key="d3">PAYMENT_OF_AWARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon" target="5G Ultra Wideband" id="0">
+  <data key="d3">PROVIDES_NETWORK</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="Verizon" target="By the numbers: 5G and robotics" id="0">
+  <data key="d3">PUBLISHER_OF_REPORT</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="Verizon" target="Frontier Communications" id="0">
+  <data key="d3">ACQUIRES</data>
+  <data key="d4">{}</data>
+  <data key="d5">19</data>
+</edge>
+<edge source="Verizon" target="SEC" id="0">
+  <data key="d3">FILES_PROXY_STATEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">19</data>
+</edge>
+<edge source="Verizon" target="verizon.com/about/investors" id="0">
+  <data key="d3">MAINTAINS_INVESTOR_RELATIONS_WEBSITE</data>
+  <data key="d4">{}</data>
+  <data key="d5">19</data>
+</edge>
+<edge source="Verizon" target="proxies from Yahoo's investors and stockholders" id="0">
+  <data key="d3">PARTICIPANT_IN_SOLICITATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Verizon" target="directors and executive officers" id="0">
+  <data key="d3">HAS_DIRECTORS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Verizon" target="executive officers" id="0">
+  <data key="d3">HAS_EXECUTIVE_OFFICERS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Verizon" target="SEC filings on Forms 3, 4 and 5" id="0">
+  <data key="d3">SUBMITS_SEC_FILLINGS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Verizon" target="annual report on Form 10-K for the year ended December 31, 2015" id="0">
+  <data key="d3">HAS_ANNUAL_REPORT</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Verizon" target="proxy statement for its 2016 annual meeting of stockholders filed with the SEC on March 21, 2016" id="0">
+  <data key="d3">SUBMITS_PROXY_STATEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Fiber network" target="capacity" id="0">
+  <data key="d3">HAS_CAPACITY</data>
+  <data key="d4">{}</data>
+  <data key="d5">0</data>
+</edge>
+<edge source="Ronan Dunne" target="Verizon" id="0">
+  <data key="d3">EXECUTIVE_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="Kyle Malady" target="Verizon" id="0">
+  <data key="d3">EXECUTIVE_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="Hans Vestberg" target="Verizon" id="0">
+  <data key="d3">CEO_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="Hans Vestberg" target="Verizon" id="1">
+  <data key="d3">WORKS_FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Hans Vestberg" target="We talk about 5G as the Fourth Industrial Revolution." id="0">
+  <data key="d3">STATEMENT_MADE</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Clarence Otis, Jr." target="Verizon" id="0">
+  <data key="d3">MEMBER_OF_BOARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="Verizon" id="0">
+  <data key="d3">CHAIR_OF</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="Verizon's executive compensation program and policies" id="0">
+  <data key="d3">OVERSEES_COMPENSATION_PROGRAM</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="corporate goals relevant to the CEO’s compensation" id="0">
+  <data key="d3">APPROVES_CORPORATE_GOALS</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="the CEO’s performance" id="0">
+  <data key="d3">EVALUATES_PERFORMANCE</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="the Board" id="0">
+  <data key="d3">RECOMMENDS_COMPENSATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="compensation and benefits for selected senior managers" id="0">
+  <data key="d3">APPROVES_COMPENSATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="the CEO on talent development" id="0">
+  <data key="d3">CONSULTS_WITH_CEO</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="succession planning and assignments to key leadership positions" id="0">
+  <data key="d3">OVERSEES_SUCCESSION_PLANNING</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="human capital management, including with respect to employee diversity, equity and inclusion, talent acquisition, retention and development, employee engagement, pay equity and corporate culture" id="0">
+  <data key="d3">MANAGES_HUMAN CAPITAL</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="Verizon’s clawback policies" id="0">
+  <data key="d3">REVIEW_CLAWBACK_POLICIES</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Daniel Schulman" target="Verizon’s executive compensation policies and practices, and the performance metrics underlying the compensation program, on Verizon’s risk profile" id="0">
+  <data key="d3">ASSESSES_RISK_PROFILE</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Laxman Narasimhan" target="Verizon" id="0">
+  <data key="d3">MEMBER_OF_BOARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="Mark Bertolini" target="Verizon" id="0">
+  <data key="d3">MEMBER_OF_BOARD</data>
+  <data key="d4">{}</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="you" target="Verizon’s terms and charges" id="0">
+  <data key="d3">AGREE_TO_TERMS_AND_CONDITIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="you" target="until the Service Cancellation Date" id="0">
+  <data key="d3">RESPONSIBLE_FOR_CHARGES_ASSOCIATED_WITH_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="you" target="as directed" id="0">
+  <data key="d3">AGREE TO MAKE PAYMENTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="you" target="are void" id="0">
+  <data key="d3">MAKE CHANGES TO AGREEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="you" target="third-party website" id="0">
+  <data key="d3">SUBMITS_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">17</data>
+</edge>
+<edge source="Verizon operating companies" target="Verizon Voice Link Service" id="0">
+  <data key="d3">PROVIDE_SERVICE</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="unlimited domestic nationwide calling" id="0">
+  <data key="d3">PROVIDES</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="fax machines, DVR services, credit card machines, home security systems, medical alert, or other monitoring services or some High Speed or DSL Internet services" id="0">
+  <data key="d3">NOT_COMPATIBLE_WITH</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="10-digit dialing" id="0">
+  <data key="d3">REQUIRES</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="500, 700, 900, 950, 976, 0, 00, 01, 0+ or dial-around calls (e.g., 10-10-XXXX)" id="0">
+  <data key="d3">DOES_NOT_ALLOW</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="accept collect calls or third-number billed calls" id="0">
+  <data key="d3">DOES_NOT_ALLOW</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Voice Link Service" target="International Calling Plan" id="0">
+  <data key="d3">REQUIRES</data>
+  <data key="d4">{}</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="Verizon Customer Service" target="customer support" id="0">
+  <data key="d3">PROVIDES_CUSTOMER_SUPPORT</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="My Verizon" target="directory listings" id="0">
+  <data key="d3">HOSTS_DIRECTORY_LISTINGS</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Service" target="commercial power" id="0">
+  <data key="d3">DEPENDS_ON_POWER</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Service" target="voice and other communications" id="0">
+  <data key="d3">TRANSMITS_COMMUNICATIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">8</data>
+</edge>
+<edge source="Service" target="Software" id="0">
+  <data key="d3">USES_SOFTWARE</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="Device" target="commercial power" id="0">
+  <data key="d3">NEEDS_POWER</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Device" target="battery backup" id="0">
+  <data key="d3">HAS_BATTERY_BACKUP</data>
+  <data key="d4">{}</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="Agreement" target="Disputes" id="0">
+  <data key="d3">GOVERNS_DISPUTE_RESOLUTION</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Agreement" target="Payment" id="0">
+  <data key="d3">GOVERNS_PAYMENT_TERMS</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Agreement" target="Collection" id="0">
+  <data key="d3">GOVERNS_COLLECTION_PRACTICES</data>
+  <data key="d4">{}</data>
+  <data key="d5">6</data>
+</edge>
+<edge source="Termination Fee" target="Verizon" id="0">
+  <data key="d3">IMPOSED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Customer Deposit" target="Verizon" id="0">
+  <data key="d3">REQUIRED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Customer Deposit" target="90 days" id="0">
+  <data key="d3">RETURNED_WITHIN</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Notice" target="Either Party" id="0">
+  <data key="d3">REQUIRED_FOR_TERMINATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="Termination" target="Either Party" id="0">
+  <data key="d3">CAUSED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">7</data>
+</edge>
+<edge source="CPNI" target="Verizon" id="0">
+  <data key="d3">IS_COLLECTED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">9</data>
+</edge>
+<edge source="Services" target="Verizon" id="0">
+  <data key="d3">IS_OFFERED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">9</data>
+</edge>
+<edge source="Software" target="Verizon" id="0">
+  <data key="d3">OWNED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="Software" target="Verizon" id="1">
+  <data key="d3">PROVIDED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="EULA" target="Software" id="0">
+  <data key="d3">APPLICABLE_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">10</data>
+</edge>
+<edge source="VERIZON" target="ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES" id="0">
+  <data key="d3">IS LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="VERIZON" target="ANY CLAIMS AGAINST YOU BY ANY OTHER PARTY" id="0">
+  <data key="d3">IS LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="VERIZON" target="ANY DELAY OR FAILURE TO PROVIDE THE SERVICE" id="0">
+  <data key="d3">SHALL NOT BE LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="VERIZON" target="ANY INTERRUPTION OR DEGRADATION OF VOICE QUALITY CAUSED BY ANY OF THE FOLLOWING" id="0">
+  <data key="d3">SHALL NOT BE LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="VERIZON" target="SERVICE CHARGES WITH RESPECT TO THE AFFECTED TIME PERIOD" id="0">
+  <data key="d3">IS LIABLE FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="VERIZON" target="YOU PERTAINING TO YOUR USE OR MISUSE OF THE SERVICE OR FOR YOUR BREACH OF THE AGREEMENT" id="0">
+  <data key="d3">RESERVES THE RIGHT TO PURSUE ANY AND ALL LEGAL AND EQUITABLE CLAIMS AGAINST YOU</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="YOU" target="CONSUMER LAWS" id="0">
+  <data key="d3">MAY HAVE ADDITIONAL RIGHTS UNDER CERTAIN LAWS</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="YOU" target="VERIZON" id="0">
+  <data key="d3">AGREE TO DEFEND, INDEMNIFY AND HOLD HARMLESS VERIZON FROM AND AGAINST ALL CLAIMS</data>
+  <data key="d4">{}</data>
+  <data key="d5">11</data>
+</edge>
+<edge source="YOU" target="arbitration or small claims court" id="0">
+  <data key="d3">AGREES_TO_RESOLVE_DISPUTES</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="YOU" target="right to bring a claim in court or in front of jury" id="0">
+  <data key="d3">GIVES_UP_RIGHT_TO_BRING_CLAIM_IN_COURT</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="you and Verizon" target="located in the county of your billing address" id="0">
+  <data key="d3">CONSENT TO EXCLUSIVE PERSONAL JURISDICTION OF AND VENUE IN ARBITRATION OR SMALL CLAIMS COURT</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="you and Verizon" target="for any suits or causes of action connected in any way to the subject matter of this Agreement" id="0">
+  <data key="d3">CONSENT TO EXCLUSIVE PERSONAL JURISDICTION OF AND VENUE IN ARBITRATION OR SMALL CLAIMS COURT</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="you and Verizon" target="or such claim or cause of action is barred" id="0">
+  <data key="d3">AGREE TO COMMENCE CAUSE OF ACTION WITHIN ONE YEAR AFTER CLAIM OR CAUSE OF ACTION ARISES</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="government body of competent jurisdiction" target="any other term or condition of this Agreement" id="0">
+  <data key="d3">HOLDING SHALL NOT AFFECT OTHER TERMS OR CONDITIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">12</data>
+</edge>
+<edge source="Notice of Dispute Form" target="www.verizon.com/terms/disputes" id="0">
+  <data key="d3">CAN_BE_FOUND_AT</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="employee" target="mediation program" id="0">
+  <data key="d3">ASSIGNED_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="mediation program" target="voluntary and free" id="0">
+  <data key="d3">HAS_CHARACTERISTIC</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="mediation program" target="parties' rights" id="0">
+  <data key="d3">PROTECTS_PARTIES_RIGHTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="mediation program" target="protections associated with mediation" id="0">
+  <data key="d3">HAS_PROTECTIONS</data>
+  <data key="d4">{}</data>
+  <data key="d5">13</data>
+</edge>
+<edge source="Arbitrator" target="Verizon" id="0">
+  <data key="d3">AWARD_ISSUER</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Arbitrator" target="$5000" id="0">
+  <data key="d3">AWARD_ISSUER</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Arbitrator" target="Attorneys' fees and expenses" id="0">
+  <data key="d3">AWARD_ISSUER</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="AAA" target="Verizon" id="0">
+  <data key="d3">ARBITRATION_FEE_PAYER</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Verizon Dispute Resolution Manager" target="NoticeOfDispute@verizon.com" id="0">
+  <data key="d3">CONTACT_PERSON</data>
+  <data key="d4">{}</data>
+  <data key="d5">14</data>
+</edge>
+<edge source="Industrial Internet of Things (IIoT)" target="robots" id="0">
+  <data key="d3">INTEGRATES_ROBOTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="Thierry Sender" target="Verizon" id="0">
+  <data key="d3">WORKS_FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="Thierry Sender" target="Verizon" id="1">
+  <data key="d3">WORKS_FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Thierry Sender" target="There’s no area more prepared for positive 5G disruption than the manufacturing industry." id="0">
+  <data key="d3">STATEMENT_MADE</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="robots" target="humans" id="0">
+  <data key="d3">WORKS_WITH_HUMANS</data>
+  <data key="d4">{}</data>
+  <data key="d5">15</data>
+</edge>
+<edge source="Worker" target="Forklift" id="0">
+  <data key="d3">OPERATES</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="AGVs" target="production floor" id="0">
+  <data key="d3">USED_IN</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="AGVs" target="what they’re hauling" id="0">
+  <data key="d3">CAN_KNOW</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Autonomous vehicle technology" target="5G" id="0">
+  <data key="d3">ENABLED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Robot" target="5G network technology" id="0">
+  <data key="d3">CAN_BE_REPROGRAMMED</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Robot patrol" target="5G" id="0">
+  <data key="d3">IMPLEMENTED_BY</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="5G network technology" target="no-code machine reprogramming" id="0">
+  <data key="d3">ENABLES</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Forklift" target="autonomous vehicle technology" id="0">
+  <data key="d3">EQUIPPED_WITH</data>
+  <data key="d4">{}</data>
+  <data key="d5">16</data>
+</edge>
+<edge source="Verizon Ethics" target="third-party website" id="0">
+  <data key="d3">SUBMITTED_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">17</data>
+</edge>
+<edge source="Verizon Ethics" target="information you provide" id="0">
+  <data key="d3">USES_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">17</data>
+</edge>
+<edge source="Verizon Ethics" target="You" id="0">
+  <data key="d3">RECEIVES_INFORMATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">18</data>
+</edge>
+<edge source="Matt Ellis" target="Verizon" id="0">
+  <data key="d3">WORKS_FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">18</data>
+</edge>
+<edge source="Matt Ellis" target="3rd Quarter Earnings results" id="0">
+  <data key="d3">DISCUSSED_RESULTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">18</data>
+</edge>
+<edge source="Frontier Communications" target="SEC" id="0">
+  <data key="d3">FILES_PROXY_STATEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">19</data>
+</edge>
+<edge source="Frontier Communications" target="investor.frontier.com" id="0">
+  <data key="d3">MAINTAINS_INVESTOR_RELATIONS_WEBSITE</data>
+  <data key="d4">{}</data>
+  <data key="d5">19</data>
+</edge>
+<edge source="Finsta" target="A secondary Instagram profile that can't be tied to their real name" id="0">
+  <data key="d3">DEFINED_AS</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Finsta" target="Instagram" id="0">
+  <data key="d3">ORIGINATED_IN</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Finsta" target="None" id="0">
+  <data key="d3">CAUSES_KIDS_TO_BE_MORE_SELECTIVE</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Laura Tierney" target="The Social Institute" id="0">
+  <data key="d3">EXPERT_ON</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="2010" target="None" id="0">
+  <data key="d3">YEAR_INSTAGRAM_LAUNCHED</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Dr. Nicole Beurkens" target="Licensed Psychologist" id="0">
+  <data key="d3">EXPERT_ON</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Dr. Nicole Beurkens" target="It causes kids to stop and be more selective about who they’re sharing things with" id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Instagram" target="Finsta" id="0">
+  <data key="d3">RELATED_TO</data>
+  <data key="d4">{}</data>
+  <data key="d5">20</data>
+</edge>
+<edge source="Tierney" target="Ask questions and simply listen." id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Tierney" target="Take in their responses and their feelings about what’s going on in their lives." id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Tierney" target="All those conversations are building empathy, and they build trust with your parents," id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Tierney" target="Ask your teenage daughter about her day." id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Tierney" target="Ask, “Did anything fun happen on social media?”" id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Tierney" target="And if you can do that, then I am confident a student becomes more open to having conversations about technology and social media," id="0">
+  <data key="d3">SAYS</data>
+  <data key="d4">{}</data>
+  <data key="d5">21</data>
+</edge>
+<edge source="Yahoo!" target="Securities and Exchange Commission (SEC)" id="0">
+  <data key="d3">FILED_PROXY_STATEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">22</data>
+</edge>
+<edge source="Verizon Communications Inc." target="Yahoo's operating business" id="0">
+  <data key="d3">PURCHASING_COMPANY</data>
+  <data key="d4">{}</data>
+  <data key="d5">22</data>
+</edge>
+<edge source="Fran Shammo" target="Goldman Sachs 25th Annual Communacopia Conference" id="0">
+  <data key="d3">PRESENTED_AT</data>
+  <data key="d4">{}</data>
+  <data key="d5">22</data>
+</edge>
+<edge source="Fran Shammo" target="Goldman Sachs" id="0">
+  <data key="d3">WORKS_FOR</data>
+  <data key="d4">{}</data>
+  <data key="d5">22</data>
+</edge>
+<edge source="Fran Shammo" target="Goldman Sachs" id="1">
+  <data key="d3">MADE_FORWARD_LOOKING_STATEMENTS</data>
+  <data key="d4">{}</data>
+  <data key="d5">22</data>
+</edge>
+<edge source="Yahoo" target="proxies from Yahoo's investors and stockholders" id="0">
+  <data key="d3">PARTICIPANT_IN_SOLICITATION</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Yahoo" target="directors and executive officers" id="0">
+  <data key="d3">HAS_DIRECTORS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Yahoo" target="executive officers" id="0">
+  <data key="d3">HAS_EXECUTIVE_OFFICERS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Yahoo" target="SEC filings on Forms 3, 4 and 5" id="0">
+  <data key="d3">SUBMITS_SEC_FILLINGS</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Yahoo" target="annual report on Form 10-K for the year ended December 31, 2015" id="0">
+  <data key="d3">HAS_ANNUAL_REPORT</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+<edge source="Yahoo" target="proxy statement for its 2016 annual meeting of stockholders filed with the SEC on May 23, 2016" id="0">
+  <data key="d3">SUBMITS_PROXY_STATEMENT</data>
+  <data key="d4">{}</data>
+  <data key="d5">23</data>
+</edge>
+</graph></graphml>

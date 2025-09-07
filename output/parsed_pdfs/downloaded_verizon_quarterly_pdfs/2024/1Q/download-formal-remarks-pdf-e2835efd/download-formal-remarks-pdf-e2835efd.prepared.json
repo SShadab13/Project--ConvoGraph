@@ -1,0 +1,1525 @@
+{
+  "doc_id": "download-formal-remarks-pdf-e2835efd",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\1Q\\Download Formal Remarks PDF_e2835efd.pdf",
+  "reconstructed_tables": [],
+  "text_chunks": [
+    {
+      "text": "First Quarter Financial& Operating Results",
+      "page_number": 1,
+      "original": "First Quarter Financial& Operating Results",
+      "label": "section_header"
+    },
+    {
+      "text": "April 22, 2024",
+      "page_number": 1,
+      "original": "April 22, 2024",
+      "label": "text"
+    },
+    {
+      "text": "1Q",
+      "page_number": 1,
+      "original": "1Q",
+      "label": "text"
+    },
+    {
+      "text": "2024",
+      "page_number": 1,
+      "original": "2024",
+      "label": "text"
+    },
+    {
+      "text": "Earnings",
+      "page_number": 1,
+      "original": "Earnings",
+      "label": "text"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 2,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "This supplemental information regarding the financial and operating results of Verizon  Communications  Inc.  (Verizon)  for  the  first  quarter  ended  March  31, 2024 contains statements about expected future events and financial results that are forward-looking and subject to risks and uncertainties. Discussion of factors that may affect future results is included at the end of this document and is also contained in Verizon's filings with the US Securities and Exchange Commission.",
+      "page_number": 2,
+      "original": "This supplemental information regarding the financial and operating results of Verizon  Communications  Inc.  (Verizon)  for  the  first  quarter  ended  March  31, 2024 contains statements about expected future events and financial results that are forward-looking and subject to risks and uncertainties. Discussion of factors that may affect future results is included at the end of this document and is also contained in Verizon's filings with the US Securities and Exchange Commission.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Financial Results",
+      "page_number": 2,
+      "original": "Consolidated Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Operating Revenue ($B)",
+      "page_number": 2,
+      "original": "Total Operating Revenue ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$32.9",
+      "page_number": 2,
+      "original": "$32.9",
+      "label": "text"
+    },
+    {
+      "text": "$35.1",
+      "page_number": 2,
+      "original": "$35.1",
+      "label": "text"
+    },
+    {
+      "text": "$33.0",
+      "page_number": 2,
+      "original": "$33.0",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2023",
+      "page_number": 2,
+      "original": "1Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "4Q 2023",
+      "page_number": 2,
+      "original": "4Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2024",
+      "page_number": 2,
+      "original": "1Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Net Income (Loss) ($B)",
+      "page_number": 2,
+      "original": "Net Income (Loss) ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$5.0",
+      "page_number": 2,
+      "original": "$5.0",
+      "label": "text"
+    },
+    {
+      "text": "$(2.6)",
+      "page_number": 2,
+      "original": "$(2.6)",
+      "label": "text"
+    },
+    {
+      "text": "$4.7",
+      "page_number": 2,
+      "original": "$4.7",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2023",
+      "page_number": 2,
+      "original": "1Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "4Q 2023",
+      "page_number": 2,
+      "original": "4Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2024",
+      "page_number": 2,
+      "original": "1Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue**",
+      "page_number": 2,
+      "original": "Wireless Service Revenue**",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 2,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$18.9",
+      "page_number": 2,
+      "original": "$18.9",
+      "label": "text"
+    },
+    {
+      "text": "$19.4",
+      "page_number": 2,
+      "original": "$19.4",
+      "label": "text"
+    },
+    {
+      "text": "$19.5",
+      "page_number": 2,
+      "original": "$19.5",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2023",
+      "page_number": 2,
+      "original": "1Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "4Q 2023",
+      "page_number": 2,
+      "original": "4Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2024",
+      "page_number": 2,
+      "original": "1Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted",
+      "page_number": 2,
+      "original": "Consolidated Adjusted",
+      "label": "text"
+    },
+    {
+      "text": "EBITDA* ($B)",
+      "page_number": 2,
+      "original": "EBITDA* ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$11.9",
+      "page_number": 2,
+      "original": "$11.9",
+      "label": "text"
+    },
+    {
+      "text": "11.7",
+      "page_number": 2,
+      "original": "11.7",
+      "label": "text"
+    },
+    {
+      "text": "$12.1",
+      "page_number": 2,
+      "original": "$12.1",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2023",
+      "page_number": 2,
+      "original": "1Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "4Q 2023",
+      "page_number": 2,
+      "original": "4Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "1Q 2024",
+      "page_number": 2,
+      "original": "1Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Non-GAAP financial measure.",
+      "page_number": 2,
+      "original": "* Non-GAAP financial measure.",
+      "label": "list_item"
+    },
+    {
+      "text": "** Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "page_number": 2,
+      "original": "** Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "label": "footnote"
+    },
+    {
+      "text": "Consolidated total operating revenue for the first quarter was $33.0 billion, up 0.2% year over year.",
+      "page_number": 2,
+      "original": "Consolidated total operating revenue for the first quarter was $33.0 billion, up 0.2% year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Service and other revenue was $27.6 billion, up 1.7% year over year.",
+      "page_number": 2,
+      "original": "· Service and other revenue was $27.6 billion, up 1.7% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Total Wireless service revenue 2 was $19.5 billion, up 3.3% year over year,  driven  primarily  by  pricing  actions  implemented  in  recent quarters, higher premium price plan adoption, and growth from our fixed wireless access (FWA) connections.",
+      "page_number": 2,
+      "original": "◦ Total Wireless service revenue 2 was $19.5 billion, up 3.3% year over year,  driven  primarily  by  pricing  actions  implemented  in  recent quarters, higher premium price plan adoption, and growth from our fixed wireless access (FWA) connections.",
+      "label": "list_item"
+    },
+    {
+      "text": "Total Fios revenue was $3.2 billion, up 0.3% year over year.",
+      "page_number": 2,
+      "original": "◦ Total Fios revenue was $3.2 billion, up 0.3% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Wireless equipment revenue was $5.4 billion, down 6.9% year over year, predominantly due to lower upgrade volumes.",
+      "page_number": 2,
+      "original": "· Wireless equipment revenue was $5.4 billion, down 6.9% year over year, predominantly due to lower upgrade volumes.",
+      "label": "list_item"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 2,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 2",
+      "page_number": 2,
+      "original": "Page 2",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 3,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated net  income for  the  first  quarter  was  $4.7  billion  compared  to $5.0  billion for the first quarter  2023,  as  the  benefits  from  improved operational performance and pricing actions were more than offset by higher selling,  general,  and  administrative  (SG&A)  expenses  and  higher  interest expense.",
+      "page_number": 3,
+      "original": "Consolidated net  income for  the  first  quarter  was  $4.7  billion  compared  to $5.0  billion for the first quarter  2023,  as  the  benefits  from  improved operational performance and pricing actions were more than offset by higher selling,  general,  and  administrative  (SG&A)  expenses  and  higher  interest expense.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated  adjusted  EBITDA 1 for the first quarter was  $12.1 billion, compared  to  $11.9  billion  in  the  prior  year  period.  This  result  was  driven  by Wireless service revenue growth and the benefits of lower upgrade volumes, which were offset by higher SG&A expenses, and ongoing declines in Verizon Business Group wireline revenue.",
+      "page_number": 3,
+      "original": "Consolidated  adjusted  EBITDA 1 for the first quarter was  $12.1 billion, compared  to  $11.9  billion  in  the  prior  year  period.  This  result  was  driven  by Wireless service revenue growth and the benefits of lower upgrade volumes, which were offset by higher SG&A expenses, and ongoing declines in Verizon Business Group wireline revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated operating expenses for  the first quarter were $25.5 billion, up 0.5% year over year. Consolidated operating expenses, excluding depreciation and amortization and special items, 1 were $20.9 billion, down 0.5% year over year.",
+      "page_number": 3,
+      "original": "Consolidated operating expenses for  the first quarter were $25.5 billion, up 0.5% year over year. Consolidated operating expenses, excluding depreciation and amortization and special items, 1 were $20.9 billion, down 0.5% year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Interest expense for the first quarter was $1.6 billion compared to $1.2 billion for the first quarter 2023 due to lower capitalized interest and higher interest rates on our outstanding debt balance.",
+      "page_number": 3,
+      "original": "Interest expense for the first quarter was $1.6 billion compared to $1.2 billion for the first quarter 2023 due to lower capitalized interest and higher interest rates on our outstanding debt balance.",
+      "label": "text"
+    },
+    {
+      "text": "Earnings per share (EPS) was  $1.09  compared  to  EPS  of  $1.17  in  the  prior year period.",
+      "page_number": 3,
+      "original": "Earnings per share (EPS) was  $1.09  compared  to  EPS  of  $1.17  in  the  prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "First quarter 2024 financial results reflected a pre-tax loss from special items  of  approximately  $327  million.  This  includes  the  amortization  of intangible  assets  related  to  Tracfone  and  other  acquisitions  of  $221 million,  and  a  $106  million  charge  associated  with  a  litigation  matter related to a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon.",
+      "page_number": 3,
+      "original": "· First quarter 2024 financial results reflected a pre-tax loss from special items  of  approximately  $327  million.  This  includes  the  amortization  of intangible  assets  related  to  Tracfone  and  other  acquisitions  of  $221 million,  and  a  $106  million  charge  associated  with  a  litigation  matter related to a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon.",
+      "label": "list_item"
+    },
+    {
+      "text": "Adjusted EPS 1 for  the  first  quarter  was $1.15 compared to $1.20 in the prior year period.",
+      "page_number": 3,
+      "original": "Adjusted EPS 1 for  the  first  quarter  was $1.15 compared to $1.20 in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 3,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 3",
+      "page_number": 3,
+      "original": "Page 3",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 4,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Cash Flow Summary",
+      "page_number": 4,
+      "original": "Cash Flow Summary",
+      "label": "section_header"
+    },
+    {
+      "text": "Cash Flow from &perating",
+      "page_number": 4,
+      "original": "Cash Flow from &perating",
+      "label": "text"
+    },
+    {
+      "text": "Activities (ģB)",
+      "page_number": 4,
+      "original": "Activities (ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 4,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ1",
+      "page_number": 4,
+      "original": "ģâ1",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 4,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 4,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow í (ģB)",
+      "page_number": 4,
+      "original": "Free Cash Flow í (ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 4,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 4,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 4,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 4,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Non-GAAP financial measure.",
+      "page_number": 4,
+      "original": "* Non-GAAP financial measure.",
+      "label": "list_item"
+    },
+    {
+      "text": "Cash  flow  from  operating  activities for  the  first  quarter  was  $7.1  billion compared  to  $8.3  billion  in  the  prior  year  period  driven  by  year  over  year pressures  from  higher  interest  expense  primarily  related  to  a  reduction  in capitalized interest. Additionally, we made a discretionary pension contribution of $365 million prior to the closing of the previously disclosed retiree pension annuitization transaction.",
+      "page_number": 4,
+      "original": "Cash  flow  from  operating  activities for  the  first  quarter  was  $7.1  billion compared  to  $8.3  billion  in  the  prior  year  period  driven  by  year  over  year pressures  from  higher  interest  expense  primarily  related  to  a  reduction  in capitalized interest. Additionally, we made a discretionary pension contribution of $365 million prior to the closing of the previously disclosed retiree pension annuitization transaction.",
+      "label": "text"
+    },
+    {
+      "text": "Capital spending for the first quarter was $4.4 billion compared to $6.0 billion in the prior year period.",
+      "page_number": 4,
+      "original": "· Capital spending for the first quarter was $4.4 billion compared to $6.0 billion in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Free cash flow 1 for the first quarter was $2.7 billion compared to $2.3 billion in the prior year period.",
+      "page_number": 4,
+      "original": "Free cash flow 1 for the first quarter was $2.7 billion compared to $2.3 billion in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Total unsecured debt as  of  the  end of the first quarter was $128.4 billion, a $0.1  billion  decrease  compared  to  the  fourth  quarter  2023  and  $3.6  billion lower year over year. Unsecured debt to net income (LTM) ratio was 10.9x as of  the  end  of  the  first  quarter,  an  increase  of  0.3x  compared  to  the  fourth quarter 2023 and a 4.9x increase year over year.",
+      "page_number": 4,
+      "original": "Total unsecured debt as  of  the  end of the first quarter was $128.4 billion, a $0.1  billion  decrease  compared  to  the  fourth  quarter  2023  and  $3.6  billion lower year over year. Unsecured debt to net income (LTM) ratio was 10.9x as of  the  end  of  the  first  quarter,  an  increase  of  0.3x  compared  to  the  fourth quarter 2023 and a 4.9x increase year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Net unsecured debt 1 as  of  the  end  of  the  first  quarter  was  $126.0  billion,  a $0.4  billion  decrease  compared  to  the  fourth  quarter  2023  and  $3.7  billion lower year over year. Net unsecured debt to adjusted EBITDA ratio 1 was 2.6x as of the end of the first quarter, in line with the fourth quarter 2023 and a 0.1x improvement year over year.",
+      "page_number": 4,
+      "original": "Net unsecured debt 1 as  of  the  end  of  the  first  quarter  was  $126.0  billion,  a $0.4  billion  decrease  compared  to  the  fourth  quarter  2023  and  $3.7  billion lower year over year. Net unsecured debt to adjusted EBITDA ratio 1 was 2.6x as of the end of the first quarter, in line with the fourth quarter 2023 and a 0.1x improvement year over year.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 4,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 4",
+      "page_number": 4,
+      "original": "Page 4",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 5,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Mobility Highlights",
+      "page_number": 5,
+      "original": "Mobility Highlights",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Retail Postpaid",
+      "page_number": 5,
+      "original": "Total Retail Postpaid",
+      "label": "text"
+    },
+    {
+      "text": "Phone Net Additions ( )",
+      "page_number": 5,
+      "original": "Phone Net Additions ( )",
+      "label": "text"
+    },
+    {
+      "text": "(1)",
+      "page_number": 5,
+      "original": "(1)",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 5,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "()",
+      "page_number": 5,
+      "original": "()",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 5,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Retail Postpaid",
+      "page_number": 5,
+      "original": "Consumer Retail Postpaid",
+      "label": "text"
+    },
+    {
+      "text": "Phone Net Additions ( )",
+      "page_number": 5,
+      "original": "Phone Net Additions ( )",
+      "label": "text"
+    },
+    {
+      "text": "()",
+      "page_number": 5,
+      "original": "()",
+      "label": "text"
+    },
+    {
+      "text": "1",
+      "page_number": 5,
+      "original": "1",
+      "label": "text"
+    },
+    {
+      "text": "(1)",
+      "page_number": 5,
+      "original": "(1)",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 5,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Note: Where applicable, the operating results reflect certain adjustments",
+      "page_number": 5,
+      "original": "Note: Where applicable, the operating results reflect certain adjustments",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated",
+      "page_number": 5,
+      "original": "Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Total postpaid net additions for  the  first  quarter  were  253  thousand,  down from  633  thousand  in  the  prior  year  period,  as  slower  growth  in  tablets, wearables, and other connected devices more than offset improved phone net losses and solid performance in FWA.",
+      "page_number": 5,
+      "original": "Total postpaid net additions for  the  first  quarter  were  253  thousand,  down from  633  thousand  in  the  prior  year  period,  as  slower  growth  in  tablets, wearables, and other connected devices more than offset improved phone net losses and solid performance in FWA.",
+      "label": "text"
+    },
+    {
+      "text": "Total postpaid phone net losses for  the  first  quarter  were 68 thousand, an improvement from 127 thousand net losses in the prior year period.",
+      "page_number": 5,
+      "original": "Total postpaid phone net losses for  the  first  quarter  were 68 thousand, an improvement from 127 thousand net losses in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid phone gross additions were 2.4 million, up 1.4% year over year.",
+      "page_number": 5,
+      "original": "· Postpaid phone gross additions were 2.4 million, up 1.4% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid phone churn was 0.89%, down 1 basis point year over year.",
+      "page_number": 5,
+      "original": "· Postpaid phone churn was 0.89%, down 1 basis point year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer Group",
+      "page_number": 5,
+      "original": "Consumer Group",
+      "label": "section_header"
+    },
+    {
+      "text": "Postpaid net additions for the first quarter were 75 thousand, down from 321 thousand in the prior year period.",
+      "page_number": 5,
+      "original": "Postpaid net additions for the first quarter were 75 thousand, down from 321 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid  phone  net  losses  were 158  thousand  compared  to  263 thousand net losses in the prior year period.",
+      "page_number": 5,
+      "original": "· Postpaid  phone  net  losses  were 158  thousand  compared  to  263 thousand net losses in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid phone gross additions were 1.7 million, up 5.3% year over year.",
+      "page_number": 5,
+      "original": "◦ Postpaid phone gross additions were 1.7 million, up 5.3% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid  phone  churn  was  0.83%,  down  1  basis  point  year  over year.",
+      "page_number": 5,
+      "original": "◦ Postpaid  phone  churn  was  0.83%,  down  1  basis  point  year  over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Prepaid net losses were 216 thousand compared to 351 thousand net losses in the prior year period.",
+      "page_number": 5,
+      "original": "Prepaid net losses were 216 thousand compared to 351 thousand net losses in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Excluding  SafeLink  Wireless  (SafeLink),  our  brand  offering  access  to government-sponsored connectivity benefits and programs, prepaid net losses were 131 thousand compared to 277 thousand net losses in the prior year period.",
+      "page_number": 5,
+      "original": "· Excluding  SafeLink  Wireless  (SafeLink),  our  brand  offering  access  to government-sponsored connectivity benefits and programs, prepaid net losses were 131 thousand compared to 277 thousand net losses in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 5,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Business Retail Postpaid",
+      "page_number": 5,
+      "original": "Business Retail Postpaid",
+      "label": "text"
+    },
+    {
+      "text": "Phone Net Additions ( )",
+      "page_number": 5,
+      "original": "Phone Net Additions ( )",
+      "label": "text"
+    },
+    {
+      "text": "1",
+      "page_number": 5,
+      "original": "1",
+      "label": "text"
+    },
+    {
+      "text": "11",
+      "page_number": 5,
+      "original": "11",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 5,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 5,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 5,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Page 5",
+      "page_number": 5,
+      "original": "Page 5",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 6,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Prepaid  churn  was  4.26%,  down  5  basis  points  year  over  year. Excluding SafeLink, prepaid churn was 3.61%, down 11 basis points year over year.",
+      "page_number": 6,
+      "original": "◦ Prepaid  churn  was  4.26%,  down  5  basis  points  year  over  year. Excluding SafeLink, prepaid churn was 3.61%, down 11 basis points year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business Group",
+      "page_number": 6,
+      "original": "Business Group",
+      "label": "section_header"
+    },
+    {
+      "text": "Postpaid phone net additions for  the  first  quarter  were 90 thousand, down from 136 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "Postpaid phone net additions for  the  first  quarter  were 90 thousand, down from 136 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid phone churn was 1.13%, down 3 basis points year over year.",
+      "page_number": 6,
+      "original": "· Postpaid phone churn was 1.13%, down 3 basis points year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Broadband Highlights",
+      "page_number": 6,
+      "original": "Broadband Highlights",
+      "label": "section_header"
+    },
+    {
+      "text": "4hwDbGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=12,font=/AAAKCI+Quivira>shDOLDeOGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "4hwDbGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=12,font=/AAAKCI+Quivira>shDOLDeOGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "page_number": 6,
+      "original": "GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "GLYPH<c=22,font=/AAAKCI+Quivira>YQOGLYPH<c=3,font=/AAAKCI+Quivira>;YsQbQttGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=4,font=/AAAKCI+Quivira>MMQttGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "GLYPH<c=22,font=/AAAKCI+Quivira>YQOGLYPH<c=3,font=/AAAKCI+Quivira>;YsQbQttGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=4,font=/AAAKCI+Quivira>MMQttGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "page_number": 6,
+      "original": "GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "GLYPH<c=13,font=/AAAKCI+Quivira>hetxdQs",
+      "page_number": 6,
+      "original": "GLYPH<c=13,font=/AAAKCI+Quivira>hetxdQs",
+      "label": "text"
+    },
+    {
+      "text": "GLYPH<c=12,font=/AAAKCI+Quivira>xtYeQtt",
+      "page_number": 6,
+      "original": "GLYPH<c=12,font=/AAAKCI+Quivira>xtYeQtt",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": ";YsQbYeQGLYPH<c=3,font=/AAAKCI+Quivira>øGLYPH<c=22,font=/AAAKCI+Quivira>YhtGLYPH<c=3,font=/AAAKCI+Quivira>ĵGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=15,font=/AAAKCI+Quivira>2!ùGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira> GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "page_number": 6,
+      "original": ";YsQbYeQGLYPH<c=3,font=/AAAKCI+Quivira>øGLYPH<c=22,font=/AAAKCI+Quivira>YhtGLYPH<c=3,font=/AAAKCI+Quivira>ĵGLYPH<c=3,font=/AAAKCI+Quivira>GLYPH<c=15,font=/AAAKCI+Quivira>2!ùGLYPH<c=3,font=/AAAKCI+Quivira>$QwGLYPH<c=3,font=/AAAKCI+Quivira> GLYPH<c=4,font=/AAAKCI+Quivira>OOYwYhetGLYPH<c=3,font=/AAAKCI+Quivira>ø ù",
+      "label": "caption"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "",
+      "page_number": 6,
+      "original": "",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "page_number": 6,
+      "original": "0GLYPH<c=3,font=/AAAKCI+Quivira>",
+      "label": "text"
+    },
+    {
+      "text": "Total  broadband  net  additions for  the  first  quarter  were  389  thousand compared to 437 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "Total  broadband  net  additions for  the  first  quarter  were  389  thousand compared to 437 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "FWA net additions were 354 thousand, down from 393 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "· FWA net additions were 354 thousand, down from 393 thousand in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  FWA  net  additions  were  203  thousand,  down  53 thousand year over year.",
+      "page_number": 6,
+      "original": "◦ Consumer  FWA  net  additions  were  203  thousand,  down  53 thousand year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business  FWA  net  additions  were  151  thousand,  up  14  thousand year over year.",
+      "page_number": 6,
+      "original": "◦ Business  FWA  net  additions  were  151  thousand,  up  14  thousand year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Fios internet net additions were 53 thousand, down from 67 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "· Fios internet net additions were 53 thousand, down from 67 thousand in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 6,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 6",
+      "page_number": 6,
+      "original": "Page 6",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 7,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Financial Results",
+      "page_number": 7,
+      "original": "Consumer Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Total &perating Revenue",
+      "page_number": 7,
+      "original": "Total &perating Revenue",
+      "label": "text"
+    },
+    {
+      "text": "(ģB)",
+      "page_number": 7,
+      "original": "(ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 7,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 7,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ1",
+      "page_number": 7,
+      "original": "ģâ1",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 7,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Service and &ther",
+      "page_number": 7,
+      "original": "Service and &ther",
+      "label": "text"
+    },
+    {
+      "text": "Revenue (ģB)",
+      "page_number": 7,
+      "original": "Revenue (ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 7,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 7,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 7,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 7,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue",
+      "page_number": 7,
+      "original": "Wireless Service Revenue",
+      "label": "text"
+    },
+    {
+      "text": "(ģB)",
+      "page_number": 7,
+      "original": "(ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģ1â",
+      "page_number": 7,
+      "original": "ģ1â",
+      "label": "text"
+    },
+    {
+      "text": "ģ1â",
+      "page_number": 7,
+      "original": "ģ1â",
+      "label": "text"
+    },
+    {
+      "text": "ģ1â1",
+      "page_number": 7,
+      "original": "ģ1â1",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 7,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 7,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Total Consumer revenue for the first quarter was $25.1 billion, up 0.8% year over  year,  as  gains  in  Service  revenue  were  partially  offset  by  declines  in Wireless equipment revenue.",
+      "page_number": 7,
+      "original": "Total Consumer revenue for the first quarter was $25.1 billion, up 0.8% year over  year,  as  gains  in  Service  revenue  were  partially  offset  by  declines  in Wireless equipment revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Service and other revenue was $20.6 billion, up 2.9% year over year.",
+      "page_number": 7,
+      "original": "· Consumer Service and other revenue was $20.6 billion, up 2.9% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  Wireless  service  revenue was  $16.1  billion,  up  3.4% year  over  year,  driven  by  growth  in  Consumer  wireless  postpaid average  revenue  per  account  (ARPA)  from  pricing  actions  and continued FWA adoption.",
+      "page_number": 7,
+      "original": "· Consumer  Wireless  service  revenue was  $16.1  billion,  up  3.4% year  over  year,  driven  by  growth  in  Consumer  wireless  postpaid average  revenue  per  account  (ARPA)  from  pricing  actions  and continued FWA adoption.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer Fios revenue was $2.9 billion, up 0.2% year over year.",
+      "page_number": 7,
+      "original": "· Consumer Fios revenue was $2.9 billion, up 0.2% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  Wireless  equipment  revenue was $4.5  billion,  down  8.0% year  over  year,  driven  primarily  by  a  20.9%  year  over  year  decline  in upgrades.",
+      "page_number": 7,
+      "original": "· Consumer  Wireless  equipment  revenue was $4.5  billion,  down  8.0% year  over  year,  driven  primarily  by  a  20.9%  year  over  year  decline  in upgrades.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer Wireless postpaid ARPA was $135.75 for the first quarter, up 4.4% year  over  year,  driven  by  pricing  actions  implemented  in  recent  quarters, continued adoption of premium Unlimited plans, and an increase in our FWA subscriber base.",
+      "page_number": 7,
+      "original": "Consumer Wireless postpaid ARPA was $135.75 for the first quarter, up 4.4% year  over  year,  driven  by  pricing  actions  implemented  in  recent  quarters, continued adoption of premium Unlimited plans, and an increase in our FWA subscriber base.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer operating  income for  the  first  quarter  was  $7.4  billion,  up  3.8% year over year, resulting in operating income margin of 29.4%.",
+      "page_number": 7,
+      "original": "Consumer operating  income for  the  first  quarter  was  $7.4  billion,  up  3.8% year over year, resulting in operating income margin of 29.4%.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer segment EBITDA 1 for  the  first  quarter  was  $10.7  billion,  up  3.6% year over year. This improvement can be attributed to Service revenue growth and lower upgrade volumes. Consumer segment EBITDA margin 1 for  the first quarter was 42.6%.",
+      "page_number": 7,
+      "original": "Consumer segment EBITDA 1 for  the  first  quarter  was  $10.7  billion,  up  3.6% year over year. This improvement can be attributed to Service revenue growth and lower upgrade volumes. Consumer segment EBITDA margin 1 for  the first quarter was 42.6%.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 7,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 7",
+      "page_number": 7,
+      "original": "Page 7",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 8,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Business Financial Results",
+      "page_number": 8,
+      "original": "Business Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Total &perating Revenue",
+      "page_number": 8,
+      "original": "Total &perating Revenue",
+      "label": "text"
+    },
+    {
+      "text": "(ģB)",
+      "page_number": 8,
+      "original": "(ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 8,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Revenue by Customer",
+      "page_number": 8,
+      "original": "Revenue by Customer",
+      "label": "text"
+    },
+    {
+      "text": "Group (ģB)",
+      "page_number": 8,
+      "original": "Group (ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ1",
+      "page_number": 8,
+      "original": "ģâ1",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģ â",
+      "page_number": 8,
+      "original": "ģ â",
+      "label": "text"
+    },
+    {
+      "text": "ģ â",
+      "page_number": 8,
+      "original": "ģ â",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "Enterprise and Public Sector",
+      "page_number": 8,
+      "original": "Enterprise and Public Sector",
+      "label": "text"
+    },
+    {
+      "text": "Business Markets and &ther",
+      "page_number": 8,
+      "original": "Business Markets and &ther",
+      "label": "text"
+    },
+    {
+      "text": "Wholesale",
+      "page_number": 8,
+      "original": "Wholesale",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 8,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue",
+      "page_number": 8,
+      "original": "Wireless Service Revenue",
+      "label": "text"
+    },
+    {
+      "text": "(ģB)",
+      "page_number": 8,
+      "original": "(ģB)",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "ģâ",
+      "page_number": 8,
+      "original": "ģâ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "0 ",
+      "page_number": 8,
+      "original": "0 ",
+      "label": "text"
+    },
+    {
+      "text": "10 ",
+      "page_number": 8,
+      "original": "10 ",
+      "label": "text"
+    },
+    {
+      "text": "Note: Revenue by customer group may not add due to rounding.",
+      "page_number": 8,
+      "original": "Note: Revenue by customer group may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Total Business revenue for the first quarter was $7.4 billion, down 1.6% year over year, as increases in Wireless service revenue were more than offset by decreases in Wireline revenue and Wireless equipment revenue.",
+      "page_number": 8,
+      "original": "Total Business revenue for the first quarter was $7.4 billion, down 1.6% year over year, as increases in Wireless service revenue were more than offset by decreases in Wireline revenue and Wireless equipment revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Business Wireless service revenue was $3.4 billion, up 2.7% year over year, driven by continued strong net additions in the first quarter 2024 for  both  mobility  and  FWA,  as  well  as  benefits  from  pricing  actions implemented in recent quarters.",
+      "page_number": 8,
+      "original": "· Business Wireless service revenue was $3.4 billion, up 2.7% year over year, driven by continued strong net additions in the first quarter 2024 for  both  mobility  and  FWA,  as  well  as  benefits  from  pricing  actions implemented in recent quarters.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business  wireline  results reflect  continued  secular  declines  in  the prevailing wireline market, consistent with prior periods.",
+      "page_number": 8,
+      "original": "· Business  wireline  results reflect  continued  secular  declines  in  the prevailing wireline market, consistent with prior periods.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business operating income for the first quarter was $399 million, down 27.6% year over year, resulting in operating income margin of 5.4%.",
+      "page_number": 8,
+      "original": "Business operating income for the first quarter was $399 million, down 27.6% year over year, resulting in operating income margin of 5.4%.",
+      "label": "text"
+    },
+    {
+      "text": "Business segment EBITDA 1 for  the  first  quarter  was  $1.5  billion,  down  7.2% year  over  year,  driven  by  continued  declines  in  Wireline  revenues.  Business segment EBITDA margin 1 for the first quarter was 20.7%.",
+      "page_number": 8,
+      "original": "Business segment EBITDA 1 for  the  first  quarter  was  $1.5  billion,  down  7.2% year  over  year,  driven  by  continued  declines  in  Wireline  revenues.  Business segment EBITDA margin 1 for the first quarter was 20.7%.",
+      "label": "text"
+    },
+    {
+      "text": "Notes",
+      "page_number": 8,
+      "original": "Notes",
+      "label": "section_header"
+    },
+    {
+      "text": "1 Non-GAAP  financial  measure.  See  the  accompanying  schedules  and  www.verizon.com/ about/investors for reconciliations of non-GAAP financial measures cited in this document to most directly comparable financial measures under generally accepted accounting principles (GAAP).",
+      "page_number": 8,
+      "original": "1 Non-GAAP  financial  measure.  See  the  accompanying  schedules  and  www.verizon.com/ about/investors for reconciliations of non-GAAP financial measures cited in this document to most directly comparable financial measures under generally accepted accounting principles (GAAP).",
+      "label": "text"
+    },
+    {
+      "text": "2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "page_number": 8,
+      "original": "2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "label": "footnote"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 8,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 8",
+      "page_number": 8,
+      "original": "Page 8",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 9,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Forward-looking statements",
+      "page_number": 9,
+      "original": "Forward-looking statements",
+      "label": "section_header"
+    },
+    {
+      "text": "In  this  communication  we  have  made  forward-looking  statements.  These  statements  are based  on  our  estimates  and  assumptions  and  are  subject  to  risks  and  uncertainties. Forward-looking  statements  include  the  information  concerning  our  possible  or  assumed future  results  of  operations.  Forward-looking  statements  also  include  those  preceded  or followed by the words 'anticipates,' 'assumes,' 'believes,' 'estimates,' 'expects,' 'forecasts,' 'hopes,' 'intends,' 'plans,' 'targets' or similar expressions. For those statements,  we  claim  the  protection  of  the  safe  harbor  for  forward-looking  statements contained  in  the  Private  Securities  Litigation  Reform  Act  of  1995.  We  undertake  no obligation to revise or publicly release the results of any revision to these forward-looking statements,  except  as  required  by  law.  Given  these  risks  and  uncertainties,  readers  are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the 'SEC'), could affect future results and could cause those results to differ materially from those expressed  in the forward-looking statements: the effects of competition  in  the  markets  in  which  we  operate,  including  the  inability  to  successfully respond  to  competitive  factors  such  as  prices,  promotional  incentives  and  evolving consumer  preferences;  failure  to  take  advantage  of,  or  respond  to  competitors'  use  of, developments  in  technology  and  address  changes  in  consumer  demand;  performance issues  or  delays  in  the  deployment  of  our  5G  network  resulting  in  significant  costs  or  a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies,  including  inflation  and  changing  interest  rates  in  the  markets  in  which  we operate;  cyber  attacks  impacting  our  networks  or  systems  and  any  resulting  financial  or reputational  impact;  damage  to  our  infrastructure  or  disruption  of  our  operations  from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts  and  any  resulting  financial  or  reputational  impact;  disruption  of  our  key  suppliers'  or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment  in  which  we  operate,  including  any  increase  in  restrictions  on  our  ability  to operate  our  networks  or  businesses;  allegations  regarding  the  release  of  hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other  liability,  remediation  and  compliance  costs,  operational  impacts  or  reputational damage;  our  high  level  of  indebtedness;  significant  litigation  and  any  resulting  material expenses  incurred  in  defending  against  lawsuits  or  paying  awards  or  settlements;  an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations  or  adverse  conditions  in  the  credit  markets  affecting  the  cost,  including interest  rates,  and/or  availability  of  further  financing;  significant  increases  in  benefit  plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities;  and  changes  in  accounting  assumptions  that  regulatory  agencies,  including  the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings.",
+      "page_number": 9,
+      "original": "In  this  communication  we  have  made  forward-looking  statements.  These  statements  are based  on  our  estimates  and  assumptions  and  are  subject  to  risks  and  uncertainties. Forward-looking  statements  include  the  information  concerning  our  possible  or  assumed future  results  of  operations.  Forward-looking  statements  also  include  those  preceded  or followed by the words 'anticipates,' 'assumes,' 'believes,' 'estimates,' 'expects,' 'forecasts,' 'hopes,' 'intends,' 'plans,' 'targets' or similar expressions. For those statements,  we  claim  the  protection  of  the  safe  harbor  for  forward-looking  statements contained  in  the  Private  Securities  Litigation  Reform  Act  of  1995.  We  undertake  no obligation to revise or publicly release the results of any revision to these forward-looking statements,  except  as  required  by  law.  Given  these  risks  and  uncertainties,  readers  are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the 'SEC'), could affect future results and could cause those results to differ materially from those expressed  in the forward-looking statements: the effects of competition  in  the  markets  in  which  we  operate,  including  the  inability  to  successfully respond  to  competitive  factors  such  as  prices,  promotional  incentives  and  evolving consumer  preferences;  failure  to  take  advantage  of,  or  respond  to  competitors'  use  of, developments  in  technology  and  address  changes  in  consumer  demand;  performance issues  or  delays  in  the  deployment  of  our  5G  network  resulting  in  significant  costs  or  a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies,  including  inflation  and  changing  interest  rates  in  the  markets  in  which  we operate;  cyber  attacks  impacting  our  networks  or  systems  and  any  resulting  financial  or reputational  impact;  damage  to  our  infrastructure  or  disruption  of  our  operations  from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts  and  any  resulting  financial  or  reputational  impact;  disruption  of  our  key  suppliers'  or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment  in  which  we  operate,  including  any  increase  in  restrictions  on  our  ability  to operate  our  networks  or  businesses;  allegations  regarding  the  release  of  hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other  liability,  remediation  and  compliance  costs,  operational  impacts  or  reputational damage;  our  high  level  of  indebtedness;  significant  litigation  and  any  resulting  material expenses  incurred  in  defending  against  lawsuits  or  paying  awards  or  settlements;  an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations  or  adverse  conditions  in  the  credit  markets  affecting  the  cost,  including interest  rates,  and/or  availability  of  further  financing;  significant  increases  in  benefit  plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities;  and  changes  in  accounting  assumptions  that  regulatory  agencies,  including  the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 9,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 9",
+      "page_number": 9,
+      "original": "Page 9",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 10,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 10,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 10",
+      "page_number": 10,
+      "original": "Page 10",
+      "label": "page_footer"
+    }
+  ]
+}

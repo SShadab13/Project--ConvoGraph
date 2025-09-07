@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-presentation-pdf-876a8141",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\3Q\\Download Presentation PDF_876a8141.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\3Q\\download-presentation-pdf-876a8141",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\3Q\\download-presentation-pdf-876a8141\\download-presentation-pdf-876a8141.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

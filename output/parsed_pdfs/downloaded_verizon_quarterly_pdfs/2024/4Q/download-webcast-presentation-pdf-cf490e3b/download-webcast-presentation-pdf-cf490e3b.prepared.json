@@ -1,0 +1,603 @@
+{
+  "doc_id": "download-webcast-presentation-pdf-cf490e3b",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\4Q\\Download Webcast Presentation PDF_cf490e3b.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "|                      | 4Q24    | 2024    |\n|----------------------|---------|---------|\n| Wireless Service Revenue 1 | $20.0B +3.1% Y/Y | $79.1B +3.1% Y/Y |\n| Adjusted EBITDA 2      | $11.9B +2.1% Y/Y | $48.8B +2.1% Y/Y |\n| Free Cash Flow 2       | $5.4B   | $19.8B  |",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [
+          "4Q24",
+          "2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "1 Wireless Service Revenue",
+          "2 Adjusted EBITDA, Free Cash Flow"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 4,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-webcast-presentation-pdf-cf490e3b_p4_t0"
+    },
+    {
+      "markdown_table": "|  | Guidance | \n|-----------------------------------|------------------|\n| Total Wireless Service Revenue growth 1,2 | 2.0% - 2.8% |\n| Adjusted EBITDA growth 3 | 2.0% - 3.5% |\n| Adjusted EPS growth 3 | Flat - 3.0% |\n| Capital Expenditures | $17.5B - $18.5B |\n| Free Cash Flow 3 | $17.5B - $18.5B |",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [],
+        "currency": "USD",
+        "notes": []
+      },
+      "table_metadata": {
+        "title": "Guidance",
+        "page": 5,
+        "sections": [],
+        "total_rows": 6,
+        "total_cols": 2
+      },
+      "table_id": "download-webcast-presentation-pdf-cf490e3b_p5_t1"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "4Q 2024 Earnings & Business Update",
+      "page_number": 1,
+      "original": "4Q 2024 Earnings & Business Update",
+      "label": "section_header"
+    },
+    {
+      "text": "January 24, 2025",
+      "page_number": 1,
+      "original": "January 24, 2025",
+      "label": "text"
+    },
+    {
+      "text": "'Safe Harbor' Statement",
+      "page_number": 2,
+      "original": "'Safe Harbor' Statement",
+      "label": "section_header"
+    },
+    {
+      "text": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "page_number": 2,
+      "original": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "label": "text"
+    },
+    {
+      "text": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "page_number": 2,
+      "original": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "label": "text"
+    },
+    {
+      "text": "2",
+      "page_number": 2,
+      "original": "2",
+      "label": "page_footer"
+    },
+    {
+      "text": "Agenda",
+      "page_number": 3,
+      "original": "Agenda",
+      "label": "section_header"
+    },
+    {
+      "text": "Earnings Recap",
+      "page_number": 3,
+      "original": "Earnings Recap",
+      "label": "section_header"
+    },
+    {
+      "text": "AI Strategy Update",
+      "page_number": 3,
+      "original": "AI Strategy Update",
+      "label": "text"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "Strong momentum going into 2025",
+      "page_number": 4,
+      "original": "Strong momentum going into 2025",
+      "label": "section_header"
+    },
+    {
+      "text": "3  Excluding SafeLink.",
+      "page_number": 4,
+      "original": "3  Excluding SafeLink.",
+      "label": "footnote"
+    },
+    {
+      "text": "2024 Highlights",
+      "page_number": 4,
+      "original": "2024 Highlights",
+      "label": "section_header"
+    },
+    {
+      "text": "〉 Nearly 900K postpaid phone net adds for full year and Consumer positive excl. impact of 2 nd number offering",
+      "page_number": 4,
+      "original": "〉 Nearly 900K postpaid phone net adds for full year and Consumer positive excl. impact of 2 nd number offering",
+      "label": "list_item"
+    },
+    {
+      "text": "〉 Executed strategic moves (e.g., brand refresh, Frontier, towers deal, UScellular spectrum, satellite partnerships)",
+      "page_number": 4,
+      "original": "〉 Executed strategic moves (e.g., brand refresh, Frontier, towers deal, UScellular spectrum, satellite partnerships)",
+      "label": "list_item"
+    },
+    {
+      "text": "〉 Nearly 1.6M broadband net adds in 2024 , led by FWA momentum",
+      "page_number": 4,
+      "original": "〉 Nearly 1.6M broadband net adds in 2024 , led by FWA momentum",
+      "label": "list_item"
+    },
+    {
+      "text": "〉 Prepaid 3 net adds positive for full year",
+      "page_number": 4,
+      "original": "〉 Prepaid 3 net adds positive for full year",
+      "label": "list_item"
+    },
+    {
+      "text": "first time since TracFone acquisition",
+      "page_number": 4,
+      "original": "- first time since TracFone acquisition",
+      "label": "list_item"
+    },
+    {
+      "text": "〉 18 th consecutive year of dividend increases",
+      "page_number": 4,
+      "original": "〉 18 th consecutive year of dividend increases",
+      "label": "list_item"
+    },
+    {
+      "text": "〉 Reduced debt - net unsecured debt to Adjusted EBITDA ratio 2 at 2.3x",
+      "page_number": 4,
+      "original": "〉 Reduced debt - net unsecured debt to Adjusted EBITDA ratio 2 at 2.3x",
+      "label": "list_item"
+    },
+    {
+      "text": "1  Sum of Consumer and Business segments. 2  Non-GAAP measure.",
+      "page_number": 4,
+      "original": "1  Sum of Consumer and Business segments. 2  Non-GAAP measure.",
+      "label": "page_footer"
+    },
+    {
+      "text": "Delivered on our 2024 financial guidance with financial and customer growth",
+      "page_number": 4,
+      "original": "Delivered on our 2024 financial guidance with financial and customer growth",
+      "label": "page_footer"
+    },
+    {
+      "text": "verizon",
+      "page_number": 4,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "2025 Guidance",
+      "page_number": 5,
+      "original": "2025 Guidance",
+      "label": "section_header"
+    },
+    {
+      "text": "1 Sum of Consumer and Business segments.",
+      "page_number": 5,
+      "original": "1 Sum of Consumer and Business segments.",
+      "label": "footnote"
+    },
+    {
+      "text": "2 Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue beginning January 2025. Where applicable, historical results will be recast to conform to the updated presentation. Reclassified 2024 annual revenues were more than $2.9B.",
+      "page_number": 5,
+      "original": "2 Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue beginning January 2025. Where applicable, historical results will be recast to conform to the updated presentation. Reclassified 2024 annual revenues were more than $2.9B.",
+      "label": "footnote"
+    },
+    {
+      "text": "3 Non-GAAP measure.",
+      "page_number": 5,
+      "original": "3 Non-GAAP measure.",
+      "label": "footnote"
+    },
+    {
+      "text": "verizon",
+      "page_number": 5,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "Positioned for continued growth in 2025",
+      "page_number": 5,
+      "original": "Positioned for continued growth in 2025",
+      "label": "page_footer"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon 2025",
+      "page_number": 6,
+      "original": "Verizon 2025",
+      "label": "section_header"
+    },
+    {
+      "text": "Grow Wireless Service Revenue, expand Adjusted EBITDA and generate strong Free Cash Flow 1",
+      "page_number": 6,
+      "original": "Grow Wireless Service Revenue, expand Adjusted EBITDA and generate strong Free Cash Flow 1",
+      "label": "list_item"
+    },
+    {
+      "text": "2",
+      "page_number": 6,
+      "original": "2",
+      "label": "text"
+    },
+    {
+      "text": "Accelerate mobility momentum and broadband growth, and scale private networks",
+      "page_number": 6,
+      "original": "Accelerate mobility momentum and broadband growth, and scale private networks",
+      "label": "text"
+    },
+    {
+      "text": "Focus on operational excellence, customer experience and financial discipline 3",
+      "page_number": 6,
+      "original": "Focus on operational excellence, customer experience and financial discipline 3",
+      "label": "list_item"
+    },
+    {
+      "text": "Execute on our capital allocation model 4",
+      "page_number": 6,
+      "original": "Execute on our capital allocation model 4",
+      "label": "list_item"
+    },
+    {
+      "text": "5",
+      "page_number": 6,
+      "original": "5",
+      "label": "list_item"
+    },
+    {
+      "text": "Leverage AI to drive efficiencies and unlock new revenue through our fiber and edge compute assets",
+      "page_number": 6,
+      "original": "Leverage AI to drive efficiencies and unlock new revenue through our fiber and edge compute assets",
+      "label": "list_item"
+    },
+    {
+      "text": "verizon",
+      "page_number": 6,
+      "original": "verizon",
+      "label": "section_header"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "Agenda",
+      "page_number": 7,
+      "original": "Agenda",
+      "label": "section_header"
+    },
+    {
+      "text": "Earnings Recap",
+      "page_number": 7,
+      "original": "Earnings Recap",
+      "label": "section_header"
+    },
+    {
+      "text": "AI Strategy Update",
+      "page_number": 7,
+      "original": "AI Strategy Update",
+      "label": "text"
+    },
+    {
+      "text": "7",
+      "page_number": 7,
+      "original": "7",
+      "label": "page_footer"
+    },
+    {
+      "text": "AI @ Verizon",
+      "page_number": 8,
+      "original": "AI @ Verizon",
+      "label": "section_header"
+    },
+    {
+      "text": "Enhance experiences and drive efficiencies",
+      "page_number": 8,
+      "original": "Enhance experiences and drive efficiencies",
+      "label": "text"
+    },
+    {
+      "text": "Personalize products & solutions",
+      "page_number": 8,
+      "original": "Personalize products & solutions",
+      "label": "text"
+    },
+    {
+      "text": "Connect the AI ecosystem",
+      "page_number": 8,
+      "original": "Connect the AI ecosystem",
+      "label": "text"
+    },
+    {
+      "text": "Today's focus",
+      "page_number": 8,
+      "original": "Today's focus",
+      "label": "text"
+    },
+    {
+      "text": "1",
+      "page_number": 8,
+      "original": "1",
+      "label": "text"
+    },
+    {
+      "text": "2",
+      "page_number": 8,
+      "original": "2",
+      "label": "text"
+    },
+    {
+      "text": "3",
+      "page_number": 8,
+      "original": "3",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "8",
+      "page_number": 8,
+      "original": "8",
+      "label": "page_footer"
+    },
+    {
+      "text": "Connecting the AI Ecosystem",
+      "page_number": 9,
+      "original": "Connecting the AI Ecosystem",
+      "label": "section_header"
+    },
+    {
+      "text": "AI Connect verizon",
+      "page_number": 9,
+      "original": "AI Connect verizon",
+      "label": "section_header"
+    },
+    {
+      "text": "Connectivity",
+      "page_number": 9,
+      "original": "Connectivity",
+      "label": "section_header"
+    },
+    {
+      "text": "〉Ubiquitous long-haul and metro Verizon OneFiber",
+      "page_number": 9,
+      "original": "〉Ubiquitous long-haul and metro Verizon OneFiber",
+      "label": "list_item"
+    },
+    {
+      "text": "〉Edge-to-cloud connectivity",
+      "page_number": 9,
+      "original": "〉Edge-to-cloud connectivity",
+      "label": "list_item"
+    },
+    {
+      "text": "〉Intelligent and programmable",
+      "page_number": 9,
+      "original": "〉Intelligent and programmable",
+      "label": "list_item"
+    },
+    {
+      "text": "Edge Compute",
+      "page_number": 9,
+      "original": "Edge Compute",
+      "label": "section_header"
+    },
+    {
+      "text": "〉Distributed telco facilities",
+      "page_number": 9,
+      "original": "〉Distributed telco facilities",
+      "label": "list_item"
+    },
+    {
+      "text": "〉Available capacity in most markets",
+      "page_number": 9,
+      "original": "〉Available capacity in most markets",
+      "label": "list_item"
+    },
+    {
+      "text": "verizon",
+      "page_number": 9,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "Our view of total addressable market for telco AI delivery is $40B+ by 2030",
+      "page_number": 9,
+      "original": "Our view of total addressable market for telco AI delivery is $40B+ by 2030",
+      "label": "page_footer"
+    },
+    {
+      "text": "9",
+      "page_number": 9,
+      "original": "9",
+      "label": "page_footer"
+    },
+    {
+      "text": "Industry-leading assets to meet evolving customer needs",
+      "page_number": 10,
+      "original": "Industry-leading assets to meet evolving customer needs",
+      "label": "section_header"
+    },
+    {
+      "text": "Connectivity",
+      "page_number": 10,
+      "original": "Connectivity",
+      "label": "section_header"
+    },
+    {
+      "text": "Edge Compute",
+      "page_number": 10,
+      "original": "Edge Compute",
+      "label": "text"
+    },
+    {
+      "text": "Available UPS Power",
+      "page_number": 10,
+      "original": "Available UPS Power",
+      "label": "text"
+    },
+    {
+      "text": "(MW in the US)",
+      "page_number": 10,
+      "original": "(MW in the US)",
+      "label": "text"
+    },
+    {
+      "text": "# of Near-net Enterprises",
+      "page_number": 10,
+      "original": "# of Near-net Enterprises",
+      "label": "text"
+    },
+    {
+      "text": "(within 500 ft., 250+ FTEs, in the US)",
+      "page_number": 10,
+      "original": "(within 500 ft., 250+ FTEs, in the US)",
+      "label": "text"
+    },
+    {
+      "text": "# of Near-net Data Centers",
+      "page_number": 10,
+      "original": "# of Near-net Data Centers",
+      "label": "text"
+    },
+    {
+      "text": "(within 500 ft., in the US)",
+      "page_number": 10,
+      "original": "(within 500 ft., in the US)",
+      "label": "text"
+    },
+    {
+      "text": "OneFiber in 71 cities",
+      "page_number": 10,
+      "original": "OneFiber in 71 cities",
+      "label": "text"
+    },
+    {
+      "text": "Note: Based on data from 451 Research, Geotel, InfoUSA by Data Axle, Data Center Map, and Hyperscaler (GCP, Azure, AWS) websites as of the most recently available date, and, for Verizon, additional proprietary information.",
+      "page_number": 10,
+      "original": "Note: Based on data from 451 Research, Geotel, InfoUSA by Data Axle, Data Center Map, and Hyperscaler (GCP, Azure, AWS) websites as of the most recently available date, and, for Verizon, additional proprietary information.",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 10,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "10",
+      "page_number": 10,
+      "original": "10",
+      "label": "page_footer"
+    },
+    {
+      "text": "Enabling the AI ecosystem with Verizon AI Connect",
+      "page_number": 11,
+      "original": "Enabling the AI ecosystem with Verizon AI Connect",
+      "label": "section_header"
+    },
+    {
+      "text": "Early Adopters",
+      "page_number": 11,
+      "original": "Early Adopters",
+      "label": "section_header"
+    },
+    {
+      "text": "Google",
+      "page_number": 11,
+      "original": "Google",
+      "label": "text"
+    },
+    {
+      "text": "0Meta",
+      "page_number": 11,
+      "original": "0Meta",
+      "label": "text"
+    },
+    {
+      "text": "Building Partnerships",
+      "page_number": 11,
+      "original": "Building Partnerships",
+      "label": "text"
+    },
+    {
+      "text": "VULTR",
+      "page_number": 11,
+      "original": "VULTR",
+      "label": "text"
+    },
+    {
+      "text": "NVIDIA",
+      "page_number": 11,
+      "original": "NVIDIA",
+      "label": "text"
+    },
+    {
+      "text": "~$1B+ of business in short-term funnel leveraging existing infrastructure",
+      "page_number": 11,
+      "original": "~$1B+ of business in short-term funnel leveraging existing infrastructure",
+      "label": "caption"
+    },
+    {
+      "text": "verizon.com/aiconnect",
+      "page_number": 11,
+      "original": "verizon.com/aiconnect",
+      "label": "page_footer"
+    },
+    {
+      "text": "verizon",
+      "page_number": 11,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "11",
+      "page_number": 11,
+      "original": "11",
+      "label": "page_footer"
+    },
+    {
+      "text": "eri Zon",
+      "page_number": 12,
+      "original": "eri Zon",
+      "label": "section_header"
+    }
+  ]
+}

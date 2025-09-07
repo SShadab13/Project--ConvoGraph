@@ -1,0 +1,641 @@
+{
+  "doc_id": "download-non-gaap-reconciliations-pdf-06cc31ee",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\Download Non-GAAP reconciliations PDF_06cc31ee.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "| Header | 2022 | 3Q | 4Q | 1Q | 2Q | 3Q | 4Q | 1Q | 2Q |\n|---|---|---|---|---|---|---|---|---|---|\n| Unaudited |  |  |  |  |  |  |  |  |\n| Consolidated Net Income (Loss) | $ 5,024 | $ 6,698 | $ 5,018 | $ 4,766 | $ 4,884 | $(2,573) | $ 4,722 | $ 4,702 |\n| Add: |  |  |  |  |  |  |  |  |\n| Provision for income taxes | 1,496 | 2,113 | 1,482 | 1,346 | 1,308 | 756 | 1,353 | 1,332 |\n| Interest expense | 937 | 1,105 | 1,207 | 1,285 | 1,433 | 1,599 | 1,635 | 1,698 |\n| Depreciation and amortization expense (1) | 4,324 | 4,218 | 4,318 | 4,359 | 4,431 | 4,516 | 4,445 | 4,483 |\n| Consolidated EBITDA | $ 11,781 | $ 14,134 | $12,025 | $11,756 | $12,056 | $ 4,298 | $12,155 | $12,215 |\n| Add/(subtract): |  |  |  |  |  |  |  |  |\n| Other (income) expense, net (2) | $ 439 |  |  |  |  |  |  |  |\n| Equity in (earnings) losses of unconsolidated businesses | $ (2,687) | $ (114) | $ (210) | $ (170) | $ 807 | $ (198) | $ 72 | $ 14 |\n| Severance charges | - | 304 | - | - | - | - | - | - | - |\n| Legacy legal matter | 237 | - | 296 | - | - | - | - | 106 | - |\n| Verizon Business Group goodwill impairment | - | - | - | - | - | - | - | - | - |\n| Asset rationalization | 5,841 | - | - | - | 155 | - | 325 | - | - |\n| Legal settlement | - | - | - | - | - | - | 100 | - | - |\n| Business transformation costs | - | - | - | - | - | 176 | - | - | - |\n| Non-strategic business shutdown | - | - | - | - | - | 158 | - | - | - |\n| Consolidated Adjusted EBITDA | $ 12,218 | $ 11,747 | $11,902 | $11,971 | $12,238 | $11,678 | $12,072 | $12,301 |\n| Consolidated Adjusted EBITDA Margin | 36.7 % | 36.7 % | 33.2 % | 36.6 % | 37.5 % |  |  |  |\n| Consolidated Adjusted EBITDA - Year over year change% |  |  |  |  |  |  |  |  | 2.8 % |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "2022",
+          "3Q",
+          "4Q",
+          "1Q",
+          "2Q",
+          "3Q",
+          "4Q",
+          "1Q",
+          "2Q"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 4,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 24,
+        "total_cols": 10
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p4_t0"
+    },
+    {
+      "markdown_table": "|                               | 12 Mos. Ended 6/30/23 | 12 Mos. Ended 9/30/23 | 12 Mos. Ended 12/31/23 | 12 Mos. Ended 3/31/24 | 12 Mos. Ended 6/30/24 |\n| :----------------------------- | :--------------------- | :--------------------- | :----------------------- | :----------------------- | :--------------------- |\n| Unaudited                       |                        |                        |                          |                          |                        |\n| Consolidated Net Income        | $ 21,506               | $ 21,366               | $ 12,095                 | $ 11,799                 | $ 11,735               |\n| Add:                           |                        |                        |                          |                          |                        |\n| Provision for income taxes     | 6,437                  | 6,249                  | 4,892                    | 4,763                    | 4,749                  |\n| Interest expense                | 4,534                  | 5,030                  | 5,524                    | 5,952                    | 6,365                  |\n| Depreciation and amortization expense (1) | 17,219                 | 17,326                 | 17,624                   | 17,751                   | 17,875                 |\n| Consolidated EBITDA            | $ 49,696               | $ 49,971               | $ 40,135                 | $ 40,265                 | $ 40,724               |\n| Add/(subtract):                |                        |                        |                          |                          |                        |\n| Other (income) expense, net (2) | $ (2,572)              |                        |                          |                          |                        |\n| Equity in losses of unconsolidated businesses | 18                     | 38                     | 53                      | 71                      | 52                     |\n| Severance charges              | 541                    | 541                    | 533                      | 533                      | 296                    |\n| Legacy legal matter            | -                      | -                      | -                       | -                       | -                      |\n| Verizon Business Group goodwill impairment | -                      | -                      | 5,841                    | 5,841                    | 5,841                  |\n| Asset rationalization          | -                      | -                      | -                       | 480                     | 325                    |\n| Legal settlement               | -                      | -                      | -                       | 100                     | 100                    |\n| Business transformation costs  | -                      | -                      | 176                      | 176                      | 176                    |\n| Non-strategic business shutdown| -                      | -                      | 158                      | 158                      | 158                    |\n| Consolidated Adjusted EBITDA   | $ 47,838               | $ 47,858               | $ 47,789                 | $ 47,959                 | $ 48,289               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12 Mos. Ended 6/30/24",
+          "12 Mos. Ended 6/30/23",
+          "12 Mos. Ended 9/30/23",
+          "12 Mos. Ended 12/31/23",
+          "12 Mos. Ended 3/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 5,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 6
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p5_t1"
+    },
+    {
+      "markdown_table": "| Header | 12/31/22 | 3/31/23 | 6/30/23 | 9/30/23 | 12/31/23 | 3/31/24 | 6/30/24 |\n|---|---|---|---|---|---|---|---|\n| Debt maturing within one year | $ 9,963 | $ 12,081 | $ 14,827 | $ 12,950 | $ 12,973 | $ 15,594 | $ 23,255 |\n| Long-term debt | 140,676 | 140,772 | 137,871 | 134,441 | 137,701 | 136,104 | 126,022 |\n| Total Debt | 150,639 | 152,853 | 152,698 | 147,391 | 150,674 | 151,698 | 149,277 |\n| Less Secured debt | 20,008 | 20,835 | 21,342 | 20,951 | 22,183 | 23,290 | |\n| Unsecured Debt | 130,631 | 132,018 | 131,356 | 126,440 | 128,491 | 128,408 | 125,262 |\n| Less Cash and cash equivalents | 2,605 | 2,234 | 4,803 | 4,210 | 2,065 | 2,365 | 2,432 |\n| Net Unsecured Debt | $ 128,026 | $ 129,784 |  |  |  |  |  |\n| Consolidated Net Income (LTM) |  |  |  |  | $ 21,506 | $ 21,366 | $ 12,095 |\n| Consolidated Net Income (LTM) |  |  |  |  | $ 126,553 | $ 122,230 | $ 126,426 |\n| Consolidated Net Income (LTM) |  |  |  |  |  | $ 11,799 | $ 126,043 |\n| Unsecured Debt to Consolidated Net Income Ratio |  |  |  |  | 6.1x | 5.9x | 10.6x |\n| Unsecured Debt to Consolidated Net Income Ratio |  |  |  |  |  | 10.9x | 10.7x |\n| Consolidated Adjusted EBITDA (LTM) |  |  |  |  | $ 47,838 | $ 47,858 |  |\n| Consolidated Adjusted EBITDA (LTM) |  |  |  |  | $ 47,789 | $ 47,959 | $ 48,289 |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio |  |  |  |  | 2.6x | 2.6x | 2.6x |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio |  |  |  |  |  | 2.6x | 2.6x |\n| Net Unsecured Debt - Quarter over quarter change |  |  |  |  |  |  | $ (3,213) |\n| Net Unsecured Debt - Year over year change |  |  |  |  |  |  | $ (3,723) |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio - Quarter over quarter change |  |  |  |  |  |  | (0.1x) |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio - Year over year change |  |  |  |  |  |  | (0.1x) |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12/31/22",
+          "3/31/23",
+          "6/30/23",
+          "9/30/23",
+          "12/31/23",
+          "3/31/24",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 5,
+        "sections": [],
+        "total_rows": 28,
+        "total_cols": 8
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p5_t2"
+    },
+    {
+      "markdown_table": "|                                              | Mos. Ended 6/30/23 | After-Tax | Mos. Ended 6/30/24 |\n|-----------------------------------------------|--------------------|-----------|--------------------|\n| Unaudited                                     |                    |           |                    |\n| EPS                                           | $ 1.10             |           | $ 1.09             |\n| Amortization of acquisition-related intangible assets | $ 206              | 0.04      | $ 219              |\n| Severance, pension and benefits charges       | 237                |           |                    |\n| Asset rationalization                          | (59)               | 178       | 0.04               |\n| Asset rationalization                          | 155                | (33)      | 122                |\n| Asset rationalization                          | 0.03               | -         | -                  |\n| Asset rationalization                          | $ 598              | $ (145) $ | 453                |\n| Asset rationalization                          | $ 0.11             |           |                    |\n| Adjusted EPS                                  | $ 1.21             |           | $ 1.15             |\n| Year over year change%                        |                    |           | (5.0)%             |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "6/30/23",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 6,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p6_t3"
+    },
+    {
+      "markdown_table": "|                                         | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 6/30/24 | 6 Mos. Ended 6/30/23 | 6 Mos. Ended 6/30/24 |\n|------------------------------------------|----------------------|----------------------|----------------------|----------------------|\n| Unaudited                                 |                      |                      |                      |                      |\n| Net Cash Provided by Operating Activities | $ 9,731              | $ 9,485              | $ 18,020             | $ 16,569             |\n| Capital expenditures (including capitalized software) | (4,112)              | (3,695)              | (10,070)             | (8,071)              |\n| Free Cash Flow                            | $ 5,619              | $ 5,790              | $ 7,950              | $ 8,498              |\n| Free Cash Flow for 3 Mos. Ended 6/30/24 - Year over year change% |                      | 3.0 %                |                      |                      |\n| Free Cash Flow for 6 Mos. Ended 6/30/24 - Year over year change |                      |                      |                      | $ 548                |\n| Free Cash Flow for 6 Mos. Ended 6/30/24 - Year over year change% |                      |                      |                      | 6.9 %                |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "6 Mos. Ended 6/30/24",
+          "6 Mos. Ended 6/30/23",
+          "3 Mos. Ended 6/30/24",
+          "3 Mos. Ended 6/30/23"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 6,
+        "sections": [
+          "Cash Flow"
+        ],
+        "total_rows": 13,
+        "total_cols": 5
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p6_t4"
+    },
+    {
+      "markdown_table": "|                                                     | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 6/30/24 |\n|-----------------------------------------------------|----------------------|----------------------|\n| Unaudited                                            |                      |                      |\n| Consolidated Operating Expenses                      | $ 25,376             | $ 24,978             |\n| Depreciation and amortization expense (1)           | 4,359                | 4,483                |\n| Severance charges                                    | 237                  | -                    |\n| Asset rationalization                                | 155                  | -                    |\n| Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items | $ 20,625             | $ 20,495             |\n| Year over year change%                              |                      | (0.6)%               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "Q2 2023",
+          "Q2 2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 6,
+        "sections": [
+          "Operating Expenses"
+        ],
+        "total_rows": 10,
+        "total_cols": 3
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p6_t5"
+    },
+    {
+      "markdown_table": "|               | 3 Mos. Ended 3/31/23 | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 9/30/23 | 3 Mos. Ended 12/31/23 | 3 Mos. Ended 3/31/24 | 3 Mos. Ended 6/30/24 |\n|----------------|-----------------------|-----------------------|-----------------------|------------------------|-----------------------|-----------------------|\n| Unaudited      |                       |                       |                       |                        |                       |                       |\n| Operating Income | $ 7,099               | $ 7,330               | $ 7,547               | $ 7,035                | $ 7,372               | $ 7,604               |\n| D & A          | 3,214                 | 3,247                 | 3,272                 | 3,344                  | 3,309                 | 3,394                 |\n| Segment EBITDA | $ 10,313              | $ 10,577              | $ 10,819              | $ 10,379               | $ 10,681              | $ 10,998              |\n| Total operating revenues | $ 24,857              | $ 24,558              | $ 25,257              | $ 26,954               | $ 25,057              | $ 24,927              |\n| Operating Income Margin | 28.6 %               | 29.8 %               | 29.9 %               | 26.1 %                 |                       |                       |\n| Segment EBITDA Margin | 29.4 %               | 30.5 %               | 41.5 %               | 38.5 %                 | 42.6 %               | 44.1 %               |\n| Segment EBITDA - Year over year change% |                       |                       |                       |                        |                       | 4.0 %               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3 Mos. Ended 3/31/23",
+          "3 Mos. Ended 6/30/23",
+          "3 Mos. Ended 9/30/23",
+          "3 Mos. Ended 12/31/23",
+          "3 Mos. Ended 3/31/24",
+          "3 Mos. Ended 6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 7,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p7_t6"
+    },
+    {
+      "markdown_table": "|               | 3 Mos. Ended 3/31/23 | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 9/30/23 | 3 Mos. Ended 12/31/23 | 3 Mos. Ended 3/31/24 | 3 Mos. Ended 6/30/24 |\n|----------------|----------------------|----------------------|-----------------------|------------------------|----------------------|----------------------|\n| Unaudited      |                      |                      |                       |                        |                      |                      |\n| Operating Income | $ 551                | $ 533                | $ 539                 | $ 443                  | $ 399                | $ 500                |\n| Add Depreciation and amortization expense | 1,094              | 1,103              | 1,127                 | 1,164                  | 1,128              | 1,078                |\n| Segment EBITDA  | $ 1,645              | $ 1,636              | $ 1,666                 | $ 1,607                  | $ 1,527              | $ 1,578                |\n| Total operating revenues | $ 7,494              | $ 7,483              | $ 7,527                 | $ 7,618                  | $ 7,376              | $ 7,300                |\n| Operating Income Margin | 7.4 %                | 7.1 %                | 7.2 %                 | 5.8 %                  | 5.4 %                | 6.8 %                |\n| Segment EBITDA Margin |                      |                      |                       |                        | 22.0 %               | 21.9 %               |\n| Segment EBITDA - Year over year change% |                      |                      |                       |                        | (3.5)%               | 21.6 %               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3 Mos. Ended 3/31/23",
+          "3 Mos. Ended 6/30/23",
+          "3 Mos. Ended 9/30/23",
+          "3 Mos. Ended 12/31/23",
+          "3 Mos. Ended 3/31/24",
+          "3 Mos. Ended 6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 7,
+        "sections": [
+          "Operating Income",
+          "Add Depreciation and amortization expense",
+          "Segment EBITDA",
+          "Total operating revenues",
+          "Operating Income Margin",
+          "Segment EBITDA Margin",
+          "Segment EBITDA - Year over year change%"
+        ],
+        "total_rows": 13,
+        "total_cols": 7
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-06cc31ee_p7_t7"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "Non-GAAP Reconciliations",
+      "page_number": 1,
+      "original": "Non-GAAP Reconciliations",
+      "label": "section_header"
+    },
+    {
+      "text": "As of June 30, 2024",
+      "page_number": 1,
+      "original": "As of June 30, 2024",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 2,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Definitions - Non-GAAP Measures",
+      "page_number": 2,
+      "original": "Definitions - Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Non-GAAP Measures",
+      "page_number": 2,
+      "original": "Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon's Financial and Operating Information includes financial information prepared in conformity with generally accepted accounting principles in the United States (GAAP) as well as non-GAAP financial information. It is management's intent to provide non-GAAP financial information to enhance the understanding of Verizon's GAAP financial information and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that providing these non-GAAP measures in addition to the GAAP measures allows management, investors and other users of our financial information to more fully and accurately assess both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies.",
+      "page_number": 2,
+      "original": "Verizon's Financial and Operating Information includes financial information prepared in conformity with generally accepted accounting principles in the United States (GAAP) as well as non-GAAP financial information. It is management's intent to provide non-GAAP financial information to enhance the understanding of Verizon's GAAP financial information and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that providing these non-GAAP measures in addition to the GAAP measures allows management, investors and other users of our financial information to more fully and accurately assess both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies.",
+      "label": "text"
+    },
+    {
+      "text": "EBITDA and EBITDA Margin Related Non-GAAP Measures",
+      "page_number": 2,
+      "original": "EBITDA and EBITDA Margin Related Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated earnings before interest, taxes, depreciation and amortization (EBITDA), Segment EBITDA and Segment EBITDA Margin are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information as they are widely accepted financial measures used in evaluating the profitability of a company and its operating performance in relation to its competitors.",
+      "page_number": 2,
+      "original": "Consolidated earnings before interest, taxes, depreciation and amortization (EBITDA), Segment EBITDA and Segment EBITDA Margin are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information as they are widely accepted financial measures used in evaluating the profitability of a company and its operating performance in relation to its competitors.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated EBITDA is calculated by adding back interest, taxes and depreciation and amortization expense to net income.",
+      "page_number": 2,
+      "original": "Consolidated EBITDA is calculated by adding back interest, taxes and depreciation and amortization expense to net income.",
+      "label": "text"
+    },
+    {
+      "text": "Segment  EBITDA  is  calculated  by  adding  back  segment  depreciation  and  amortization  expense  to  segment  operating  income.  Segment  EBITDA  Margin  is calculated by dividing Segment EBITDA by total segment operating revenues.",
+      "page_number": 2,
+      "original": "Segment  EBITDA  is  calculated  by  adding  back  segment  depreciation  and  amortization  expense  to  segment  operating  income.  Segment  EBITDA  Margin  is calculated by dividing Segment EBITDA by total segment operating revenues.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast",
+      "page_number": 2,
+      "original": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast are non-GAAP financial measures that we believe provide relevant and useful information to management, investors and other users of our financial information in evaluating the effectiveness of our  operations  and  underlying  business  trends.  We  believe  that  Consolidated  Adjusted  EBITDA,  Consolidated  Adjusted  EBITDA  Margin  and  Consolidated Adjusted EBITDA Growth Forecast are used by investors to compare a company's operating performance to its competitors by minimizing impacts caused by differences  in  capital  structure,  taxes  and  depreciation  and  amortization  policies.  Further,  the  exclusion  of  non-operational  items  and  special  items  enables comparability to prior period performance and trend analysis.",
+      "page_number": 2,
+      "original": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast are non-GAAP financial measures that we believe provide relevant and useful information to management, investors and other users of our financial information in evaluating the effectiveness of our  operations  and  underlying  business  trends.  We  believe  that  Consolidated  Adjusted  EBITDA,  Consolidated  Adjusted  EBITDA  Margin  and  Consolidated Adjusted EBITDA Growth Forecast are used by investors to compare a company's operating performance to its competitors by minimizing impacts caused by differences  in  capital  structure,  taxes  and  depreciation  and  amortization  policies.  Further,  the  exclusion  of  non-operational  items  and  special  items  enables comparability to prior period performance and trend analysis.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA is calculated by excluding from Consolidated EBITDA the effect of the following non-operational items: equity in earnings and losses  of  unconsolidated  businesses  and  other  income  and  expense,  net,  and  the  following  special  items:  legacy  legal  matter,  severance  charges,  Verizon Business  Group  (\"Verizon  Business\")  goodwill  impairment,  asset  rationalization,  legal  settlement,  business  transformation  costs  and  non-strategic  business shutdown. Legacy legal matter recorded during 2024 relates to a litigation matter associated with a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon. Severance charges recorded during 2023 and 2022 primarily relate to involuntary separations under our existing plans. Verizon  Business  goodwill  impairment  relates  to  an  impairment  charge  recognized  in  the  fourth  quarter  of  2023  as  a  result  of  Verizon's  annual  goodwill impairment test. Asset rationalization recorded during the second quarter of 2023 relates to certain real estate and non-strategic assets that we made a decision to  cease use of as part of our transformation initiatives. Asset rationalization recorded during the fourth quarter of 2023 primarily relates to Verizon Business network assets that we made a decision to cease use of as part of our continued transformation initiatives. Legal settlement recorded during 2023 relates to the settlement of a litigation matter regarding certain administrative fees. Business transformation costs recorded during 2023 primarily relate to costs incurred in connection  with  strategic  partnership  initiatives  in  our  managed  network  support  services  for  certain  Verizon  Business  customers.  Non-strategic  business shutdown relates to the shutdown of our BlueJeans business offering in 2023.",
+      "page_number": 2,
+      "original": "Consolidated Adjusted EBITDA is calculated by excluding from Consolidated EBITDA the effect of the following non-operational items: equity in earnings and losses  of  unconsolidated  businesses  and  other  income  and  expense,  net,  and  the  following  special  items:  legacy  legal  matter,  severance  charges,  Verizon Business  Group  (\"Verizon  Business\")  goodwill  impairment,  asset  rationalization,  legal  settlement,  business  transformation  costs  and  non-strategic  business shutdown. Legacy legal matter recorded during 2024 relates to a litigation matter associated with a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon. Severance charges recorded during 2023 and 2022 primarily relate to involuntary separations under our existing plans. Verizon  Business  goodwill  impairment  relates  to  an  impairment  charge  recognized  in  the  fourth  quarter  of  2023  as  a  result  of  Verizon's  annual  goodwill impairment test. Asset rationalization recorded during the second quarter of 2023 relates to certain real estate and non-strategic assets that we made a decision to  cease use of as part of our transformation initiatives. Asset rationalization recorded during the fourth quarter of 2023 primarily relates to Verizon Business network assets that we made a decision to cease use of as part of our continued transformation initiatives. Legal settlement recorded during 2023 relates to the settlement of a litigation matter regarding certain administrative fees. Business transformation costs recorded during 2023 primarily relate to costs incurred in connection  with  strategic  partnership  initiatives  in  our  managed  network  support  services  for  certain  Verizon  Business  customers.  Non-strategic  business shutdown relates to the shutdown of our BlueJeans business offering in 2023.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA Margin is calculated by dividing Consolidated Adjusted EBITDA by consolidated operating revenues.",
+      "page_number": 2,
+      "original": "Consolidated Adjusted EBITDA Margin is calculated by dividing Consolidated Adjusted EBITDA by consolidated operating revenues.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation  for  our  Consolidated Adjusted  EBITDA  Growth  Forecast  because  we  cannot,  without  unreasonable  effort,  predict  the special items that could arise during 2024.",
+      "page_number": 2,
+      "original": "We have not provided a reconciliation  for  our  Consolidated Adjusted  EBITDA  Growth  Forecast  because  we  cannot,  without  unreasonable  effort,  predict  the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "page_number": 2,
+      "original": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "label": "section_header"
+    },
+    {
+      "text": "Net  Unsecured  Debt  and  Net  Unsecured  Debt  to  Consolidated  Adjusted  EBITDA  Ratio  are  non-GAAP  financial  measures  that  we  believe  are  useful  to management, investors and other users of our financial information in evaluating Verizon's ability to service its unsecured debt from continuing operations.",
+      "page_number": 2,
+      "original": "Net  Unsecured  Debt  and  Net  Unsecured  Debt  to  Consolidated  Adjusted  EBITDA  Ratio  are  non-GAAP  financial  measures  that  we  believe  are  useful  to management, investors and other users of our financial information in evaluating Verizon's ability to service its unsecured debt from continuing operations.",
+      "label": "text"
+    },
+    {
+      "text": "Net Unsecured Debt is calculated by subtracting secured debt and cash and cash equivalents, from the sum of debt maturing within one year and long-term debt. Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio is calculated by dividing Net Unsecured Debt by Consolidated Adjusted EBITDA. For purposes of Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio, Consolidated Adjusted EBITDA is calculated for the last twelve months.",
+      "page_number": 2,
+      "original": "Net Unsecured Debt is calculated by subtracting secured debt and cash and cash equivalents, from the sum of debt maturing within one year and long-term debt. Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio is calculated by dividing Net Unsecured Debt by Consolidated Adjusted EBITDA. For purposes of Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio, Consolidated Adjusted EBITDA is calculated for the last twelve months.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted Earnings per Common Share (Adjusted EPS) and Adjusted EPS Forecast",
+      "page_number": 2,
+      "original": "Adjusted Earnings per Common Share (Adjusted EPS) and Adjusted EPS Forecast",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted EPS and Adjusted EPS Forecast are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information in evaluating our operating results and understanding our operating trends without the effect of special items which could vary from period to period. We believe excluding special items provides more comparable assessment of our financial results from period to period.",
+      "page_number": 2,
+      "original": "Adjusted EPS and Adjusted EPS Forecast are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information in evaluating our operating results and understanding our operating trends without the effect of special items which could vary from period to period. We believe excluding special items provides more comparable assessment of our financial results from period to period.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted  EPS  is  calculated  by  excluding  from  the  calculation  of  reported  EPS  the  effect  of  the  following  special  items:  amortization  of  acquisition-related intangible assets, severance, pension and benefits charges and asset rationalization.",
+      "page_number": 2,
+      "original": "Adjusted  EPS  is  calculated  by  excluding  from  the  calculation  of  reported  EPS  the  effect  of  the  following  special  items:  amortization  of  acquisition-related intangible assets, severance, pension and benefits charges and asset rationalization.",
+      "label": "text"
+    },
+    {
+      "text": "We exclude the amortization of acquisition-related intangible assets because the amount and timing of such charges are significantly impacted by the timing, size, number and nature of the acquisitions we consummate. While we have a history of significant acquisition activity, we do not acquire businesses on a predictable cycle, and the amount of an acquisition's purchase price allocated to intangible assets and related amortization term are unique to each acquisition and can vary significantly from acquisition to acquisition. Exclusion of this amortization expense facilitates more consistent comparisons of operating results over time between our  newly  acquired  and  long-held  businesses,  and  with  both  acquisitive  and  non-acquisitive  peer  companies.  We  believe  that  it  is  important  for  investors  to",
+      "page_number": 2,
+      "original": "We exclude the amortization of acquisition-related intangible assets because the amount and timing of such charges are significantly impacted by the timing, size, number and nature of the acquisitions we consummate. While we have a history of significant acquisition activity, we do not acquire businesses on a predictable cycle, and the amount of an acquisition's purchase price allocated to intangible assets and related amortization term are unique to each acquisition and can vary significantly from acquisition to acquisition. Exclusion of this amortization expense facilitates more consistent comparisons of operating results over time between our  newly  acquired  and  long-held  businesses,  and  with  both  acquisitive  and  non-acquisitive  peer  companies.  We  believe  that  it  is  important  for  investors  to",
+      "label": "text"
+    },
+    {
+      "text": "12",
+      "page_number": 2,
+      "original": "12",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 3,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Definitions - Non-GAAP Measures",
+      "page_number": 3,
+      "original": "Definitions - Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "understand that our non-GAAP financial measure adjusts for the intangible asset amortization but does not adjust the revenue that is generated in part from the use of such intangible assets.",
+      "page_number": 3,
+      "original": "understand that our non-GAAP financial measure adjusts for the intangible asset amortization but does not adjust the revenue that is generated in part from the use of such intangible assets.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation for our Adjusted EPS Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "page_number": 3,
+      "original": "We have not provided a reconciliation for our Adjusted EPS Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted Effective Income Tax Rate Attributable to Verizon Forecast (Adjusted ETR Forecast)",
+      "page_number": 3,
+      "original": "Adjusted Effective Income Tax Rate Attributable to Verizon Forecast (Adjusted ETR Forecast)",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted ETR Forecast is a non-GAAP financial measure that we believe is useful to management, investors and other users of our financial information in assessing our effective income tax rate without the effect of special items which could vary from period to period. Adjusted ETR Forecast is calculated by dividing the provision for income taxes by net income attributable to Verizon before tax after adjusting for the effect of special items.",
+      "page_number": 3,
+      "original": "Adjusted ETR Forecast is a non-GAAP financial measure that we believe is useful to management, investors and other users of our financial information in assessing our effective income tax rate without the effect of special items which could vary from period to period. Adjusted ETR Forecast is calculated by dividing the provision for income taxes by net income attributable to Verizon before tax after adjusting for the effect of special items.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation for our Adjusted ETR Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "page_number": 3,
+      "original": "We have not provided a reconciliation for our Adjusted ETR Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow",
+      "page_number": 3,
+      "original": "Free Cash Flow",
+      "label": "section_header"
+    },
+    {
+      "text": "Free cash flow is a non-GAAP financial measure that reflects an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows. We believe it is a more conservative measure of cash flow since capital expenditures are necessary for ongoing operations. Free cash flow has limitations due to the fact that it  does  not  represent  the  residual  cash  flow  available  for  discretionary expenditures. For example, free cash flow does not incorporate payments made or expected to be made on finance lease obligations or cash payments for acquisitions of businesses or wireless licenses. Therefore, we believe it is important to view free cash flow as a complement to our entire consolidated statements of cash flows.",
+      "page_number": 3,
+      "original": "Free cash flow is a non-GAAP financial measure that reflects an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows. We believe it is a more conservative measure of cash flow since capital expenditures are necessary for ongoing operations. Free cash flow has limitations due to the fact that it  does  not  represent  the  residual  cash  flow  available  for  discretionary expenditures. For example, free cash flow does not incorporate payments made or expected to be made on finance lease obligations or cash payments for acquisitions of businesses or wireless licenses. Therefore, we believe it is important to view free cash flow as a complement to our entire consolidated statements of cash flows.",
+      "label": "text"
+    },
+    {
+      "text": "Free cash flow is calculated by subtracting capital expenditures (including capitalized software) from net cash provided by operating activities.",
+      "page_number": 3,
+      "original": "Free cash flow is calculated by subtracting capital expenditures (including capitalized software) from net cash provided by operating activities.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "page_number": 3,
+      "original": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  a  non-GAAP  financial  measure  that  we  believe  is  useful  to management, investors  and  other  users  of  our  financial  information  in  evaluating  our  operating  expenses  and  underlying  operating  trends.  We  believe  that consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  used  by  investors  to  more  accurately  compare  a  company's operating expenses to those of its competitors by eliminating impacts caused by differences in depreciation and amortization policies. In addition, the exclusion of the effects of special items allows for better comparability of our financial results from period to period.",
+      "page_number": 3,
+      "original": "Consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  a  non-GAAP  financial  measure  that  we  believe  is  useful  to management, investors  and  other  users  of  our  financial  information  in  evaluating  our  operating  expenses  and  underlying  operating  trends.  We  believe  that consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  used  by  investors  to  more  accurately  compare  a  company's operating expenses to those of its competitors by eliminating impacts caused by differences in depreciation and amortization policies. In addition, the exclusion of the effects of special items allows for better comparability of our financial results from period to period.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated operating expenses excluding depreciation and amortization and special items is calculated by excluding from consolidated operating expenses the effects of depreciation and amortization expense and the following special items: severance charges and asset rationalization.",
+      "page_number": 3,
+      "original": "Consolidated operating expenses excluding depreciation and amortization and special items is calculated by excluding from consolidated operating expenses the effects of depreciation and amortization expense and the following special items: severance charges and asset rationalization.",
+      "label": "text"
+    },
+    {
+      "text": "13",
+      "page_number": 3,
+      "original": "13",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 4,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 4,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated EBITDA, Consolidated Adjusted EBITDA and Consolidated Adjusted EBITDA Margin",
+      "page_number": 4,
+      "original": "Consolidated EBITDA, Consolidated Adjusted EBITDA and Consolidated Adjusted EBITDA Margin",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 4,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "page_number": 4,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "page_number": 4,
+      "original": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "14",
+      "page_number": 4,
+      "original": "14",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 5,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 5,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated EBITDA and Consolidated Adjusted EBITDA (LTM)",
+      "page_number": 5,
+      "original": "Consolidated EBITDA and Consolidated Adjusted EBITDA (LTM)",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 5,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "page_number": 5,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "page_number": 5,
+      "original": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "page_number": 5,
+      "original": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "label": "section_header"
+    },
+    {
+      "text": "15",
+      "page_number": 5,
+      "original": "15",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 6,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 6,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted Earnings per Common Share (Adjusted EPS)",
+      "page_number": 6,
+      "original": "Adjusted Earnings per Common Share (Adjusted EPS)",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnote:",
+      "page_number": 6,
+      "original": "Footnote:",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted EPS may not add due to rounding.",
+      "page_number": 6,
+      "original": "Adjusted EPS may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow",
+      "page_number": 6,
+      "original": "Free Cash Flow",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "page_number": 6,
+      "original": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnote:",
+      "page_number": 6,
+      "original": "Footnote:",
+      "label": "section_header"
+    },
+    {
+      "text": " Includes Amortization of acquisition-related intangible assets.",
+      "page_number": 6,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets.",
+      "label": "list_item"
+    },
+    {
+      "text": "16",
+      "page_number": 6,
+      "original": "16",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 7,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Segments",
+      "page_number": 7,
+      "original": "Non-GAAP Reconciliations - Segments",
+      "label": "section_header"
+    },
+    {
+      "text": "Segment EBITDA and Segment EBITDA Margin",
+      "page_number": 7,
+      "original": "Segment EBITDA and Segment EBITDA Margin",
+      "label": "section_header"
+    },
+    {
+      "text": "Consumer",
+      "page_number": 7,
+      "original": "Consumer",
+      "label": "section_header"
+    },
+    {
+      "text": "Business",
+      "page_number": 7,
+      "original": "Business",
+      "label": "section_header"
+    },
+    {
+      "text": "17",
+      "page_number": 7,
+      "original": "17",
+      "label": "page_footer"
+    }
+  ]
+}

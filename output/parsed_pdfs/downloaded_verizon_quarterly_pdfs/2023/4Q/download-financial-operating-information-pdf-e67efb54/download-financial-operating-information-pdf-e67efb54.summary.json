@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-financial-operating-information-pdf-e67efb54",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\4Q\\Download Financial & Operating information PDF_e67efb54.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\4Q\\download-financial-operating-information-pdf-e67efb54",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\4Q\\download-financial-operating-information-pdf-e67efb54\\download-financial-operating-information-pdf-e67efb54.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

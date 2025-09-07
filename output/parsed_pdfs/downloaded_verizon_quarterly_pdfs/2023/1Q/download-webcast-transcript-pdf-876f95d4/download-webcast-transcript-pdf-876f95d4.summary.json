@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-webcast-transcript-pdf-876f95d4",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\1Q\\Download Webcast Transcript PDF_876f95d4.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\1Q\\download-webcast-transcript-pdf-876f95d4",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\1Q\\download-webcast-transcript-pdf-876f95d4\\download-webcast-transcript-pdf-876f95d4.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

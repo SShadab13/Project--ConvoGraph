@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-earnings-presentation-pdf-be525a5d",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\Download Earnings Presentation PDF_be525a5d.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\download-earnings-presentation-pdf-be525a5d",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\download-earnings-presentation-pdf-be525a5d\\download-earnings-presentation-pdf-be525a5d.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

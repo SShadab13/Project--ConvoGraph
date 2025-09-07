@@ -1,0 +1,261 @@
+{
+  "doc_id": "download-infographic-pdf-88d85bda",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\1Q\\Download Infographic PDF_88d85bda.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "| Header | 2023 | 2024 |\n|---|---|---|\n| Cashflowfromoperations | $8.3 | $7.1 |\n| Capitalexpenditures | $6.0 | $4.4 |\n| Freecashflow 1 | $2.3 | $2.7 |\n| Dividendspaid | $2.7 | $2.8 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "2023",
+          "2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 1,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-infographic-pdf-88d85bda_p1_t0"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "1Q 2024 Earnings Results",
+      "page_number": 1,
+      "original": "1Q 2024 Earnings Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon begins 2024 with strong wireless service revenue growth, solid cash flow and continued momentum in broadband.",
+      "page_number": 1,
+      "original": "Verizon begins 2024 with strong wireless service revenue growth, solid cash flow and continued momentum in broadband.",
+      "label": "text"
+    },
+    {
+      "text": "1Q Revenue Summary",
+      "page_number": 1,
+      "original": "1Q Revenue Summary",
+      "label": "text"
+    },
+    {
+      "text": "1Q Operating Metrics 3",
+      "page_number": 1,
+      "original": "1Q Operating Metrics 3",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service 2 $19.5B",
+      "page_number": 1,
+      "original": "Wireless Service 2 $19.5B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y growth 3.3%",
+      "page_number": 1,
+      "original": "Y/Y growth 3.3%",
+      "label": "text"
+    },
+    {
+      "text": "Total Consumer $25.1B",
+      "page_number": 1,
+      "original": "Total Consumer $25.1B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y growth  0.8%",
+      "page_number": 1,
+      "original": "Y/Y growth  0.8%",
+      "label": "text"
+    },
+    {
+      "text": "Total Business $7.4B",
+      "page_number": 1,
+      "original": "Total Business $7.4B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y decline 1.6%",
+      "page_number": 1,
+      "original": "Y/Y decline 1.6%",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail connections",
+      "page_number": 1,
+      "original": "Wireless retail connections",
+      "label": "text"
+    },
+    {
+      "text": "144.8M",
+      "page_number": 1,
+      "original": "144.8M",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail postpaid churn",
+      "page_number": 1,
+      "original": "Wireless retail postpaid churn",
+      "label": "text"
+    },
+    {
+      "text": "1.15%",
+      "page_number": 1,
+      "original": "1.15%",
+      "label": "text"
+    },
+    {
+      "text": "Wireless postpaid phone net losses",
+      "page_number": 1,
+      "original": "Wireless postpaid phone net losses",
+      "label": "text"
+    },
+    {
+      "text": "68K",
+      "page_number": 1,
+      "original": "68K",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail postpaid phone churn",
+      "page_number": 1,
+      "original": "Wireless retail postpaid phone churn",
+      "label": "text"
+    },
+    {
+      "text": "0.89%",
+      "page_number": 1,
+      "original": "0.89%",
+      "label": "text"
+    },
+    {
+      "text": "389K",
+      "page_number": 1,
+      "original": "389K",
+      "label": "text"
+    },
+    {
+      "text": "53K",
+      "page_number": 1,
+      "original": "53K",
+      "label": "text"
+    },
+    {
+      "text": "Broadband net additions",
+      "page_number": 1,
+      "original": "Broadband net additions",
+      "label": "text"
+    },
+    {
+      "text": "Fios internet net additions",
+      "page_number": 1,
+      "original": "Fios internet net additions",
+      "label": "text"
+    },
+    {
+      "text": "Includes 354K Fixed Wireless Access net additions",
+      "page_number": 1,
+      "original": "Includes 354K Fixed Wireless Access net additions",
+      "label": "text"
+    },
+    {
+      "text": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments. 3 Metrics reflect an aggregation of Consumer and Business segments' results. Where applicable, the operating results reflect certain adjustments.",
+      "page_number": 1,
+      "original": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments. 3 Metrics reflect an aggregation of Consumer and Business segments' results. Where applicable, the operating results reflect certain adjustments.",
+      "label": "text"
+    },
+    {
+      "text": "Positioned for Profitable Growth Throughout 2024",
+      "page_number": 2,
+      "original": "Positioned for Profitable Growth Throughout 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Delivered on key metrics with strong Wireless Service Revenue 2 , Adjusted EBITDA 1  growth, and solid Free Cash Flow 1",
+      "page_number": 2,
+      "original": "Delivered on key metrics with strong Wireless Service Revenue 2 , Adjusted EBITDA 1  growth, and solid Free Cash Flow 1",
+      "label": "text"
+    },
+    {
+      "text": "Added new members to our leadership team , all focused on execution and driving growth",
+      "page_number": 2,
+      "original": "Added new members to our leadership team , all focused on execution and driving growth",
+      "label": "text"
+    },
+    {
+      "text": "Best first quarter for Consumer postpaid phone net adds since 2018, with continued myPlan success",
+      "page_number": 2,
+      "original": "Best first quarter for Consumer postpaid phone net adds since 2018, with continued myPlan success",
+      "label": "text"
+    },
+    {
+      "text": "Biggest quarter to date for net adds in Business FWA , at 151K",
+      "page_number": 2,
+      "original": "Biggest quarter to date for net adds in Business FWA , at 151K",
+      "label": "text"
+    },
+    {
+      "text": "Passed 250 million POPs covered with C-Band, achieving our target well ahead of plan",
+      "page_number": 2,
+      "original": "Passed 250 million POPs covered with C-Band, achieving our target well ahead of plan",
+      "label": "text"
+    },
+    {
+      "text": "Enabled innovation with 5G partnerships like Audi, Xerox, NFL and NHL, and internal AI projects",
+      "page_number": 2,
+      "original": "Enabled innovation with 5G partnerships like Audi, Xerox, NFL and NHL, and internal AI projects",
+      "label": "text"
+    },
+    {
+      "text": "Operational performance, strong execution and financial discipline remain priorities.",
+      "page_number": 2,
+      "original": "Operational performance, strong execution and financial discipline remain priorities.",
+      "label": "text"
+    },
+    {
+      "text": "Strong Momentum for Months Ahead",
+      "page_number": 2,
+      "original": "Strong Momentum for Months Ahead",
+      "label": "text"
+    },
+    {
+      "text": "Scaling FWA and Private Networks while growing our core mobility business.",
+      "page_number": 2,
+      "original": "Scaling FWA and Private Networks while growing our core mobility business.",
+      "label": "text"
+    },
+    {
+      "text": "Applying our disciplined, targeted and segmented consumer strategy to prepaid.",
+      "page_number": 2,
+      "original": "Applying our disciplined, targeted and segmented consumer strategy to prepaid.",
+      "label": "text"
+    },
+    {
+      "text": "Enabling AI at scale while using it to improve our business and customer service.",
+      "page_number": 2,
+      "original": "Enabling AI at scale while using it to improve our business and customer service.",
+      "label": "text"
+    },
+    {
+      "text": "Continuing solid cash flow generation to deliver on our capital allocation priorities.",
+      "page_number": 2,
+      "original": "Continuing solid cash flow generation to deliver on our capital allocation priorities.",
+      "label": "text"
+    },
+    {
+      "text": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "page_number": 2,
+      "original": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "label": "text"
+    }
+  ]
+}

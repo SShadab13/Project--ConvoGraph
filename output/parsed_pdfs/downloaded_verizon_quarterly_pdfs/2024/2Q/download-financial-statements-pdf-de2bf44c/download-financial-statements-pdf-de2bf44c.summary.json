@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-financial-statements-pdf-de2bf44c",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\Download Financial statements PDF_de2bf44c.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\download-financial-statements-pdf-de2bf44c",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\download-financial-statements-pdf-de2bf44c\\download-financial-statements-pdf-de2bf44c.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

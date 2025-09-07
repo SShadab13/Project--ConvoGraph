@@ -1,0 +1,283 @@
+{
+  "doc_id": "download-non-gaap-reconciliations-pdf-de6a19a8",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\4Q\\Download Non-GAAP reconciliations PDF_de6a19a8.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "|               | 3 Mos. Ended 3/31/24 | 3 Mos. Ended 6/30/24 | 3 Mos. Ended 9/30/24 | 3 Mos. Ended 12/31/24 | 12 Mos. Ended 12/31/24 |\n|----------------|-----------------------|-----------------------|-----------------------|------------------------|------------------------|\n| Unaudited      |                       |                       |                       |                        |                        |\n| Operating Revenues |                       |                       |                       |                        |                        |\n| Service        | $ 19,624              | $ 19,851              | $ 19,919              | $ 20,064               | $ 79,458               |\n| Wireless equipment | 4,490                 | 4,143                 | 4,478                 | 6,487                  | 19,598                 |\n| Other          | 943                    | 933                    | 963                    | 1,009                  | 3,848                  |\n| Total Operating Revenues | $ 25,057             | $ 24,927             | $ 25,360             | $ 27,560               | $ 102,904              |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3 Mos. Ended 3/31/24",
+          "3 Mos. Ended 6/30/24",
+          "3 Mos. Ended 9/30/24",
+          "3 Mos. Ended 12/31/24",
+          "12 Mos. Ended 12/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 2,
+        "sections": [
+          "Operating Revenues"
+        ],
+        "total_rows": 8,
+        "total_cols": 6
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-de6a19a8_p2_t0"
+    },
+    {
+      "markdown_table": "|                 | 3/31/24   | 6/30/24   | 9/30/24   | 12/31/24  |\n|-----------------|-----------|-----------|-----------|-----------|\n| Connections ('000): |           |           |           |           |\n| Wireless retail postpaid phone | 74,523    | 74,407    | 74,412    | 74,772    |\n| Unaudited       |           |           |           |           |\n| Gross Additions ('000): |           | 1,674     | 1,647     | 1,860     |\n| Wireless retail postpaid phone |           |           |           | 2,324     |\n| Net Additions ('000): |           |           |           | 7,505     |\n| Wireless retail postpaid phone |           | (194)     | (109)     | 18        |\n| Churn Rate: |           |           |           |           |\n| Wireless retail postpaid phone |           | 0.83 %    | 0.79 %    | 0.83 %    |\n| Revenue Statistics (in millions): |           |           |           |           |\n| Wireless service revenue | $ 16,760  | $ 16,985  | $ 17,036  | $ 17,170  |\n| Wireless Account Statistics: |           |           |           |           |\n| Wireless retail postpaid ARPA (1) | $ 141.31  | $ 144.15  | $ 144.94  | $ 145.61  |",
+      "financial_context": {
+        "units": "thousands",
+        "time_periods": [
+          "3/31/24",
+          "6/30/24",
+          "9/30/24",
+          "12/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "Unaudited",
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 3,
+        "sections": [
+          "Connections",
+          "Gross Additions",
+          "Net Additions",
+          "Churn Rate",
+          "Revenue Statistics",
+          "Wireless Account Statistics"
+        ],
+        "total_rows": 14,
+        "total_cols": 6
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-de6a19a8_p3_t1"
+    },
+    {
+      "markdown_table": "|                             | 3/31/24 | 6/30/24 | 9/30/24 | 12/31/24 |          |\n|------------------------------|---------|---------|---------|----------|----------|\n| Unaudited                    |         |         |         |          |          |\n| Connections ('000):         |         |         |         |          |          |\n| Wireless retail postpaid phone | 18,295  | 18,445  | 18,603  | 18,745   |          |\n| Gross Additions ('000):      |         | 694     |         |          |          |\n| Wireless retail postpaid phone |         | 737     | 770     | 740       |          |\n| Net Additions ('000):       |         |         |         | 2,941     |          |\n| Wireless retail postpaid phone | 80      | 135     | 149     | 137       |          |\n| Churn Rate:                  |         |         |         |          |          |\n| Wireless retail postpaid phone | 1.13 %  | 1.09 %  | 1.12 %  | 1.08 %    |          |\n| Revenue Statistics (in millions): |         |         |         |          |          |\n| Wireless service revenue      | $ 3,467 | $ 3,521 | $ 3,562 | $ 3,572   | $ 14,122 |\n",
+      "financial_context": {
+        "units": "thousands",
+        "time_periods": [
+          "3/31/24",
+          "6/30/24",
+          "9/30/24",
+          "12/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "Unaudited",
+          "Amounts in thousands except where noted"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 4,
+        "sections": [
+          "Connections",
+          "Gross Additions",
+          "Net Additions",
+          "Churn Rate",
+          "Revenue Statistics"
+        ],
+        "total_rows": 13,
+        "total_cols": 6
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-de6a19a8_p4_t2"
+    },
+    {
+      "markdown_table": "|               | 3/31/24   | 6/30/24   | 9/30/24   | 12/31/24  |\n|----------------|-----------|-----------|-----------|-----------|\n| Connections ('000): |           |           |           |           |\n| Retail postpaid phone Unaudited | 92,818    | 92,852    | 93,015    | 93,517    |\n| Net Additions ('000): |           |           |           |           |\n| Retail postpaid phone | (114)     | 26        | 167       | 504       |\n| Account Statistics: |           |           |           |           |\n| Retail postpaid ARPA (1) | $ 164.27  | $ 167.38  | $ 168.44  | $ 168.96  |\n| Churn Rate: |           |           |           |           |\n| Retail postpaid phone | 0.89 %    | 0.85 %    | 0.88 %    | 0.92 %    |\n| Revenue Statistics (in millions) (2) : |           |           |           |           |\n| Wireless service | $ 20,227  | $ 20,506  | $ 20,598  | $ 20,742  |\n| Wireless equipment | $ 5,361   | $ 4,998   | $ 5,343   | $ 7,515   |\n| Wireless other | $ 871     | $ 867     | $ 907     | $ 953     |\n| Total Wireless | $ 26,459  | $ 26,371  | $ 26,848  | $ 29,210  |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3/31/24",
+          "6/30/24",
+          "9/30/24",
+          "12/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "Unaudited",
+          "(1)",
+          "(2) : in millions"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 5,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-non-gaap-reconciliations-pdf-de6a19a8_p5_t3"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "Recast Selected Financial and Operating Information",
+      "page_number": 1,
+      "original": "Recast Selected Financial and Operating Information",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 2,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "In  the  first  quarter  of  2025,  Verizon  reclassified  recurring  device protection and insurance related plan revenues from Other revenue into Wireless service revenue. In addition, beginning in the first quarter of 2025, Verizon will no longer count the impacts of the second number offering in calculating wireless retail postpaid phone net additions, wireless retail postpaid phone churn and other phone metrics.",
+      "page_number": 2,
+      "original": "In  the  first  quarter  of  2025,  Verizon  reclassified  recurring  device protection and insurance related plan revenues from Other revenue into Wireless service revenue. In addition, beginning in the first quarter of 2025, Verizon will no longer count the impacts of the second number offering in calculating wireless retail postpaid phone net additions, wireless retail postpaid phone churn and other phone metrics.",
+      "label": "text"
+    },
+    {
+      "text": "As a convenience to investors, in this document we are providing certain unaudited historical financial and operating information reflecting these changes.",
+      "page_number": 2,
+      "original": "As a convenience to investors, in this document we are providing certain unaudited historical financial and operating information reflecting these changes.",
+      "label": "text"
+    },
+    {
+      "text": "Selected Historical Financial and Operating Information",
+      "page_number": 2,
+      "original": "Selected Historical Financial and Operating Information",
+      "label": "section_header"
+    },
+    {
+      "text": "Consumer - Selected Financial Results",
+      "page_number": 2,
+      "original": "Consumer - Selected Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 2,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 2,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 3,
+      "original": "Verizon Communications Inc.",
+      "label": "section_header"
+    },
+    {
+      "text": "Consumer - Selected Operating Statistics",
+      "page_number": 3,
+      "original": "Consumer - Selected Operating Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 3,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "page_number": 3,
+      "original": "(1)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "label": "footnote"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 3,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 3,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 4,
+      "original": "Verizon Communications Inc.",
+      "label": "section_header"
+    },
+    {
+      "text": "Business - Selected Operating Statistics",
+      "page_number": 4,
+      "original": "Business - Selected Operating Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 4,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 4,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 4,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 5,
+      "original": "Verizon Communications Inc.",
+      "label": "section_header"
+    },
+    {
+      "text": "Supplemental Information - Total Wireless Operating and Financial Statistics",
+      "page_number": 5,
+      "original": "Supplemental Information - Total Wireless Operating and Financial Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "The following supplemental schedule contains certain financial and operating metrics which reflect an aggregation of our Consumer and Business segments' wireless results.",
+      "page_number": 5,
+      "original": "The following supplemental schedule contains certain financial and operating metrics which reflect an aggregation of our Consumer and Business segments' wireless results.",
+      "label": "text"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 5,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "page_number": 5,
+      "original": "(1)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Intersegment transactions between Consumer or Business segment with corporate entities have not been eliminated.",
+      "page_number": 5,
+      "original": "(2)  Intersegment transactions between Consumer or Business segment with corporate entities have not been eliminated.",
+      "label": "footnote"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 5,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the reclassification of connections associated with Verizon's second number offering, migration  activity  among  different  types  of  devices  and  plans,  customer  profile  changes,  and  adjustments  in  connection  with  mergers,  acquisitions  and  divestitures.  Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "text"
+    }
+  ]
+}

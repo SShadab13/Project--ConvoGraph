@@ -1,0 +1,773 @@
+{
+  "doc_id": "download-earnings-presentation-pdf-be525a5d",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\Download Earnings Presentation PDF_be525a5d.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "| Header | 1Q25 |  |  |\n|---|---|---|---|\n| Wireless Service Revenue 1 | $20.8B +2.7% Y/Y |  |  |\n| Adjusted EBITDA 2 | $3.6B +34.3% Y/Y |  | since 〉 C-band deployment and fiber build execution ahead of plan |\n| Free Cash Flow 2 |  |  |  |\n|  | 〉 Strong financial growth across our key metrics with the best reported quarterly Adjusted EBITDA 2 ever 〉 Market share growth in broadband with continued execution of our FWA and fiber strategy | 〉 Recently executed on the next step of our Consumer business transformation journey with our 3-year price lock and free phone guarantee core prepaid 3 phone track to deliver Y/Y phone net adds for full | 〉 Best core prepaid 3 net add performance TracFone acquisition |\n|  | 〉 Total combined postpaid and net adds improved Y/Y; and on growth in Consumer postpaid $12.6B +4.0% Y/Y |  |  |",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [
+          "1Q25"
+        ],
+        "currency": "USD",
+        "notes": [
+          "1 Wireless Service Revenue",
+          "2 Adjusted EBITDA"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 3,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 6,
+        "total_cols": 4
+      },
+      "table_id": "download-earnings-presentation-pdf-be525a5d_p3_t0"
+    },
+    {
+      "markdown_table": "|                               | Q1 2024 | Q1 2025 |\n|--------------------------------|---------|---------|\n| Cash flow from operations       | $7.1    | $7.8    |\n| Capital expenditures            | $4.4    | $4.1    |\n| Free cash flow 1                | $2.7    | $3.6    |\n| Dividends paid                  | $2.8    | $2.9    |\n| Total debt                      | $151.7  |         |\n| Unsecured debt                  |         |         |\n| Cash and cash equivalents       | $128.4  | $117.3  |\n| Net unsecured debt 1           | $2.4    | $2.3    |\n| Net unsecured debt to adjusted EBITDA 1 | 2.6x | 2.3x |\n",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [
+          "Q1 2024",
+          "Q1 2025"
+        ],
+        "currency": "USD",
+        "notes": []
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 6,
+        "sections": [],
+        "total_rows": 10,
+        "total_cols": 3
+      },
+      "table_id": "download-earnings-presentation-pdf-be525a5d_p6_t1"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "1Q 2025 Earnings",
+      "page_number": 1,
+      "original": "1Q 2025 Earnings",
+      "label": "section_header"
+    },
+    {
+      "text": "April 22, 2025",
+      "page_number": 1,
+      "original": "April 22, 2025",
+      "label": "text"
+    },
+    {
+      "text": "'Safe Harbor' Statement",
+      "page_number": 2,
+      "original": "'Safe Harbor' Statement",
+      "label": "section_header"
+    },
+    {
+      "text": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forwardlooking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; changes to international trade and tariff policies and related economic and other impacts; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures  and  other  strategic  transactions,  including  our  ability  to  consummate  the  proposed  acquisition  of  Frontier  Communications  Parent,  Inc.  and  obtain  cost  savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "page_number": 2,
+      "original": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forwardlooking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; changes to international trade and tariff policies and related economic and other impacts; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures  and  other  strategic  transactions,  including  our  ability  to  consummate  the  proposed  acquisition  of  Frontier  Communications  Parent,  Inc.  and  obtain  cost  savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "label": "text"
+    },
+    {
+      "text": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "page_number": 2,
+      "original": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "label": "text"
+    },
+    {
+      "text": "2",
+      "page_number": 2,
+      "original": "2",
+      "label": "page_footer"
+    },
+    {
+      "text": "Strong strategic execution with financial discipline in 1Q25",
+      "page_number": 3,
+      "original": "Strong strategic execution with financial discipline in 1Q25",
+      "label": "section_header"
+    },
+    {
+      "text": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 3,
+      "original": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "list_item"
+    },
+    {
+      "text": "2  Non-GAAP measure.",
+      "page_number": 3,
+      "original": "2  Non-GAAP measure.",
+      "label": "list_item"
+    },
+    {
+      "text": "3  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "page_number": 3,
+      "original": "3  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "label": "footnote"
+    },
+    {
+      "text": "On track to deliver on 2025 financial guidance",
+      "page_number": 3,
+      "original": "On track to deliver on 2025 financial guidance",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 3,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "Operating metrics",
+      "page_number": 4,
+      "original": "Operating metrics",
+      "label": "section_header"
+    },
+    {
+      "text": "2.4M",
+      "page_number": 4,
+      "original": "2.4M",
+      "label": "section_header"
+    },
+    {
+      "text": "Wireless retail postpaid phone gross adds (+0.2% Y/Y)",
+      "page_number": 4,
+      "original": "Wireless retail postpaid phone gross adds (+0.2% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "1.7M",
+      "page_number": 4,
+      "original": "1.7M",
+      "label": "section_header"
+    },
+    {
+      "text": "Consumer wireless retail postpaid phone gross adds (-1.0% Y/Y)",
+      "page_number": 4,
+      "original": "Consumer wireless retail postpaid phone gross adds (-1.0% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "3.6M",
+      "page_number": 4,
+      "original": "3.6M",
+      "label": "text"
+    },
+    {
+      "text": "Wireless postpaid upgrades (-2.2% Y/Y)",
+      "page_number": 4,
+      "original": "Wireless postpaid upgrades (-2.2% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "45K",
+      "page_number": 4,
+      "original": "45K",
+      "label": "section_header"
+    },
+    {
+      "text": "Fios internet net adds",
+      "page_number": 4,
+      "original": "Fios internet net adds",
+      "label": "text"
+    },
+    {
+      "text": "Consumer",
+      "page_number": 4,
+      "original": "Consumer",
+      "label": "section_header"
+    },
+    {
+      "text": "retail postpaid phone net adds (K)",
+      "page_number": 4,
+      "original": "retail postpaid phone net adds (K)",
+      "label": "text"
+    },
+    {
+      "text": "367",
+      "page_number": 4,
+      "original": "367",
+      "label": "text"
+    },
+    {
+      "text": "18",
+      "page_number": 4,
+      "original": "18",
+      "label": "text"
+    },
+    {
+      "text": "(194)",
+      "page_number": 4,
+      "original": "(194)",
+      "label": "text"
+    },
+    {
+      "text": "(109)",
+      "page_number": 4,
+      "original": "(109)",
+      "label": "text"
+    },
+    {
+      "text": "(356)",
+      "page_number": 4,
+      "original": "(356)",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24 2Q 24 4Q 24 1Q 25",
+      "page_number": 4,
+      "original": "1Q 24 2Q 24 4Q 24 1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "Broadband net adds (K)",
+      "page_number": 4,
+      "original": "Broadband net adds (K)",
+      "label": "section_header"
+    },
+    {
+      "text": "Fixed Wireless Access",
+      "page_number": 4,
+      "original": "Fixed Wireless Access",
+      "label": "text"
+    },
+    {
+      "text": "Wireline (Fios + DSL)",
+      "page_number": 4,
+      "original": "Wireline (Fios + DSL)",
+      "label": "text"
+    },
+    {
+      "text": "389",
+      "page_number": 4,
+      "original": "389",
+      "label": "text"
+    },
+    {
+      "text": "391",
+      "page_number": 4,
+      "original": "391",
+      "label": "text"
+    },
+    {
+      "text": "389",
+      "page_number": 4,
+      "original": "389",
+      "label": "text"
+    },
+    {
+      "text": "408",
+      "page_number": 4,
+      "original": "408",
+      "label": "text"
+    },
+    {
+      "text": "35",
+      "page_number": 4,
+      "original": "35",
+      "label": "text"
+    },
+    {
+      "text": "35",
+      "page_number": 4,
+      "original": "35",
+      "label": "text"
+    },
+    {
+      "text": "339",
+      "page_number": 4,
+      "original": "339",
+      "label": "text"
+    },
+    {
+      "text": "31",
+      "page_number": 4,
+      "original": "31",
+      "label": "text"
+    },
+    {
+      "text": "354",
+      "page_number": 4,
+      "original": "354",
+      "label": "text"
+    },
+    {
+      "text": "378",
+      "page_number": 4,
+      "original": "378",
+      "label": "text"
+    },
+    {
+      "text": "363",
+      "page_number": 4,
+      "original": "363",
+      "label": "text"
+    },
+    {
+      "text": "373",
+      "page_number": 4,
+      "original": "373",
+      "label": "text"
+    },
+    {
+      "text": "[308",
+      "page_number": 4,
+      "original": "[308",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24",
+      "page_number": 4,
+      "original": "1Q 24",
+      "label": "text"
+    },
+    {
+      "text": "2Q 24",
+      "page_number": 4,
+      "original": "2Q 24",
+      "label": "text"
+    },
+    {
+      "text": "3Q 24",
+      "page_number": 4,
+      "original": "3Q 24",
+      "label": "text"
+    },
+    {
+      "text": "4Q 24",
+      "page_number": 4,
+      "original": "4Q 24",
+      "label": "text"
+    },
+    {
+      "text": "1Q 25",
+      "page_number": 4,
+      "original": "1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "Note:  Where applicable, the operating results reflect certain adjustments.",
+      "page_number": 4,
+      "original": "Note:  Where applicable, the operating results reflect certain adjustments.",
+      "label": "list_item"
+    },
+    {
+      "text": "1  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "page_number": 4,
+      "original": "1  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "label": "list_item"
+    },
+    {
+      "text": "Segmentation strategy positions Verizon for success",
+      "page_number": 4,
+      "original": "Segmentation strategy positions Verizon for success",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 4,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "Business retail postpaid phone net adds (K)",
+      "page_number": 4,
+      "original": "Business retail postpaid phone net adds (K)",
+      "label": "section_header"
+    },
+    {
+      "text": "135",
+      "page_number": 4,
+      "original": "135",
+      "label": "text"
+    },
+    {
+      "text": "149",
+      "page_number": 4,
+      "original": "149",
+      "label": "text"
+    },
+    {
+      "text": "137",
+      "page_number": 4,
+      "original": "137",
+      "label": "text"
+    },
+    {
+      "text": "80",
+      "page_number": 4,
+      "original": "80",
+      "label": "text"
+    },
+    {
+      "text": "67",
+      "page_number": 4,
+      "original": "67",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24 20 24 30 24 4Q 24 1Q 25",
+      "page_number": 4,
+      "original": "1Q 24 20 24 30 24 4Q 24 1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "Retail core prepaid 1  net adds (K)",
+      "page_number": 4,
+      "original": "Retail core prepaid 1  net adds (K)",
+      "label": "section_header"
+    },
+    {
+      "text": "137",
+      "page_number": 4,
+      "original": "137",
+      "label": "text"
+    },
+    {
+      "text": "80",
+      "page_number": 4,
+      "original": "80",
+      "label": "text"
+    },
+    {
+      "text": "65",
+      "page_number": 4,
+      "original": "65",
+      "label": "text"
+    },
+    {
+      "text": "(12)",
+      "page_number": 4,
+      "original": "(12)",
+      "label": "text"
+    },
+    {
+      "text": "(131)",
+      "page_number": 4,
+      "original": "(131)",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24 3Q 24 4Q 24 1Q 25",
+      "page_number": 4,
+      "original": "1Q 24 3Q 24 4Q 24 1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "Consolidated financial summary",
+      "page_number": 5,
+      "original": "Consolidated financial summary",
+      "label": "section_header"
+    },
+    {
+      "text": "Total revenue ($B)",
+      "page_number": 5,
+      "original": "Total revenue ($B)",
+      "label": "section_header"
+    },
+    {
+      "text": "$33.5B",
+      "page_number": 5,
+      "original": "$33.5B",
+      "label": "section_header"
+    },
+    {
+      "text": "Total revenue",
+      "page_number": 5,
+      "original": "Total revenue",
+      "label": "text"
+    },
+    {
+      "text": "(+1.5% Y/Y)",
+      "page_number": 5,
+      "original": "(+1.5% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "$12.6B Adjusted EBITDA 2 (+4.0% Y/Y)",
+      "page_number": 5,
+      "original": "$12.6B Adjusted EBITDA 2 (+4.0% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "(Adjusted EBITDA margin of 37.5%) 2",
+      "page_number": 5,
+      "original": "(Adjusted EBITDA margin of 37.5%) 2",
+      "label": "text"
+    },
+    {
+      "text": "$1.19 Adjusted EPS 2 (+3.5% Y/Y)",
+      "page_number": 5,
+      "original": "$1.19 Adjusted EPS 2 (+3.5% Y/Y)",
+      "label": "text"
+    },
+    {
+      "text": "Total Wireless service revenue 1  ($B)",
+      "page_number": 5,
+      "original": "Total Wireless service revenue 1  ($B)",
+      "label": "text"
+    },
+    {
+      "text": "Service & other",
+      "page_number": 5,
+      "original": "Service & other",
+      "label": "text"
+    },
+    {
+      "text": "Wireless equipment",
+      "page_number": 5,
+      "original": "Wireless equipment",
+      "label": "text"
+    },
+    {
+      "text": "1.5%",
+      "page_number": 5,
+      "original": "1.5%",
+      "label": "text"
+    },
+    {
+      "text": "835.7",
+      "page_number": 5,
+      "original": "835.7",
+      "label": "text"
+    },
+    {
+      "text": "$33.0",
+      "page_number": 5,
+      "original": "$33.0",
+      "label": "text"
+    },
+    {
+      "text": "$33.3",
+      "page_number": 5,
+      "original": "$33.3",
+      "label": "text"
+    },
+    {
+      "text": "$33.5",
+      "page_number": 5,
+      "original": "$33.5",
+      "label": "text"
+    },
+    {
+      "text": "$5.4",
+      "page_number": 5,
+      "original": "$5.4",
+      "label": "text"
+    },
+    {
+      "text": "85.0",
+      "page_number": 5,
+      "original": "85.0",
+      "label": "text"
+    },
+    {
+      "text": "85.3",
+      "page_number": 5,
+      "original": "85.3",
+      "label": "text"
+    },
+    {
+      "text": "85.4",
+      "page_number": 5,
+      "original": "85.4",
+      "label": "text"
+    },
+    {
+      "text": "827.6",
+      "page_number": 5,
+      "original": "827.6",
+      "label": "text"
+    },
+    {
+      "text": "827.8",
+      "page_number": 5,
+      "original": "827.8",
+      "label": "text"
+    },
+    {
+      "text": "1828.0",
+      "page_number": 5,
+      "original": "1828.0",
+      "label": "text"
+    },
+    {
+      "text": "$28.1",
+      "page_number": 5,
+      "original": "$28.1",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24",
+      "page_number": 5,
+      "original": "1Q 24",
+      "label": "text"
+    },
+    {
+      "text": "3Q 24",
+      "page_number": 5,
+      "original": "3Q 24",
+      "label": "text"
+    },
+    {
+      "text": "4Q 24",
+      "page_number": 5,
+      "original": "4Q 24",
+      "label": "text"
+    },
+    {
+      "text": "1Q 25",
+      "page_number": 5,
+      "original": "1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "2.7%",
+      "page_number": 5,
+      "original": "2.7%",
+      "label": "text"
+    },
+    {
+      "text": "$20.6",
+      "page_number": 5,
+      "original": "$20.6",
+      "label": "text"
+    },
+    {
+      "text": "$20.7",
+      "page_number": 5,
+      "original": "$20.7",
+      "label": "text"
+    },
+    {
+      "text": "820.8",
+      "page_number": 5,
+      "original": "820.8",
+      "label": "text"
+    },
+    {
+      "text": "$20.2",
+      "page_number": 5,
+      "original": "$20.2",
+      "label": "text"
+    },
+    {
+      "text": "1Q 24",
+      "page_number": 5,
+      "original": "1Q 24",
+      "label": "text"
+    },
+    {
+      "text": "2Q 24",
+      "page_number": 5,
+      "original": "2Q 24",
+      "label": "text"
+    },
+    {
+      "text": "3Q 24",
+      "page_number": 5,
+      "original": "3Q 24",
+      "label": "text"
+    },
+    {
+      "text": "4Q 24",
+      "page_number": 5,
+      "original": "4Q 24",
+      "label": "text"
+    },
+    {
+      "text": "1Q 25",
+      "page_number": 5,
+      "original": "1Q 25",
+      "label": "text"
+    },
+    {
+      "text": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 5,
+      "original": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "list_item"
+    },
+    {
+      "text": "2  Non-GAAP measure.",
+      "page_number": 5,
+      "original": "2  Non-GAAP measure.",
+      "label": "list_item"
+    },
+    {
+      "text": "Note: Amounts may not add due to rounding.",
+      "page_number": 5,
+      "original": "Note: Amounts may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Strong Wireless service revenue and Adjusted EBITDA growth",
+      "page_number": 5,
+      "original": "Strong Wireless service revenue and Adjusted EBITDA growth",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 5,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "Consolidated cash flow summary",
+      "page_number": 6,
+      "original": "Consolidated cash flow summary",
+      "label": "section_header"
+    },
+    {
+      "text": "1  Non-GAAP measure.",
+      "page_number": 6,
+      "original": "1  Non-GAAP measure.",
+      "label": "text"
+    },
+    {
+      "text": "Note: Amounts may not add due to rounding.",
+      "page_number": 6,
+      "original": "Note: Amounts may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Strong underlying cash flow generation",
+      "page_number": 6,
+      "original": "Strong underlying cash flow generation",
+      "label": "page_footer"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "verizon",
+      "page_number": 7,
+      "original": "verizon",
+      "label": "section_header"
+    }
+  ]
+}

@@ -1,0 +1,2041 @@
+{
+  "doc_id": "download-webcast-transcript-pdf-0773ea78",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\1Q\\Download Webcast Transcript PDF_0773ea78.pdf",
+  "reconstructed_tables": [],
+  "text_chunks": [
+    {
+      "text": "REFINITIV STREETEVENTS",
+      "page_number": 1,
+      "original": "REFINITIV STREETEVENTS",
+      "label": "section_header"
+    },
+    {
+      "text": "EDITED TRANSCRIPT",
+      "page_number": 1,
+      "original": "EDITED TRANSCRIPT",
+      "label": "section_header"
+    },
+    {
+      "text": "VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 1,
+      "original": "VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "text"
+    },
+    {
+      "text": "EVENT DATE/TIME: APRIL 22, 2024 / 12:30PM GMT",
+      "page_number": 1,
+      "original": "EVENT DATE/TIME: APRIL 22, 2024 / 12:30PM GMT",
+      "label": "text"
+    },
+    {
+      "text": "OVERVIEW:",
+      "page_number": 1,
+      "original": "OVERVIEW:",
+      "label": "text"
+    },
+    {
+      "text": "Company Summary",
+      "page_number": 1,
+      "original": "Company Summary",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 1,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 1,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 1,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 2,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "C O R P O R A T E   P A R T I C I P A N T S",
+      "page_number": 2,
+      "original": "C O R P O R A T E   P A R T I C I P A N T S",
+      "label": "section_header"
+    },
+    {
+      "text": "Anthony Skiadas Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 2,
+      "original": "Anthony Skiadas Verizon Communications Inc. - Executive VP & CFO",
+      "label": "text"
+    },
+    {
+      "text": "Brady Connor Verizon Communications Inc. - SVP of IR",
+      "page_number": 2,
+      "original": "Brady Connor Verizon Communications Inc. - SVP of IR",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 2,
+      "original": "Hans Vestberg Verizon Communications Inc. - Chairman & CEO",
+      "label": "text"
+    },
+    {
+      "text": "C O N F E R E N C E   C A L L   P A R T I C I P A N T S",
+      "page_number": 2,
+      "original": "C O N F E R E N C E   C A L L   P A R T I C I P A N T S",
+      "label": "section_header"
+    },
+    {
+      "text": "Bryan Kraft Deutsche Bank AG, Research Division - Director & Lead Research Analyst",
+      "page_number": 2,
+      "original": "Bryan Kraft Deutsche Bank AG, Research Division - Director & Lead Research Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Craig Moffett MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "page_number": 2,
+      "original": "Craig Moffett MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "label": "text"
+    },
+    {
+      "text": "David Barden BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "page_number": 2,
+      "original": "David Barden BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Gregory Williams TD Cowen, Research Division - Director",
+      "page_number": 2,
+      "original": "Gregory Williams TD Cowen, Research Division - Director",
+      "label": "text"
+    },
+    {
+      "text": "John Hodulik UBS Investment Bank, Research Division - MD, Sector Head of the United States Communications Group and Telco & Pay TV Analyst",
+      "page_number": 2,
+      "original": "John Hodulik UBS Investment Bank, Research Division - MD, Sector Head of the United States Communications Group and Telco & Pay TV Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Kannan Venkateshwar Barclays Bank PLC, Research Division - Director & Senior Research Analyst",
+      "page_number": 2,
+      "original": "Kannan Venkateshwar Barclays Bank PLC, Research Division - Director & Senior Research Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Michael Rollins Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "page_number": 2,
+      "original": "Michael Rollins Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Peter Supino",
+      "page_number": 2,
+      "original": "Peter Supino",
+      "label": "text"
+    },
+    {
+      "text": "Wolfe Research, LLC - MD & Senior Analyst",
+      "page_number": 2,
+      "original": "Wolfe Research, LLC - MD & Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Sebastiano Petti JPMorgan Chase & Co, Research Division - Analyst",
+      "page_number": 2,
+      "original": "Sebastiano Petti JPMorgan Chase & Co, Research Division - Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Simon Flannery Morgan Stanley, Research Division - MD",
+      "page_number": 2,
+      "original": "Simon Flannery Morgan Stanley, Research Division - MD",
+      "label": "text"
+    },
+    {
+      "text": "Timothy Horan Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "page_number": 2,
+      "original": "Timothy Horan Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "P R E S E N T A T I O N",
+      "page_number": 2,
+      "original": "P R E S E N T A T I O N",
+      "label": "section_header"
+    },
+    {
+      "text": "Operator",
+      "page_number": 2,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "Good morning, and welcome to the Verizon First Quarter 2024 Earnings Conference Call. (Operator Instructions) Today's conference is being recorded. If you have any objections, you may disconnect at this time. It is now my pleasure to turn the call over to your host, Mr. Brady Connor, Senior Vice President, Investor Relations.",
+      "page_number": 2,
+      "original": "Good morning, and welcome to the Verizon First Quarter 2024 Earnings Conference Call. (Operator Instructions) Today's conference is being recorded. If you have any objections, you may disconnect at this time. It is now my pleasure to turn the call over to your host, Mr. Brady Connor, Senior Vice President, Investor Relations.",
+      "label": "text"
+    },
+    {
+      "text": "Brady Connor - Verizon Communications Inc. - SVP of IR",
+      "page_number": 2,
+      "original": "Brady Connor - Verizon Communications Inc. - SVP of IR",
+      "label": "text"
+    },
+    {
+      "text": "Thanks, Brad. Good morning, everyone, and welcome to our First Quarter Earnings Conference Call. I'm Brady Connor, and I'm joined by our Chairman and Chief Executive Officer, Hans Vestberg; as well as our Chief Financial Officer, Tony Skiadas.",
+      "page_number": 2,
+      "original": "Thanks, Brad. Good morning, everyone, and welcome to our First Quarter Earnings Conference Call. I'm Brady Connor, and I'm joined by our Chairman and Chief Executive Officer, Hans Vestberg; as well as our Chief Financial Officer, Tony Skiadas.",
+      "label": "text"
+    },
+    {
+      "text": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found on Slide 2 of the presentation. Information in this  presentation  contains  statements  about  expected  future  events  and  financial  results  that  are  forward-looking  and  subject  to  risks  and uncertainties. Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website. This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.",
+      "page_number": 2,
+      "original": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found on Slide 2 of the presentation. Information in this  presentation  contains  statements  about  expected  future  events  and  financial  results  that  are  forward-looking  and  subject  to  risks  and uncertainties. Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website. This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.",
+      "label": "text"
+    },
+    {
+      "text": "Earlier this morning, we posted to our Investor Relations website a detailed review of our first quarter results. You'll find additional details in the earnings materials on our website.",
+      "page_number": 2,
+      "original": "Earlier this morning, we posted to our Investor Relations website a detailed review of our first quarter results. You'll find additional details in the earnings materials on our website.",
+      "label": "text"
+    },
+    {
+      "text": "With that, I'll turn the call over to Hans.",
+      "page_number": 2,
+      "original": "With that, I'll turn the call over to Hans.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 2,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 2,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 2,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "2",
+      "page_number": 2,
+      "original": "2",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 3,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 3,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, Brady. Good morning, everyone, and welcome to our first quarter 2024 earnings call. I'm pleased to report that we have started the year with a solid momentum, building on the progress we made throughout 2023. Our results this quarter further validate that our strategy is working and position us well for a profitable growth this year. Our execution in the first quarter keeps us on track towards our full year 2024 guidance as we continue to deliver against our key financial metrics.",
+      "page_number": 3,
+      "original": "Thank you, Brady. Good morning, everyone, and welcome to our first quarter 2024 earnings call. I'm pleased to report that we have started the year with a solid momentum, building on the progress we made throughout 2023. Our results this quarter further validate that our strategy is working and position us well for a profitable growth this year. Our execution in the first quarter keeps us on track towards our full year 2024 guidance as we continue to deliver against our key financial metrics.",
+      "label": "text"
+    },
+    {
+      "text": "We grew wireless service revenue and adjusted EBITDA and generated solid free cash flow. Operational excellence is our priority. Our team is delivering. We have the right strategy, and we're working to keep this progress up quarter by quarter.",
+      "page_number": 3,
+      "original": "We grew wireless service revenue and adjusted EBITDA and generated solid free cash flow. Operational excellence is our priority. Our team is delivering. We have the right strategy, and we're working to keep this progress up quarter by quarter.",
+      "label": "text"
+    },
+    {
+      "text": "It has been a busy quarter across our business. We produced big moments at the Super Bowl, published our first consumer connections report, achieved milestones in our C-band rollout, added new members to our leadership team, published our annual ESG report, accomplished many goals with Citizen Verizon and completed a pension transaction that increases our financial flexibility. Verizon has a differentiated position in the industry. We have the highest quality customer base in Consumer and Business, the largest adjusted EBITDA and a great team that knows how to execute our strategy.",
+      "page_number": 3,
+      "original": "It has been a busy quarter across our business. We produced big moments at the Super Bowl, published our first consumer connections report, achieved milestones in our C-band rollout, added new members to our leadership team, published our annual ESG report, accomplished many goals with Citizen Verizon and completed a pension transaction that increases our financial flexibility. Verizon has a differentiated position in the industry. We have the highest quality customer base in Consumer and Business, the largest adjusted EBITDA and a great team that knows how to execute our strategy.",
+      "label": "text"
+    },
+    {
+      "text": "Turning to our first quarter results. Wireless service revenue growth climbed to 3.3%. Our revenue performance, combined with our work on cost efficiency programs, translated to a $12.1 billion adjusted EBITDA. That's a year-over-year growth of 1.4%. We generated $2.7 billion in free cash flow, and we expect free cash flow to build throughout the year, similar to 2023.",
+      "page_number": 3,
+      "original": "Turning to our first quarter results. Wireless service revenue growth climbed to 3.3%. Our revenue performance, combined with our work on cost efficiency programs, translated to a $12.1 billion adjusted EBITDA. That's a year-over-year growth of 1.4%. We generated $2.7 billion in free cash flow, and we expect free cash flow to build throughout the year, similar to 2023.",
+      "label": "text"
+    },
+    {
+      "text": "Our core products on mobility, broadband and private networks are at the center of people's lives and businesses. Connectivity is only becoming more vital with each passing day. And our investments and world-class network ensure that our customers can depend on us to deliver the reliable, high-quality experience they deserve.",
+      "page_number": 3,
+      "original": "Our core products on mobility, broadband and private networks are at the center of people's lives and businesses. Connectivity is only becoming more vital with each passing day. And our investments and world-class network ensure that our customers can depend on us to deliver the reliable, high-quality experience they deserve.",
+      "label": "text"
+    },
+    {
+      "text": "Now let me go into some specifics about this quarter. Our Consumer team is executing extremely well. Despite taking further pricing action this quarter, our postpaid phone net adds performance improved year-over-year, evidence of how our differentiated value proposition is resonating with customers.",
+      "page_number": 3,
+      "original": "Now let me go into some specifics about this quarter. Our Consumer team is executing extremely well. Despite taking further pricing action this quarter, our postpaid phone net adds performance improved year-over-year, evidence of how our differentiated value proposition is resonating with customers.",
+      "label": "text"
+    },
+    {
+      "text": "Our net loss of 158,000 is more than 100,000 net adds better than our first quarter performance in 2023. This achievement was fueled by continued momentum in postpaid phone gross adds, which grew more than 5% year-over-year. We mitigated churn impacts from pricing actions through laser-focused retention efforts and the strength of our value proposition.",
+      "page_number": 3,
+      "original": "Our net loss of 158,000 is more than 100,000 net adds better than our first quarter performance in 2023. This achievement was fueled by continued momentum in postpaid phone gross adds, which grew more than 5% year-over-year. We mitigated churn impacts from pricing actions through laser-focused retention efforts and the strength of our value proposition.",
+      "label": "text"
+    },
+    {
+      "text": "These results represented Verizon Consumer Group's strongest first quarter postpaid phone net adds performance since 2018. Our targeted and segmented go-to-market approach, combined with myPlan and its exclusive perks, is clearly working. With myPlan, we are building a recurring revenue stream out of perks and services. These incentives, like our popular Netflix plus Max bundle, add value and deepen our customer relationships. We know our customers extremely well and tailor our offerings to their needs.",
+      "page_number": 3,
+      "original": "These results represented Verizon Consumer Group's strongest first quarter postpaid phone net adds performance since 2018. Our targeted and segmented go-to-market approach, combined with myPlan and its exclusive perks, is clearly working. With myPlan, we are building a recurring revenue stream out of perks and services. These incentives, like our popular Netflix plus Max bundle, add value and deepen our customer relationships. We know our customers extremely well and tailor our offerings to their needs.",
+      "label": "text"
+    },
+    {
+      "text": "We're bringing the same proven approach to our prepaid business. Within the quarter, we established our new value market leadership team, bringing experts to execute our plans with speed and discipline. While there is still work to be done, we're seeing early signs of progress in Visible and Total By Verizon. In February, we stopped processing new affordable connectivity program activations, which caused headwinds for our SafeLink brand. The ACP may shut down. But Verizon is committed to providing households with access to high-quality connectivity and reliable home Internet without data caps and does not believe that income should be a barrier to access.",
+      "page_number": 3,
+      "original": "We're bringing the same proven approach to our prepaid business. Within the quarter, we established our new value market leadership team, bringing experts to execute our plans with speed and discipline. While there is still work to be done, we're seeing early signs of progress in Visible and Total By Verizon. In February, we stopped processing new affordable connectivity program activations, which caused headwinds for our SafeLink brand. The ACP may shut down. But Verizon is committed to providing households with access to high-quality connectivity and reliable home Internet without data caps and does not believe that income should be a barrier to access.",
+      "label": "text"
+    },
+    {
+      "text": "Since 2020, we have offered high-speed home Internet to qualifying customers for as low as $20 a month through our Verizon Forward program. And we have other plans to reach households who rely on ACP. For Business mobility, postpaid phone net adds were 90,000. The team continues to put up subscriber growth as the market share leader in a competitive environment, even while implementing pricing actions within the quarter. More businesses rely on Verizon than any other provider to deliver mission-critical support for the day-to-day operation.",
+      "page_number": 3,
+      "original": "Since 2020, we have offered high-speed home Internet to qualifying customers for as low as $20 a month through our Verizon Forward program. And we have other plans to reach households who rely on ACP. For Business mobility, postpaid phone net adds were 90,000. The team continues to put up subscriber growth as the market share leader in a competitive environment, even while implementing pricing actions within the quarter. More businesses rely on Verizon than any other provider to deliver mission-critical support for the day-to-day operation.",
+      "label": "text"
+    },
+    {
+      "text": "In total, first quarter postpaid phone net losses were 68,000, a 59,000 net loss improvement versus prior year. We're exiting the quarter with both Consumer and Business delivering their strongest performance in March, a good sign for the year ahead. Our broadband business continued to",
+      "page_number": 3,
+      "original": "In total, first quarter postpaid phone net losses were 68,000, a 59,000 net loss improvement versus prior year. We're exiting the quarter with both Consumer and Business delivering their strongest performance in March, a good sign for the year ahead. Our broadband business continued to",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 3,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 3,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 3,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 4,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "be a key growth engine, now serving more than 11 million subscribers. We have grown our base 18% over the last year, and our network is a critical part of the infrastructure that homes and businesses rely on.",
+      "page_number": 4,
+      "original": "be a key growth engine, now serving more than 11 million subscribers. We have grown our base 18% over the last year, and our network is a critical part of the infrastructure that homes and businesses rely on.",
+      "label": "text"
+    },
+    {
+      "text": "Fixed wireless access has turned out to be a large and growing opportunity. This is now a meaningful piece of our business. We knew that fixed wireless access would be a hit with consumers, who like its quality, reliability and easy setup. Businesses are showing similar excitement as this was our biggest quarter-to-date for the net adds in business fixed wireless access with 151,000 setting our new high.",
+      "page_number": 4,
+      "original": "Fixed wireless access has turned out to be a large and growing opportunity. This is now a meaningful piece of our business. We knew that fixed wireless access would be a hit with consumers, who like its quality, reliability and easy setup. Businesses are showing similar excitement as this was our biggest quarter-to-date for the net adds in business fixed wireless access with 151,000 setting our new high.",
+      "label": "text"
+    },
+    {
+      "text": "Fios remains extremely popular with one of the highest third-party Net Promoter Score in the industry. And as we already know, Fios is the best pure broadband offering in the country. Together, our total broadband portfolio delivered a strong quarter with 389,000 net adds. As with mobility, we saw good momentum with the broadband net adds as we exited the quarter, and we expect that to continue.",
+      "page_number": 4,
+      "original": "Fios remains extremely popular with one of the highest third-party Net Promoter Score in the industry. And as we already know, Fios is the best pure broadband offering in the country. Together, our total broadband portfolio delivered a strong quarter with 389,000 net adds. As with mobility, we saw good momentum with the broadband net adds as we exited the quarter, and we expect that to continue.",
+      "label": "text"
+    },
+    {
+      "text": "We also had a great quarter in private networks, signing transformative deals across industries. Xerox selected our network and service solution as its framework for modernizing its information technology system. We also signed a new private network deal with a global power solution leader, Cummins Inc. And iconic American sports leagues are turning to us for their networks that serve their fans, players and cultures. We're on the field, on the aisles and in the stands and in the parking lots.",
+      "page_number": 4,
+      "original": "We also had a great quarter in private networks, signing transformative deals across industries. Xerox selected our network and service solution as its framework for modernizing its information technology system. We also signed a new private network deal with a global power solution leader, Cummins Inc. And iconic American sports leagues are turning to us for their networks that serve their fans, players and cultures. We're on the field, on the aisles and in the stands and in the parking lots.",
+      "label": "text"
+    },
+    {
+      "text": "During the quarter, we held a partner summit, where we unveiled our sports and entertainment strategy. We are at the center of the culture moments that matter the most to our customers from concerts and performance to athletic achievements and competition. We're already in every National Football League stadium in the country. We're now expanding services with NFL teams, including the installation of a private 5G network at the LA Chargers' training facility.",
+      "page_number": 4,
+      "original": "During the quarter, we held a partner summit, where we unveiled our sports and entertainment strategy. We are at the center of the culture moments that matter the most to our customers from concerts and performance to athletic achievements and competition. We're already in every National Football League stadium in the country. We're now expanding services with NFL teams, including the installation of a private 5G network at the LA Chargers' training facility.",
+      "label": "text"
+    },
+    {
+      "text": "We also renewed our partnership as the official 5G network of the National Hockey League in the United States and are expanding services throughout its arenas. As you may have seen in our Consumer Connection Report, during the '23, '24 NFL season, the average fan used more data than the year before. These live moments matter to our customers, and they want to share them by text, by phone and by video. We are a vital part of their experiences.",
+      "page_number": 4,
+      "original": "We also renewed our partnership as the official 5G network of the National Hockey League in the United States and are expanding services throughout its arenas. As you may have seen in our Consumer Connection Report, during the '23, '24 NFL season, the average fan used more data than the year before. These live moments matter to our customers, and they want to share them by text, by phone and by video. We are a vital part of their experiences.",
+      "label": "text"
+    },
+    {
+      "text": "Our private networks business is growing and full of long-term contracts with the best partners around the world. All of this is supported by the infrastructure we have built and are building. We operate the nation's most reliable and robust network for all customers from households to global enterprises. Recently, we passed 250 million POPs covered with C-band, achieving our target almost a year ahead of plan. The pace and quality of our build-out is spectacular. Most importantly, our customers love the C-band experience. In the first 76 markets where we rolled out C-band, we see higher premium mix and reduced churn.",
+      "page_number": 4,
+      "original": "Our private networks business is growing and full of long-term contracts with the best partners around the world. All of this is supported by the infrastructure we have built and are building. We operate the nation's most reliable and robust network for all customers from households to global enterprises. Recently, we passed 250 million POPs covered with C-band, achieving our target almost a year ahead of plan. The pace and quality of our build-out is spectacular. Most importantly, our customers love the C-band experience. In the first 76 markets where we rolled out C-band, we see higher premium mix and reduced churn.",
+      "label": "text"
+    },
+    {
+      "text": "Our strategy from the start was to build the network once to meet the needs of the present and to optimize it for the future. And we're doing just that. We have been working with AI for several years, and our powerful network positions Verizon to lead the AI revolution. In 2023, we released a set of responsible AI principles to guide our efforts to leverage new AI technologies in ways that positively impact our stakeholders and establish Verizon as a trusted brand and partner with respect to AI.",
+      "page_number": 4,
+      "original": "Our strategy from the start was to build the network once to meet the needs of the present and to optimize it for the future. And we're doing just that. We have been working with AI for several years, and our powerful network positions Verizon to lead the AI revolution. In 2023, we released a set of responsible AI principles to guide our efforts to leverage new AI technologies in ways that positively impact our stakeholders and establish Verizon as a trusted brand and partner with respect to AI.",
+      "label": "text"
+    },
+    {
+      "text": "Enabling AI at scale for improved customer service is a key. We're also aggressively driving AI transformative potential with our businesses, something our network was built to support. We already had several generative AI projects going live. Our AI strategy focused on 3 priorities. First, optimizing internal processes and operation through machine learning such as creating efficiencies in fuel consumption. AI is already centered to our cost transformation program and will become even more important over time.",
+      "page_number": 4,
+      "original": "Enabling AI at scale for improved customer service is a key. We're also aggressively driving AI transformative potential with our businesses, something our network was built to support. We already had several generative AI projects going live. Our AI strategy focused on 3 priorities. First, optimizing internal processes and operation through machine learning such as creating efficiencies in fuel consumption. AI is already centered to our cost transformation program and will become even more important over time.",
+      "label": "text"
+    },
+    {
+      "text": "Secondly, enhancing product experiences with AI capabilities like the personalized plan recommendation on myPlan, which is producing good, early results. And thirdly, establishing an AI-based revenue stream by commercializing our network's unique low latency, high bandwidth and robust mobile edge compute capabilities. Generative AI workloads represent a great long-term opportunity for us.",
+      "page_number": 4,
+      "original": "Secondly, enhancing product experiences with AI capabilities like the personalized plan recommendation on myPlan, which is producing good, early results. And thirdly, establishing an AI-based revenue stream by commercializing our network's unique low latency, high bandwidth and robust mobile edge compute capabilities. Generative AI workloads represent a great long-term opportunity for us.",
+      "label": "text"
+    },
+    {
+      "text": "As we expand our network and increase our performance advantage, we are also making Verizon a more efficient organization. We are back to business as usual level on CapEx spend as we had promised. And we have struck a balance between profitable growth and free cash flow that",
+      "page_number": 4,
+      "original": "As we expand our network and increase our performance advantage, we are also making Verizon a more efficient organization. We are back to business as usual level on CapEx spend as we had promised. And we have struck a balance between profitable growth and free cash flow that",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 4,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 4,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 4,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 5,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "supports both our dividend and a stronger balance sheet. This gives us greater flexibility to accelerate deleveraging throughout the second half of the year, bringing us closer to our long-term leverage target.",
+      "page_number": 5,
+      "original": "supports both our dividend and a stronger balance sheet. This gives us greater flexibility to accelerate deleveraging throughout the second half of the year, bringing us closer to our long-term leverage target.",
+      "label": "text"
+    },
+    {
+      "text": "Our dividend is healthy and secure. And our free cash flow dividend payout ratio continues to improve. We are focused on putting our Board in a position to continue to raise the dividend each year, building on our current industry record of 17 consecutive increases.",
+      "page_number": 5,
+      "original": "Our dividend is healthy and secure. And our free cash flow dividend payout ratio continues to improve. We are focused on putting our Board in a position to continue to raise the dividend each year, building on our current industry record of 17 consecutive increases.",
+      "label": "text"
+    },
+    {
+      "text": "Now let me turn the call over to Tony to discuss our financial and operational performance in more detail. Tony?",
+      "page_number": 5,
+      "original": "Now let me turn the call over to Tony to discuss our financial and operational performance in more detail. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 5,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thanks, Hans, and good morning. Our first quarter results demonstrate the strong execution of our team, building on the momentum from 2023 and delivering solid results in our 3 priorities of wireless service revenue, adjusted EBITDA and free cash flow.",
+      "page_number": 5,
+      "original": "Thanks, Hans, and good morning. Our first quarter results demonstrate the strong execution of our team, building on the momentum from 2023 and delivering solid results in our 3 priorities of wireless service revenue, adjusted EBITDA and free cash flow.",
+      "label": "text"
+    },
+    {
+      "text": "We saw further improvements in postpaid phone net adds and another strong quarter of growth in our broadband subscriber base. We accomplished this  while  maintaining  our  promotional  discipline  as  evidenced  by  our  year-over-year  adjusted  EBITDA  growth  of  1.4%  and  more  than  16% year-over-year free cash flow growth.",
+      "page_number": 5,
+      "original": "We saw further improvements in postpaid phone net adds and another strong quarter of growth in our broadband subscriber base. We accomplished this  while  maintaining  our  promotional  discipline  as  evidenced  by  our  year-over-year  adjusted  EBITDA  growth  of  1.4%  and  more  than  16% year-over-year free cash flow growth.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer postpaid phone net losses were 158,000 for the quarter, better versus the prior year by 105,000 driven by improvements in both gross adds and churn. As Hans mentioned, this represents our best first quarter performance in Consumer postpaid phone net adds since 2018. We continue to see improved operational performance with Consumer postpaid phone gross adds, up more than 5% year-over-year. And as you heard from Hans, we exited the quarter with good momentum.",
+      "page_number": 5,
+      "original": "Consumer postpaid phone net losses were 158,000 for the quarter, better versus the prior year by 105,000 driven by improvements in both gross adds and churn. As Hans mentioned, this represents our best first quarter performance in Consumer postpaid phone net adds since 2018. We continue to see improved operational performance with Consumer postpaid phone gross adds, up more than 5% year-over-year. And as you heard from Hans, we exited the quarter with good momentum.",
+      "label": "text"
+    },
+    {
+      "text": "The changes we made over the last few quarters, including launching a regional sales structure and updating our sales compensation plans, provide the right framework for our go-to-market approach. We believe these changes, combined with the continued success of myPlan and increased utilization of C-band, will help us sustain our momentum.",
+      "page_number": 5,
+      "original": "The changes we made over the last few quarters, including launching a regional sales structure and updating our sales compensation plans, provide the right framework for our go-to-market approach. We believe these changes, combined with the continued success of myPlan and increased utilization of C-band, will help us sustain our momentum.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer postpaid phone churn of 0.83% represents a one basis point improvement year-over-year. This result is a reflection of the strength of our value proposition as well as our high-quality customer base. The first quarter postpaid phone net add improvement coincided with a further decline in upgrades, which were down nearly 21% year-over-year. We continue to see success with our disciplined and segmented approach to customer offers, in alignment with our strategy.",
+      "page_number": 5,
+      "original": "Consumer postpaid phone churn of 0.83% represents a one basis point improvement year-over-year. This result is a reflection of the strength of our value proposition as well as our high-quality customer base. The first quarter postpaid phone net add improvement coincided with a further decline in upgrades, which were down nearly 21% year-over-year. We continue to see success with our disciplined and segmented approach to customer offers, in alignment with our strategy.",
+      "label": "text"
+    },
+    {
+      "text": "On the Business side, we delivered 90,000 postpaid phone net adds. Business volume results were challenged early in the quarter as the team implemented pricing increases in January. However, we saw positive net add momentum built throughout the quarter, and we exited the quarter well positioned to continue to build on operational improvements in both mobility and broadband.",
+      "page_number": 5,
+      "original": "On the Business side, we delivered 90,000 postpaid phone net adds. Business volume results were challenged early in the quarter as the team implemented pricing increases in January. However, we saw positive net add momentum built throughout the quarter, and we exited the quarter well positioned to continue to build on operational improvements in both mobility and broadband.",
+      "label": "text"
+    },
+    {
+      "text": "That sales performance helped Verizon Business achieve fixed wireless access net adds of 151,000, their best quarterly result to date. We've been pleased with how businesses have adopted FWA, and we continue to see strong demand from small businesses and enterprises, which are attracted to the ease of deployment, reliability and the flexibility of the product.",
+      "page_number": 5,
+      "original": "That sales performance helped Verizon Business achieve fixed wireless access net adds of 151,000, their best quarterly result to date. We've been pleased with how businesses have adopted FWA, and we continue to see strong demand from small businesses and enterprises, which are attracted to the ease of deployment, reliability and the flexibility of the product.",
+      "label": "text"
+    },
+    {
+      "text": "Fixed wireless net adds for Consumer were 203,000, resulting in a consolidated total of 354,000. This reflects the attractiveness of FWA as an alternative to traditional cable broadband, even in the market that saw muted activity. We continue to be comfortable with this pace of growth, believing it provides the right combination of base growth, ARPU accretion and the superior experience our customers expect on the Verizon network.",
+      "page_number": 5,
+      "original": "Fixed wireless net adds for Consumer were 203,000, resulting in a consolidated total of 354,000. This reflects the attractiveness of FWA as an alternative to traditional cable broadband, even in the market that saw muted activity. We continue to be comfortable with this pace of growth, believing it provides the right combination of base growth, ARPU accretion and the superior experience our customers expect on the Verizon network.",
+      "label": "text"
+    },
+    {
+      "text": "And our third-party Net Promoter Scores for our FWA product continue to outpace traditional cable broadband offerings as we remain focused on building a long-term sustainable business. Overall, broadband net adds were 389,000, including 53,000 Fios Internet net adds. We're pleased with how Fios continues to grow in the marketplace even as move activity across the country remains lower than prior years.",
+      "page_number": 5,
+      "original": "And our third-party Net Promoter Scores for our FWA product continue to outpace traditional cable broadband offerings as we remain focused on building a long-term sustainable business. Overall, broadband net adds were 389,000, including 53,000 Fios Internet net adds. We're pleased with how Fios continues to grow in the marketplace even as move activity across the country remains lower than prior years.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 5,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 5,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 5,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 6,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "We finished the quarter with over 11.1 million broadband subscribers, including over 3.4 million on FWA. We've now added more than 3 million broadband subscribers in the last 2 years alone. On prepaid, starting this quarter, we are disclosing subscriber results with and without our SafeLink brand. This disclosure provides improved transparency into our prepaid results. As a reminder, SafeLink is our government subsidy program brand offering and holds the majority of our ACP customers.",
+      "page_number": 6,
+      "original": "We finished the quarter with over 11.1 million broadband subscribers, including over 3.4 million on FWA. We've now added more than 3 million broadband subscribers in the last 2 years alone. On prepaid, starting this quarter, we are disclosing subscriber results with and without our SafeLink brand. This disclosure provides improved transparency into our prepaid results. As a reminder, SafeLink is our government subsidy program brand offering and holds the majority of our ACP customers.",
+      "label": "text"
+    },
+    {
+      "text": "The actions we've taken to scale Visible and Total By Verizon as well as address operational execution with Straight Talk drove improvements in our prepaid performance. Prepaid net losses, excluding SafeLink, were better by 146,000 year-over-year.",
+      "page_number": 6,
+      "original": "The actions we've taken to scale Visible and Total By Verizon as well as address operational execution with Straight Talk drove improvements in our prepaid performance. Prepaid net losses, excluding SafeLink, were better by 146,000 year-over-year.",
+      "label": "text"
+    },
+    {
+      "text": "While we are pleased to see the improvements, we still have work to do to address challenges in the prepaid business. That includes navigating the uncertainty around ACP. And we recently announced plans to provide accessible, affordable and reliable connectivity options for those who need it most. As a reminder, we have approximately 1.1 million prepaid ACP subscribers as of the end of the first quarter. We expect the elimination of the program to result in lower wireless service revenue that have minimal impact on our adjusted EBITDA.",
+      "page_number": 6,
+      "original": "While we are pleased to see the improvements, we still have work to do to address challenges in the prepaid business. That includes navigating the uncertainty around ACP. And we recently announced plans to provide accessible, affordable and reliable connectivity options for those who need it most. As a reminder, we have approximately 1.1 million prepaid ACP subscribers as of the end of the first quarter. We expect the elimination of the program to result in lower wireless service revenue that have minimal impact on our adjusted EBITDA.",
+      "label": "text"
+    },
+    {
+      "text": "Moving to our financials. Consolidated revenue for the quarter was $33 billion, up 0.2% year-over-year. The benefits of the pricing actions we took in the quarter, combined with improved operating metrics, offset the year-over-year decrease in wireless equipment revenue due to lower upgrades. Wireless service revenue growth was 3.3% for the first quarter. This represents a significant acceleration in our revenue growth. And the full year 2023 growth rate, excluding the reallocation of certain revenues, was only 1.3%.",
+      "page_number": 6,
+      "original": "Moving to our financials. Consolidated revenue for the quarter was $33 billion, up 0.2% year-over-year. The benefits of the pricing actions we took in the quarter, combined with improved operating metrics, offset the year-over-year decrease in wireless equipment revenue due to lower upgrades. Wireless service revenue growth was 3.3% for the first quarter. This represents a significant acceleration in our revenue growth. And the full year 2023 growth rate, excluding the reallocation of certain revenues, was only 1.3%.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer led the way with wireless service revenue growth of 3.4%, driven by ARPA growth of 4.4% and improved year-over-year postpaid phone net add performance. In addition to targeted pricing actions, ARPA continues to benefit from the further adoption of myPlan. myPlan has been instrumental in growing our premium mix, which now stands at 42% of our postpaid phone base. We're also starting to see a growing impact from Perks revenue as we scale the number of subscriptions. With over 20% of the postpaid base on myPlan, we see further opportunities for ARPA accretion as we expect to double the number of customers on myPlan in our postpaid base by the end of this year.",
+      "page_number": 6,
+      "original": "Consumer led the way with wireless service revenue growth of 3.4%, driven by ARPA growth of 4.4% and improved year-over-year postpaid phone net add performance. In addition to targeted pricing actions, ARPA continues to benefit from the further adoption of myPlan. myPlan has been instrumental in growing our premium mix, which now stands at 42% of our postpaid phone base. We're also starting to see a growing impact from Perks revenue as we scale the number of subscriptions. With over 20% of the postpaid base on myPlan, we see further opportunities for ARPA accretion as we expect to double the number of customers on myPlan in our postpaid base by the end of this year.",
+      "label": "text"
+    },
+    {
+      "text": "For the first time, we are disclosing fixed wireless access revenue within our externally released results. FWA revenue, which is included in wireless service revenue, was $452 million for the quarter, up nearly $200 million versus the prior year. Headwinds in prepaid revenue continue to partially offset the gains from ARPA performance in wireless service revenue. For the quarter, prepaid revenue declined $106 million versus the prior year. While this is an improvement over the prior quarter, it represented an approximately 60 basis point drag on total wireless service revenue growth.",
+      "page_number": 6,
+      "original": "For the first time, we are disclosing fixed wireless access revenue within our externally released results. FWA revenue, which is included in wireless service revenue, was $452 million for the quarter, up nearly $200 million versus the prior year. Headwinds in prepaid revenue continue to partially offset the gains from ARPA performance in wireless service revenue. For the quarter, prepaid revenue declined $106 million versus the prior year. While this is an improvement over the prior quarter, it represented an approximately 60 basis point drag on total wireless service revenue growth.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated adjusted EBITDA was approximately $12.1 billion for the quarter, an increase of 1.4% compared to the prior year, driven by the growth in wireless service revenue as well as the impact of lower upgrade volumes. With a full quarter's impact from our recent pricing actions, we anticipate the second quarter's adjusted EBITDA growth to accelerate year-over-year.",
+      "page_number": 6,
+      "original": "Consolidated adjusted EBITDA was approximately $12.1 billion for the quarter, an increase of 1.4% compared to the prior year, driven by the growth in wireless service revenue as well as the impact of lower upgrade volumes. With a full quarter's impact from our recent pricing actions, we anticipate the second quarter's adjusted EBITDA growth to accelerate year-over-year.",
+      "label": "text"
+    },
+    {
+      "text": "Operating expenses, excluding depreciation and amortization and special items, were down 0.5% year-over-year. Lower cost of equipment and cost of services were partially offset by an increase in SG&A. Adjusted EPS in the quarter was $1.15, down 4.2% compared to the prior year as gains in adjusted EBITDA were more than offset by higher interest expense, predominantly due to the lower capitalized interest, now that a large portion of the C-band spectrum licenses have been placed into service.",
+      "page_number": 6,
+      "original": "Operating expenses, excluding depreciation and amortization and special items, were down 0.5% year-over-year. Lower cost of equipment and cost of services were partially offset by an increase in SG&A. Adjusted EPS in the quarter was $1.15, down 4.2% compared to the prior year as gains in adjusted EBITDA were more than offset by higher interest expense, predominantly due to the lower capitalized interest, now that a large portion of the C-band spectrum licenses have been placed into service.",
+      "label": "text"
+    },
+    {
+      "text": "Free cash flow for the first quarter was $2.7 billion, up over 16% or nearly $400 million from the first quarter 2023. On a full year basis, nothing has changed. With free cash flow, we still expect the same puts and takes we shared with you in January.",
+      "page_number": 6,
+      "original": "Free cash flow for the first quarter was $2.7 billion, up over 16% or nearly $400 million from the first quarter 2023. On a full year basis, nothing has changed. With free cash flow, we still expect the same puts and takes we shared with you in January.",
+      "label": "text"
+    },
+    {
+      "text": "As Hans said, we expect free cash flow to build throughout the year, similar to 2023. Cash flow from operating activities came in at $7.1 billion. Within the quarter, we saw year-over-year pressures from higher interest expense primarily related to the reduction in capitalized interest. We also made a discretionary pension contribution of $365 million, prior to the closing of the retiree pension annuity transaction that we previously disclosed.",
+      "page_number": 6,
+      "original": "As Hans said, we expect free cash flow to build throughout the year, similar to 2023. Cash flow from operating activities came in at $7.1 billion. Within the quarter, we saw year-over-year pressures from higher interest expense primarily related to the reduction in capitalized interest. We also made a discretionary pension contribution of $365 million, prior to the closing of the retiree pension annuity transaction that we previously disclosed.",
+      "label": "text"
+    },
+    {
+      "text": "CapEx for the quarter was $4.4 billion compared to $6 billion in the prior year as a result of our return to BAU levels of spend and historical levels of capital intensity. Our full year guidance of $17 billion to $17.5 billion in CapEx spending remains unchanged. Net unsecured debt at the end of the quarter was $126 billion, a $3.7 billion improvement year-over-year and a nearly $400 million improvement sequentially. During the quarter,",
+      "page_number": 6,
+      "original": "CapEx for the quarter was $4.4 billion compared to $6 billion in the prior year as a result of our return to BAU levels of spend and historical levels of capital intensity. Our full year guidance of $17 billion to $17.5 billion in CapEx spending remains unchanged. Net unsecured debt at the end of the quarter was $126 billion, a $3.7 billion improvement year-over-year and a nearly $400 million improvement sequentially. During the quarter,",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 6,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 6,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 6,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 7,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "we issued our sixth green bond for $1 billion with proceeds committed to fund additional renewable energy purchases. Net unsecured debt was also impacted by payments of approximately $270 million related to clearance of our C-band spectrum licenses, which are now substantially complete. While these payments do not affect our free cash flow, they are use of cash.",
+      "page_number": 7,
+      "original": "we issued our sixth green bond for $1 billion with proceeds committed to fund additional renewable energy purchases. Net unsecured debt was also impacted by payments of approximately $270 million related to clearance of our C-band spectrum licenses, which are now substantially complete. While these payments do not affect our free cash flow, they are use of cash.",
+      "label": "text"
+    },
+    {
+      "text": "Our net unsecured debt consolidated adjusted EBITDA ratio was 2.6x, in line with the previous quarter. Given the strength and momentum of our business, we continue to see a clear path to meaningfully delever the balance sheet in the second half of this year.",
+      "page_number": 7,
+      "original": "Our net unsecured debt consolidated adjusted EBITDA ratio was 2.6x, in line with the previous quarter. Given the strength and momentum of our business, we continue to see a clear path to meaningfully delever the balance sheet in the second half of this year.",
+      "label": "text"
+    },
+    {
+      "text": "In closing, I'm happy with our start to 2024, and our results from the first quarter set us up well to deliver on our financial guidance for the year. Our disciplined approach continues to put us in a strong position to execute on our capital allocation priorities. Our focus remains on driving operational improvements throughout the year.",
+      "page_number": 7,
+      "original": "In closing, I'm happy with our start to 2024, and our results from the first quarter set us up well to deliver on our financial guidance for the year. Our disciplined approach continues to put us in a strong position to execute on our capital allocation priorities. Our focus remains on driving operational improvements throughout the year.",
+      "label": "text"
+    },
+    {
+      "text": "With that, I will now turn the call back to Hans for his closing thoughts before opening the call up for your questions.",
+      "page_number": 7,
+      "original": "With that, I will now turn the call back to Hans for his closing thoughts before opening the call up for your questions.",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 7,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, Tony. I'm proud of our team and pleased with our financial and operational performance in the first quarter. We exited the quarter with good momentum across the business, positioning us well for the year ahead.",
+      "page_number": 7,
+      "original": "Thank you, Tony. I'm proud of our team and pleased with our financial and operational performance in the first quarter. We exited the quarter with good momentum across the business, positioning us well for the year ahead.",
+      "label": "text"
+    },
+    {
+      "text": "We're scaling fixed wireless access and private networks while growing our core mobility business. Our disciplined, targeted and segmented consumer strategy continues to prove itself. And we will apply the same level of energy and execution to the prepaid market. Network excellence drives our business forward, and we will not let up on that. Our consistent network investment puts us in an unmatched position to deliver AI services at scale.",
+      "page_number": 7,
+      "original": "We're scaling fixed wireless access and private networks while growing our core mobility business. Our disciplined, targeted and segmented consumer strategy continues to prove itself. And we will apply the same level of energy and execution to the prepaid market. Network excellence drives our business forward, and we will not let up on that. Our consistent network investment puts us in an unmatched position to deliver AI services at scale.",
+      "label": "text"
+    },
+    {
+      "text": "Finally, our cash flow generation is solid. This shows that we are executing well against our financial objectives. Our cash flow strength allows us to deliver on our capital allocation priorities, including supporting our dividend and paying down our debt. With strong momentum already in the start of the second quarter, I'm confident in our ability to sustain progress towards unlocking Verizon's full potential for all stakeholders.",
+      "page_number": 7,
+      "original": "Finally, our cash flow generation is solid. This shows that we are executing well against our financial objectives. Our cash flow strength allows us to deliver on our capital allocation priorities, including supporting our dividend and paying down our debt. With strong momentum already in the start of the second quarter, I'm confident in our ability to sustain progress towards unlocking Verizon's full potential for all stakeholders.",
+      "label": "text"
+    },
+    {
+      "text": "Now, Brady, we are ready to take questions.",
+      "page_number": 7,
+      "original": "Now, Brady, we are ready to take questions.",
+      "label": "text"
+    },
+    {
+      "text": "Brady Connor - Verizon Communications Inc. - SVP of IR",
+      "page_number": 7,
+      "original": "Brady Connor - Verizon Communications Inc. - SVP of IR",
+      "label": "text"
+    },
+    {
+      "text": "Thanks, Hans. Brad, we're ready for the first question.",
+      "page_number": 7,
+      "original": "Thanks, Hans. Brad, we're ready for the first question.",
+      "label": "text"
+    },
+    {
+      "text": "Q U E S T I O N S   A N D   A N S W E R S",
+      "page_number": 7,
+      "original": "Q U E S T I O N S   A N D   A N S W E R S",
+      "label": "section_header"
+    },
+    {
+      "text": "Operator",
+      "page_number": 7,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "(Operator Instructions) Your first question will come from Simon Flannery of Morgan Stanley.",
+      "page_number": 7,
+      "original": "(Operator Instructions) Your first question will come from Simon Flannery of Morgan Stanley.",
+      "label": "text"
+    },
+    {
+      "text": "Simon Flannery - Morgan Stanley, Research Division - MD",
+      "page_number": 7,
+      "original": "Simon Flannery - Morgan Stanley, Research Division - MD",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans, maybe we can talk about the consumer a little bit. It was good to see the churn number. Perhaps you could just talk a little bit about the impact of the pricing there. It seems like it had a drag on Business but less of a drag on Consumer.",
+      "page_number": 7,
+      "original": "Hans, maybe we can talk about the consumer a little bit. It was good to see the churn number. Perhaps you could just talk a little bit about the impact of the pricing there. It seems like it had a drag on Business but less of a drag on Consumer.",
+      "label": "text"
+    },
+    {
+      "text": "And just what are you seeing overall in the wireless market growth? It seems like the industry is continuing to grow. There's been some competitive moves by some of the cable companies recently. Maybe just comment on the overall environment out there and your ability to sustain this as well as the low upgrade rates.",
+      "page_number": 7,
+      "original": "And just what are you seeing overall in the wireless market growth? It seems like the industry is continuing to grow. There's been some competitive moves by some of the cable companies recently. Maybe just comment on the overall environment out there and your ability to sustain this as well as the low upgrade rates.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 7,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 7,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 7,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "7",
+      "page_number": 7,
+      "original": "7",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 8,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "And then just a quick one, Tony, for you on cash flow. Thank you for the comments around the pacing through the year. Could you just talk about working capital and the impact this quarter? It seemed like there were some drags from that on the quarterly number.",
+      "page_number": 8,
+      "original": "And then just a quick one, Tony, for you on cash flow. Thank you for the comments around the pacing through the year. Could you just talk about working capital and the impact this quarter? It seemed like there were some drags from that on the quarterly number.",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 8,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, Simon. Let me start with the Consumer business. That, I mean, as we saw in the quarter, it was a little bit slow in the beginning of the quarter, both for Consumer and for Business when it comes to wireless. But then, I think we clearly see that our products are resonating with the customers. And on the Consumer side, myPlan is really doing well. And as Tony said in the prepared remarks, I mean, the perks are coming up. Our premium is also increasing. So clearly, we see that.",
+      "page_number": 8,
+      "original": "Thank you, Simon. Let me start with the Consumer business. That, I mean, as we saw in the quarter, it was a little bit slow in the beginning of the quarter, both for Consumer and for Business when it comes to wireless. But then, I think we clearly see that our products are resonating with the customers. And on the Consumer side, myPlan is really doing well. And as Tony said in the prepared remarks, I mean, the perks are coming up. Our premium is also increasing. So clearly, we see that.",
+      "label": "text"
+    },
+    {
+      "text": "At the same time, the team has spent a lot of time to be disciplined, both with promotions and churn management. And you saw we had the price up in the quarter on Consumer that was pretty wide. But our team actually kept the churn down on the Consumer side.",
+      "page_number": 8,
+      "original": "At the same time, the team has spent a lot of time to be disciplined, both with promotions and churn management. And you saw we had the price up in the quarter on Consumer that was pretty wide. But our team actually kept the churn down on the Consumer side.",
+      "label": "text"
+    },
+    {
+      "text": "I mean it shows, first of all, how great our product is but also see how well we're using the AI tools and all of that to see that our customers are getting the value. And we are actually directing the money to the right customers. That's what you see coming out in the financial discipline in everything we're doing.",
+      "page_number": 8,
+      "original": "I mean it shows, first of all, how great our product is but also see how well we're using the AI tools and all of that to see that our customers are getting the value. And we are actually directing the money to the right customers. That's what you see coming out in the financial discipline in everything we're doing.",
+      "label": "text"
+    },
+    {
+      "text": "Yes, the promotions was lower again this quarter. But again, it's a way for us to segment the market to see that we have the right products. And that's what we've seen for quite a while right now on the Consumer side. And what I said also is that we -- as I said several times right now, we expect Consumer to be positive net adds this year. So they are doing it. And the team probably have even more innovations coming. And when myPlan was one, the perks are other, they have more things to come during the year. So I'm really excited about what we're doing on the wireless side. And of course, competition is the same. There's nothing new, but it's the same as we've seen for quite a while. But we just performed way better.",
+      "page_number": 8,
+      "original": "Yes, the promotions was lower again this quarter. But again, it's a way for us to segment the market to see that we have the right products. And that's what we've seen for quite a while right now on the Consumer side. And what I said also is that we -- as I said several times right now, we expect Consumer to be positive net adds this year. So they are doing it. And the team probably have even more innovations coming. And when myPlan was one, the perks are other, they have more things to come during the year. So I'm really excited about what we're doing on the wireless side. And of course, competition is the same. There's nothing new, but it's the same as we've seen for quite a while. But we just performed way better.",
+      "label": "text"
+    },
+    {
+      "text": "We have the right product, we have the right people, we have made the right changes in operational model. And that's what we're seeing right now. And now we move all that into prepaid, and you saw that we're also doing prepaid better. But still, we have more to be done. The team has their heads down, very focused on execution. Very pleased what we have seen so far. That doesn't mean we're not going to push even harder going forward. Tony?",
+      "page_number": 8,
+      "original": "We have the right product, we have the right people, we have made the right changes in operational model. And that's what we're seeing right now. And now we move all that into prepaid, and you saw that we're also doing prepaid better. But still, we have more to be done. The team has their heads down, very focused on execution. Very pleased what we have seen so far. That doesn't mean we're not going to push even harder going forward. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 8,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Yes, sure. So a couple of points on churn. So the results on C-band are significantly better. We see strong churn performance, high premium mix and also higher gross adds in C-band markets.",
+      "page_number": 8,
+      "original": "Yes, sure. So a couple of points on churn. So the results on C-band are significantly better. We see strong churn performance, high premium mix and also higher gross adds in C-band markets.",
+      "label": "text"
+    },
+    {
+      "text": "And overall in 2024, it's reasonable to expect similar or lower churn in the Consumer business compared to 2023. And then on your cash flow question, in the prepared remarks, we said that free cash flow would have a similar shape to last year and build throughout the year. We do expect free cash flow to be up meaningfully in the second quarter. We still see the same puts and takes on free cash flow for the full year, as we described in January. So nothing's really changed there.",
+      "page_number": 8,
+      "original": "And overall in 2024, it's reasonable to expect similar or lower churn in the Consumer business compared to 2023. And then on your cash flow question, in the prepared remarks, we said that free cash flow would have a similar shape to last year and build throughout the year. We do expect free cash flow to be up meaningfully in the second quarter. We still see the same puts and takes on free cash flow for the full year, as we described in January. So nothing's really changed there.",
+      "label": "text"
+    },
+    {
+      "text": "On your question on the quarter. Let me start with operating cash flow. Let me unpack that for you. So we saw the discretionary pension contribution in the quarter. That was $365 million, in connection with the pension annuitization transaction that we announced in early March. As we said previously, a lower capitalized interest from C-band now manifest itself in operating cash flow, and that was about $300 million higher year-over-year.",
+      "page_number": 8,
+      "original": "On your question on the quarter. Let me start with operating cash flow. Let me unpack that for you. So we saw the discretionary pension contribution in the quarter. That was $365 million, in connection with the pension annuitization transaction that we announced in early March. As we said previously, a lower capitalized interest from C-band now manifest itself in operating cash flow, and that was about $300 million higher year-over-year.",
+      "label": "text"
+    },
+    {
+      "text": "And the third point I'd make is we're funding the business for growth and very, very confident in our ability to execute. And you saw that, again, you saw the growth in the fourth quarter with strong gross adds. And we followed that up with 5% gross add growth in the Consumer business in the first quarter. And with that growth comes working capital timing that will settle in the second quarter. But overall, we're very confident in the cash generation of the business. And nonetheless, we expect to generate strong free cash flow. And we see no obstacles in paying down debt in a meaningful way in the second half of 2024.",
+      "page_number": 8,
+      "original": "And the third point I'd make is we're funding the business for growth and very, very confident in our ability to execute. And you saw that, again, you saw the growth in the fourth quarter with strong gross adds. And we followed that up with 5% gross add growth in the Consumer business in the first quarter. And with that growth comes working capital timing that will settle in the second quarter. But overall, we're very confident in the cash generation of the business. And nonetheless, we expect to generate strong free cash flow. And we see no obstacles in paying down debt in a meaningful way in the second half of 2024.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 8,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 8,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 8,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "8",
+      "page_number": 8,
+      "original": "8",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 9,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Operator",
+      "page_number": 9,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from John Hodulik of UBS.",
+      "page_number": 9,
+      "original": "The next question comes from John Hodulik of UBS.",
+      "label": "text"
+    },
+    {
+      "text": "John Hodulik - UBS Investment Bank, Research Division - MD, Sector Head of the United States Communications Group and Telco & Pay TV Analyst",
+      "page_number": 9,
+      "original": "John Hodulik - UBS Investment Bank, Research Division - MD, Sector Head of the United States Communications Group and Telco & Pay TV Analyst",
+      "label": "text"
+    },
+    {
+      "text": "First, just a couple of quick follow-ups on Simon's question. Number one, the positive commentary you guys talked about with March. Does that suggest you guys could be positive in terms of Consumer phone adds in the second quarter? It's number one. Number two, the price increase seemed to be digested pretty well, and you actually saw churn come down. Does that suggest you guys have more pricing power than you thought, and we could see not just for you but for the industry, and we could see more in the future? That's number two.",
+      "page_number": 9,
+      "original": "First, just a couple of quick follow-ups on Simon's question. Number one, the positive commentary you guys talked about with March. Does that suggest you guys could be positive in terms of Consumer phone adds in the second quarter? It's number one. Number two, the price increase seemed to be digested pretty well, and you actually saw churn come down. Does that suggest you guys have more pricing power than you thought, and we could see not just for you but for the industry, and we could see more in the future? That's number two.",
+      "label": "text"
+    },
+    {
+      "text": "And then on ACP, I noticed you guys announced some new plans with free -- sort of low-end plans on the broadband side with free service for 6 months. You've talked about some of the headwinds as ACP goes away. But do you believe that there's an opportunity to potentially win some broadband subs as that plays out?",
+      "page_number": 9,
+      "original": "And then on ACP, I noticed you guys announced some new plans with free -- sort of low-end plans on the broadband side with free service for 6 months. You've talked about some of the headwinds as ACP goes away. But do you believe that there's an opportunity to potentially win some broadband subs as that plays out?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 9,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, John. On the first question there on Consumer net adds in the short term, I stay on my previous comment, consumer net adds should be positive in 2024. The team is, of course, doing quite good right now and actually 100,000 better in the first quarter here on net adds. So let them continue to execute. They have a great product that resonate with the market, and they will continue to execute well on that.",
+      "page_number": 9,
+      "original": "Thank you, John. On the first question there on Consumer net adds in the short term, I stay on my previous comment, consumer net adds should be positive in 2024. The team is, of course, doing quite good right now and actually 100,000 better in the first quarter here on net adds. So let them continue to execute. They have a great product that resonate with the market, and they will continue to execute well on that.",
+      "label": "text"
+    },
+    {
+      "text": "On the churn side, I. think, first of all, I mean, if you look at the market, of course, we see both inflation and a higher interest rate and seeing it. But think about the product, first of all, so good right now. I mean everybody needs wireless and broadband. And I think that, that has improved quite dramatically over the last couple of years.",
+      "page_number": 9,
+      "original": "On the churn side, I. think, first of all, I mean, if you look at the market, of course, we see both inflation and a higher interest rate and seeing it. But think about the product, first of all, so good right now. I mean everybody needs wireless and broadband. And I think that, that has improved quite dramatically over the last couple of years.",
+      "label": "text"
+    },
+    {
+      "text": "Secondly, our products right now are so well segmented with different segments or different groups. And thirdly, we're laser-focused on churn management. I mean the team with Sampath, the AI tools we have. So we actually spend on the right customers when we see they have a churn. So all that came together despite that we had a price adjustment that was large in the Consumer group in the second quarter.",
+      "page_number": 9,
+      "original": "Secondly, our products right now are so well segmented with different segments or different groups. And thirdly, we're laser-focused on churn management. I mean the team with Sampath, the AI tools we have. So we actually spend on the right customers when we see they have a churn. So all that came together despite that we had a price adjustment that was large in the Consumer group in the second quarter.",
+      "label": "text"
+    },
+    {
+      "text": "The same goes for our Business wireless. They performed well in the quarter. They had a little bit slow in the beginning of the year but ramped really nicely also in the quarter. And again, they are market share leader on the wireless, and they continue to be positive. So I'm pleased with that.",
+      "page_number": 9,
+      "original": "The same goes for our Business wireless. They performed well in the quarter. They had a little bit slow in the beginning of the year but ramped really nicely also in the quarter. And again, they are market share leader on the wireless, and they continue to be positive. So I'm pleased with that.",
+      "label": "text"
+    },
+    {
+      "text": "On the ACP, I will let Tony comment on it. The only thing I want to say, I think -- we think it's important that everyone in this country should be able to have wireless and broadband because it's such an essential service today. So that's why we historically already have plans on Fios that are for low-income families, but also the whole prepaid family of products we have is also addressing that. Again, going back to being able to support that regardless if it's the recent ACP or not, but our segmentation model. And lastly, I think on the churn, our high-quality customers, which is best in the industry, that is really playing out in this environment with the products we have. Tony?",
+      "page_number": 9,
+      "original": "On the ACP, I will let Tony comment on it. The only thing I want to say, I think -- we think it's important that everyone in this country should be able to have wireless and broadband because it's such an essential service today. So that's why we historically already have plans on Fios that are for low-income families, but also the whole prepaid family of products we have is also addressing that. Again, going back to being able to support that regardless if it's the recent ACP or not, but our segmentation model. And lastly, I think on the churn, our high-quality customers, which is best in the industry, that is really playing out in this environment with the products we have. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 9,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Sure. And John, so in terms of ACP, we stopped enrollments in February and still accepting transfers through May. As we said previously in the prepared remarks, the majority of the exposure is in the prepaid business. And we have 1.1 million prepaid subs that are in the ACP program. We've said previously that the guidance assumed that the ACP funding stays intact. The impact or any impact would be seen on service revenue up to potential 50 basis points of headwind. And the margin exposure from ACP is actually very small. It was insignificant in the first quarter.",
+      "page_number": 9,
+      "original": "Sure. And John, so in terms of ACP, we stopped enrollments in February and still accepting transfers through May. As we said previously in the prepared remarks, the majority of the exposure is in the prepaid business. And we have 1.1 million prepaid subs that are in the ACP program. We've said previously that the guidance assumed that the ACP funding stays intact. The impact or any impact would be seen on service revenue up to potential 50 basis points of headwind. And the margin exposure from ACP is actually very small. It was insignificant in the first quarter.",
+      "label": "text"
+    },
+    {
+      "text": "If nothing changes and the funding goes away in May as is planned, and we have plans in place to address it both from retention and potential acquisition opportunities as well. And obviously, we'll continue to help everybody, update everybody as we know more.",
+      "page_number": 9,
+      "original": "If nothing changes and the funding goes away in May as is planned, and we have plans in place to address it both from retention and potential acquisition opportunities as well. And obviously, we'll continue to help everybody, update everybody as we know more.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 9,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 9,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 9,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "9",
+      "page_number": 9,
+      "original": "9",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 10,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Operator",
+      "page_number": 10,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Michael Rollins of Citigroup.",
+      "page_number": 10,
+      "original": "The next question comes from Michael Rollins of Citigroup.",
+      "label": "text"
+    },
+    {
+      "text": "Michael Rollins - Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "page_number": 10,
+      "original": "Michael Rollins - Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Just curious if you could unpack a bit more of how you're thinking about the up-tiering opportunity within the postpaid phone base? And as you look at the perks, is there a way that we should think about the revenue contribution from perks and where that can go over time as an incremental way for Verizon to monetize the base?",
+      "page_number": 10,
+      "original": "Just curious if you could unpack a bit more of how you're thinking about the up-tiering opportunity within the postpaid phone base? And as you look at the perks, is there a way that we should think about the revenue contribution from perks and where that can go over time as an incremental way for Verizon to monetize the base?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 10,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thanks, Mike. Yes, this is a long-term strategy of us. First of all, we have a great base of customers. We want to give them the flexibility on the Consumer side. Then we add in the perks. Of course, all that plays into a value play for our customers even though we up-tier our customers, and that has gone very well. I mean we said in the prepared remarks that almost quarter of our customers have myPlan right now, and we are expecting it to go to almost or go to half of the base, which is we never had a product moving that fast because it resonates with the market.",
+      "page_number": 10,
+      "original": "Thanks, Mike. Yes, this is a long-term strategy of us. First of all, we have a great base of customers. We want to give them the flexibility on the Consumer side. Then we add in the perks. Of course, all that plays into a value play for our customers even though we up-tier our customers, and that has gone very well. I mean we said in the prepared remarks that almost quarter of our customers have myPlan right now, and we are expecting it to go to almost or go to half of the base, which is we never had a product moving that fast because it resonates with the market.",
+      "label": "text"
+    },
+    {
+      "text": "In there, we have opportunities for both up-tiering and then adding service, all incremental for our bottom line and accretive. And many of these offerings are savings for our customer, which is just great. I mean the Max Netflix is, for example, is a great savings, great product. We are the only one in the market that can do that in wireless. It's exclusive. And that's the type of things we do on perks, very different rather.",
+      "page_number": 10,
+      "original": "In there, we have opportunities for both up-tiering and then adding service, all incremental for our bottom line and accretive. And many of these offerings are savings for our customer, which is just great. I mean the Max Netflix is, for example, is a great savings, great product. We are the only one in the market that can do that in wireless. It's exclusive. And that's the type of things we do on perks, very different rather.",
+      "label": "text"
+    },
+    {
+      "text": "I would be -- I wouldn't say shocked, but I would be, at least, surprised if Sampath and the Consumer team doesn't continue to think how they can enlighten our customers even more with these type of things going forward. Tony?",
+      "page_number": 10,
+      "original": "I would be -- I wouldn't say shocked, but I would be, at least, surprised if Sampath and the Consumer team doesn't continue to think how they can enlighten our customers even more with these type of things going forward. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 10,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Sure. And Mike, just a couple of other points. So we did see 4.4% ARPA growth in the first quarter. And as Hans talked about it in myPlan, the premium mix is very strong. It's 42% of the lines in the base. And the perk attach rates have steadily increased and will continue to increase. So we feel really good about that and the discipline we see on promotions as well and keeping the amortization pressure in check.",
+      "page_number": 10,
+      "original": "Sure. And Mike, just a couple of other points. So we did see 4.4% ARPA growth in the first quarter. And as Hans talked about it in myPlan, the premium mix is very strong. It's 42% of the lines in the base. And the perk attach rates have steadily increased and will continue to increase. So we feel really good about that and the discipline we see on promotions as well and keeping the amortization pressure in check.",
+      "label": "text"
+    },
+    {
+      "text": "Michael Rollins - Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "page_number": 10,
+      "original": "Michael Rollins - Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "And one other, if I could, on operational efficiencies. It sounds like a few times whether it was talking about AI or just the broader focus on the operations that this is an important priority for Verizon this year. Can you frame how much of the cost-cutting Verizon can deliver this year relative to the multiyear target that the company has established? And are there any milestones that we should be looking for that will signify some further progress on these initiatives?",
+      "page_number": 10,
+      "original": "And one other, if I could, on operational efficiencies. It sounds like a few times whether it was talking about AI or just the broader focus on the operations that this is an important priority for Verizon this year. Can you frame how much of the cost-cutting Verizon can deliver this year relative to the multiyear target that the company has established? And are there any milestones that we should be looking for that will signify some further progress on these initiatives?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 10,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you. First of all, we're on track for our cost target that we have given for the Street. Secondly, many of the larger so-called transactions and platform transactions, we started already last year. The outsourcing to HCL, the customer care changes we did, which are large transactions without any interruptions for our customers. We have done those. They are coming into the base in '24 and of course, full year '25.",
+      "page_number": 10,
+      "original": "Thank you. First of all, we're on track for our cost target that we have given for the Street. Secondly, many of the larger so-called transactions and platform transactions, we started already last year. The outsourcing to HCL, the customer care changes we did, which are large transactions without any interruptions for our customers. We have done those. They are coming into the base in '24 and of course, full year '25.",
+      "label": "text"
+    },
+    {
+      "text": "Then what I'm adding now is our opportunity in AI. Many of these things, of course, already thought about. But of course, we see a great opportunity with AI to serve our customers better. We're already using, for example, personalization in myPlan with AI. And we're using it in our network when it comes to performance of the capacity deployment as well as power consumption.",
+      "page_number": 10,
+      "original": "Then what I'm adding now is our opportunity in AI. Many of these things, of course, already thought about. But of course, we see a great opportunity with AI to serve our customers better. We're already using, for example, personalization in myPlan with AI. And we're using it in our network when it comes to performance of the capacity deployment as well as power consumption.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 10,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 10,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 10,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "10",
+      "page_number": 10,
+      "original": "10",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 11,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "So we are using AI and generative AI already now commercially. So this is not new playing ground for us. And we will see more opportunities. On the flip side, we, of course, also see revenues. Our network was built for AI. That was my thought when I build Verizon Intelligent Edge Network 5 years ago or 6 years ago, that we're going to have compute and storage at the edge. AI is sort of built for that with the low latency we have on the 5G network.",
+      "page_number": 11,
+      "original": "So we are using AI and generative AI already now commercially. So this is not new playing ground for us. And we will see more opportunities. On the flip side, we, of course, also see revenues. Our network was built for AI. That was my thought when I build Verizon Intelligent Edge Network 5 years ago or 6 years ago, that we're going to have compute and storage at the edge. AI is sort of built for that with the low latency we have on the 5G network.",
+      "label": "text"
+    },
+    {
+      "text": "And as we are deploying our 5G right now with the mobile edge compute and AI, this is a great long-term opportunity for us using AI. So there are multiple places we see efficiencies but also revenue opportunities with all the new technologies coming. Tony, anything else on the savings?",
+      "page_number": 11,
+      "original": "And as we are deploying our 5G right now with the mobile edge compute and AI, this is a great long-term opportunity for us using AI. So there are multiple places we see efficiencies but also revenue opportunities with all the new technologies coming. Tony, anything else on the savings?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 11,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Yes, Mike, just to add a couple of things. So obviously as Hans said, we're on track with the program. And those savings were contemplated in the guide. We're not going to discuss specific cost targets. But as Hans mentioned, we're operating a lot differently. And we feel really good about the cost actions that we're taking and the progress that we're making that are driving the EBITDA improvements that you saw in the first quarter and that we expect throughout 2024.",
+      "page_number": 11,
+      "original": "Yes, Mike, just to add a couple of things. So obviously as Hans said, we're on track with the program. And those savings were contemplated in the guide. We're not going to discuss specific cost targets. But as Hans mentioned, we're operating a lot differently. And we feel really good about the cost actions that we're taking and the progress that we're making that are driving the EBITDA improvements that you saw in the first quarter and that we expect throughout 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 11,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Kannan Venkateshwar of Barclays.",
+      "page_number": 11,
+      "original": "The next question comes from Kannan Venkateshwar of Barclays.",
+      "label": "text"
+    },
+    {
+      "text": "Kannan Venkateshwar - Barclays Bank PLC, Research Division - Director & Senior Research Analyst",
+      "page_number": 11,
+      "original": "Kannan Venkateshwar - Barclays Bank PLC, Research Division - Director & Senior Research Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans, maybe one industry question for you. There's, obviously, a lot of assets up for sale, some smaller ones, some potentially bigger ones. There's also been talk about your potential interest in maybe partnering with ESPN in some form. Could you talk about how you see the industry structure evolving from here? Do you see this as some kind of equilibrium? Or is there any need for or an opportunity from your perspective in terms of balancing it as a base in a slightly different direction?",
+      "page_number": 11,
+      "original": "Hans, maybe one industry question for you. There's, obviously, a lot of assets up for sale, some smaller ones, some potentially bigger ones. There's also been talk about your potential interest in maybe partnering with ESPN in some form. Could you talk about how you see the industry structure evolving from here? Do you see this as some kind of equilibrium? Or is there any need for or an opportunity from your perspective in terms of balancing it as a base in a slightly different direction?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 11,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Kannan, thank you for the question. First of all, I think I said it in the beginning of the year, we are getting into a new phase after heavy investment, a lot of changes in our asset structure. We're coming into a phase where we have all the assets we need, and we're executing on it. And you see the operational excellence coming out from it last 3 quarters.",
+      "page_number": 11,
+      "original": "Kannan, thank you for the question. First of all, I think I said it in the beginning of the year, we are getting into a new phase after heavy investment, a lot of changes in our asset structure. We're coming into a phase where we have all the assets we need, and we're executing on it. And you see the operational excellence coming out from it last 3 quarters.",
+      "label": "text"
+    },
+    {
+      "text": "I have a team that we have actually changed quite a lot. We added 2 new team members this quarter. I feel really good where we stand with assets right now and how we're executing. And of course, I can never say never to look into assets. That's my fiduciary responsibility, but I'd rather right now execute on what we have. And you see the performance we have with the C-band millimeter wave, the broadband growth we have, almost 400,000 again this quarter. So that's my main focus.",
+      "page_number": 11,
+      "original": "I have a team that we have actually changed quite a lot. We added 2 new team members this quarter. I feel really good where we stand with assets right now and how we're executing. And of course, I can never say never to look into assets. That's my fiduciary responsibility, but I'd rather right now execute on what we have. And you see the performance we have with the C-band millimeter wave, the broadband growth we have, almost 400,000 again this quarter. So that's my main focus.",
+      "label": "text"
+    },
+    {
+      "text": "When it comes to some of the other things that you mentioned, I think we are using our base of distribution to actually work with all the streaming services. And we are uniquely positioned. We are the biggest distribution of direct-to-consumer in the market.",
+      "page_number": 11,
+      "original": "When it comes to some of the other things that you mentioned, I think we are using our base of distribution to actually work with all the streaming services. And we are uniquely positioned. We are the biggest distribution of direct-to-consumer in the market.",
+      "label": "text"
+    },
+    {
+      "text": "We're taking leverage for our customers and for our shareholders, but also seeing that we help some of these larger streaming services to see that they get better churn and of course, better access to the best consumer base in the United States of America. So we will continue doing that and see that we're doing it in the right way. But again, I'm pleased with the asset base we have today.",
+      "page_number": 11,
+      "original": "We're taking leverage for our customers and for our shareholders, but also seeing that we help some of these larger streaming services to see that they get better churn and of course, better access to the best consumer base in the United States of America. So we will continue doing that and see that we're doing it in the right way. But again, I'm pleased with the asset base we have today.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 11,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from David Barden of Bank of America.",
+      "page_number": 11,
+      "original": "The next question comes from David Barden of Bank of America.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 11,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 11,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 11,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "11",
+      "page_number": 11,
+      "original": "11",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 12,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "David Barden - BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "page_number": 12,
+      "original": "David Barden - BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "I guess my first one was just about the kind of the balance of revenue growth. I think that you guys have talked about kind of a 60-40 balance of pricing and volumes is more normal. And over the last year, it was more skewed to pricing.",
+      "page_number": 12,
+      "original": "I guess my first one was just about the kind of the balance of revenue growth. I think that you guys have talked about kind of a 60-40 balance of pricing and volumes is more normal. And over the last year, it was more skewed to pricing.",
+      "label": "text"
+    },
+    {
+      "text": "I was wondering if you could kind of talk about the relatively healthy 5% growth in gross adds versus what we're watching this quarter happened, which is a decline in accounts. Could you talk a little bit about how you balance the relationship between accounts and gross new subscribers?",
+      "page_number": 12,
+      "original": "I was wondering if you could kind of talk about the relatively healthy 5% growth in gross adds versus what we're watching this quarter happened, which is a decline in accounts. Could you talk a little bit about how you balance the relationship between accounts and gross new subscribers?",
+      "label": "text"
+    },
+    {
+      "text": "And then the second question is just more of a housekeeping question, which is you guys introduced the second number add-on this past quarter. There's been a lot of questions about where does that show up in the numbers. I'm guessing not in the sub numbers. It's probably -- could you kind of elaborate where we find that in the numbers?",
+      "page_number": 12,
+      "original": "And then the second question is just more of a housekeeping question, which is you guys introduced the second number add-on this past quarter. There's been a lot of questions about where does that show up in the numbers. I'm guessing not in the sub numbers. It's probably -- could you kind of elaborate where we find that in the numbers?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 12,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, David. First of all, our team is very focused to continue to get a little bit more volume in the Consumer side. Remember, on the wireless on the Business side, we're already in there. We are taking customers every quarter. We have done it for not sure how many quarters. So it's a little bit different dynamic on the service on the Consumer side. We actually had a little bit more challenge in '22. I think since second quarter '23 with our myPlan and offerings, you see a constant improvement how we are actually addressing our customers.",
+      "page_number": 12,
+      "original": "Thank you, David. First of all, our team is very focused to continue to get a little bit more volume in the Consumer side. Remember, on the wireless on the Business side, we're already in there. We are taking customers every quarter. We have done it for not sure how many quarters. So it's a little bit different dynamic on the service on the Consumer side. We actually had a little bit more challenge in '22. I think since second quarter '23 with our myPlan and offerings, you see a constant improvement how we are actually addressing our customers.",
+      "label": "text"
+    },
+    {
+      "text": "So I'm really pleased with that. But we have said or Sampath have said on the Consumer side, he want to have more on the volume side than only on the value side from customers. But that doesn't mean we will continue to get more value with our customers and what we're doing.",
+      "page_number": 12,
+      "original": "So I'm really pleased with that. But we have said or Sampath have said on the Consumer side, he want to have more on the volume side than only on the value side from customers. But that doesn't mean we will continue to get more value with our customers and what we're doing.",
+      "label": "text"
+    },
+    {
+      "text": "On the second line, the only thing I want to say there, first of all, the innovation the team is doing right now is based on our strategy. We build the network once. And we want as many profitable connections on the network in order to have the the best return on invested capital in the industry. It's just playing straight into that narrative and this, of course, accretive, and we would take the second line in any given time. So again, you showed the innovation. And I'm prepared to see -- or I'm ready to see even more innovation from my team going forward. Tony?",
+      "page_number": 12,
+      "original": "On the second line, the only thing I want to say there, first of all, the innovation the team is doing right now is based on our strategy. We build the network once. And we want as many profitable connections on the network in order to have the the best return on invested capital in the industry. It's just playing straight into that narrative and this, of course, accretive, and we would take the second line in any given time. So again, you showed the innovation. And I'm prepared to see -- or I'm ready to see even more innovation from my team going forward. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 12,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Yes. So Dave, on the second number, it is included in the line count. I mean the one thing we would say is it gives customers flexibility. They can add and remove it as desired. The adoption so far has been good, just a few points on that. It was very low single-digit percentage of phone gross adds in the quarter for Consumer, and we believe there's a limited market for this.",
+      "page_number": 12,
+      "original": "Yes. So Dave, on the second number, it is included in the line count. I mean the one thing we would say is it gives customers flexibility. They can add and remove it as desired. The adoption so far has been good, just a few points on that. It was very low single-digit percentage of phone gross adds in the quarter for Consumer, and we believe there's a limited market for this.",
+      "label": "text"
+    },
+    {
+      "text": "As Hans said, it's ARPA and revenue accretive and it's high-margin business. There's no incremental device. There's no incremental data usage. And the results in the quarter reflect the strength of our core business. So as Hans said, we would take a profitable connection any day of the week.",
+      "page_number": 12,
+      "original": "As Hans said, it's ARPA and revenue accretive and it's high-margin business. There's no incremental device. There's no incremental data usage. And the results in the quarter reflect the strength of our core business. So as Hans said, we would take a profitable connection any day of the week.",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 12,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "And it goes back to the 3 things that I talked about that we are measured on from our shareholders, from our Board and how I measure my management team is a service revenue growth, is EBITDA and cash flow expansion. That's what we're measured on. Then it's 100 different measurements inside there, but those three are what we're incentivized on, and that's how we run our business.",
+      "page_number": 12,
+      "original": "And it goes back to the 3 things that I talked about that we are measured on from our shareholders, from our Board and how I measure my management team is a service revenue growth, is EBITDA and cash flow expansion. That's what we're measured on. Then it's 100 different measurements inside there, but those three are what we're incentivized on, and that's how we run our business.",
+      "label": "text"
+    },
+    {
+      "text": "David Barden - BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "page_number": 12,
+      "original": "David Barden - BofA Securities, Research Division - MD & Global Research US Telecom Services & Communications Infrastructure Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Got it. And just to be totally clear, Tony, the -- so of the 5-point-something gross add growth year-over-year in the quarter, maybe 1% or 2% of that was the second number add-ons, which might not continue because there's a finite market for that?",
+      "page_number": 12,
+      "original": "Got it. And just to be totally clear, Tony, the -- so of the 5-point-something gross add growth year-over-year in the quarter, maybe 1% or 2% of that was the second number add-ons, which might not continue because there's a finite market for that?",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 12,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 12,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 12,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "12",
+      "page_number": 12,
+      "original": "12",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 13,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 13,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "We said it was a very low single-digit percentage of phone gross adds, yes.",
+      "page_number": 13,
+      "original": "We said it was a very low single-digit percentage of phone gross adds, yes.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 13,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Sebastiano Petti of JPMorgan.",
+      "page_number": 13,
+      "original": "The next question comes from Sebastiano Petti of JPMorgan.",
+      "label": "text"
+    },
+    {
+      "text": "Sebastiano Petti - JPMorgan Chase & Co, Research Division - Analyst",
+      "page_number": 13,
+      "original": "Sebastiano Petti - JPMorgan Chase & Co, Research Division - Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Just wondering if you can give us an update on what you're seeing in the overall Consumer broadband and particularly within Consumer fixed wireless? Net adds did slow a little bit sequentially, year-on-year. Obviously, the backdrop, you called that the move environment remains a little bit challenged. Are you seeing incremental competition as AT&T Internet Air perhaps ramps up, even though maybe T-Mo is talking about a little bit of a slowdown there? That would be helpful.",
+      "page_number": 13,
+      "original": "Just wondering if you can give us an update on what you're seeing in the overall Consumer broadband and particularly within Consumer fixed wireless? Net adds did slow a little bit sequentially, year-on-year. Obviously, the backdrop, you called that the move environment remains a little bit challenged. Are you seeing incremental competition as AT&T Internet Air perhaps ramps up, even though maybe T-Mo is talking about a little bit of a slowdown there? That would be helpful.",
+      "label": "text"
+    },
+    {
+      "text": "And then also touching upon, Hans, thinking about your thoughts on 5G use cases, I think you emphasized private networks a few times within the prepared remarks. How are you thinking about the development of the revenue opportunity here maybe relative to how you're thinking about MEC as well? You kind of touched on that and how AI plays into it.",
+      "page_number": 13,
+      "original": "And then also touching upon, Hans, thinking about your thoughts on 5G use cases, I think you emphasized private networks a few times within the prepared remarks. How are you thinking about the development of the revenue opportunity here maybe relative to how you're thinking about MEC as well? You kind of touched on that and how AI plays into it.",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 13,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, Sebastiano. Yes, when we talk about the broadband, first of all, I think Fios continued to be the stellar product. Best fiber product in market, both for Business and for Consumer. You see us continue -- it's a little bit up and down, depending on mover markets and all of that. But we are very consistent on growth in that area. Very pleased with that product.",
+      "page_number": 13,
+      "original": "Thank you, Sebastiano. Yes, when we talk about the broadband, first of all, I think Fios continued to be the stellar product. Best fiber product in market, both for Business and for Consumer. You see us continue -- it's a little bit up and down, depending on mover markets and all of that. But we are very consistent on growth in that area. Very pleased with that product.",
+      "label": "text"
+    },
+    {
+      "text": "On the fixed wireless access. We continue to see very, very good Net Promoter Scores, the easiness of installing it, the greatness of the product, the quality of the product, all that plays in. So you see that when we roll out our C-band, we get new opportunities.",
+      "page_number": 13,
+      "original": "On the fixed wireless access. We continue to see very, very good Net Promoter Scores, the easiness of installing it, the greatness of the product, the quality of the product, all that plays in. So you see that when we roll out our C-band, we get new opportunities.",
+      "label": "text"
+    },
+    {
+      "text": "On the Consumer side, that we saw, of course, as an obvious use case. On the Business side, we're seeing new use cases that we didn't see before. I mean all the way from coffee shops replacing cable with fixed wireless access to large enterprises actually replacing with the fixed wireless access as well for different use cases.",
+      "page_number": 13,
+      "original": "On the Consumer side, that we saw, of course, as an obvious use case. On the Business side, we're seeing new use cases that we didn't see before. I mean all the way from coffee shops replacing cable with fixed wireless access to large enterprises actually replacing with the fixed wireless access as well for different use cases.",
+      "label": "text"
+    },
+    {
+      "text": "So you saw we had a super quarter in fixed wireless access in the Business side this quarter. But again, we are dimensioning ourselves to be around 400 net adds quarter-by-quarter. That's how Joe, our Head of Network, is deploying the capital, the resources, so we can handle it. So we're, again, pleased with that. We said it also was a little bit slower broadband market in the beginning of the year. The exit rates were better at the end of the quarter. So all in all, good.",
+      "page_number": 13,
+      "original": "So you saw we had a super quarter in fixed wireless access in the Business side this quarter. But again, we are dimensioning ourselves to be around 400 net adds quarter-by-quarter. That's how Joe, our Head of Network, is deploying the capital, the resources, so we can handle it. So we're, again, pleased with that. We said it also was a little bit slower broadband market in the beginning of the year. The exit rates were better at the end of the quarter. So all in all, good.",
+      "label": "text"
+    },
+    {
+      "text": "On the 5G use cases, yes, now we start talking more and more about private networks because the number of them are many, then the value of them are still fairly small. But when we build that base of private network, managed spectrum for enterprises, that's, over time, is going to be a great opportunity for our enterprise sales force to add in, do the mobile edge compute.",
+      "page_number": 13,
+      "original": "On the 5G use cases, yes, now we start talking more and more about private networks because the number of them are many, then the value of them are still fairly small. But when we build that base of private network, managed spectrum for enterprises, that's, over time, is going to be a great opportunity for our enterprise sales force to add in, do the mobile edge compute.",
+      "label": "text"
+    },
+    {
+      "text": "And as I said, AI is like that's how we built our mobile edge compute network. And we already have mobile edge compute in many of our sites across the country in order to be able to meet that compute and storage. So over time, long term, and we are a long-term company. We're going to be around for many, many years in telecoms. This is absolutely the right investment. Nobody else has built a network as we have done when it comes to AI network compute storage at edge on the wireless network.",
+      "page_number": 13,
+      "original": "And as I said, AI is like that's how we built our mobile edge compute network. And we already have mobile edge compute in many of our sites across the country in order to be able to meet that compute and storage. So over time, long term, and we are a long-term company. We're going to be around for many, many years in telecoms. This is absolutely the right investment. Nobody else has built a network as we have done when it comes to AI network compute storage at edge on the wireless network.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 13,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 13,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 13,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "13",
+      "page_number": 13,
+      "original": "13",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 14,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Operator",
+      "page_number": 14,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Tim Horan of Oppenheimer.",
+      "page_number": 14,
+      "original": "The next question comes from Tim Horan of Oppenheimer.",
+      "label": "text"
+    },
+    {
+      "text": "Timothy Horan - Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "page_number": 14,
+      "original": "Timothy Horan - Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Tony, how sustainable do you think the 4% ARPA growth is? It seems like you have a lot of levers to pull here, and it sounds like you're feeling a little bit more optimistic about that metric longer term. And can you be just a little bit more specific on how much debt you kind of plan on paying down per year, maybe second half this year or next year?",
+      "page_number": 14,
+      "original": "Tony, how sustainable do you think the 4% ARPA growth is? It seems like you have a lot of levers to pull here, and it sounds like you're feeling a little bit more optimistic about that metric longer term. And can you be just a little bit more specific on how much debt you kind of plan on paying down per year, maybe second half this year or next year?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 14,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Sure. So on the ARPA growth, again, you see the progress on gross adds, and you saw the 5% growth on gross adds. You see the progress with myPlan, and the continued premium mix has been very, very strong on myPlan, and that's continued. So we see a further runway for growth, and you saw it in the first quarter. And as we said in the prepared remarks, we'll see a full quarter's effect of the pricing changes that we announced in the Consumer business, and that launched in March. You'll see a full quarter's effect in the second quarter. So we feel very good about the progress on ARPA and that the team is making. And then on your second question, I'm sorry?",
+      "page_number": 14,
+      "original": "Sure. So on the ARPA growth, again, you see the progress on gross adds, and you saw the 5% growth on gross adds. You see the progress with myPlan, and the continued premium mix has been very, very strong on myPlan, and that's continued. So we see a further runway for growth, and you saw it in the first quarter. And as we said in the prepared remarks, we'll see a full quarter's effect of the pricing changes that we announced in the Consumer business, and that launched in March. You'll see a full quarter's effect in the second quarter. So we feel very good about the progress on ARPA and that the team is making. And then on your second question, I'm sorry?",
+      "label": "text"
+    },
+    {
+      "text": "Timothy Horan - Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "page_number": 14,
+      "original": "Timothy Horan - Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst",
+      "label": "text"
+    },
+    {
+      "text": "How much debt do you think you can pay down per year? And then just on ARPA. I guess the question is, is this sustainable over a multiyear period?",
+      "page_number": 14,
+      "original": "How much debt do you think you can pay down per year? And then just on ARPA. I guess the question is, is this sustainable over a multiyear period?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 14,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Yes, we're not going to give multiyear targets here, but we like the shape of the growth right now. We said we're on track with our service revenue growth through the year, and the team is very focused on it. We said we were going to be phone net add positive in Consumer, and that's on track as well.",
+      "page_number": 14,
+      "original": "Yes, we're not going to give multiyear targets here, but we like the shape of the growth right now. We said we're on track with our service revenue growth through the year, and the team is very focused on it. We said we were going to be phone net add positive in Consumer, and that's on track as well.",
+      "label": "text"
+    },
+    {
+      "text": "Yes. And on the debt. So look, we're not going to give any targets on paying down debt. Our focus is on continuing to generate strong free cash flow to pay down debt in a meaningful way in the second half of the year, and we're on track to do that. We have $3.6 billion of unsecured maturities due this year. About half of that was addressed in the first quarter, and you should expect us to be opportunistic as the year goes on.",
+      "page_number": 14,
+      "original": "Yes. And on the debt. So look, we're not going to give any targets on paying down debt. Our focus is on continuing to generate strong free cash flow to pay down debt in a meaningful way in the second half of the year, and we're on track to do that. We have $3.6 billion of unsecured maturities due this year. About half of that was addressed in the first quarter, and you should expect us to be opportunistic as the year goes on.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 14,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Craig Moffett of MoffettNathanson.",
+      "page_number": 14,
+      "original": "The next question comes from Craig Moffett of MoffettNathanson.",
+      "label": "text"
+    },
+    {
+      "text": "Craig Moffett - MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "page_number": 14,
+      "original": "Craig Moffett - MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "label": "text"
+    },
+    {
+      "text": "Let's talk about something a little longer term, which is spectrum and capacity. Your CapEx has been now trending down as you've largely gotten through the 5G build. I'm just wondering how we should think about your spectrum needs going forward and what your appetite would be for additional spectrum, if some were to come available from DISH Network or as you think about U.S. Cellular. And how you think about that in the context of the spectrum screens at the FCC, which don't really leave much room for incumbent players to add. Do you think that those are a real impediment? Or do you think that those would likely be adjusted when the time comes?",
+      "page_number": 14,
+      "original": "Let's talk about something a little longer term, which is spectrum and capacity. Your CapEx has been now trending down as you've largely gotten through the 5G build. I'm just wondering how we should think about your spectrum needs going forward and what your appetite would be for additional spectrum, if some were to come available from DISH Network or as you think about U.S. Cellular. And how you think about that in the context of the spectrum screens at the FCC, which don't really leave much room for incumbent players to add. Do you think that those are a real impediment? Or do you think that those would likely be adjusted when the time comes?",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 14,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 14,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 14,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "14",
+      "page_number": 14,
+      "original": "14",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 15,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 15,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you, Craig. Great question. First of all, as we all know, right now, the FCC doesn't have any spectrum to auction, and they don't even have an approval to do it. So that sort of constrained it. Then it could, of course, be secondhand market spectrum. We feel good about we have only deployed a piece of our C-band so far. So we have quite a lot left. Many of the sites are 60 megahertz or maybe at best 80. We have 161 megahertz nationwide. So we have quite a lot left of spectrum. And remember, that was the decision I, together with the Board, took.",
+      "page_number": 15,
+      "original": "Thank you, Craig. Great question. First of all, as we all know, right now, the FCC doesn't have any spectrum to auction, and they don't even have an approval to do it. So that sort of constrained it. Then it could, of course, be secondhand market spectrum. We feel good about we have only deployed a piece of our C-band so far. So we have quite a lot left. Many of the sites are 60 megahertz or maybe at best 80. We have 161 megahertz nationwide. So we have quite a lot left of spectrum. And remember, that was the decision I, together with the Board, took.",
+      "label": "text"
+    },
+    {
+      "text": "We bought spectrum for decades, not for the next 2 quarters or something like that. So we feel really good about it. Then any opportunistic spectrum coming out, it's hard to predict. And even on whatever regulation is going to be around screens and that, I don't know.",
+      "page_number": 15,
+      "original": "We bought spectrum for decades, not for the next 2 quarters or something like that. So we feel really good about it. Then any opportunistic spectrum coming out, it's hard to predict. And even on whatever regulation is going to be around screens and that, I don't know.",
+      "label": "text"
+    },
+    {
+      "text": "The only thing I know, I've sit here on a better position ever with millimeter wave, my C-band, my low band and how I build the network. And sometimes, it's opportunistic spectrum is going to cost me a lot, both from a customer interaction because some spectrum is not in the devices. I need new radios, new software. So you need to think when you reengineer the network to see that you have the right spectrum all the way out to the customer. And I think that no one is even close to our team on radio planning doing that. But all in all, we feel good about where we are today. Let's see what's going to happen in the market of spectrum.",
+      "page_number": 15,
+      "original": "The only thing I know, I've sit here on a better position ever with millimeter wave, my C-band, my low band and how I build the network. And sometimes, it's opportunistic spectrum is going to cost me a lot, both from a customer interaction because some spectrum is not in the devices. I need new radios, new software. So you need to think when you reengineer the network to see that you have the right spectrum all the way out to the customer. And I think that no one is even close to our team on radio planning doing that. But all in all, we feel good about where we are today. Let's see what's going to happen in the market of spectrum.",
+      "label": "text"
+    },
+    {
+      "text": "Craig Moffett - MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "page_number": 15,
+      "original": "Craig Moffett - MoffettNathanson LLC - Co-Founder, Founding Partner Senior MD & Senior Research Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans, you saw it back over time between a preference between network densification or more spectrum. Is there a sort of house view at the moment for where you think it's most attractive to add capacity? Would it now be through network densification rather than spectrum or vice versa?",
+      "page_number": 15,
+      "original": "Hans, you saw it back over time between a preference between network densification or more spectrum. Is there a sort of house view at the moment for where you think it's most attractive to add capacity? Would it now be through network densification rather than spectrum or vice versa?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 15,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "A little bit early to say. And ultimately, it's actually a call on return on investment that we do daily here. Should we put up a new tower? Should we densify? Should we put up new elements? Or should we add more spectrum?",
+      "page_number": 15,
+      "original": "A little bit early to say. And ultimately, it's actually a call on return on investment that we do daily here. Should we put up a new tower? Should we densify? Should we put up new elements? Or should we add more spectrum?",
+      "label": "text"
+    },
+    {
+      "text": "That's regional almost on ZIP code level that the team is going through this. So every time you see spectrum coming out in the secondhand market historically, you make a calculation. We feel good about the position we have again here with all the spectrum we have to make those choices internally rather betting on external assets coming in. We don't need that. We have everything in-house right now for quite a while.",
+      "page_number": 15,
+      "original": "That's regional almost on ZIP code level that the team is going through this. So every time you see spectrum coming out in the secondhand market historically, you make a calculation. We feel good about the position we have again here with all the spectrum we have to make those choices internally rather betting on external assets coming in. We don't need that. We have everything in-house right now for quite a while.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 15,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Greg Williams of TD Cowen.",
+      "page_number": 15,
+      "original": "The next question comes from Greg Williams of TD Cowen.",
+      "label": "text"
+    },
+    {
+      "text": "Gregory Williams - TD Cowen, Research Division - Director",
+      "page_number": 15,
+      "original": "Gregory Williams - TD Cowen, Research Division - Director",
+      "label": "section_header"
+    },
+    {
+      "text": "You provided some great color on ACP. I think you said it could be a 50 basis point hit. I'm just curious if we can drill down there. Is that more of an ARPU hit with these new plans that are coming out? Or is it more on the disconnect side?",
+      "page_number": 15,
+      "original": "You provided some great color on ACP. I think you said it could be a 50 basis point hit. I'm just curious if we can drill down there. Is that more of an ARPU hit with these new plans that are coming out? Or is it more on the disconnect side?",
+      "label": "text"
+    },
+    {
+      "text": "Second question is just on fiber-to-the-home and the open access models that we're seeing. We've seen some news flow with Tillman, Intrepid, et cetera, on open access and maybe even T-Mobile. I'm just trying to gauge your appetite to ride some of these open access CapEx-light models if they come to fruition?",
+      "page_number": 15,
+      "original": "Second question is just on fiber-to-the-home and the open access models that we're seeing. We've seen some news flow with Tillman, Intrepid, et cetera, on open access and maybe even T-Mobile. I'm just trying to gauge your appetite to ride some of these open access CapEx-light models if they come to fruition?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 15,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "I can take the first question then the second question first. As we haven't done any open access deals yet, you can see that the appetite hasn't been that big. Anyhow, we're going to evaluate any type of opportunities that can fortify how we deliver to our customers. So far in this environment,",
+      "page_number": 15,
+      "original": "I can take the first question then the second question first. As we haven't done any open access deals yet, you can see that the appetite hasn't been that big. Anyhow, we're going to evaluate any type of opportunities that can fortify how we deliver to our customers. So far in this environment,",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 15,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 15,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 15,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "15",
+      "page_number": 15,
+      "original": "15",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 16,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "with a very high capital cost, et cetera, we haven't find a good return on investment on it. And again, we are very financially prudent. And remember, we have fixed wireless access. We have our Fios.",
+      "page_number": 16,
+      "original": "with a very high capital cost, et cetera, we haven't find a good return on investment on it. And again, we are very financially prudent. And remember, we have fixed wireless access. We have our Fios.",
+      "label": "text"
+    },
+    {
+      "text": "We have owner's economics on basically everything we're doing. That's why our return on investment is the highest in the industry, and our [Adjusted] EBITDA is the highest (added by company after the call). We will both continue to be disciplined in that. That doesn't mean I'm not going to look into other models. But right now, there has not been any models that is appealing to me and the team and for our shareholders.",
+      "page_number": 16,
+      "original": "We have owner's economics on basically everything we're doing. That's why our return on investment is the highest in the industry, and our [Adjusted] EBITDA is the highest (added by company after the call). We will both continue to be disciplined in that. That doesn't mean I'm not going to look into other models. But right now, there has not been any models that is appealing to me and the team and for our shareholders.",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 16,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "And then, Greg, on your question on ACP. So as we said, it was up to a potential 50 basis points of headwind in service revenue. And that's a combination of ARPU and churn, and it's lower ARPU. And we also said the margin exposure from ACP is also very, very small.",
+      "page_number": 16,
+      "original": "And then, Greg, on your question on ACP. So as we said, it was up to a potential 50 basis points of headwind in service revenue. And that's a combination of ARPU and churn, and it's lower ARPU. And we also said the margin exposure from ACP is also very, very small.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 16,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "The next question comes from Bryan Kraft of Deutsche Bank.",
+      "page_number": 16,
+      "original": "The next question comes from Bryan Kraft of Deutsche Bank.",
+      "label": "text"
+    },
+    {
+      "text": "Bryan Kraft - Deutsche Bank AG, Research Division - Director & Lead Research Analyst",
+      "page_number": 16,
+      "original": "Bryan Kraft - Deutsche Bank AG, Research Division - Director & Lead Research Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "I had two if I could. First, could you provide an update on your efforts to pursue BEAD funding? Are you seeing any progress at the state level in establishing the rules? And based on what you are seeing there, are you more encouraged or discouraged by what you're seeing?",
+      "page_number": 16,
+      "original": "I had two if I could. First, could you provide an update on your efforts to pursue BEAD funding? Are you seeing any progress at the state level in establishing the rules? And based on what you are seeing there, are you more encouraged or discouraged by what you're seeing?",
+      "label": "text"
+    },
+    {
+      "text": "And then separately, I was wondering if you could just provide any color on the company's performance in the first quarter within the larger metro markets relative to smaller, midsized markets in Consumer?",
+      "page_number": 16,
+      "original": "And then separately, I was wondering if you could just provide any color on the company's performance in the first quarter within the larger metro markets relative to smaller, midsized markets in Consumer?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 16,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you. On BEAD funding, yes, that's been widely reported in the press. It is, of course, a complicated process to get the BEAD money out, et cetera. So we bid where we see it makes sense with return on investment and the subsidy is coming in there. There are some other broadband money coming into the market from the previous funds, which we're winning.",
+      "page_number": 16,
+      "original": "Thank you. On BEAD funding, yes, that's been widely reported in the press. It is, of course, a complicated process to get the BEAD money out, et cetera. So we bid where we see it makes sense with return on investment and the subsidy is coming in there. There are some other broadband money coming into the market from the previous funds, which we're winning.",
+      "label": "text"
+    },
+    {
+      "text": "We just had some quite large wins here recently in Pennsylvania. So we're using it, but we do it when it makes sense from a profitable point of view. But again, it's probably going to take some time when we see these money rolling out. Second question is for you. Yes. So on the, I need to remember the...",
+      "page_number": 16,
+      "original": "We just had some quite large wins here recently in Pennsylvania. So we're using it, but we do it when it makes sense from a profitable point of view. But again, it's probably going to take some time when we see these money rolling out. Second question is for you. Yes. So on the, I need to remember the...",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas",
+      "page_number": 16,
+      "original": "Anthony Skiadas",
+      "label": "text"
+    },
+    {
+      "text": "- Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 16,
+      "original": "- Verizon Communications Inc. - Executive VP & CFO",
+      "label": "text"
+    },
+    {
+      "text": "It was the question on the C-band market.",
+      "page_number": 16,
+      "original": "It was the question on the C-band market.",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 16,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "text"
+    },
+    {
+      "text": "Okay.",
+      "page_number": 16,
+      "original": "Okay.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 16,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 16,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 16,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "16",
+      "page_number": 16,
+      "original": "16",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 17,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 17,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "So on the C-band markets in the early markets, the performance is much better. As we said earlier, the churn is much better, 4 basis points better in churn. The premium mix is also a lot better, and we see meaningful increase in gross add performance as well. So we're really, really pleased with the performance in C-band.",
+      "page_number": 17,
+      "original": "So on the C-band markets in the early markets, the performance is much better. As we said earlier, the churn is much better, 4 basis points better in churn. The premium mix is also a lot better, and we see meaningful increase in gross add performance as well. So we're really, really pleased with the performance in C-band.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 17,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "Your last question will come from Peter Supino of Wolfe Research.",
+      "page_number": 17,
+      "original": "Your last question will come from Peter Supino of Wolfe Research.",
+      "label": "text"
+    },
+    {
+      "text": "Peter Supino - Wolfe Research, LLC - MD & Senior Analyst",
+      "page_number": 17,
+      "original": "Peter Supino - Wolfe Research, LLC - MD & Senior Analyst",
+      "label": "section_header"
+    },
+    {
+      "text": "Wondered if you could talk about SG&A growth. It was up 11% in Business and 4% in Consumer. It was nicely offset by cost relief from lower upgrades. I'm just wondering if you're spending back some of that upside on SG&A and how we might think about modeling operating leverage and specifically SG&A going forward?",
+      "page_number": 17,
+      "original": "Wondered if you could talk about SG&A growth. It was up 11% in Business and 4% in Consumer. It was nicely offset by cost relief from lower upgrades. I'm just wondering if you're spending back some of that upside on SG&A and how we might think about modeling operating leverage and specifically SG&A going forward?",
+      "label": "text"
+    },
+    {
+      "text": "And then if anybody would be willing to provide an update on your project of deploying millimeter wave spectrum, in support of the FWA business to multi-dwelling units. Is that working the way you hoped? And if so, could that provide upside to your long-term broadband growth targets?",
+      "page_number": 17,
+      "original": "And then if anybody would be willing to provide an update on your project of deploying millimeter wave spectrum, in support of the FWA business to multi-dwelling units. Is that working the way you hoped? And if so, could that provide upside to your long-term broadband growth targets?",
+      "label": "text"
+    },
+    {
+      "text": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "page_number": 17,
+      "original": "Hans Vestberg - Verizon Communications Inc. - Chairman & CEO",
+      "label": "section_header"
+    },
+    {
+      "text": "Thank you. On the SG&A, we're very focused on seeing that we continue to get full leverage on the growth that we have right now. So the team is really focused on taking out cost. And I said, we are on track for that. We have a lot of initiatives ongoing. Tony will give you some more puts and takes on the SG&A in the quarter.",
+      "page_number": 17,
+      "original": "Thank you. On the SG&A, we're very focused on seeing that we continue to get full leverage on the growth that we have right now. So the team is really focused on taking out cost. And I said, we are on track for that. We have a lot of initiatives ongoing. Tony will give you some more puts and takes on the SG&A in the quarter.",
+      "label": "text"
+    },
+    {
+      "text": "On the millimeter wave MDU solution, that is progressing. We have said it will come in the second half, latter part of this year in commercial. But we are piloting it right now, and it's performing really well. So we feel really good about it. And it will, over time, of course, add opportunity for us on MDUs that we haven't served with a fixed wireless access so far. So it will be an addition over time. Tony?",
+      "page_number": 17,
+      "original": "On the millimeter wave MDU solution, that is progressing. We have said it will come in the second half, latter part of this year in commercial. But we are piloting it right now, and it's performing really well. So we feel really good about it. And it will, over time, of course, add opportunity for us on MDUs that we haven't served with a fixed wireless access so far. So it will be an addition over time. Tony?",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "page_number": 17,
+      "original": "Anthony Skiadas - Verizon Communications Inc. - Executive VP & CFO",
+      "label": "section_header"
+    },
+    {
+      "text": "Yes. And Peter, on your question on SG&A. Some of that in the quarter is a function of the upfront work on transformation initiatives that will abate as the year progresses. And we also see pressure, year-over-year pressure on the handset insurance claims. And we expect that to level off in the second quarter, and we expect to see further operating leverage in the second half of the year.",
+      "page_number": 17,
+      "original": "Yes. And Peter, on your question on SG&A. Some of that in the quarter is a function of the upfront work on transformation initiatives that will abate as the year progresses. And we also see pressure, year-over-year pressure on the handset insurance claims. And we expect that to level off in the second quarter, and we expect to see further operating leverage in the second half of the year.",
+      "label": "text"
+    },
+    {
+      "text": "Brady Connor",
+      "page_number": 17,
+      "original": "Brady Connor",
+      "label": "text"
+    },
+    {
+      "text": "- Verizon Communications Inc. - SVP of IR",
+      "page_number": 17,
+      "original": "- Verizon Communications Inc. - SVP of IR",
+      "label": "text"
+    },
+    {
+      "text": "Great. Thanks, Brad. That's all the time we have.",
+      "page_number": 17,
+      "original": "Great. Thanks, Brad. That's all the time we have.",
+      "label": "text"
+    },
+    {
+      "text": "Operator",
+      "page_number": 17,
+      "original": "Operator",
+      "label": "section_header"
+    },
+    {
+      "text": "Ladies and gentlemen, this concludes the conference call for today. Thank you for your participation and for using Verizon Conference Services. You may now disconnect.",
+      "page_number": 17,
+      "original": "Ladies and gentlemen, this concludes the conference call for today. Thank you for your participation and for using Verizon Conference Services. You may now disconnect.",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 17,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 17,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 17,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "17",
+      "page_number": 17,
+      "original": "17",
+      "label": "page_footer"
+    },
+    {
+      "text": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "page_number": 18,
+      "original": "APRIL 22, 2024 / 12:30PM, VZ.N - Q1 2024 Verizon Communications Inc. Earnings Call",
+      "label": "section_header"
+    },
+    {
+      "text": "DISCLAIMER",
+      "page_number": 18,
+      "original": "DISCLAIMER",
+      "label": "section_header"
+    },
+    {
+      "text": "Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.",
+      "page_number": 18,
+      "original": "Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.",
+      "label": "text"
+    },
+    {
+      "text": "In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.",
+      "page_number": 18,
+      "original": "In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.",
+      "label": "text"
+    },
+    {
+      "text": "THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.",
+      "page_number": 18,
+      "original": "THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.",
+      "label": "text"
+    },
+    {
+      "text": "©2024, Refinitiv. All Rights Reserved.",
+      "page_number": 18,
+      "original": "©2024, Refinitiv. All Rights Reserved.",
+      "label": "text"
+    },
+    {
+      "text": "15762667-2024-04-23T17:45:54.887",
+      "page_number": 18,
+      "original": "15762667-2024-04-23T17:45:54.887",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV",
+      "page_number": 18,
+      "original": "REFINITIV",
+      "label": "text"
+    },
+    {
+      "text": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "page_number": 18,
+      "original": "REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us",
+      "label": "page_footer"
+    },
+    {
+      "text": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "page_number": 18,
+      "original": "©2024 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.",
+      "label": "page_footer"
+    },
+    {
+      "text": "18",
+      "page_number": 18,
+      "original": "18",
+      "label": "page_footer"
+    }
+  ]
+}

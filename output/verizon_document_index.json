@@ -1,0 +1,1680 @@
+{
+  "metadata": {
+    "collection_date": "2025-07-20T23:22:38.040013",
+    "total_documents": 235,
+    "source": "Verizon website via sitemap",
+    "agent": "SitemapDataIngestionAgent",
+    "settings_used": {
+      "sitemap_url": "https://www.verizon.com/about/sitemap.xml",
+      "base_domain": "www.verizon.com",
+      "path_prefix": "/about/",
+      "target_sections": [
+        "investors",
+        "our-company",
+        "terms-conditions",
+        "responsibility",
+        "privacy",
+        "about",
+        "parenting",
+        "consumer-safety",
+        "international"
+      ],
+      "max_pages_per_section": 50,
+      "request_delay": 2.0
+    }
+  },
+  "statistics": {
+    "total_content_characters": 1828367,
+    "average_content_length": 7780.2851063829785,
+    "sections_extracted": [
+      "unknown"
+    ]
+  },
+  "document_index": [
+    {
+      "url": "https://www.verizon.com/about/our-company/5g",
+      "status": "success",
+      "content_length": 5418,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/sellside-analyst-meeting-nov-16",
+      "status": "success",
+      "content_length": 578,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/corporate-governance/human-resources-committee",
+      "status": "success",
+      "content_length": 1054,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/voice-link",
+      "status": "success",
+      "content_length": 39450,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/5g/verizon-5g-ultra-wideband-and-future-robotics",
+      "status": "success",
+      "content_length": 7363,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/4q-2021-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/3q-2018-quarter-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 683,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/verizon-acquire-frontier-communications",
+      "status": "success",
+      "content_length": 3487,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/what-finsta",
+      "status": "success",
+      "content_length": 4576,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/goldman-sachs-25th-annual-communacopia-conference",
+      "status": "success",
+      "content_length": 5137,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-es",
+      "status": "success",
+      "content_length": 511,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/web-com-master-services-agreement",
+      "status": "success",
+      "content_length": 83348,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/moffettnathanson-media-internet-communications-conference-2024",
+      "status": "success",
+      "content_length": 4104,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/network-disclosures/archives",
+      "status": "success",
+      "content_length": 874,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/oppenheimer-25th-annual-technology-internet-communications-conference",
+      "status": "success",
+      "content_length": 3518,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-de",
+      "status": "success",
+      "content_length": 545,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/share-locations-verizon-family-app",
+      "status": "success",
+      "content_length": 3376,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/our-culture",
+      "status": "success",
+      "content_length": 2426,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/financial-reporting",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/morgan-stanley-technology-media-telecom-conference-1",
+      "status": "success",
+      "content_length": 348,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/aac-parents-non-verbal-children",
+      "status": "success",
+      "content_length": 10772,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/kids-making-friends-online",
+      "status": "success",
+      "content_length": 5557,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/4q-2020-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/innovation-labs/san-francisco",
+      "status": "success",
+      "content_length": 441,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/4q-2019-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 569,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/3q-2024-earnings-release",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/parents-who-bully-tips-and-strategies",
+      "status": "success",
+      "content_length": 3588,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/ubs-44th-annual-global-media-and-communications-conference",
+      "status": "success",
+      "content_length": 5153,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/balancing-trust-and-safety-how-parents-can-monitor-their-teens-digital-activity",
+      "status": "success",
+      "content_length": 6246,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/bundle-worry-free-guarantee",
+      "status": "success",
+      "content_length": 454,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/deutsche-bank-24th-annual-media-internet-telecom-conference",
+      "status": "success",
+      "content_length": 348,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/how-to-be-a-guardian-for-your-kids-online-identity",
+      "status": "success",
+      "content_length": 8612,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/company-policies/human-rights-statement",
+      "status": "success",
+      "content_length": 3512,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/supplier-diversity-faqs",
+      "status": "success",
+      "content_length": 1728,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizons-unsolicited-bulk-email-policy",
+      "status": "success",
+      "content_length": 1255,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/ubs-global-media-and-communications-conference-2024",
+      "status": "success",
+      "content_length": 4378,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/jp-morgan-global-technology-media-and-communications-conference-2024",
+      "status": "success",
+      "content_length": 4110,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-servicio-de-facturacion-electronica-requerida",
+      "status": "success",
+      "content_length": 1841,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/innovation-labs/labs-service",
+      "status": "success",
+      "content_length": 1049,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/corporate-governance/corporate-governance-committee",
+      "status": "success",
+      "content_length": 1133,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/3q-2011-quarter-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 292,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-cn",
+      "status": "success",
+      "content_length": 6484,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/verizon-transactions-investor-webcast",
+      "status": "success",
+      "content_length": 432,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/multiplayer-games-new-social-media",
+      "status": "success",
+      "content_length": 8499,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/auto-pay-paper-free-billing",
+      "status": "success",
+      "content_length": 4802,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/barclays-global-technology-media-telecom-conference",
+      "status": "success",
+      "content_length": 568,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/take-your-kids-virtual-field-trip-right-now",
+      "status": "success",
+      "content_length": 3469,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/company-policies/verizon-disability-accommodations",
+      "status": "success",
+      "content_length": 719,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/1q-2024-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/making-friends-post-pandemic-world-gaming-kids",
+      "status": "success",
+      "content_length": 8069,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/bank-america-merrill-lynch-2019-media-communications-entertainment-conference",
+      "status": "success",
+      "content_length": 2903,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/history-and-timeline/2014",
+      "status": "success",
+      "content_length": 8570,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/real-talk-about-photo-editing-apps-your-teens",
+      "status": "success",
+      "content_length": 3415,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/morgan-stanley-virtual-european-technology-media-telecom-conference-2020",
+      "status": "success",
+      "content_length": 3143,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/barclays-global-technology-media-and-telecommunications-conference-2017",
+      "status": "success",
+      "content_length": 2589,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/disaster-resilience",
+      "status": "success",
+      "content_length": 769,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/video-content-what-your-teen-watches",
+      "status": "success",
+      "content_length": 4292,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/wireless-growth-strategies",
+      "status": "success",
+      "content_length": 477,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/how-talk-kids-about-inappropriate-content-online",
+      "status": "success",
+      "content_length": 8903,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/ubs-41st-annual-global-media-communications-conference",
+      "status": "success",
+      "content_length": 585,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/wells-fargo-1st-annual-tech-transformation-summit",
+      "status": "success",
+      "content_length": 611,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/barclays-global-communications-media-technology-conference",
+      "status": "success",
+      "content_length": 638,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/innovation-labs/boston",
+      "status": "success",
+      "content_length": 496,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/executive-bios/stacy-sharpe",
+      "status": "success",
+      "content_length": 1047,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/4q-2014-quarter-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 295,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/business-terms-of-service",
+      "status": "success",
+      "content_length": 1057,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/tech-talk-exploring-emotional-side-ai-kids-and-teens",
+      "status": "success",
+      "content_length": 5369,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/ubs-global-tmt-virtual-conference-2020",
+      "status": "success",
+      "content_length": 3088,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/screen-time-child-online-activity",
+      "status": "success",
+      "content_length": 5946,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-cn",
+      "status": "success",
+      "content_length": 317,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/3q-2013-quarter-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 280,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/morgan-stanley-11th-annual-technology-media-telecom-conference",
+      "status": "success",
+      "content_length": 587,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/parents-guide-explaining-genai-kids-teens",
+      "status": "success",
+      "content_length": 8143,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/goldman-sachs-22nd-annual-communacopia-conference",
+      "status": "success",
+      "content_length": 583,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/should-kids-have-cell-phones-it-depends",
+      "status": "success",
+      "content_length": 8298,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/executive-bios/hans-vestberg",
+      "status": "success",
+      "content_length": 2364,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terms-and-conditions-verizon-inside-wire-maintenance",
+      "status": "success",
+      "content_length": 18763,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/overview",
+      "status": "success",
+      "content_length": 314,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/liam-project-putting-technology-to-work",
+      "status": "success",
+      "content_length": 3770,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/morgan-stanley-european-technology-media-telecom-conference-2023",
+      "status": "success",
+      "content_length": 3940,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning/because-we-can-story",
+      "status": "success",
+      "content_length": 11326,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/1q-2019-quarter-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/real-talk-about-toddlers-and-screens",
+      "status": "success",
+      "content_length": 9099,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/once-upon-instagram-live",
+      "status": "success",
+      "content_length": 10863,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/multiplayer-vr-games-parents-safety-guide",
+      "status": "success",
+      "content_length": 6019,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/morgan-stanley-technology-media-telecom-conference-2022",
+      "status": "success",
+      "content_length": 3431,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/parents-guide-vr-headsets-and-vr-games-kids",
+      "status": "success",
+      "content_length": 11247,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/digital-inclusion/disability-innovation",
+      "status": "success",
+      "content_length": 615,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-fios-tv",
+      "status": "success",
+      "content_length": 59689,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/sell-side-analyst-meeting-3q-2024-results-broadband-update",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/fire-island-ny-voice-link",
+      "status": "success",
+      "content_length": 28350,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/network-disclosures/2022-2024",
+      "status": "success",
+      "content_length": 10844,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/human-capital-report-2020",
+      "status": "success",
+      "content_length": 2426,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/how-outsmart-screen-time-better-bedtime-routine",
+      "status": "success",
+      "content_length": 6764,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/investors/quarterly-reports/2q-2020-earnings-conference-call-webcast",
+      "status": "success",
+      "content_length": 339,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/809-scam",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/fathers-day-gift-documenting-moments",
+      "status": "success",
+      "content_length": 5903,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/about/our-company/5g/future-education-technology",
+      "status": "success",
+      "content_length": 5133,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/parental-control-notification-what-to-do",
+      "status": "success",
+      "content_length": 6647,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility",
+      "status": "success",
+      "content_length": 575,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/consumer-safety/important-consumer-information",
+      "status": "success",
+      "content_length": 702,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/executive-bios-old2",
+      "status": "success",
+      "content_length": 859,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/company-policies/commitment-to-pay-equity",
+      "status": "success",
+      "content_length": 665,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/tech-talk-keeps-kids-safe-online",
+      "status": "success",
+      "content_length": 7723,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/what-parents-need-to-know-about-discord",
+      "status": "success",
+      "content_length": 3692,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/auto-pay-postpaid-non-paperless-customers",
+      "status": "success",
+      "content_length": 3651,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/retiree-information",
+      "status": "success",
+      "content_length": 11063,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/environmental-responsibility",
+      "status": "success",
+      "content_length": 856,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/5g/5g-radio-access-networks",
+      "status": "success",
+      "content_length": 1382,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-jp",
+      "status": "success",
+      "content_length": 9609,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/manage-screen-time-bedtime-routines",
+      "status": "success",
+      "content_length": 6764,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/navigate-anxiety-in-kids-tech-filled-world",
+      "status": "success",
+      "content_length": 6116,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/our-company/verizon-ventures",
+      "status": "success",
+      "content_length": 424,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/slamming-and-cramming",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/family-fitness-top-metrics-kids-smartwatch",
+      "status": "success",
+      "content_length": 4799,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/consumer-safety/device-unlocking-policy",
+      "status": "success",
+      "content_length": 2119,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/teenagers",
+      "status": "success",
+      "content_length": 668,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/looking-best-smartwatch-your-kids-complete-parents-guide",
+      "status": "success",
+      "content_length": 8739,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/kids-phone-5-steps",
+      "status": "success",
+      "content_length": 8043,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/minority-males",
+      "status": "success",
+      "content_length": 515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-terms-service-purchasers-business-dsl-service-jan-9-2006",
+      "status": "success",
+      "content_length": 38995,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/digital-bullying-and-exclusion-how-keep-our-kids-emotionally-safe-while-theyre-home",
+      "status": "success",
+      "content_length": 3207,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/buyer-agreement",
+      "status": "success",
+      "content_length": 786,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/5-ways-use-tech-pet-care-routine",
+      "status": "success",
+      "content_length": 5409,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-cz",
+      "status": "success",
+      "content_length": 514,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/good-gaming-digital-citizen",
+      "status": "success",
+      "content_length": 6483,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/human-prosperity/reskilling-program",
+      "status": "success",
+      "content_length": 298,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/eu-candidate-privacy-notice-es",
+      "status": "success",
+      "content_length": 13294,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/digital-billing",
+      "status": "success",
+      "content_length": 1582,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/consumer-safety/politica-de-desbloqueo-de-dispositivos-pospagados",
+      "status": "success",
+      "content_length": 5956,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/overseas-money-transfer-scam",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/help-child-build-independence-gizmo-watch",
+      "status": "success",
+      "content_length": 5343,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-customer-agreement",
+      "status": "success",
+      "content_length": 10763,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/texting-strategies-kids-gizmo-watch-3",
+      "status": "success",
+      "content_length": 5808,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/what-tiktok",
+      "status": "success",
+      "content_length": 4553,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/employee-volunteers",
+      "status": "success",
+      "content_length": 1307,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/signs-of-sadfishing-parents-guide",
+      "status": "success",
+      "content_length": 7099,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-ru",
+      "status": "success",
+      "content_length": 522,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/how-use-smart-family-manage-screen-time",
+      "status": "success",
+      "content_length": 4212,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/family-road-trip-tech-essentials",
+      "status": "success",
+      "content_length": 4538,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/smart-speaker-new-homework-helper",
+      "status": "success",
+      "content_length": 5875,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terms-of-use/mobile",
+      "status": "success",
+      "content_length": 27747,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/parenting/we-need-stop-talking-about-years-our-kids-lost-school",
+      "status": "success",
+      "content_length": 7187,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/account-security",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/hopeline-faqs",
+      "status": "success",
+      "content_length": 575,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/grants-and-partnerships",
+      "status": "success",
+      "content_length": 575,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/international-privacy-centre",
+      "status": "success",
+      "content_length": 1919,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning/transforming-texas-school-district-technology",
+      "status": "success",
+      "content_length": 7282,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/BCRparticipants",
+      "status": "success",
+      "content_length": 14530,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/intuit",
+      "status": "success",
+      "content_length": 41195,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/worms-viruses-and-other-malicious-programs",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning/preparing-for-a-digital-future",
+      "status": "success",
+      "content_length": 11180,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/verizon-end-user-privacy-notice",
+      "status": "success",
+      "content_length": 4277,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/verizon-internal-systems-information-security-exhibit",
+      "status": "success",
+      "content_length": 7421,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/standalone-service",
+      "status": "success",
+      "content_length": 527,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/subscribe-updates",
+      "status": "success",
+      "content_length": 650,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning/stem-isnt-just-a-boy-thing",
+      "status": "success",
+      "content_length": 11554,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-servicio-de-verizon-fios-prepaid",
+      "status": "success",
+      "content_length": 22512,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terms-of-use",
+      "status": "success",
+      "content_length": 27747,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/cybersecurity",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/auto-pay-prepaid-terms-and-conditions",
+      "status": "success",
+      "content_length": 4515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-kr",
+      "status": "success",
+      "content_length": 406,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/domestic-violence-prevention",
+      "status": "success",
+      "content_length": 575,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-kr",
+      "status": "success",
+      "content_length": 9067,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/digital-inclusion/verizon-innovative-learning",
+      "status": "success",
+      "content_length": 515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-fr",
+      "status": "success",
+      "content_length": 22357,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/sbdc-conference",
+      "status": "success",
+      "content_length": 1844,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/standalone-service-worry-free-guarantee-spanish",
+      "status": "success",
+      "content_length": 522,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/acceptable-use-policy",
+      "status": "success",
+      "content_length": 3879,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/skill-forward-wounded-warrior-project",
+      "status": "success",
+      "content_length": 1270,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-servicio-de-verizon-fios-tv",
+      "status": "success",
+      "content_length": 68301,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/bi-professional-managed-services-terms",
+      "status": "success",
+      "content_length": 27558,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-la-oferta-worry-free-guarantee",
+      "status": "success",
+      "content_length": 508,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-servicio-de-facturacion-de-forma-digital",
+      "status": "success",
+      "content_length": 1864,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/account-security/file-a-fraud-claim",
+      "status": "success",
+      "content_length": 2527,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/verizon-enterprise-privacy-notice",
+      "status": "success",
+      "content_length": 4192,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/digital-inclusion",
+      "status": "success",
+      "content_length": 1072,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/standalone-service-worry-free-guarantee",
+      "status": "success",
+      "content_length": 465,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/consumer-safety/avoiding-potential-hearing-loss",
+      "status": "success",
+      "content_length": 1932,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/get-involved",
+      "status": "success",
+      "content_length": 575,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-web-site-use-agreement",
+      "status": "success",
+      "content_length": 17199,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning-locations",
+      "status": "success",
+      "content_length": 515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-ru",
+      "status": "success",
+      "content_length": 20177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/network-disclosures-2017-2021",
+      "status": "success",
+      "content_length": 3175,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/presentacion-de-factura-por-internet-mi-verizon",
+      "status": "success",
+      "content_length": 10942,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/design-thinking",
+      "status": "success",
+      "content_length": 515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/verizon-innovative-learning/middle-school-girls-find-community-verizon-innovative-learning",
+      "status": "success",
+      "content_length": 7464,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-fr",
+      "status": "success",
+      "content_length": 511,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/current-sub-processors-and-affiliates",
+      "status": "success",
+      "content_length": 7596,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-online-terms-service-verizon-business-internet-and-value-added-services",
+      "status": "success",
+      "content_length": 144087,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terms-service-verizon-fios-internet-service-business-january-9-2006",
+      "status": "success",
+      "content_length": 38874,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/identity-theft",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/terminos-de-la-oferta-standalone",
+      "status": "success",
+      "content_length": 626,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/involvesoft-end-user-notice",
+      "status": "success",
+      "content_length": 4106,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/generally-available-terms-and-conditions-adsl",
+      "status": "success",
+      "content_length": 66414,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/about/our-company/what-we-do/protecting-infrastructure",
+      "status": "success",
+      "content_length": 449,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/user-guides",
+      "status": "success",
+      "content_length": 581,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/eu-candidate-privacy-notice",
+      "status": "success",
+      "content_length": 13356,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/zenkey",
+      "status": "success",
+      "content_length": 16010,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/digital-inclusion/small-business-training",
+      "status": "success",
+      "content_length": 426,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-pt-br",
+      "status": "success",
+      "content_length": 507,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/network-disclosures",
+      "status": "success",
+      "content_length": 2391,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/human-prosperity",
+      "status": "success",
+      "content_length": 1107,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/master-domain-registration-agreement-verizon-domain-names",
+      "status": "success",
+      "content_length": 56693,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/calling-card-number-theft",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/robocalls",
+      "status": "success",
+      "content_length": 13319,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/fios-digital-voice-inside-wire-maintenance-plan",
+      "status": "success",
+      "content_length": 20392,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/about/our-company/enterprise-security",
+      "status": "success",
+      "content_length": 1170,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/binding-corporate-rules",
+      "status": "success",
+      "content_length": 14530,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-fios-prepaid",
+      "status": "success",
+      "content_length": 19567,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-fr-ca",
+      "status": "success",
+      "content_length": 528,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/recent-changes-international-privacy-policy",
+      "status": "success",
+      "content_length": 617,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-cz",
+      "status": "success",
+      "content_length": 18733,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/verizon-bundle",
+      "status": "success",
+      "content_length": 515,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/terms-conditions/required-paper-free-billing-terms-service",
+      "status": "success",
+      "content_length": 1549,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/it-sparked-a-fire-inside-of-me",
+      "status": "success",
+      "content_length": 10163,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-tr",
+      "status": "success",
+      "content_length": 397,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-nl-be",
+      "status": "success",
+      "content_length": 493,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/72-prison-scam",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-br",
+      "status": "success",
+      "content_length": 19975,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/climate-protection/climate-justice",
+      "status": "success",
+      "content_length": 844,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/frauds-scams/jury-duty-telephone-scam",
+      "status": "success",
+      "content_length": 7177,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/responsibility/houston-economic-growth-collaborative",
+      "status": "success",
+      "content_length": 508,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-pt",
+      "status": "success",
+      "content_length": 531,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-pl",
+      "status": "success",
+      "content_length": 504,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-de",
+      "status": "success",
+      "content_length": 21109,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/contractor-privacy-notice",
+      "status": "success",
+      "content_length": 551,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/international-policy",
+      "status": "success",
+      "content_length": 18264,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-fr-ca",
+      "status": "success",
+      "content_length": 23837,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/eu-candidate-privacy-notice-de",
+      "status": "success",
+      "content_length": 13439,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/privacy/data-processing-activities",
+      "status": "success",
+      "content_length": 7064,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/consumer-safety/overview",
+      "status": "success",
+      "content_length": 12166,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/recent-changes-international-privacy-policy-jp",
+      "status": "success",
+      "content_length": 381,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/international-policy-pt",
+      "status": "success",
+      "content_length": 20582,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    },
+    {
+      "url": "https://www.verizon.com/about/international/privacy/description-of-processing-personal-data-verizon-connect",
+      "status": "success",
+      "content_length": 11322,
+      "section": "unknown",
+      "extraction_method": "trafilatura"
+    }
+  ]
+}

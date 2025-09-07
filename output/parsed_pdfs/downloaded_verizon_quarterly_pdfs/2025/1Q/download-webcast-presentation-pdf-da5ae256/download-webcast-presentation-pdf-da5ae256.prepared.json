@@ -1,0 +1,1329 @@
+{
+  "doc_id": "download-webcast-presentation-pdf-da5ae256",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\Download Webcast Presentation PDF_da5ae256.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "| Header | 1Q25 |\n|---|---| \n| Wireless Service Revenue 1 | $20.8B +2.7% Y/Y |\n| Adjusted EBITDA | $3.6B +34.3% Y/Y |\n| Free Cash Flow 2 |  |\n| Key Highlights |  |\n",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [
+          "1Q25"
+        ],
+        "currency": "USD",
+        "notes": [
+          "1",
+          "2"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 3,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 4,
+        "total_cols": 2
+      },
+      "table_id": "download-webcast-presentation-pdf-da5ae256_p3_t0"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "1Q 2025 Earnings& Business Update",
+      "page_number": 1,
+      "original": "1Q 2025 Earnings& Business Update",
+      "label": "section_header"
+    },
+    {
+      "text": "April 22, 2025",
+      "page_number": 1,
+      "original": "April 22, 2025",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 1,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "'Safe Harbor' Statement",
+      "page_number": 2,
+      "original": "'Safe Harbor' Statement",
+      "label": "section_header"
+    },
+    {
+      "text": "In  this  presentation  we  have  made  forward-looking  statements.  These  statements  are  based  on  our  estimates  and  assumptions  and  are  subject  to  risks  and  uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure  to  take  advantage  of,  or  respond  to  competitors'  use  of,  developments  in  technology,  including  artificial  intelligence,  and  address  changes  in  consumer  demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; changes to international trade and tariff policies and related economic and other impacts; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks  associated  with  mergers,  acquisitions,  divestitures  and  other  strategic  transactions,  including  our  ability  to  consummate  the  proposed  acquisition  of  Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "page_number": 2,
+      "original": "In  this  presentation  we  have  made  forward-looking  statements.  These  statements  are  based  on  our  estimates  and  assumptions  and  are  subject  to  risks  and  uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure  to  take  advantage  of,  or  respond  to  competitors'  use  of,  developments  in  technology,  including  artificial  intelligence,  and  address  changes  in  consumer  demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; changes to international trade and tariff policies and related economic and other impacts; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks  associated  with  mergers,  acquisitions,  divestitures  and  other  strategic  transactions,  including  our  ability  to  consummate  the  proposed  acquisition  of  Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "label": "text"
+    },
+    {
+      "text": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "page_number": 2,
+      "original": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 2,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "2",
+      "page_number": 2,
+      "original": "2",
+      "label": "page_footer"
+    },
+    {
+      "text": "Strong strategic execution with financial discipline in 1Q25",
+      "page_number": 3,
+      "original": "Strong strategic execution with financial discipline in 1Q25",
+      "label": "section_header"
+    },
+    {
+      "text": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "page_number": 3,
+      "original": "1   Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation.",
+      "label": "footnote"
+    },
+    {
+      "text": "2  Non-GAAP measure.",
+      "page_number": 3,
+      "original": "2  Non-GAAP measure.",
+      "label": "footnote"
+    },
+    {
+      "text": "3  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "page_number": 3,
+      "original": "3  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "label": "footnote"
+    },
+    {
+      "text": "verizon",
+      "page_number": 3,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "On track to deliver on 2025 financial guidance",
+      "page_number": 3,
+      "original": "On track to deliver on 2025 financial guidance",
+      "label": "page_footer"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "Operating metrics",
+      "page_number": 4,
+      "original": "Operating metrics",
+      "label": "section_header"
+    },
+    {
+      "text": "Retail Postpaid Phone + Retail Core Prepaid 1  Net Adds (K)",
+      "page_number": 4,
+      "original": "Retail Postpaid Phone + Retail Core Prepaid 1  Net Adds (K)",
+      "label": "section_header"
+    },
+    {
+      "text": "Segmentation strategy positions Verizon for success",
+      "page_number": 4,
+      "original": "Segmentation strategy positions Verizon for success",
+      "label": "text"
+    },
+    {
+      "text": "(245)",
+      "page_number": 4,
+      "original": "(245)",
+      "label": "text"
+    },
+    {
+      "text": "14",
+      "page_number": 4,
+      "original": "14",
+      "label": "text"
+    },
+    {
+      "text": "247",
+      "page_number": 4,
+      "original": "247",
+      "label": "text"
+    },
+    {
+      "text": "569",
+      "page_number": 4,
+      "original": "569",
+      "label": "text"
+    },
+    {
+      "text": "(152)",
+      "page_number": 4,
+      "original": "(152)",
+      "label": "text"
+    },
+    {
+      "text": "65",
+      "page_number": 4,
+      "original": "65",
+      "label": "text"
+    },
+    {
+      "text": "137",
+      "page_number": 4,
+      "original": "137",
+      "label": "text"
+    },
+    {
+      "text": "80",
+      "page_number": 4,
+      "original": "80",
+      "label": "text"
+    },
+    {
+      "text": "367",
+      "page_number": 4,
+      "original": "367",
+      "label": "text"
+    },
+    {
+      "text": "137",
+      "page_number": 4,
+      "original": "137",
+      "label": "text"
+    },
+    {
+      "text": "80",
+      "page_number": 4,
+      "original": "80",
+      "label": "text"
+    },
+    {
+      "text": "135",
+      "page_number": 4,
+      "original": "135",
+      "label": "text"
+    },
+    {
+      "text": "149",
+      "page_number": 4,
+      "original": "149",
+      "label": "text"
+    },
+    {
+      "text": "6",
+      "page_number": 4,
+      "original": "6",
+      "label": "text"
+    },
+    {
+      "text": "(194)",
+      "page_number": 4,
+      "original": "(194)",
+      "label": "text"
+    },
+    {
+      "text": "(109)",
+      "page_number": 4,
+      "original": "(109)",
+      "label": "text"
+    },
+    {
+      "text": "18",
+      "page_number": 4,
+      "original": "18",
+      "label": "text"
+    },
+    {
+      "text": "(12)",
+      "page_number": 4,
+      "original": "(12)",
+      "label": "text"
+    },
+    {
+      "text": "(356)",
+      "page_number": 4,
+      "original": "(356)",
+      "label": "text"
+    },
+    {
+      "text": "(131)",
+      "page_number": 4,
+      "original": "(131)",
+      "label": "text"
+    },
+    {
+      "text": "Q1 '24",
+      "page_number": 4,
+      "original": "Q1 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q2 '24",
+      "page_number": 4,
+      "original": "Q2 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q3 '24",
+      "page_number": 4,
+      "original": "Q3 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q4 '24",
+      "page_number": 4,
+      "original": "Q4 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q1 '25",
+      "page_number": 4,
+      "original": "Q1 '25",
+      "label": "text"
+    },
+    {
+      "text": "Retail Postpaid Phone:",
+      "page_number": 4,
+      "original": "Retail Postpaid Phone:",
+      "label": "text"
+    },
+    {
+      "text": "Consumer",
+      "page_number": 4,
+      "original": "Consumer",
+      "label": "text"
+    },
+    {
+      "text": "Business",
+      "page_number": 4,
+      "original": "Business",
+      "label": "text"
+    },
+    {
+      "text": "Core Prepaid",
+      "page_number": 4,
+      "original": "Core Prepaid",
+      "label": "text"
+    },
+    {
+      "text": "Broadband Net Adds (K)",
+      "page_number": 4,
+      "original": "Broadband Net Adds (K)",
+      "label": "section_header"
+    },
+    {
+      "text": "Continue to take Broadband share",
+      "page_number": 4,
+      "original": "Continue to take Broadband share",
+      "label": "text"
+    },
+    {
+      "text": "389",
+      "page_number": 4,
+      "original": "389",
+      "label": "text"
+    },
+    {
+      "text": "391",
+      "page_number": 4,
+      "original": "391",
+      "label": "text"
+    },
+    {
+      "text": "389",
+      "page_number": 4,
+      "original": "389",
+      "label": "text"
+    },
+    {
+      "text": "408",
+      "page_number": 4,
+      "original": "408",
+      "label": "text"
+    },
+    {
+      "text": "13",
+      "page_number": 4,
+      "original": "13",
+      "label": "text"
+    },
+    {
+      "text": "26",
+      "page_number": 4,
+      "original": "26",
+      "label": "text"
+    },
+    {
+      "text": "35",
+      "page_number": 4,
+      "original": "35",
+      "label": "text"
+    },
+    {
+      "text": "339",
+      "page_number": 4,
+      "original": "339",
+      "label": "text"
+    },
+    {
+      "text": "354",
+      "page_number": 4,
+      "original": "354",
+      "label": "text"
+    },
+    {
+      "text": "378",
+      "page_number": 4,
+      "original": "378",
+      "label": "text"
+    },
+    {
+      "text": "363",
+      "page_number": 4,
+      "original": "363",
+      "label": "text"
+    },
+    {
+      "text": "373",
+      "page_number": 4,
+      "original": "373",
+      "label": "text"
+    },
+    {
+      "text": "308",
+      "page_number": 4,
+      "original": "308",
+      "label": "text"
+    },
+    {
+      "text": "Q1 '24",
+      "page_number": 4,
+      "original": "Q1 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q2 '24",
+      "page_number": 4,
+      "original": "Q2 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q3 '24",
+      "page_number": 4,
+      "original": "Q3 '24",
+      "label": "text"
+    },
+    {
+      "text": "Q1 '25",
+      "page_number": 4,
+      "original": "Q1 '25",
+      "label": "text"
+    },
+    {
+      "text": "Fixed Wireless Access",
+      "page_number": 4,
+      "original": "Fixed Wireless Access",
+      "label": "text"
+    },
+    {
+      "text": "Wireline (Fios + DSL)",
+      "page_number": 4,
+      "original": "Wireline (Fios + DSL)",
+      "label": "text"
+    },
+    {
+      "text": "1  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "page_number": 4,
+      "original": "1  Consists of prepaid net additions, excluding SafeLink. Includes both phone and non-phone net additions, unless otherwise indicated.",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 4,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "Note: Where applicable, the operating results reflect certain adjustments.",
+      "page_number": 4,
+      "original": "Note: Where applicable, the operating results reflect certain adjustments.",
+      "label": "page_footer"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "Financial summary",
+      "page_number": 5,
+      "original": "Financial summary",
+      "label": "section_header"
+    },
+    {
+      "text": "Strong Growth",
+      "page_number": 5,
+      "original": "Strong Growth",
+      "label": "section_header"
+    },
+    {
+      "text": "Capital Allocation",
+      "page_number": 5,
+      "original": "Capital Allocation",
+      "label": "section_header"
+    },
+    {
+      "text": "-Wireless service revenue 1  year-over-year growth of 2.7%; trending at upper end of guided range",
+      "page_number": 5,
+      "original": "-Wireless service revenue 1  year-over-year growth of 2.7%; trending at upper end of guided range",
+      "label": "list_item"
+    },
+    {
+      "text": "-Adjusted EBITDA 2  of $12.6B, 4.0% year-over-year growth; best ever reported result",
+      "page_number": 5,
+      "original": "-Adjusted EBITDA 2  of $12.6B, 4.0% year-over-year growth; best ever reported result",
+      "label": "list_item"
+    },
+    {
+      "text": "-Robust Free Cash Flow 2  supports capital allocation priorities",
+      "page_number": 5,
+      "original": "-Robust Free Cash Flow 2  supports capital allocation priorities",
+      "label": "list_item"
+    },
+    {
+      "text": "-Strong position to pay down debt ahead of Frontier acquisition",
+      "page_number": 5,
+      "original": "-Strong position to pay down debt ahead of Frontier acquisition",
+      "label": "list_item"
+    },
+    {
+      "text": "Resilient Business",
+      "page_number": 5,
+      "original": "Resilient Business",
+      "label": "section_header"
+    },
+    {
+      "text": "-Well-positioned to manage through uncertainty with diverse product portfolio",
+      "page_number": 5,
+      "original": "-Well-positioned to manage through uncertainty with diverse product portfolio",
+      "label": "list_item"
+    },
+    {
+      "text": "-Confident in achieving 2025 financial guidance and attaining operational objectives",
+      "page_number": 5,
+      "original": "-Confident in achieving 2025 financial guidance and attaining operational objectives",
+      "label": "list_item"
+    },
+    {
+      "text": "1  Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation. 2  Non-GAAP measure.",
+      "page_number": 5,
+      "original": "1  Sum of Consumer and Business segments. Reflects the reclassification of recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue in the first quarter of 2025. Where applicable, historical results have been recast to conform to the current period presentation. 2  Non-GAAP measure.",
+      "label": "text"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "How we compete",
+      "page_number": 6,
+      "original": "How we compete",
+      "label": "section_header"
+    },
+    {
+      "text": "Best, fastest and most reliable Network",
+      "page_number": 6,
+      "original": "Best, fastest and most reliable Network",
+      "label": "text"
+    },
+    {
+      "text": "Connectivity offerings",
+      "page_number": 6,
+      "original": "Connectivity offerings",
+      "label": "text"
+    },
+    {
+      "text": "Value-added services",
+      "page_number": 6,
+      "original": "Value-added services",
+      "label": "text"
+    },
+    {
+      "text": "Customer experience",
+      "page_number": 6,
+      "original": "Customer experience",
+      "label": "text"
+    },
+    {
+      "text": "Brand",
+      "page_number": 6,
+      "original": "Brand",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 6,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "Consumer transformation journey",
+      "page_number": 7,
+      "original": "Consumer transformation journey",
+      "label": "section_header"
+    },
+    {
+      "text": "2023",
+      "page_number": 7,
+      "original": "2023",
+      "label": "text"
+    },
+    {
+      "text": "Sales acceleration",
+      "page_number": 7,
+      "original": "Sales acceleration",
+      "label": "text"
+    },
+    {
+      "text": "myPlan launch",
+      "page_number": 7,
+      "original": "myPlan launch",
+      "label": "text"
+    },
+    {
+      "text": "2024",
+      "page_number": 7,
+      "original": "2024",
+      "label": "text"
+    },
+    {
+      "text": "Brand relaunch",
+      "page_number": 7,
+      "original": "Brand relaunch",
+      "label": "text"
+    },
+    {
+      "text": "myPlan and myHome acceleration",
+      "page_number": 7,
+      "original": "myPlan and myHome acceleration",
+      "label": "text"
+    },
+    {
+      "text": "Verizon 'Model of Convergence'",
+      "page_number": 7,
+      "original": "Verizon 'Model of Convergence'",
+      "label": "text"
+    },
+    {
+      "text": "Core prepaid growth",
+      "page_number": 7,
+      "original": "Core prepaid growth",
+      "label": "text"
+    },
+    {
+      "text": "2025",
+      "page_number": 7,
+      "original": "2025",
+      "label": "text"
+    },
+    {
+      "text": "Customer retention",
+      "page_number": 7,
+      "original": "Customer retention",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Best Value Guarantee",
+      "page_number": 7,
+      "original": "Verizon Best Value Guarantee",
+      "label": "text"
+    },
+    {
+      "text": "…more to come",
+      "page_number": 7,
+      "original": "…more to come",
+      "label": "text"
+    },
+    {
+      "text": "1  Non-GAAP measure.",
+      "page_number": 7,
+      "original": "1  Non-GAAP measure.",
+      "label": "text"
+    },
+    {
+      "text": "Positioned for sustained long term growth in Wireless service revenue, Adjusted EBITDA 1  and Free Cash Flow 1",
+      "page_number": 7,
+      "original": "Positioned for sustained long term growth in Wireless service revenue, Adjusted EBITDA 1  and Free Cash Flow 1",
+      "label": "text"
+    },
+    {
+      "text": "Proprietary and Confidential - Not for Disclosure Outside of Verizon.",
+      "page_number": 7,
+      "original": "Proprietary and Confidential - Not for Disclosure Outside of Verizon.",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 7,
+      "original": "verizon",
+      "label": "page_footer"
+    },
+    {
+      "text": "7",
+      "page_number": 7,
+      "original": "7",
+      "label": "page_footer"
+    },
+    {
+      "text": "Differentiated value proposition",
+      "page_number": 8,
+      "original": "Differentiated value proposition",
+      "label": "section_header"
+    },
+    {
+      "text": "Loyalty",
+      "page_number": 8,
+      "original": "Loyalty",
+      "label": "text"
+    },
+    {
+      "text": "Adjacent",
+      "page_number": 8,
+      "original": "Adjacent",
+      "label": "text"
+    },
+    {
+      "text": "Services",
+      "page_number": 8,
+      "original": "Services",
+      "label": "text"
+    },
+    {
+      "text": "Entertainment",
+      "page_number": 8,
+      "original": "Entertainment",
+      "label": "text"
+    },
+    {
+      "text": "Connectivity",
+      "page_number": 8,
+      "original": "Connectivity",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Store",
+      "page_number": 8,
+      "original": "Verizon Store",
+      "label": "text"
+    },
+    {
+      "text": "Concert Presale, Red Carpet Premieres, Music & Sports Access, VIP Lounges",
+      "page_number": 8,
+      "original": "Concert Presale, Red Carpet Premieres, Music & Sports Access, VIP Lounges",
+      "label": "text"
+    },
+    {
+      "text": "Gets you the best in",
+      "page_number": 8,
+      "original": "Gets you the best in",
+      "label": "text"
+    },
+    {
+      "text": "sports, music &",
+      "page_number": 8,
+      "original": "sports, music &",
+      "label": "text"
+    },
+    {
+      "text": "entertainment",
+      "page_number": 8,
+      "original": "entertainment",
+      "label": "text"
+    },
+    {
+      "text": "Unlimited",
+      "page_number": 8,
+      "original": "Unlimited",
+      "label": "text"
+    },
+    {
+      "text": "Ultimate",
+      "page_number": 8,
+      "original": "Ultimate",
+      "label": "text"
+    },
+    {
+      "text": "Unlimited",
+      "page_number": 8,
+      "original": "Unlimited",
+      "label": "text"
+    },
+    {
+      "text": "Welcome",
+      "page_number": 8,
+      "original": "Welcome",
+      "label": "text"
+    },
+    {
+      "text": "Unlimited",
+      "page_number": 8,
+      "original": "Unlimited",
+      "label": "text"
+    },
+    {
+      "text": "Plus",
+      "page_number": 8,
+      "original": "Plus",
+      "label": "text"
+    },
+    {
+      "text": "Fios",
+      "page_number": 8,
+      "original": "Fios",
+      "label": "text"
+    },
+    {
+      "text": "Home",
+      "page_number": 8,
+      "original": "Home",
+      "label": "text"
+    },
+    {
+      "text": "5G",
+      "page_number": 8,
+      "original": "5G",
+      "label": "text"
+    },
+    {
+      "text": "Home",
+      "page_number": 8,
+      "original": "Home",
+      "label": "text"
+    },
+    {
+      "text": "Prepaid",
+      "page_number": 8,
+      "original": "Prepaid",
+      "label": "text"
+    },
+    {
+      "text": "5G",
+      "page_number": 8,
+      "original": "5G",
+      "label": "text"
+    },
+    {
+      "text": "Home Plus",
+      "page_number": 8,
+      "original": "Home Plus",
+      "label": "text"
+    },
+    {
+      "text": "Verizon",
+      "page_number": 8,
+      "original": "Verizon",
+      "label": "text"
+    },
+    {
+      "text": "Mobile",
+      "page_number": 8,
+      "original": "Mobile",
+      "label": "text"
+    },
+    {
+      "text": "Protect",
+      "page_number": 8,
+      "original": "Protect",
+      "label": "text"
+    },
+    {
+      "text": "Safety",
+      "page_number": 8,
+      "original": "Safety",
+      "label": "text"
+    },
+    {
+      "text": "Home",
+      "page_number": 8,
+      "original": "Home",
+      "label": "text"
+    },
+    {
+      "text": "Mobile",
+      "page_number": 8,
+      "original": "Mobile",
+      "label": "text"
+    },
+    {
+      "text": "Financial Services",
+      "page_number": 8,
+      "original": "Financial Services",
+      "label": "text"
+    },
+    {
+      "text": "Protection & Productivity",
+      "page_number": 8,
+      "original": "Protection & Productivity",
+      "label": "text"
+    },
+    {
+      "text": "Verizon 'Model of Convergence'",
+      "page_number": 8,
+      "original": "Verizon 'Model of Convergence'",
+      "label": "text"
+    },
+    {
+      "text": "myPlan",
+      "page_number": 8,
+      "original": "myPlan",
+      "label": "text"
+    },
+    {
+      "text": "myHome",
+      "page_number": 8,
+      "original": "myHome",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Best Value Guarantee",
+      "page_number": 8,
+      "original": "Verizon Best Value Guarantee",
+      "label": "text"
+    },
+    {
+      "text": "Value",
+      "page_number": 8,
+      "original": "Value",
+      "label": "text"
+    },
+    {
+      "text": "Fios TV",
+      "page_number": 8,
+      "original": "Fios TV",
+      "label": "text"
+    },
+    {
+      "text": "Live TV",
+      "page_number": 8,
+      "original": "Live TV",
+      "label": "text"
+    },
+    {
+      "text": "Perks",
+      "page_number": 8,
+      "original": "Perks",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Access",
+      "page_number": 8,
+      "original": "Verizon Access",
+      "label": "text"
+    },
+    {
+      "text": "You're",
+      "page_number": 8,
+      "original": "You're",
+      "label": "text"
+    },
+    {
+      "text": "Explore all available",
+      "page_number": 8,
+      "original": "Explore all available",
+      "label": "text"
+    },
+    {
+      "text": "presale tickets and",
+      "page_number": 8,
+      "original": "presale tickets and",
+      "label": "text"
+    },
+    {
+      "text": "in",
+      "page_number": 8,
+      "original": "in",
+      "label": "text"
+    },
+    {
+      "text": "Select Seats",
+      "page_number": 8,
+      "original": "Select Seats",
+      "label": "text"
+    },
+    {
+      "text": "Beyoncé: COWBOY",
+      "page_number": 8,
+      "original": "Beyoncé: COWBOY",
+      "label": "text"
+    },
+    {
+      "text": "Featured Venues",
+      "page_number": 8,
+      "original": "Featured Venues",
+      "label": "text"
+    },
+    {
+      "text": "CARTER TOUR",
+      "page_number": 8,
+      "original": "CARTER TOUR",
+      "label": "text"
+    },
+    {
+      "text": "HomeDevice",
+      "page_number": 8,
+      "original": "HomeDevice",
+      "label": "text"
+    },
+    {
+      "text": "3 TravePass",
+      "page_number": 8,
+      "original": "3 TravePass",
+      "label": "text"
+    },
+    {
+      "text": "GoogleOneAl",
+      "page_number": 8,
+      "original": "GoogleOneAl",
+      "label": "text"
+    },
+    {
+      "text": "Support &",
+      "page_number": 8,
+      "original": "Support &",
+      "label": "text"
+    },
+    {
+      "text": "Hotspot",
+      "page_number": 8,
+      "original": "Hotspot",
+      "label": "text"
+    },
+    {
+      "text": "Days",
+      "page_number": 8,
+      "original": "Days",
+      "label": "text"
+    },
+    {
+      "text": "CloudStorage",
+      "page_number": 8,
+      "original": "CloudStorage",
+      "label": "text"
+    },
+    {
+      "text": "Premium",
+      "page_number": 8,
+      "original": "Premium",
+      "label": "text"
+    },
+    {
+      "text": "Protection",
+      "page_number": 8,
+      "original": "Protection",
+      "label": "text"
+    },
+    {
+      "text": "Gemini Aavanced",
+      "page_number": 8,
+      "original": "Gemini Aavanced",
+      "label": "text"
+    },
+    {
+      "text": "Gemini in Google apps",
+      "page_number": 8,
+      "original": "Gemini in Google apps",
+      "label": "text"
+    },
+    {
+      "text": "Openbank'",
+      "page_number": 8,
+      "original": "Openbank'",
+      "label": "text"
+    },
+    {
+      "text": "2 TB Storage",
+      "page_number": 8,
+      "original": "2 TB Storage",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "Visa",
+      "page_number": 8,
+      "original": "Visa",
+      "label": "text"
+    },
+    {
+      "text": "Disney+ Hulu;",
+      "page_number": 8,
+      "original": "Disney+ Hulu;",
+      "label": "text"
+    },
+    {
+      "text": "Netflux & Max",
+      "page_number": 8,
+      "original": "Netflux & Max",
+      "label": "text"
+    },
+    {
+      "text": "Apple One",
+      "page_number": 8,
+      "original": "Apple One",
+      "label": "text"
+    },
+    {
+      "text": "AppleMusic",
+      "page_number": 8,
+      "original": "AppleMusic",
+      "label": "text"
+    },
+    {
+      "text": "YouTube",
+      "page_number": 8,
+      "original": "YouTube",
+      "label": "text"
+    },
+    {
+      "text": "ESPN+ (With",
+      "page_number": 8,
+      "original": "ESPN+ (With",
+      "label": "text"
+    },
+    {
+      "text": "(With Ads)",
+      "page_number": 8,
+      "original": "(With Ads)",
+      "label": "text"
+    },
+    {
+      "text": "Family",
+      "page_number": 8,
+      "original": "Family",
+      "label": "text"
+    },
+    {
+      "text": "Premium",
+      "page_number": 8,
+      "original": "Premium",
+      "label": "text"
+    },
+    {
+      "text": "Ads)",
+      "page_number": 8,
+      "original": "Ads)",
+      "label": "text"
+    },
+    {
+      "text": "#Music",
+      "page_number": 8,
+      "original": "#Music",
+      "label": "text"
+    },
+    {
+      "text": "tv+",
+      "page_number": 8,
+      "original": "tv+",
+      "label": "text"
+    },
+    {
+      "text": "hulu",
+      "page_number": 8,
+      "original": "hulu",
+      "label": "text"
+    },
+    {
+      "text": "Netflix",
+      "page_number": 8,
+      "original": "Netflix",
+      "label": "text"
+    },
+    {
+      "text": "mox",
+      "page_number": 8,
+      "original": "mox",
+      "label": "text"
+    },
+    {
+      "text": "Arcade",
+      "page_number": 8,
+      "original": "Arcade",
+      "label": "text"
+    },
+    {
+      "text": "YouTube Premium",
+      "page_number": 8,
+      "original": "YouTube Premium",
+      "label": "text"
+    },
+    {
+      "text": "YoulubeTV",
+      "page_number": 8,
+      "original": "YoulubeTV",
+      "label": "text"
+    },
+    {
+      "text": "iCloud+",
+      "page_number": 8,
+      "original": "iCloud+",
+      "label": "text"
+    },
+    {
+      "text": "Straight",
+      "page_number": 8,
+      "original": "Straight",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "totol",
+      "page_number": 8,
+      "original": "totol",
+      "label": "text"
+    },
+    {
+      "text": "Simple Mobile v's'ble Tracfone",
+      "page_number": 8,
+      "original": "Simple Mobile v's'ble Tracfone",
+      "label": "text"
+    },
+    {
+      "text": "Talk",
+      "page_number": 8,
+      "original": "Talk",
+      "label": "text"
+    },
+    {
+      "text": "wireless",
+      "page_number": 8,
+      "original": "wireless",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 8,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "Verizon confidential and proprietary. Unauthorized disclosure, reproduction or other use prohibited.",
+      "page_number": 8,
+      "original": "Verizon confidential and proprietary. Unauthorized disclosure, reproduction or other use prohibited.",
+      "label": "text"
+    },
+    {
+      "text": "8",
+      "page_number": 8,
+      "original": "8",
+      "label": "text"
+    },
+    {
+      "text": "3-year pricelock guarantee",
+      "page_number": 9,
+      "original": "3-year pricelock guarantee",
+      "label": "section_header"
+    },
+    {
+      "text": "Priceguarantee excludes taxes and fees. OnmyPlan & myHome.",
+      "page_number": 9,
+      "original": "Priceguarantee excludes taxes and fees. OnmyPlan & myHome.",
+      "label": "text"
+    },
+    {
+      "text": "Free phone onany Plan",
+      "page_number": 9,
+      "original": "Free phone onany Plan",
+      "label": "text"
+    },
+    {
+      "text": "When you tradein any phone;= condition from Apple; Googleor Samsung: With myPlan. any",
+      "page_number": 9,
+      "original": "When you tradein any phone;= condition from Apple; Googleor Samsung: With myPlan. any",
+      "label": "text"
+    },
+    {
+      "text": "Most ways tosave",
+      "page_number": 9,
+      "original": "Most ways tosave",
+      "label": "section_header"
+    },
+    {
+      "text": "Freesatellite text messaging for all",
+      "page_number": 9,
+      "original": "Freesatellite text messaging for all",
+      "label": "text"
+    },
+    {
+      "text": "Save 4O% on topstreaming with Verizon Perks",
+      "page_number": 9,
+      "original": "Save 4O% on topstreaming with Verizon Perks",
+      "label": "text"
+    },
+    {
+      "text": "Save $15/mo when bundle mobile & home",
+      "page_number": 9,
+      "original": "Save $15/mo when bundle mobile & home",
+      "label": "text"
+    },
+    {
+      "text": "For new andexisting customers",
+      "page_number": 9,
+      "original": "For new andexisting customers",
+      "label": "section_header"
+    },
+    {
+      "text": "Best Value Guarantee",
+      "page_number": 9,
+      "original": "Best Value Guarantee",
+      "label": "section_header"
+    },
+    {
+      "text": "ver zon",
+      "page_number": 10,
+      "original": "ver zon",
+      "label": "section_header"
+    }
+  ]
+}

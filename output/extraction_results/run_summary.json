@@ -1,0 +1,33 @@
+{
+  "processed_records": 50,
+  "entities": 3156,
+  "statements": 7292,
+  "evidences": 61697,
+  "failures": 0,
+  "elapsed_seconds": 737,
+  "agent_stats": {
+    "prompt_tokens": 3792,
+    "completion_tokens": 14319,
+    "total_tokens": 18111,
+    "requests": 41,
+    "success": 41,
+    "entities": 171,
+    "statements": 132,
+    "evidences": 298,
+    "rate_limit_waits": 40,
+    "success_rate": 1.0,
+    "avg_entities_per_success": 4.170731707317073,
+    "avg_statements_per_success": 3.2195121951219514,
+    "avg_evidences_per_success": 7.2682926829268295
+  },
+  "token_usage_agent": {
+    "prompt_tokens": 3792,
+    "completion_tokens": 14319,
+    "total_tokens": 18111
+  },
+  "delta": {
+    "entities_added": 0,
+    "statements_added": 0,
+    "evidences_added": 0
+  }
+}

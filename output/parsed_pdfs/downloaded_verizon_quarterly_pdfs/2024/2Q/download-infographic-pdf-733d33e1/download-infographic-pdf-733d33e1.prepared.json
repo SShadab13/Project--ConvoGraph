@@ -1,0 +1,189 @@
+{
+  "doc_id": "download-infographic-pdf-733d33e1",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\Download Infographic PDF_733d33e1.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "| Highlights | 2023 | 2024 |\n|---|---|---|\n| Consolidated Cash Flow Summary ($ in billions) (Six months ended June 30) |  |  |\n| Cash flow from operations | $18.0 | $16.6 |\n| Capital expenditures | $10.1 | $8.1 |\n| Free cash flow 1 | $8.0 | $8.5 |\n| Dividends paid | $5.5 | $5.6 |",
+      "financial_context": {
+        "units": "billions USD",
+        "time_periods": [
+          "2023",
+          "2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in billions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 1,
+        "sections": [
+          "Highlights",
+          "Cash Flow"
+        ],
+        "total_rows": 7,
+        "total_cols": 3
+      },
+      "table_id": "download-infographic-pdf-733d33e1_p1_t0"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "2Q 2024 Earnings Results",
+      "page_number": 1,
+      "original": "2Q 2024 Earnings Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon delivers strong wireless service revenue and broadband subscriber growth in Q2.",
+      "page_number": 1,
+      "original": "Verizon delivers strong wireless service revenue and broadband subscriber growth in Q2.",
+      "label": "text"
+    },
+    {
+      "text": "$32.8B",
+      "page_number": 1,
+      "original": "$32.8B",
+      "label": "text"
+    },
+    {
+      "text": "2Q Revenue Summary",
+      "page_number": 1,
+      "original": "2Q Revenue Summary",
+      "label": "text"
+    },
+    {
+      "text": "2Q Operating Metrics 3",
+      "page_number": 1,
+      "original": "2Q Operating Metrics 3",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service 2 $19.8B",
+      "page_number": 1,
+      "original": "Wireless Service 2 $19.8B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y growth 3.5%",
+      "page_number": 1,
+      "original": "Y/Y growth 3.5%",
+      "label": "text"
+    },
+    {
+      "text": "Total Consumer $24.9B",
+      "page_number": 1,
+      "original": "Total Consumer $24.9B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y growth 1.5%",
+      "page_number": 1,
+      "original": "Y/Y growth 1.5%",
+      "label": "text"
+    },
+    {
+      "text": "Total Business $7.3B",
+      "page_number": 1,
+      "original": "Total Business $7.3B",
+      "label": "text"
+    },
+    {
+      "text": "Y/Y decline 2.4%",
+      "page_number": 1,
+      "original": "Y/Y decline 2.4%",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail connections",
+      "page_number": 1,
+      "original": "Wireless retail connections",
+      "label": "text"
+    },
+    {
+      "text": "144.5M",
+      "page_number": 1,
+      "original": "144.5M",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail postpaid churn",
+      "page_number": 1,
+      "original": "Wireless retail postpaid churn",
+      "label": "text"
+    },
+    {
+      "text": "1.11%",
+      "page_number": 1,
+      "original": "1.11%",
+      "label": "text"
+    },
+    {
+      "text": "Wireless postpaid phone net additions",
+      "page_number": 1,
+      "original": "Wireless postpaid phone net additions",
+      "label": "text"
+    },
+    {
+      "text": "148K",
+      "page_number": 1,
+      "original": "148K",
+      "label": "text"
+    },
+    {
+      "text": "Wireless retail postpaid phone churn",
+      "page_number": 1,
+      "original": "Wireless retail postpaid phone churn",
+      "label": "text"
+    },
+    {
+      "text": "0.85%",
+      "page_number": 1,
+      "original": "0.85%",
+      "label": "text"
+    },
+    {
+      "text": "391K",
+      "page_number": 1,
+      "original": "391K",
+      "label": "text"
+    },
+    {
+      "text": "28K",
+      "page_number": 1,
+      "original": "28K",
+      "label": "text"
+    },
+    {
+      "text": "Broadband net additions",
+      "page_number": 1,
+      "original": "Broadband net additions",
+      "label": "text"
+    },
+    {
+      "text": "Fios internet net additions",
+      "page_number": 1,
+      "original": "Fios internet net additions",
+      "label": "text"
+    },
+    {
+      "text": "Includes 378K Fixed Wireless Access net additions",
+      "page_number": 1,
+      "original": "Includes 378K Fixed Wireless Access net additions",
+      "label": "text"
+    },
+    {
+      "text": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments. 3 Metrics reflect an aggregation of Consumer and Business segments' results. Where applicable, the operating results reflect certain adjustments.",
+      "page_number": 1,
+      "original": "1 Non-GAAP financial measure. 2 Total Wireless service revenue represents the sum of Consumer and Business segments. 3 Metrics reflect an aggregation of Consumer and Business segments' results. Where applicable, the operating results reflect certain adjustments.",
+      "label": "text"
+    },
+    {
+      "text": "391K",
+      "page_number": 1,
+      "original": "391K",
+      "label": "text"
+    }
+  ]
+}

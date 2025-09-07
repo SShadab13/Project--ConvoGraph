@@ -1,0 +1,643 @@
+{
+  "doc_id": "download-webcast-transcript-pdf-4d61943a",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\3Q\\Download Webcast Transcript PDF_4d61943a.pdf",
+  "reconstructed_tables": [],
+  "text_chunks": [
+    {
+      "text": "Verizon Communications Inc. Earnings Transcript Third Quarter 2024",
+      "page_number": 1,
+      "original": "Verizon Communications Inc. Earnings Transcript Third Quarter 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 1,
+      "original": "October 22, 2024",
+      "label": "text"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 2,
+      "original": "October 22, 2024",
+      "label": "page_header"
+    },
+    {
+      "text": "Corporate Participants",
+      "page_number": 2,
+      "original": "Corporate Participants",
+      "label": "section_header"
+    },
+    {
+      "text": "Brady Connor Verizon Communications Inc. - Senior Vice President, Investor Relations Hans Vestberg Verizon Communications Inc. - Chairman and Chief Executive Officer Anthony Skiadas Verizon Communications Inc. - Chief Financial Officer",
+      "page_number": 2,
+      "original": "Brady Connor Verizon Communications Inc. - Senior Vice President, Investor Relations Hans Vestberg Verizon Communications Inc. - Chairman and Chief Executive Officer Anthony Skiadas Verizon Communications Inc. - Chief Financial Officer",
+      "label": "text"
+    },
+    {
+      "text": "Presentation",
+      "page_number": 2,
+      "original": "Presentation",
+      "label": "section_header"
+    },
+    {
+      "text": "Brady Connor Verizon Communications Inc. - Senior Vice President, Investor Relations",
+      "page_number": 2,
+      "original": "Brady Connor Verizon Communications Inc. - Senior Vice President, Investor Relations",
+      "label": "text"
+    },
+    {
+      "text": "Hello and welcome to our third quarter 2024 results discussion. I'm Brady Connor, and on this recording you'll hear from our Chairman and Chief Executive Officer, Hans Vestberg, as well as our Chief Financial Officer, Tony Skiadas.",
+      "page_number": 2,
+      "original": "Hello and welcome to our third quarter 2024 results discussion. I'm Brady Connor, and on this recording you'll hear from our Chairman and Chief Executive Officer, Hans Vestberg, as well as our Chief Financial Officer, Tony Skiadas.",
+      "label": "text"
+    },
+    {
+      "text": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found at the start of the earnings presentation posted on our Investor Relations website.",
+      "page_number": 2,
+      "original": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found at the start of the earnings presentation posted on our Investor Relations website.",
+      "label": "text"
+    },
+    {
+      "text": "Information in this presentation contains statements about expected future events and financial results that are forwardlooking and subject to risks and uncertainties.  Discussions of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website.",
+      "page_number": 2,
+      "original": "Information in this presentation contains statements about expected future events and financial results that are forwardlooking and subject to risks and uncertainties.  Discussions of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website.",
+      "label": "text"
+    },
+    {
+      "text": "This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.",
+      "page_number": 2,
+      "original": "This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.",
+      "label": "text"
+    },
+    {
+      "text": "A detailed overview of our third quarter results and other materials related to this discussion was posted this morning to our Investor Relations website. Additionally, we hope you'll join a webcast of our sell side analyst meeting for a strategic broadband update, that starts at 9am, Eastern time today, October 22nd.",
+      "page_number": 2,
+      "original": "A detailed overview of our third quarter results and other materials related to this discussion was posted this morning to our Investor Relations website. Additionally, we hope you'll join a webcast of our sell side analyst meeting for a strategic broadband update, that starts at 9am, Eastern time today, October 22nd.",
+      "label": "text"
+    },
+    {
+      "text": "With that, I'll turn it over to Hans.",
+      "page_number": 2,
+      "original": "With that, I'll turn it over to Hans.",
+      "label": "text"
+    },
+    {
+      "text": "2",
+      "page_number": 2,
+      "original": "2",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 3,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans Vestberg Verizon Communications Inc - Chairman and Chief Executive Officer",
+      "page_number": 3,
+      "original": "Hans Vestberg Verizon Communications Inc - Chairman and Chief Executive Officer",
+      "label": "text"
+    },
+    {
+      "text": "Thank you, Brady. Good morning and welcome to Verizon's third quarter earnings update.",
+      "page_number": 3,
+      "original": "Thank you, Brady. Good morning and welcome to Verizon's third quarter earnings update.",
+      "label": "text"
+    },
+    {
+      "text": "Before we dive into our performance in the quarter, we must address the devastating impact of the Hurricanes Helene and Milton on communities throughout southern parts of the United States. At Verizon, we always run to a crisis. Our teams acted quickly to assist all the affected communities and we are deeply invested in helping everybody come back stronger.",
+      "page_number": 3,
+      "original": "Before we dive into our performance in the quarter, we must address the devastating impact of the Hurricanes Helene and Milton on communities throughout southern parts of the United States. At Verizon, we always run to a crisis. Our teams acted quickly to assist all the affected communities and we are deeply invested in helping everybody come back stronger.",
+      "label": "text"
+    },
+    {
+      "text": "Our superior network made a real difference during these events. Our network infrastructure was resilient and delivered for customers and the first responders who really relied on it.",
+      "page_number": 3,
+      "original": "Our superior network made a real difference during these events. Our network infrastructure was resilient and delivered for customers and the first responders who really relied on it.",
+      "label": "text"
+    },
+    {
+      "text": "Now, let's dive into our third quarter performance.",
+      "page_number": 3,
+      "original": "Now, let's dive into our third quarter performance.",
+      "label": "text"
+    },
+    {
+      "text": "The actions we have taken since early 2023 are driving improvements across all of our businesses. In the third quarter, we delivered sequential and year-over-year growth in wireless service revenue and Adjusted EBITDA, and we had a strong free cash flow of 6 billion U.S. dollars.",
+      "page_number": 3,
+      "original": "The actions we have taken since early 2023 are driving improvements across all of our businesses. In the third quarter, we delivered sequential and year-over-year growth in wireless service revenue and Adjusted EBITDA, and we had a strong free cash flow of 6 billion U.S. dollars.",
+      "label": "text"
+    },
+    {
+      "text": "Wireless service revenue was up 2.7 percent over last year. Our quarterly adjusted EBITDA of $12.5 billion U.S. dollars is the highest we have ever reported, and the highest in the telecom industry by far.",
+      "page_number": 3,
+      "original": "Wireless service revenue was up 2.7 percent over last year. Our quarterly adjusted EBITDA of $12.5 billion U.S. dollars is the highest we have ever reported, and the highest in the telecom industry by far.",
+      "label": "text"
+    },
+    {
+      "text": "With these results, we are confident that we will not just deliver on our 2024 financial guidance but that Wireless service revenue and Adjusted EBITDA growth will come in at or above the midpoint of our guided range.",
+      "page_number": 3,
+      "original": "With these results, we are confident that we will not just deliver on our 2024 financial guidance but that Wireless service revenue and Adjusted EBITDA growth will come in at or above the midpoint of our guided range.",
+      "label": "text"
+    },
+    {
+      "text": "Our momentum continues to build from strong operational performance across mobility, broadband and private networks. While bringing choice and value to our customers, we signed strategic M&A and implemented cost efficiencies to make Verizon stronger.",
+      "page_number": 3,
+      "original": "Our momentum continues to build from strong operational performance across mobility, broadband and private networks. While bringing choice and value to our customers, we signed strategic M&A and implemented cost efficiencies to make Verizon stronger.",
+      "label": "text"
+    },
+    {
+      "text": "I am proud of our team and excited about how we are using our scale and industry-leading position to bring valued services and experiences to our customers every day. We are deepening customer relationships and offering critical services that earn us a high return on capital. And we delivered our 18th consecutive annual dividend increase.",
+      "page_number": 3,
+      "original": "I am proud of our team and excited about how we are using our scale and industry-leading position to bring valued services and experiences to our customers every day. We are deepening customer relationships and offering critical services that earn us a high return on capital. And we delivered our 18th consecutive annual dividend increase.",
+      "label": "text"
+    },
+    {
+      "text": "In the third quarter, we brought more C-Band and network capacity to states across the country. As always, our network is the foundation for our success in mobility, broadband and private networks.",
+      "page_number": 3,
+      "original": "In the third quarter, we brought more C-Band and network capacity to states across the country. As always, our network is the foundation for our success in mobility, broadband and private networks.",
+      "label": "text"
+    },
+    {
+      "text": "As Brady mentioned, following the earnings call we will be providing an update on our broadband strategy. We will share our vision for the future of broadband, including ambitious new targets that reflect the strong demand that we are seeing across both fixed wireless and fiber offerings.",
+      "page_number": 3,
+      "original": "As Brady mentioned, following the earnings call we will be providing an update on our broadband strategy. We will share our vision for the future of broadband, including ambitious new targets that reflect the strong demand that we are seeing across both fixed wireless and fiber offerings.",
+      "label": "text"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 4,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Now, let's discuss how our superior network and our strategy are driving results across our business.",
+      "page_number": 4,
+      "original": "Now, let's discuss how our superior network and our strategy are driving results across our business.",
+      "label": "text"
+    },
+    {
+      "text": "In mobility, we more than doubled postpaid phone net adds over last year with 239 thousand. Importantly we also delivered positive Consumer postpaid net adds in the quarter, both with and without our second number offering.",
+      "page_number": 4,
+      "original": "In mobility, we more than doubled postpaid phone net adds over last year with 239 thousand. Importantly we also delivered positive Consumer postpaid net adds in the quarter, both with and without our second number offering.",
+      "label": "text"
+    },
+    {
+      "text": "We have focused on delivering choice, value and simplicity to our customers through myPlan, myHome, and new business offerings. Our strategy of giving our customers more options than other wireless providers continues to drive positive momentum in both postpaid phone gross adds and churn.",
+      "page_number": 4,
+      "original": "We have focused on delivering choice, value and simplicity to our customers through myPlan, myHome, and new business offerings. Our strategy of giving our customers more options than other wireless providers continues to drive positive momentum in both postpaid phone gross adds and churn.",
+      "label": "text"
+    },
+    {
+      "text": "We have applied this  same operational rigor and commitment to our prepaid brands and results are very encouraging.",
+      "page_number": 4,
+      "original": "We have applied this  same operational rigor and commitment to our prepaid brands and results are very encouraging.",
+      "label": "text"
+    },
+    {
+      "text": "For the first time since the acquisition of Tracfone we had positive prepaid net adds for the quarter, excluding Safelink. We expect our prepaid business to continue improving quarter by quarter as we further refine our offerings and execution.",
+      "page_number": 4,
+      "original": "For the first time since the acquisition of Tracfone we had positive prepaid net adds for the quarter, excluding Safelink. We expect our prepaid business to continue improving quarter by quarter as we further refine our offerings and execution.",
+      "label": "text"
+    },
+    {
+      "text": "In broadband, we ended the quarter with nearly 4.2 million fixed wireless access subscribers alongside strong Fios growth. The continued success of our fixed wireless offering allowed us to reach our goal of 4 to 5 million fixed wireless access subscribers 15 months ahead of our original plan. This confirms the strong demand for our offering and its high level of customer satisfaction.",
+      "page_number": 4,
+      "original": "In broadband, we ended the quarter with nearly 4.2 million fixed wireless access subscribers alongside strong Fios growth. The continued success of our fixed wireless offering allowed us to reach our goal of 4 to 5 million fixed wireless access subscribers 15 months ahead of our original plan. This confirms the strong demand for our offering and its high level of customer satisfaction.",
+      "label": "text"
+    },
+    {
+      "text": "In private networks, we see strong momentum and exciting opportunities. We are expanding our sports partnerships through an agreement with FIFA where we will provide extensive network services for the 2026 Men's World Cup and serve as a Tournament Supporter of the 2027 Women's World Cup. We also expanded our partnership with the Madison Square Garden Family of Companies to become the official wireless provider for all its venues, including Madison Square Garden and the Sphere.",
+      "page_number": 4,
+      "original": "In private networks, we see strong momentum and exciting opportunities. We are expanding our sports partnerships through an agreement with FIFA where we will provide extensive network services for the 2026 Men's World Cup and serve as a Tournament Supporter of the 2027 Women's World Cup. We also expanded our partnership with the Madison Square Garden Family of Companies to become the official wireless provider for all its venues, including Madison Square Garden and the Sphere.",
+      "label": "text"
+    },
+    {
+      "text": "We will be providing a more detailed update on capital allocation at our analyst meeting this morning, but our capital allocation priorities remain to invest in the business, support our dividend and pay down debt. We executed on all three during the quarter, including our pending acquisition of Frontier Communications, a tower transaction with Vertical Bridge, a spectrum acquisition from U.S. Cellular, and a new satellite partnership and organizational improvements. All will enhance our capabilities, help us serve our customers even better and support financial growth.",
+      "page_number": 4,
+      "original": "We will be providing a more detailed update on capital allocation at our analyst meeting this morning, but our capital allocation priorities remain to invest in the business, support our dividend and pay down debt. We executed on all three during the quarter, including our pending acquisition of Frontier Communications, a tower transaction with Vertical Bridge, a spectrum acquisition from U.S. Cellular, and a new satellite partnership and organizational improvements. All will enhance our capabilities, help us serve our customers even better and support financial growth.",
+      "label": "text"
+    },
+    {
+      "text": "Let me walk you through each of these transactions:",
+      "page_number": 4,
+      "original": "Let me walk you through each of these transactions:",
+      "label": "text"
+    },
+    {
+      "text": "First, our pending Frontier acquisition will expand our total addressable market in mobility and broadband.  Post-close, Verizon will stand unmatched as the only company with the ability to serve both fixed wireless access and fiber at scale.",
+      "page_number": 4,
+      "original": "First, our pending Frontier acquisition will expand our total addressable market in mobility and broadband.  Post-close, Verizon will stand unmatched as the only company with the ability to serve both fixed wireless access and fiber at scale.",
+      "label": "text"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 5,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Second, we announced a transaction with Vertical Bridge involving more than 6,000 towers deepening a relationship with a valued strategic partner. In addition to the cash proceeds, we will lease back capacity at very favorable terms, providing long term cost stability.",
+      "page_number": 5,
+      "original": "Second, we announced a transaction with Vertical Bridge involving more than 6,000 towers deepening a relationship with a valued strategic partner. In addition to the cash proceeds, we will lease back capacity at very favorable terms, providing long term cost stability.",
+      "label": "text"
+    },
+    {
+      "text": "Third, we are acquiring valuable low-and-mid band spectrum from US Cellular, which will enhance our spectrum portfolio and expand our network capacity when the deal closes.",
+      "page_number": 5,
+      "original": "Third, we are acquiring valuable low-and-mid band spectrum from US Cellular, which will enhance our spectrum portfolio and expand our network capacity when the deal closes.",
+      "label": "text"
+    },
+    {
+      "text": "Fourth, we have further expanded our satellite capabilities, adding a partnership with Skylo on top of our ongoing work with AST SpaceMobile. By using satellite technology, we're extending our network reach to previously underserved areas, opening up new market opportunities and reinforcing our commitment to connectivity.",
+      "page_number": 5,
+      "original": "Fourth, we have further expanded our satellite capabilities, adding a partnership with Skylo on top of our ongoing work with AST SpaceMobile. By using satellite technology, we're extending our network reach to previously underserved areas, opening up new market opportunities and reinforcing our commitment to connectivity.",
+      "label": "text"
+    },
+    {
+      "text": "And finally, we continue to make progress on costs. Our voluntary separation program allowed employees to make informed decisions about their futures, while helping us manage costs as we transform our workforce and adopt new technologies.",
+      "page_number": 5,
+      "original": "And finally, we continue to make progress on costs. Our voluntary separation program allowed employees to make informed decisions about their futures, while helping us manage costs as we transform our workforce and adopt new technologies.",
+      "label": "text"
+    },
+    {
+      "text": "Overall, I am pleased with our continued improvement in operational and financial execution. Now, Tony will talk about our third quarter results in greater detail.",
+      "page_number": 5,
+      "original": "Overall, I am pleased with our continued improvement in operational and financial execution. Now, Tony will talk about our third quarter results in greater detail.",
+      "label": "text"
+    },
+    {
+      "text": "Anthony Skiadas Verizon Communications Inc - Chief Financial Officer",
+      "page_number": 5,
+      "original": "Anthony Skiadas Verizon Communications Inc - Chief Financial Officer",
+      "label": "section_header"
+    },
+    {
+      "text": "Thanks, Hans, and good morning.",
+      "page_number": 5,
+      "original": "Thanks, Hans, and good morning.",
+      "label": "text"
+    },
+    {
+      "text": "Our third quarter results demonstrate our continued focus on operational excellence and reflect our ability to deliver both customer and financial growth. With our differentiated offerings and value proposition, we're continuing to drive year over year improvements in postpaid phone net adds and broadband connections, all while maintaining our discipline around promotions.",
+      "page_number": 5,
+      "original": "Our third quarter results demonstrate our continued focus on operational excellence and reflect our ability to deliver both customer and financial growth. With our differentiated offerings and value proposition, we're continuing to drive year over year improvements in postpaid phone net adds and broadband connections, all while maintaining our discipline around promotions.",
+      "label": "text"
+    },
+    {
+      "text": "Starting with our Consumer results, postpaid phone net adds were 81 thousand for the third quarter. This compares to a prior year net loss of 51 thousand. The year over year improvement was driven by continued gross add growth of about 6 percent in the period. This marks the 7th consecutive quarter of year over year postpaid phone gross add growth. Additionally, phone churn improved by 1 basis point compared to last year.",
+      "page_number": 5,
+      "original": "Starting with our Consumer results, postpaid phone net adds were 81 thousand for the third quarter. This compares to a prior year net loss of 51 thousand. The year over year improvement was driven by continued gross add growth of about 6 percent in the period. This marks the 7th consecutive quarter of year over year postpaid phone gross add growth. Additionally, phone churn improved by 1 basis point compared to last year.",
+      "label": "text"
+    },
+    {
+      "text": "For the full year, we continue to expect positive Consumer postpaid phone net adds, both with and without the impact of our second number offering.",
+      "page_number": 5,
+      "original": "For the full year, we continue to expect positive Consumer postpaid phone net adds, both with and without the impact of our second number offering.",
+      "label": "text"
+    },
+    {
+      "text": "America's best network, together with the benefits of myPlan, continues to be a differentiator for us. We offer customers a compelling value proposition with on e-of-akind perks.",
+      "page_number": 5,
+      "original": "America's best network, together with the benefits of myPlan, continues to be a differentiator for us. We offer customers a compelling value proposition with on e-of-akind perks.",
+      "label": "text"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 6,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Moving to prepaid, the team is successfully executing on its strategy and improving the trajectory of the business, delivering 80 thousand net adds, excluding Safelink. Our core prepaid brands - Visible, Total Wireless and Straight Talk - continue to perform well, driving a total year over year improvement of over 300 thousand net adds when excluding Safelink and the related ACP impacts. With ACP pressures now firmly behind us, we're confident that the rigor being applied to our prepaid operations will position us well going into 2025.",
+      "page_number": 6,
+      "original": "Moving to prepaid, the team is successfully executing on its strategy and improving the trajectory of the business, delivering 80 thousand net adds, excluding Safelink. Our core prepaid brands - Visible, Total Wireless and Straight Talk - continue to perform well, driving a total year over year improvement of over 300 thousand net adds when excluding Safelink and the related ACP impacts. With ACP pressures now firmly behind us, we're confident that the rigor being applied to our prepaid operations will position us well going into 2025.",
+      "label": "text"
+    },
+    {
+      "text": "Moving to Business results, postpaid phone net adds were 158 thousand in the third quarter, representing another quarter of solid growth.  We saw sustained buying activity throughout the quarter and had strong contributions from small and medium businesses, enterprise, and public sector customers.  Businesses continue to trust Verizon for their mission critical functions over any other provider.",
+      "page_number": 6,
+      "original": "Moving to Business results, postpaid phone net adds were 158 thousand in the third quarter, representing another quarter of solid growth.  We saw sustained buying activity throughout the quarter and had strong contributions from small and medium businesses, enterprise, and public sector customers.  Businesses continue to trust Verizon for their mission critical functions over any other provider.",
+      "label": "text"
+    },
+    {
+      "text": "Shifting to broadband, our total net additions were 389 thousand for the quarter. Fixed wireless access once again had a strong quarter, contributing 363 thousand net adds. Our FWA subscriber base now stands at nearly 4.2 million customers. As Hans mentioned earlier, we are pleased to have reached our FWA customer target 15 months ahead of schedule. This reflects the popularity of fixed wireless access and customer demand for high-quality broadband services.",
+      "page_number": 6,
+      "original": "Shifting to broadband, our total net additions were 389 thousand for the quarter. Fixed wireless access once again had a strong quarter, contributing 363 thousand net adds. Our FWA subscriber base now stands at nearly 4.2 million customers. As Hans mentioned earlier, we are pleased to have reached our FWA customer target 15 months ahead of schedule. This reflects the popularity of fixed wireless access and customer demand for high-quality broadband services.",
+      "label": "text"
+    },
+    {
+      "text": "Fios internet net adds totaled 43 thousand for the quarter, an improvement of 15 thousand sequentially. We saw momentum build throughout the quarter, as we further distanced ourselves from the effects of the ACP shutdown.",
+      "page_number": 6,
+      "original": "Fios internet net adds totaled 43 thousand for the quarter, an improvement of 15 thousand sequentially. We saw momentum build throughout the quarter, as we further distanced ourselves from the effects of the ACP shutdown.",
+      "label": "text"
+    },
+    {
+      "text": "In total, we now have over 11.9 million broadband subscribers, a nearly 16 percent increase year over year. We continue to make good progress in growing our customer base and look forward to sharing additional broadband updates at our analyst event later this morning.",
+      "page_number": 6,
+      "original": "In total, we now have over 11.9 million broadband subscribers, a nearly 16 percent increase year over year. We continue to make good progress in growing our customer base and look forward to sharing additional broadband updates at our analyst event later this morning.",
+      "label": "text"
+    },
+    {
+      "text": "Moving to the financials, our sustained focus on profitable growth contributed to a strong quarter. We are ontrack to meet our 2024 guidance, with both Wireless service revenue and Adjusted EBITDA growth trending at or above the midpoint of our guided ranges.",
+      "page_number": 6,
+      "original": "Moving to the financials, our sustained focus on profitable growth contributed to a strong quarter. We are ontrack to meet our 2024 guidance, with both Wireless service revenue and Adjusted EBITDA growth trending at or above the midpoint of our guided ranges.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated revenue for the third quarter totaled 33.3 billion dollars, essentially flat compared to the prior year. Service and other revenue growth of 1.7 percent was offset by declines in wireless equipment revenue, as total upgrade volume was down over 10 percent year over year.",
+      "page_number": 6,
+      "original": "Consolidated revenue for the third quarter totaled 33.3 billion dollars, essentially flat compared to the prior year. Service and other revenue growth of 1.7 percent was offset by declines in wireless equipment revenue, as total upgrade volume was down over 10 percent year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Wireless service revenue was 19.8 billion dollars, representing year over year growth of 2.7 percent, or 513 million dollars. Sequentially, wireless service revenue grew by 70 million dollars, in spite of a full quarter's impact from the end of ACP, as well as headwinds from promo amortization.",
+      "page_number": 6,
+      "original": "Wireless service revenue was 19.8 billion dollars, representing year over year growth of 2.7 percent, or 513 million dollars. Sequentially, wireless service revenue grew by 70 million dollars, in spite of a full quarter's impact from the end of ACP, as well as headwinds from promo amortization.",
+      "label": "text"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 7,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Looking ahead to the fourth quarter, we expect sequential growth in wireless service revenue to be driven by volume improvements, increased contributions from FWA, and our recently communicated pricing actions. This will partially be offset by the continued promo amortization headwind.",
+      "page_number": 7,
+      "original": "Looking ahead to the fourth quarter, we expect sequential growth in wireless service revenue to be driven by volume improvements, increased contributions from FWA, and our recently communicated pricing actions. This will partially be offset by the continued promo amortization headwind.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer postpaid ARPA continues to grow at strong rates, with the third quarter above $139 and up 4.2 percent year over year. Targeted pricing actions, FWA expansion, and the further adoption of myPlan are all contributing to ARPA growth. We have more than doubled our myPlan subscriber base since the end of last year, which represents over 37 percent of the Consumer postpaid phone base. Additionally, perk revenue continues to provide a notable benefit.",
+      "page_number": 7,
+      "original": "Consumer postpaid ARPA continues to grow at strong rates, with the third quarter above $139 and up 4.2 percent year over year. Targeted pricing actions, FWA expansion, and the further adoption of myPlan are all contributing to ARPA growth. We have more than doubled our myPlan subscriber base since the end of last year, which represents over 37 percent of the Consumer postpaid phone base. Additionally, perk revenue continues to provide a notable benefit.",
+      "label": "text"
+    },
+    {
+      "text": "We continue to grow fixed wireless access into a long term, sustainable business. Total FWA revenue, which is included in wireless service revenue, was 562 million dollars for the quarter. That was up 215 million dollars versus the prior year period. FWA is on pace to generate more than 2 billion dollars in revenue for us this year.",
+      "page_number": 7,
+      "original": "We continue to grow fixed wireless access into a long term, sustainable business. Total FWA revenue, which is included in wireless service revenue, was 562 million dollars for the quarter. That was up 215 million dollars versus the prior year period. FWA is on pace to generate more than 2 billion dollars in revenue for us this year.",
+      "label": "text"
+    },
+    {
+      "text": "Prepaid revenue for the quarter declined by over 40 million dollars sequentially, with the third quarter having a full quarter's impact of the ACP shutdown. This overall servic e revenue impact continues to be within our previously provided range for 2024.",
+      "page_number": 7,
+      "original": "Prepaid revenue for the quarter declined by over 40 million dollars sequentially, with the third quarter having a full quarter's impact of the ACP shutdown. This overall servic e revenue impact continues to be within our previously provided range for 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Prepaid revenue represented a 100 basis point drag on total wireless service revenue growth for the third quarter. However, the actions we have taken to improve our prepaid customer results are working, positioning us for better revenue performance going forward.",
+      "page_number": 7,
+      "original": "Prepaid revenue represented a 100 basis point drag on total wireless service revenue growth for the third quarter. However, the actions we have taken to improve our prepaid customer results are working, positioning us for better revenue performance going forward.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA for the third quarter totaled 12.5 billion dollars, an increase of 2.1 percent year over year. This is the second quarter in a row in which Adjusted EBITDA has grown faster than service and other revenue. As Hans mentioned, this also represents the highest quarterly Adjusted EBITDA we've ever reported.",
+      "page_number": 7,
+      "original": "Consolidated Adjusted EBITDA for the third quarter totaled 12.5 billion dollars, an increase of 2.1 percent year over year. This is the second quarter in a row in which Adjusted EBITDA has grown faster than service and other revenue. As Hans mentioned, this also represents the highest quarterly Adjusted EBITDA we've ever reported.",
+      "label": "text"
+    },
+    {
+      "text": "Continued wireless service revenue growth and lower upgrade volumes helped to drive this result. Upgrades in the third quarter were down over 10 percent year over year.  We continue to be disciplined with our promotional spend, maintaining our targeted and segmented approach to customer retention.",
+      "page_number": 7,
+      "original": "Continued wireless service revenue growth and lower upgrade volumes helped to drive this result. Upgrades in the third quarter were down over 10 percent year over year.  We continue to be disciplined with our promotional spend, maintaining our targeted and segmented approach to customer retention.",
+      "label": "text"
+    },
+    {
+      "text": "We continue to see healthy and consistent payment trends, with bad debt levels in-line with expectations and our high-quality customer base remains resilient.",
+      "page_number": 7,
+      "original": "We continue to see healthy and consistent payment trends, with bad debt levels in-line with expectations and our high-quality customer base remains resilient.",
+      "label": "text"
+    },
+    {
+      "text": "As we previously disclosed, we are implementing our voluntary separation program.  Over 50 percent of the approximately 4,800 impacted employees have already exited the business. The savings from the program are expected to begin to materialize in our fourth quarter results and beyond.",
+      "page_number": 7,
+      "original": "As we previously disclosed, we are implementing our voluntary separation program.  Over 50 percent of the approximately 4,800 impacted employees have already exited the business. The savings from the program are expected to begin to materialize in our fourth quarter results and beyond.",
+      "label": "text"
+    },
+    {
+      "text": "7",
+      "page_number": 7,
+      "original": "7",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 8,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted EPS in the quarter was $1.19, down 2.5 percent compared to the prior year period. Growth in Adjusted EBITDA was offset by below the line items, including higher interest expense.  However, on a sequential basis, interest expense decreased quarter over quarter as a result of lower interest rates and lower average debt levels.",
+      "page_number": 8,
+      "original": "Adjusted EPS in the quarter was $1.19, down 2.5 percent compared to the prior year period. Growth in Adjusted EBITDA was offset by below the line items, including higher interest expense.  However, on a sequential basis, interest expense decreased quarter over quarter as a result of lower interest rates and lower average debt levels.",
+      "label": "text"
+    },
+    {
+      "text": "Cash flow from operating activities totaled 26.5 billion dollars for the nine months ended September 30, 2024, compared to 28.8 billion dollars in the prior year period. The results reflect over $750 million dollars of higher Adjusted EBITDA. This was offset by higher cash taxes of approximately 2.5 billion dollars, as well as higher interest expense primarily driven by the decrease in capitalized interest and higher interest rates.",
+      "page_number": 8,
+      "original": "Cash flow from operating activities totaled 26.5 billion dollars for the nine months ended September 30, 2024, compared to 28.8 billion dollars in the prior year period. The results reflect over $750 million dollars of higher Adjusted EBITDA. This was offset by higher cash taxes of approximately 2.5 billion dollars, as well as higher interest expense primarily driven by the decrease in capitalized interest and higher interest rates.",
+      "label": "text"
+    },
+    {
+      "text": "Year to date capital spending was 12 billion dollars. This was approximately 2.1 billion dollars less than the same period last year.  Our full-year guidance for CapEx remains unchanged at a range of 17 to 17.5 billion dollars, and back to business as usual levels of capital intensity.",
+      "page_number": 8,
+      "original": "Year to date capital spending was 12 billion dollars. This was approximately 2.1 billion dollars less than the same period last year.  Our full-year guidance for CapEx remains unchanged at a range of 17 to 17.5 billion dollars, and back to business as usual levels of capital intensity.",
+      "label": "text"
+    },
+    {
+      "text": "The net result of cash flow from operations and capital spending is free cash flow of 14.5 billion dollars for the first three quarters of 2024, largely in-line with the prior year period.",
+      "page_number": 8,
+      "original": "The net result of cash flow from operations and capital spending is free cash flow of 14.5 billion dollars for the first three quarters of 2024, largely in-line with the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "For the fourth quarter, there are several items to keep in mind around cash flow.  First, upon the closing of our tower transaction, we expect to receive approximately 2.8 billion dollars in proceeds. This will be partially offset by higher cash taxes and interest expense, as well as the anticipated impact from severance payments related to our voluntary separation program.",
+      "page_number": 8,
+      "original": "For the fourth quarter, there are several items to keep in mind around cash flow.  First, upon the closing of our tower transaction, we expect to receive approximately 2.8 billion dollars in proceeds. This will be partially offset by higher cash taxes and interest expense, as well as the anticipated impact from severance payments related to our voluntary separation program.",
+      "label": "text"
+    },
+    {
+      "text": "Net unsecured debt at the end of the quarter was 121.4 billion dollars, an improvement of over 1.4 billion dollars compared to the previous quarter and more than 800 million dollars lower year over year. Our net unsecured debt to Consolidated Adjusted EBITDA ratio was 2.5 times, flat compared to the prior quarter.",
+      "page_number": 8,
+      "original": "Net unsecured debt at the end of the quarter was 121.4 billion dollars, an improvement of over 1.4 billion dollars compared to the previous quarter and more than 800 million dollars lower year over year. Our net unsecured debt to Consolidated Adjusted EBITDA ratio was 2.5 times, flat compared to the prior quarter.",
+      "label": "text"
+    },
+    {
+      "text": "Bottom line, the cash generation of the business is strong and we are on track to pay down debt as planned.",
+      "page_number": 8,
+      "original": "Bottom line, the cash generation of the business is strong and we are on track to pay down debt as planned.",
+      "label": "text"
+    },
+    {
+      "text": "In closing, our third quarter performance continued the ongoing trend of delivering strong operational performance and financial results. We achieved positive postpaid phone net adds in Consumer, which positions us well to be net add positive for the full year. We reached our goal for fixed wireless access subscribers more than a year ahead of schedule. And we did it all in a financially disciplined manner, consistent with our overall strategy.",
+      "page_number": 8,
+      "original": "In closing, our third quarter performance continued the ongoing trend of delivering strong operational performance and financial results. We achieved positive postpaid phone net adds in Consumer, which positions us well to be net add positive for the full year. We reached our goal for fixed wireless access subscribers more than a year ahead of schedule. And we did it all in a financially disciplined manner, consistent with our overall strategy.",
+      "label": "text"
+    },
+    {
+      "text": "We are now focused on finishing the year strong, setting us up for success in 2025.",
+      "page_number": 8,
+      "original": "We are now focused on finishing the year strong, setting us up for success in 2025.",
+      "label": "text"
+    },
+    {
+      "text": "With that, I will turn it back to Hans for his closing comments.",
+      "page_number": 8,
+      "original": "With that, I will turn it back to Hans for his closing comments.",
+      "label": "text"
+    },
+    {
+      "text": "8",
+      "page_number": 8,
+      "original": "8",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 9,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Hans Vestberg Verizon Communications Inc. - Chairman and Chief Executive Officer",
+      "page_number": 9,
+      "original": "Hans Vestberg Verizon Communications Inc. - Chairman and Chief Executive Officer",
+      "label": "text"
+    },
+    {
+      "text": "Thank you, Tony.",
+      "page_number": 9,
+      "original": "Thank you, Tony.",
+      "label": "text"
+    },
+    {
+      "text": "We are well-positioned for a great fourth quarter and to carry our momentum into 2025. Our offerings - from myPlan to myHome - are resonating with our customers and driving deeper engagements. Our brand refresh has been successful and tells a compelling story about the central role our services play in customers' lives.",
+      "page_number": 9,
+      "original": "We are well-positioned for a great fourth quarter and to carry our momentum into 2025. Our offerings - from myPlan to myHome - are resonating with our customers and driving deeper engagements. Our brand refresh has been successful and tells a compelling story about the central role our services play in customers' lives.",
+      "label": "text"
+    },
+    {
+      "text": "Looking to the end of the year and into 2025, our priorities are:",
+      "page_number": 9,
+      "original": "Looking to the end of the year and into 2025, our priorities are:",
+      "label": "text"
+    },
+    {
+      "text": "First, deliver on our 2024 financial guidance with continued focus on wireless service revenue, A djusted EBITDA growth, and strong free cash flow.",
+      "page_number": 9,
+      "original": "First, deliver on our 2024 financial guidance with continued focus on wireless service revenue, A djusted EBITDA growth, and strong free cash flow.",
+      "label": "text"
+    },
+    {
+      "text": "We will sustain momentum in mobility and broadband. As we expand our 5G Ultra Wideband network and scale our private networks business, we're opening up new opportunitie s for growth and innovation. The rapid adoption of our fixed wireless offering and the continued strength of Fios demonstrate the effectiveness of our network -centric strategy.",
+      "page_number": 9,
+      "original": "We will sustain momentum in mobility and broadband. As we expand our 5G Ultra Wideband network and scale our private networks business, we're opening up new opportunitie s for growth and innovation. The rapid adoption of our fixed wireless offering and the continued strength of Fios demonstrate the effectiveness of our network -centric strategy.",
+      "label": "text"
+    },
+    {
+      "text": "And, we will execute on our capital allocation priorities by investing in the business, supporting our dividend, and paying down debt.",
+      "page_number": 9,
+      "original": "And, we will execute on our capital allocation priorities by investing in the business, supporting our dividend, and paying down debt.",
+      "label": "text"
+    },
+    {
+      "text": "At the same time, we are scaling AI to improve employee and customer experiences, as well as unlocking new revenue streams.",
+      "page_number": 9,
+      "original": "At the same time, we are scaling AI to improve employee and customer experiences, as well as unlocking new revenue streams.",
+      "label": "text"
+    },
+    {
+      "text": "I'm more excited than ever about Verizon's prospects. Our superior networ k, coupled with our customercentric innovations and strategic investments, position us uniquely in the market.",
+      "page_number": 9,
+      "original": "I'm more excited than ever about Verizon's prospects. Our superior networ k, coupled with our customercentric innovations and strategic investments, position us uniquely in the market.",
+      "label": "text"
+    },
+    {
+      "text": "We are connecting people - empowering them to do more, experience more, and achieve more. The transformative moves we've made this year - from our pending Frontier acquisition to our expanded partnerships in private networks - are setting the stage for sustained growth and value creation.",
+      "page_number": 9,
+      "original": "We are connecting people - empowering them to do more, experience more, and achieve more. The transformative moves we've made this year - from our pending Frontier acquisition to our expanded partnerships in private networks - are setting the stage for sustained growth and value creation.",
+      "label": "text"
+    },
+    {
+      "text": "I am looking forward to all of you joining us at 9 a.m., Eastern Time for our broadband updates and Q&A .",
+      "page_number": 9,
+      "original": "I am looking forward to all of you joining us at 9 a.m., Eastern Time for our broadband updates and Q&A .",
+      "label": "text"
+    },
+    {
+      "text": "9",
+      "page_number": 9,
+      "original": "9",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 10,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "Forward-Looking Statements",
+      "page_number": 10,
+      "original": "Forward-Looking Statements",
+      "label": "section_header"
+    },
+    {
+      "text": "In this communication we have made forwardlooking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward -looking statements include the information concerning our possible or assumed future results of operations. Forwardlooking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forwardlooking statements  contained  in  the  Private  Securities  Litigation  Reform  Act  of  1995.  We  undertake no obligation  to  revise  or  publicly  release  the  results  of  any  revision  to  these forwardlooking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forwardlooking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forwardlooking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving  consumer  preferences;  failure  to  take  advantage  of,  or  respond  to  competitors'  use  of, developments in technology and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyber attacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption  of  our  operations  from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment in which we operate, including any increase in restrictions on our  ability  to  operate  our  networks  or  businesses;  allegations  regarding  the  release  of  hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related  government  investigations,  regulatory  developments,  litigation,  penalties  and  other  liability, remediation  and  compliance  costs,  operational  impacts  or  reputational  damage;  our  high  level  of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their",
+      "page_number": 10,
+      "original": "In this communication we have made forwardlooking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward -looking statements include the information concerning our possible or assumed future results of operations. Forwardlooking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forwardlooking statements  contained  in  the  Private  Securities  Litigation  Reform  Act  of  1995.  We  undertake no obligation  to  revise  or  publicly  release  the  results  of  any  revision  to  these forwardlooking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forwardlooking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forwardlooking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving  consumer  preferences;  failure  to  take  advantage  of,  or  respond  to  competitors'  use  of, developments in technology and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyber attacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption  of  our  operations  from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment in which we operate, including any increase in restrictions on our  ability  to  operate  our  networks  or  businesses;  allegations  regarding  the  release  of  hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related  government  investigations,  regulatory  developments,  litigation,  penalties  and  other  liability, remediation  and  compliance  costs,  operational  impacts  or  reputational  damage;  our  high  level  of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their",
+      "label": "text"
+    },
+    {
+      "text": "10",
+      "page_number": 10,
+      "original": "10",
+      "label": "page_footer"
+    },
+    {
+      "text": "October 22, 2024",
+      "page_number": 11,
+      "original": "October 22, 2024",
+      "label": "section_header"
+    },
+    {
+      "text": "interpretation,  or  challenges  to  our  tax  positions,  resulting  in  additional  tax  expense  or  liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "page_number": 11,
+      "original": "interpretation,  or  challenges  to  our  tax  positions,  resulting  in  additional  tax  expense  or  liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "label": "text"
+    },
+    {
+      "text": "11",
+      "page_number": 11,
+      "original": "11",
+      "label": "page_footer"
+    }
+  ]
+}

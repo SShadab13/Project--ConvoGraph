@@ -1,0 +1,1555 @@
+{
+  "doc_id": "download-formal-remarks-pdf-3f10e07d",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\3Q\\Download Formal Remarks PDF_3f10e07d.pdf",
+  "reconstructed_tables": [],
+  "text_chunks": [
+    {
+      "text": "Third Quarter Financial & Operating Results",
+      "page_number": 1,
+      "original": "Third Quarter Financial & Operating Results",
+      "label": "section_header"
+    },
+    {
+      "text": "October 22,2024",
+      "page_number": 1,
+      "original": "October 22,2024",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 1,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 2,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "This supplemental information regarding the financial and operating results of Verizon Communications Inc. (Verizon) for the third quarter ended September 30,  2024  contains  statements  about  expected  future  events  and  financial results that are forward-looking  and  subject  to  risks and  uncertainties. Discussion of factors that may affect future results is included at the end of this document and is also contained in Verizon's filings with the US Securities and Exchange Commission.",
+      "page_number": 2,
+      "original": "This supplemental information regarding the financial and operating results of Verizon Communications Inc. (Verizon) for the third quarter ended September 30,  2024  contains  statements  about  expected  future  events  and  financial results that are forward-looking  and  subject  to  risks and  uncertainties. Discussion of factors that may affect future results is included at the end of this document and is also contained in Verizon's filings with the US Securities and Exchange Commission.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Financial Results",
+      "page_number": 2,
+      "original": "Consolidated Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Operating Revenue ($B)",
+      "page_number": 2,
+      "original": "Total Operating Revenue ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$33.3",
+      "page_number": 2,
+      "original": "$33.3",
+      "label": "text"
+    },
+    {
+      "text": "$32.8",
+      "page_number": 2,
+      "original": "$32.8",
+      "label": "text"
+    },
+    {
+      "text": "$33.3",
+      "page_number": 2,
+      "original": "$33.3",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 2,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 2,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 2,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Net Income ($B)",
+      "page_number": 2,
+      "original": "Net Income ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$4.9",
+      "page_number": 2,
+      "original": "$4.9",
+      "label": "text"
+    },
+    {
+      "text": "$4.7",
+      "page_number": 2,
+      "original": "$4.7",
+      "label": "text"
+    },
+    {
+      "text": "$3.4",
+      "page_number": 2,
+      "original": "$3.4",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 2,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 2,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 2,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue*",
+      "page_number": 2,
+      "original": "Wireless Service Revenue*",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 2,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$19.3",
+      "page_number": 2,
+      "original": "$19.3",
+      "label": "text"
+    },
+    {
+      "text": "$19.8",
+      "page_number": 2,
+      "original": "$19.8",
+      "label": "text"
+    },
+    {
+      "text": "$19.8",
+      "page_number": 2,
+      "original": "$19.8",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 2,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 2,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 2,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted",
+      "page_number": 2,
+      "original": "Consolidated Adjusted",
+      "label": "text"
+    },
+    {
+      "text": "EBITDA** ($B)",
+      "page_number": 2,
+      "original": "EBITDA** ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$12.2",
+      "page_number": 2,
+      "original": "$12.2",
+      "label": "text"
+    },
+    {
+      "text": "$12.3",
+      "page_number": 2,
+      "original": "$12.3",
+      "label": "text"
+    },
+    {
+      "text": "$12.5",
+      "page_number": 2,
+      "original": "$12.5",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 2,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 2,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 2,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Total Wireless service represents the sum of Consumer and Business segments.",
+      "page_number": 2,
+      "original": "* Total Wireless service represents the sum of Consumer and Business segments.",
+      "label": "list_item"
+    },
+    {
+      "text": "** Non-GAAP financial measure.",
+      "page_number": 2,
+      "original": "** Non-GAAP financial measure.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consolidated total operating revenue for the third quarter was $33.3 billion, flat year over year.",
+      "page_number": 2,
+      "original": "Consolidated total operating revenue for the third quarter was $33.3 billion, flat year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Service and other revenue was $28.0 billion, up 1.7% year over year.",
+      "page_number": 2,
+      "original": "· Service and other revenue was $28.0 billion, up 1.7% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Total Wireless service revenue 2 was $19.8 billion, up 2.7% year over year,  driven  primarily  by  pricing  actions  implemented  in  recent quarters and growth from our fixed wireless access (FWA) connections.",
+      "page_number": 2,
+      "original": "◦ Total Wireless service revenue 2 was $19.8 billion, up 2.7% year over year,  driven  primarily  by  pricing  actions  implemented  in  recent quarters and growth from our fixed wireless access (FWA) connections.",
+      "label": "list_item"
+    },
+    {
+      "text": "Total Fios revenue was $3.2 billion, up 0.8% year over year.",
+      "page_number": 2,
+      "original": "◦ Total Fios revenue was $3.2 billion, up 0.8% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Wireless equipment revenue was $5.3 billion, down 8.1% year over year, predominantly due to lower upgrade volumes.",
+      "page_number": 2,
+      "original": "· Wireless equipment revenue was $5.3 billion, down 8.1% year over year, predominantly due to lower upgrade volumes.",
+      "label": "list_item"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 2,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 2",
+      "page_number": 2,
+      "original": "Page 2",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 3,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated net income for  the  third  quarter  was $3.4  billion  compared to $4.9 billion in the prior year period. The year over year decline in net income was primarily driven by severance charges of $1.7 billion related to separations under  our  voluntary  separation  program  for  select  U.S.-based  management employees as well as other headcount reduction initiatives.",
+      "page_number": 3,
+      "original": "Consolidated net income for  the  third  quarter  was $3.4  billion  compared to $4.9 billion in the prior year period. The year over year decline in net income was primarily driven by severance charges of $1.7 billion related to separations under  our  voluntary  separation  program  for  select  U.S.-based  management employees as well as other headcount reduction initiatives.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated  adjusted  EBITDA 1 for the third quarter was  $12.5  billion compared to $12.2  billion  in  the  prior  year  period.  This  result  was  driven  by Wireless service revenue growth and the benefits of lower upgrade volumes, and was partially offset by ongoing declines in Verizon Business Group wireline revenue.",
+      "page_number": 3,
+      "original": "Consolidated  adjusted  EBITDA 1 for the third quarter was  $12.5  billion compared to $12.2  billion  in  the  prior  year  period.  This  result  was  driven  by Wireless service revenue growth and the benefits of lower upgrade volumes, and was partially offset by ongoing declines in Verizon Business Group wireline revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated operating expenses for the third quarter were $27.4 billion, up 6.0% year over year. Consolidated operating expenses, excluding depreciation and amortization and special items, 1 were $20.8 billion, down 1.2% year over year.",
+      "page_number": 3,
+      "original": "Consolidated operating expenses for the third quarter were $27.4 billion, up 6.0% year over year. Consolidated operating expenses, excluding depreciation and amortization and special items, 1 were $20.8 billion, down 1.2% year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Interest expense for the third quarter was $1.7 billion compared to $1.4 billion for the prior year period due to lower capitalized interest and higher interest rates on our outstanding debt balance.",
+      "page_number": 3,
+      "original": "Interest expense for the third quarter was $1.7 billion compared to $1.4 billion for the prior year period due to lower capitalized interest and higher interest rates on our outstanding debt balance.",
+      "label": "text"
+    },
+    {
+      "text": "Earnings per share (EPS) was  $0.78 compared to EPS of $1.13 in the prior year period. Reported third quarter 2024 financial results reflected $2.3 billion in charges related to the following special items:",
+      "page_number": 3,
+      "original": "Earnings per share (EPS) was  $0.78 compared to EPS of $1.13 in the prior year period. Reported third quarter 2024 financial results reflected $2.3 billion in charges related to the following special items:",
+      "label": "text"
+    },
+    {
+      "text": "severance  charge  of  $1.7 billion related to separations under  our voluntary separation program for select U.S.-based management employees as well as other headcount reduction initiatives;",
+      "page_number": 3,
+      "original": "· severance  charge  of  $1.7 billion related to separations under  our voluntary separation program for select U.S.-based management employees as well as other headcount reduction initiatives;",
+      "label": "list_item"
+    },
+    {
+      "text": "asset and business rationalization charge of $374 million predominately related to the decision to cease use of certain real estate assets and exit non-strategic  portions  of  certain  businesses,  as  part  of  our  continued transformation initiatives; and",
+      "page_number": 3,
+      "original": "· asset and business rationalization charge of $374 million predominately related to the decision to cease use of certain real estate assets and exit non-strategic  portions  of  certain  businesses,  as  part  of  our  continued transformation initiatives; and",
+      "label": "list_item"
+    },
+    {
+      "text": "amortization of intangible assets of $186 million related to Tracfone and other acquisitions.",
+      "page_number": 3,
+      "original": "· amortization of intangible assets of $186 million related to Tracfone and other acquisitions.",
+      "label": "list_item"
+    },
+    {
+      "text": "Adjusted EPS 1 for the third quarter was $1.19 compared to $1.22 in the prior year period.",
+      "page_number": 3,
+      "original": "Adjusted EPS 1 for the third quarter was $1.19 compared to $1.22 in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 3,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 3",
+      "page_number": 3,
+      "original": "Page 3",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 4,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Cash Flow Summary",
+      "page_number": 4,
+      "original": "Cash Flow Summary",
+      "label": "section_header"
+    },
+    {
+      "text": "Cash Flow from Operating",
+      "page_number": 4,
+      "original": "Cash Flow from Operating",
+      "label": "text"
+    },
+    {
+      "text": "Activities ($B)",
+      "page_number": 4,
+      "original": "Activities ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$28.8",
+      "page_number": 4,
+      "original": "$28.8",
+      "label": "text"
+    },
+    {
+      "text": "$26.5",
+      "page_number": 4,
+      "original": "$26.5",
+      "label": "text"
+    },
+    {
+      "text": "Nine months",
+      "page_number": 4,
+      "original": "Nine months",
+      "label": "text"
+    },
+    {
+      "text": "ended Sept 30,",
+      "page_number": 4,
+      "original": "ended Sept 30,",
+      "label": "text"
+    },
+    {
+      "text": "2023",
+      "page_number": 4,
+      "original": "2023",
+      "label": "text"
+    },
+    {
+      "text": "Nine months",
+      "page_number": 4,
+      "original": "Nine months",
+      "label": "text"
+    },
+    {
+      "text": "ended Sept 30,",
+      "page_number": 4,
+      "original": "ended Sept 30,",
+      "label": "text"
+    },
+    {
+      "text": "2024",
+      "page_number": 4,
+      "original": "2024",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow* ($B)",
+      "page_number": 4,
+      "original": "Free Cash Flow* ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$14.6",
+      "page_number": 4,
+      "original": "$14.6",
+      "label": "text"
+    },
+    {
+      "text": "$14.5",
+      "page_number": 4,
+      "original": "$14.5",
+      "label": "text"
+    },
+    {
+      "text": "Nine months",
+      "page_number": 4,
+      "original": "Nine months",
+      "label": "text"
+    },
+    {
+      "text": "ended Sept 30,",
+      "page_number": 4,
+      "original": "ended Sept 30,",
+      "label": "text"
+    },
+    {
+      "text": "2023",
+      "page_number": 4,
+      "original": "2023",
+      "label": "text"
+    },
+    {
+      "text": "Nine months",
+      "page_number": 4,
+      "original": "Nine months",
+      "label": "text"
+    },
+    {
+      "text": "ended Sept 30,",
+      "page_number": 4,
+      "original": "ended Sept 30,",
+      "label": "text"
+    },
+    {
+      "text": "2024",
+      "page_number": 4,
+      "original": "2024",
+      "label": "text"
+    },
+    {
+      "text": "* Non-GAAP financial measure.",
+      "page_number": 4,
+      "original": "* Non-GAAP financial measure.",
+      "label": "text"
+    },
+    {
+      "text": "Cash flow  from  operating  activities for  the  nine  months  ended  September 30, 2024 was $26.5 billion compared to $28.8 billion in the prior year period driven  by  year  over  year  pressures  from  cash  taxes,  and  higher  interest expense primarily related to a reduction in capitalized interest as well as higher interest rates.",
+      "page_number": 4,
+      "original": "Cash flow  from  operating  activities for  the  nine  months  ended  September 30, 2024 was $26.5 billion compared to $28.8 billion in the prior year period driven  by  year  over  year  pressures  from  cash  taxes,  and  higher  interest expense primarily related to a reduction in capitalized interest as well as higher interest rates.",
+      "label": "text"
+    },
+    {
+      "text": "Capital  spending  for  the  nine  months  ended  September  30,  2024  was $12.0 billion compared to $14.2 billion in the prior year period.",
+      "page_number": 4,
+      "original": "· Capital  spending  for  the  nine  months  ended  September  30,  2024  was $12.0 billion compared to $14.2 billion in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Our  guidance  for  2024  capital  expenditures  of  $17.0  billion  to  $17.5 billion remains unchanged.",
+      "page_number": 4,
+      "original": "· Our  guidance  for  2024  capital  expenditures  of  $17.0  billion  to  $17.5 billion remains unchanged.",
+      "label": "list_item"
+    },
+    {
+      "text": "Free cash flow 1 for  the  nine months ended September 30, 2024 was $14.5 billion compared to $14.6 billion in the prior year period.",
+      "page_number": 4,
+      "original": "Free cash flow 1 for  the  nine months ended September 30, 2024 was $14.5 billion compared to $14.6 billion in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Total unsecured debt as of the end of the third quarter was $126.4 billion, a $1.1  billion  increase  compared  to  the  prior  quarter  and  approximately  $70 million lower year over year. Unsecured debt to net income (LTM) ratio was 12.3x as of the end of the third quarter, an increase of 1.6x compared to the prior quarter and a 6.4x increase year over year.",
+      "page_number": 4,
+      "original": "Total unsecured debt as of the end of the third quarter was $126.4 billion, a $1.1  billion  increase  compared  to  the  prior  quarter  and  approximately  $70 million lower year over year. Unsecured debt to net income (LTM) ratio was 12.3x as of the end of the third quarter, an increase of 1.6x compared to the prior quarter and a 6.4x increase year over year.",
+      "label": "text"
+    },
+    {
+      "text": "Net unsecured debt 1 as of the end of the third quarter was $121.4 billion, an improvement of over $1.4 billion compared to the prior quarter and more than $0.8  billion  lower  year  over  year. Net  unsecured  debt  to  adjusted  EBITDA ratio 1 was  2.5x  as of the end of the third quarter, flat compared to the prior quarter and a 0.1x improvement over the prior year period.",
+      "page_number": 4,
+      "original": "Net unsecured debt 1 as of the end of the third quarter was $121.4 billion, an improvement of over $1.4 billion compared to the prior quarter and more than $0.8  billion  lower  year  over  year. Net  unsecured  debt  to  adjusted  EBITDA ratio 1 was  2.5x  as of the end of the third quarter, flat compared to the prior quarter and a 0.1x improvement over the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 4,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 4",
+      "page_number": 4,
+      "original": "Page 4",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 5,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Mobility Highlights",
+      "page_number": 5,
+      "original": "Mobility Highlights",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Retail Postpaid",
+      "page_number": 5,
+      "original": "Total Retail Postpaid",
+      "label": "text"
+    },
+    {
+      "text": "Phone Net Additions (K)",
+      "page_number": 5,
+      "original": "Phone Net Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "100",
+      "page_number": 5,
+      "original": "100",
+      "label": "text"
+    },
+    {
+      "text": "148",
+      "page_number": 5,
+      "original": "148",
+      "label": "text"
+    },
+    {
+      "text": "239",
+      "page_number": 5,
+      "original": "239",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 5,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 5,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 5,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Retail Postpaid",
+      "page_number": 5,
+      "original": "Consumer Retail Postpaid",
+      "label": "text"
+    },
+    {
+      "text": "Phone Net Additions (K)",
+      "page_number": 5,
+      "original": "Phone Net Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "(51)",
+      "page_number": 5,
+      "original": "(51)",
+      "label": "text"
+    },
+    {
+      "text": "(8)",
+      "page_number": 5,
+      "original": "(8)",
+      "label": "text"
+    },
+    {
+      "text": "81",
+      "page_number": 5,
+      "original": "81",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 5,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 5,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 5,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Note: Where applicable, the operating results reflect certain adjustments.",
+      "page_number": 5,
+      "original": "Note: Where applicable, the operating results reflect certain adjustments.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated",
+      "page_number": 5,
+      "original": "Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Total postpaid net additions for the third quarter were 349 thousand, down from 581 thousand in the prior year period, as growth in phone net additions were  offset  by  reduced  FWA  volumes  and  losses  in  tablets,  wearables,  and other connected devices.",
+      "page_number": 5,
+      "original": "Total postpaid net additions for the third quarter were 349 thousand, down from 581 thousand in the prior year period, as growth in phone net additions were  offset  by  reduced  FWA  volumes  and  losses  in  tablets,  wearables,  and other connected devices.",
+      "label": "text"
+    },
+    {
+      "text": "Total postpaid phone net additions for the third quarter were 239 thousand, an improvement from 100 thousand in the prior year period.",
+      "page_number": 5,
+      "original": "Total postpaid phone net additions for the third quarter were 239 thousand, an improvement from 100 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid phone gross additions were 2.7 million, up 5.1% year over year.",
+      "page_number": 5,
+      "original": "· Postpaid phone gross additions were 2.7 million, up 5.1% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid phone churn was 0.89%, down 1 basis point year over year.",
+      "page_number": 5,
+      "original": "· Postpaid phone churn was 0.89%, down 1 basis point year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer Group",
+      "page_number": 5,
+      "original": "Consumer Group",
+      "label": "section_header"
+    },
+    {
+      "text": "Postpaid net additions for the third quarter were 68 thousand, down from 251 thousand in the prior year period.",
+      "page_number": 5,
+      "original": "Postpaid net additions for the third quarter were 68 thousand, down from 251 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid phone net additions were 81 thousand compared to 51 thousand net losses in the prior year period.",
+      "page_number": 5,
+      "original": "· Postpaid phone net additions were 81 thousand compared to 51 thousand net losses in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid phone gross additions were approximately 2.0 million, up 5.9%  year  over  year.  Excluding  the  contribution  from  our  second number offering, postpaid phone gross additions grew approximately 1.0% year over year.",
+      "page_number": 5,
+      "original": "◦ Postpaid phone gross additions were approximately 2.0 million, up 5.9%  year  over  year.  Excluding  the  contribution  from  our  second number offering, postpaid phone gross additions grew approximately 1.0% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Postpaid  phone  churn  was  0.84%,  down  1  basis  point  year  over year.",
+      "page_number": 5,
+      "original": "◦ Postpaid  phone  churn  was  0.84%,  down  1  basis  point  year  over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Prepaid  net  additions , excluding  SafeLink  Wireless  (SafeLink),  our  brand offering access to government-sponsored connectivity benefits and programs,",
+      "page_number": 5,
+      "original": "Prepaid  net  additions , excluding  SafeLink  Wireless  (SafeLink),  our  brand offering access to government-sponsored connectivity benefits and programs,",
+      "label": "text"
+    },
+    {
+      "text": "Business Retail Postpaid Phone Net Additions (K)",
+      "page_number": 5,
+      "original": "Business Retail Postpaid Phone Net Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "151",
+      "page_number": 5,
+      "original": "151",
+      "label": "text"
+    },
+    {
+      "text": "156",
+      "page_number": 5,
+      "original": "156",
+      "label": "text"
+    },
+    {
+      "text": "158",
+      "page_number": 5,
+      "original": "158",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 5,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 5,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 5,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Page 5",
+      "page_number": 5,
+      "original": "Page 5",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 6,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "were  80  thousand  compared  to  221  thousand  net  losses  in  the  prior  year period.",
+      "page_number": 6,
+      "original": "were  80  thousand  compared  to  221  thousand  net  losses  in  the  prior  year period.",
+      "label": "text"
+    },
+    {
+      "text": "Excluding SafeLink, prepaid churn was 3.72%, down 13 basis points year over year.",
+      "page_number": 6,
+      "original": "· Excluding SafeLink, prepaid churn was 3.72%, down 13 basis points year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business Group",
+      "page_number": 6,
+      "original": "Business Group",
+      "label": "section_header"
+    },
+    {
+      "text": "Postpaid  phone  net  additions for  the  third  quarter  were 158  thousand,  up from 151 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "Postpaid  phone  net  additions for  the  third  quarter  were 158  thousand,  up from 151 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Postpaid phone churn was 1.12%, down 2 basis points year over year.",
+      "page_number": 6,
+      "original": "· Postpaid phone churn was 1.12%, down 2 basis points year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Broadband Highlights",
+      "page_number": 6,
+      "original": "Broadband Highlights",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Broadband Net",
+      "page_number": 6,
+      "original": "Total Broadband Net",
+      "label": "text"
+    },
+    {
+      "text": "Additions (K)",
+      "page_number": 6,
+      "original": "Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "434",
+      "page_number": 6,
+      "original": "434",
+      "label": "text"
+    },
+    {
+      "text": "391",
+      "page_number": 6,
+      "original": "391",
+      "label": "text"
+    },
+    {
+      "text": "389",
+      "page_number": 6,
+      "original": "389",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 6,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 6,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 6,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Fixed Wireless Access Net",
+      "page_number": 6,
+      "original": "Fixed Wireless Access Net",
+      "label": "text"
+    },
+    {
+      "text": "Additions (K)",
+      "page_number": 6,
+      "original": "Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "384",
+      "page_number": 6,
+      "original": "384",
+      "label": "text"
+    },
+    {
+      "text": "378",
+      "page_number": 6,
+      "original": "378",
+      "label": "text"
+    },
+    {
+      "text": "363",
+      "page_number": 6,
+      "original": "363",
+      "label": "text"
+    },
+    {
+      "text": "251",
+      "page_number": 6,
+      "original": "251",
+      "label": "text"
+    },
+    {
+      "text": "218",
+      "page_number": 6,
+      "original": "218",
+      "label": "text"
+    },
+    {
+      "text": "209",
+      "page_number": 6,
+      "original": "209",
+      "label": "text"
+    },
+    {
+      "text": "133",
+      "page_number": 6,
+      "original": "133",
+      "label": "text"
+    },
+    {
+      "text": "160",
+      "page_number": 6,
+      "original": "160",
+      "label": "text"
+    },
+    {
+      "text": "154",
+      "page_number": 6,
+      "original": "154",
+      "label": "text"
+    },
+    {
+      "text": "Consumer",
+      "page_number": 6,
+      "original": "Consumer",
+      "label": "text"
+    },
+    {
+      "text": "Business",
+      "page_number": 6,
+      "original": "Business",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 6,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 6,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 6,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Wireline (Fios + DSL) Net",
+      "page_number": 6,
+      "original": "Wireline (Fios + DSL) Net",
+      "label": "text"
+    },
+    {
+      "text": "Additions (K)",
+      "page_number": 6,
+      "original": "Additions (K)",
+      "label": "text"
+    },
+    {
+      "text": "50",
+      "page_number": 6,
+      "original": "50",
+      "label": "text"
+    },
+    {
+      "text": "13",
+      "page_number": 6,
+      "original": "13",
+      "label": "text"
+    },
+    {
+      "text": "26",
+      "page_number": 6,
+      "original": "26",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 6,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 6,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 6,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Total  broadband  net  additions for  the  third  quarter  were  389  thousand compared to 434 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "Total  broadband  net  additions for  the  third  quarter  were  389  thousand compared to 434 thousand in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "FWA net additions were 363 thousand, down from 384 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "· FWA net additions were 363 thousand, down from 384 thousand in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  FWA  net  additions  were  209  thousand,  down  42 thousand year over year.",
+      "page_number": 6,
+      "original": "◦ Consumer  FWA  net  additions  were  209  thousand,  down  42 thousand year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business  FWA  net  additions  were  154  thousand,  up  21  thousand year over year.",
+      "page_number": 6,
+      "original": "◦ Business  FWA  net  additions  were  154  thousand,  up  21  thousand year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Fios internet net additions were 43 thousand, down from 72 thousand in the prior year period.",
+      "page_number": 6,
+      "original": "· Fios internet net additions were 43 thousand, down from 72 thousand in the prior year period.",
+      "label": "list_item"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 6,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 6",
+      "page_number": 6,
+      "original": "Page 6",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 7,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Financial Results",
+      "page_number": 7,
+      "original": "Consumer Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Total Operating Revenue",
+      "page_number": 7,
+      "original": "Total Operating Revenue",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 7,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$25.3",
+      "page_number": 7,
+      "original": "$25.3",
+      "label": "text"
+    },
+    {
+      "text": "$24.9",
+      "page_number": 7,
+      "original": "$24.9",
+      "label": "text"
+    },
+    {
+      "text": "$25.4",
+      "page_number": 7,
+      "original": "$25.4",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 7,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 7,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 7,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Service and Other",
+      "page_number": 7,
+      "original": "Service and Other",
+      "label": "text"
+    },
+    {
+      "text": "Revenue ($B)",
+      "page_number": 7,
+      "original": "Revenue ($B)",
+      "label": "text"
+    },
+    {
+      "text": "$20.4",
+      "page_number": 7,
+      "original": "$20.4",
+      "label": "text"
+    },
+    {
+      "text": "$20.8",
+      "page_number": 7,
+      "original": "$20.8",
+      "label": "text"
+    },
+    {
+      "text": "$20.9",
+      "page_number": 7,
+      "original": "$20.9",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 7,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 7,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 7,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue",
+      "page_number": 7,
+      "original": "Wireless Service Revenue",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 7,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$16.0",
+      "page_number": 7,
+      "original": "$16.0",
+      "label": "text"
+    },
+    {
+      "text": "$16.3",
+      "page_number": 7,
+      "original": "$16.3",
+      "label": "text"
+    },
+    {
+      "text": "$16.4",
+      "page_number": 7,
+      "original": "$16.4",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 7,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 7,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 7,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Total Consumer revenue for the third quarter was $25.4 billion, up 0.4% year over  year,  as  gains  in  Service  revenue  were  partially  offset  by  declines  in Wireless equipment revenue.",
+      "page_number": 7,
+      "original": "Total Consumer revenue for the third quarter was $25.4 billion, up 0.4% year over  year,  as  gains  in  Service  revenue  were  partially  offset  by  declines  in Wireless equipment revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer Service and other revenue was $20.9 billion, up 2.6% year over year.",
+      "page_number": 7,
+      "original": "· Consumer Service and other revenue was $20.9 billion, up 2.6% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  Wireless  service  revenue was  $16.4  billion,  up  2.6% year  over  year,  driven  by  growth  in  Consumer  wireless  postpaid average  revenue  per  account  (ARPA)  from  pricing  actions  and continued FWA adoption.",
+      "page_number": 7,
+      "original": "· Consumer  Wireless  service  revenue was  $16.4  billion,  up  2.6% year  over  year,  driven  by  growth  in  Consumer  wireless  postpaid average  revenue  per  account  (ARPA)  from  pricing  actions  and continued FWA adoption.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer Fios revenue was $2.9 billion, up 0.7% year over year.",
+      "page_number": 7,
+      "original": "· Consumer Fios revenue was $2.9 billion, up 0.7% year over year.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  Wireless  equipment  revenue was $4.5  billion,  down  8.6% year  over  year,  driven  primarily  by  a  10.1%  year  over  year  decline  in upgrades.",
+      "page_number": 7,
+      "original": "· Consumer  Wireless  equipment  revenue was $4.5  billion,  down  8.6% year  over  year,  driven  primarily  by  a  10.1%  year  over  year  decline  in upgrades.",
+      "label": "list_item"
+    },
+    {
+      "text": "Consumer  Wireless  postpaid  ARPA was  $139.06  for  the  third  quarter,  up 4.2% year over year, driven by pricing actions implemented in recent quarters, and an increased contribution from FWA.",
+      "page_number": 7,
+      "original": "Consumer  Wireless  postpaid  ARPA was  $139.06  for  the  third  quarter,  up 4.2% year over year, driven by pricing actions implemented in recent quarters, and an increased contribution from FWA.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer operating income for  the  third  quarter  was  $7.6  billion,  up  0.8% year  over  year,  resulting  in  operating  income  margin  of  30.0%  compared  to 29.9% in the prior year period.",
+      "page_number": 7,
+      "original": "Consumer operating income for  the  third  quarter  was  $7.6  billion,  up  0.8% year  over  year,  resulting  in  operating  income  margin  of  30.0%  compared  to 29.9% in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "Consumer segment EBITDA 1 for  the  third  quarter  was  $11.0  billion,  up  1.8% year over year. This improvement can be attributed to Service revenue growth and lower upgrade volumes. Consumer segment EBITDA margin 1 for the third quarter was 43.4% compared to 42.8% in the prior year period.",
+      "page_number": 7,
+      "original": "Consumer segment EBITDA 1 for  the  third  quarter  was  $11.0  billion,  up  1.8% year over year. This improvement can be attributed to Service revenue growth and lower upgrade volumes. Consumer segment EBITDA margin 1 for the third quarter was 43.4% compared to 42.8% in the prior year period.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 7,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 7",
+      "page_number": 7,
+      "original": "Page 7",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 8,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Business Financial Results",
+      "page_number": 8,
+      "original": "Business Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Revenue by Customer Group ($B)",
+      "page_number": 8,
+      "original": "Revenue by Customer Group ($B)",
+      "label": "text"
+    },
+    {
+      "text": "Enterprise and Public Sector Business Markets and Other Wholesale",
+      "page_number": 8,
+      "original": "Enterprise and Public Sector Business Markets and Other Wholesale",
+      "label": "text"
+    },
+    {
+      "text": "Total Operating Revenue",
+      "page_number": 8,
+      "original": "Total Operating Revenue",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 8,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$7.5",
+      "page_number": 8,
+      "original": "$7.5",
+      "label": "text"
+    },
+    {
+      "text": "$7.3",
+      "page_number": 8,
+      "original": "$7.3",
+      "label": "text"
+    },
+    {
+      "text": "$7.4",
+      "page_number": 8,
+      "original": "$7.4",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 8,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 8,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 8,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "$3.8",
+      "page_number": 8,
+      "original": "$3.8",
+      "label": "text"
+    },
+    {
+      "text": "$3.5",
+      "page_number": 8,
+      "original": "$3.5",
+      "label": "text"
+    },
+    {
+      "text": "$3.5",
+      "page_number": 8,
+      "original": "$3.5",
+      "label": "text"
+    },
+    {
+      "text": "$3.2",
+      "page_number": 8,
+      "original": "$3.2",
+      "label": "text"
+    },
+    {
+      "text": "$3.2",
+      "page_number": 8,
+      "original": "$3.2",
+      "label": "text"
+    },
+    {
+      "text": "$3.3",
+      "page_number": 8,
+      "original": "$3.3",
+      "label": "text"
+    },
+    {
+      "text": "$0.6",
+      "page_number": 8,
+      "original": "$0.6",
+      "label": "text"
+    },
+    {
+      "text": "$0.6",
+      "page_number": 8,
+      "original": "$0.6",
+      "label": "text"
+    },
+    {
+      "text": "$0.6",
+      "page_number": 8,
+      "original": "$0.6",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 8,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 8,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 8,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Wireless Service Revenue",
+      "page_number": 8,
+      "original": "Wireless Service Revenue",
+      "label": "text"
+    },
+    {
+      "text": "($B)",
+      "page_number": 8,
+      "original": "($B)",
+      "label": "text"
+    },
+    {
+      "text": "$3.4",
+      "page_number": 8,
+      "original": "$3.4",
+      "label": "text"
+    },
+    {
+      "text": "$3.4",
+      "page_number": 8,
+      "original": "$3.4",
+      "label": "text"
+    },
+    {
+      "text": "$3.5",
+      "page_number": 8,
+      "original": "$3.5",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2023",
+      "page_number": 8,
+      "original": "3Q 2023",
+      "label": "text"
+    },
+    {
+      "text": "2Q 2024",
+      "page_number": 8,
+      "original": "2Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "3Q 2024",
+      "page_number": 8,
+      "original": "3Q 2024",
+      "label": "text"
+    },
+    {
+      "text": "Note: Revenue by customer group may not add due to rounding.",
+      "page_number": 8,
+      "original": "Note: Revenue by customer group may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Total Business revenue for the third quarter was $7.4 billion, down 2.3% year over year, as increases in Wireless service revenue were more than offset by decreases in Wireline revenue.",
+      "page_number": 8,
+      "original": "Total Business revenue for the third quarter was $7.4 billion, down 2.3% year over year, as increases in Wireless service revenue were more than offset by decreases in Wireline revenue.",
+      "label": "text"
+    },
+    {
+      "text": "Business Wireless service revenue was $3.5 billion, up 2.9% year over year, driven by continued strong net additions for both mobility and FWA, as well as benefits from pricing actions implemented in recent quarters.",
+      "page_number": 8,
+      "original": "· Business Wireless service revenue was $3.5 billion, up 2.9% year over year, driven by continued strong net additions for both mobility and FWA, as well as benefits from pricing actions implemented in recent quarters.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business  wireline  results reflect  continued  secular  declines  in  the prevailing wireline market, consistent with prior periods.",
+      "page_number": 8,
+      "original": "· Business  wireline  results reflect  continued  secular  declines  in  the prevailing wireline market, consistent with prior periods.",
+      "label": "list_item"
+    },
+    {
+      "text": "Business operating income for  the  third  quarter  was  $565  million,  up  4.8% year over year, resulting in operating income margin of 7.7%.",
+      "page_number": 8,
+      "original": "Business operating income for  the  third  quarter  was  $565  million,  up  4.8% year over year, resulting in operating income margin of 7.7%.",
+      "label": "text"
+    },
+    {
+      "text": "Business segment EBITDA 1 for the third quarter was $1.6 billion, down 3.7% year  over  year,  driven  by  continued  declines  in  Wireline  revenues.  Business segment EBITDA margin 1 for the third quarter was 21.8%.",
+      "page_number": 8,
+      "original": "Business segment EBITDA 1 for the third quarter was $1.6 billion, down 3.7% year  over  year,  driven  by  continued  declines  in  Wireline  revenues.  Business segment EBITDA margin 1 for the third quarter was 21.8%.",
+      "label": "text"
+    },
+    {
+      "text": "Notes",
+      "page_number": 8,
+      "original": "Notes",
+      "label": "section_header"
+    },
+    {
+      "text": "1 Non-GAAP  financial  measure.  See  the  accompanying  schedules  and  www.verizon.com/ about/investors for reconciliations of non-GAAP financial measures cited in this document to most directly comparable financial measures under generally accepted accounting principles (GAAP).",
+      "page_number": 8,
+      "original": "1 Non-GAAP  financial  measure.  See  the  accompanying  schedules  and  www.verizon.com/ about/investors for reconciliations of non-GAAP financial measures cited in this document to most directly comparable financial measures under generally accepted accounting principles (GAAP).",
+      "label": "text"
+    },
+    {
+      "text": "2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "page_number": 8,
+      "original": "2 Total Wireless service revenue represents the sum of Consumer and Business segments.",
+      "label": "footnote"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 8,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 8",
+      "page_number": 8,
+      "original": "Page 8",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 9,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "Forward-looking statements",
+      "page_number": 9,
+      "original": "Forward-looking statements",
+      "label": "section_header"
+    },
+    {
+      "text": "In this communication we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words 'anticipates,' 'assumes,' 'believes,' 'estimates,' 'expects,' 'forecasts,' 'hopes,' 'intends,' 'plans,' 'targets' or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the 'SEC'), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyber attacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "page_number": 9,
+      "original": "In this communication we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words 'anticipates,' 'assumes,' 'believes,' 'estimates,' 'expects,' 'forecasts,' 'hopes,' 'intends,' 'plans,' 'targets' or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the 'SEC'), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyber attacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our operations, our employees and the ways in which our customers use our networks and other products and services; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 9,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 9",
+      "page_number": 9,
+      "original": "Page 9",
+      "label": "page_footer"
+    },
+    {
+      "text": "VZQTR20FIN",
+      "page_number": 10,
+      "original": "VZQTR20FIN",
+      "label": "text"
+    },
+    {
+      "text": "VlpHU09DSUQyMDE5UTE=",
+      "page_number": 10,
+      "original": "VlpHU09DSUQyMDE5UTE=",
+      "label": "text"
+    },
+    {
+      "text": "Page 10",
+      "page_number": 10,
+      "original": "Page 10",
+      "label": "page_footer"
+    }
+  ]
+}

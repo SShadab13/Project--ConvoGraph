@@ -1,0 +1,1332 @@
+{
+  "doc_id": "download-financial-operating-information-pdf-56695261",
+  "source_pdf": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2024\\2Q\\Download Financial & Operating information PDF_56695261.pdf",
+  "reconstructed_tables": [
+    {
+      "markdown_table": "",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [],
+        "currency": "USD",
+        "notes": []
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 2,
+        "sections": [
+          "Condensed Consolidated Statements of Income",
+          "Condensed Consolidated Balance Sheets",
+          "Consolidated - Selected Financial and Operating Statistics",
+          "Condensed Consolidated Statements of Cash Flows",
+          "Consumer - Selected Financial Results",
+          "Consumer - Selected Operating Statistics",
+          "Business - Selected Financial Results",
+          "Business - Selected Operating Statistics",
+          "Supplemental Information",
+          "Non-GAAP Reconciliations and Notes"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p2_t0"
+    },
+    {
+      "markdown_table": "|                               | 2022          | Full Year | 1Q      | 2Q      | 3Q      | 4Q      | Full Year | 1Q      | 2Q      | Year to date |\n| :----------------------------- | :------------- | :-------- | :------ | :------ | :------ | :------ | :-------- | :------ | :------ | :----------- |\n|                               |                |           |         |         |         |         |           |         |         |              |\n| Operating Revenues             |                |           |         |         |         |         |           |         |         |              |\n| Service revenues and other     | $ 109,625      | $ 27,152  | $ 27,319 | $ 27,523 | $ 27,658 | $ 109,652 |         |         |              |\n| Wireless equipment revenues    | $ 27,620       | $ 27,798  | $ 55,418 |         |         |         |           |         |              |\n| Total Operating Revenues       | $ 136,835      | $ 32,912  | $ 32,596 | $ 33,336 | $ 35,130 | $ 133,974 |         |         |              |\n|                               |                | 32,981    | 32,796  | 65,777  |         |         |           |         |              |\n| Operating Expenses             |                |           |         |         |         |         |           |         |         |              |\n| Cost of services               |                | 28,637    | 7,078   | 6,986   | 7,084   | 6,952   | 28,100   | 6,967   | 6,904   | 13,871       |\n| Cost of wireless equipment     |                | 30,496    | 6,426   | 5,778   | 6,353   | 8,230   |           |         |              |\n| Selling, general and administrative expense |                | 30,136    | 7,506   | 8,253   | 7,995   | 8,991   | 32,745   | 8,143   | 8,024   | 16,167       |\n| Depreciation and amortization expense |                | 17,099    | 4,318   | 4,359   | 4,431   | 4,516   |           |         |              |\n| Other expenses                  |                | 17,624    | 4,445   | 4,483   | 8,928   | 5,841   | 5,841   |         |              |\n| Verizon Business Group goodwill impairment |                | -        | -       | -       | -       | 5,841   |         |         |              |\n| Total Operating Expenses       |                | 106,368   | 25,328  | 25,376  | 25,863  | 34,530  |           |         |              |\n| Operating Income               |                | 30,467    | 7,584   | 7,220   | 7,473   | 600     | 22,877   | 7,521   | 7,818   | 15,339       |\n| Equity in earnings (losses) of unconsolidated businesses |                | 44         | 9        | (33)      | (18)      | (11)     |              |              |              |              |\n| Other income (expense), net    |                | 1,373     | 114     | 210     | 170     | (807)   | (313)    | 198     | (72)    | 126          |\n| Interest expense                |                | (3,613)   | (1,207) | (1,285) | (1,433) | (1,599) |           |         |              |              |\n| Income (Loss) Before Provision For Income Taxes |                | 28,271    | 6,500   | 6,112   | 6,192   | (1,817)  | 16,987   | 6,075   | 6,034   | 12,109       |\n| Provision for income taxes     |                | (6,523)    | (1,482) | (1,346) | (1,308) | (756)   |           |         |              |              |\n| Net Income (Loss)              | $ 21,748       | $ 5,018   | $ 4,766 | $ 4,884 | $ (2,573) | $ 12,095 | $ 4,722 | $ 4,702 | $ 9,424       |\n| Net income attributable to noncontrolling interests | $ 492         | $ 109     | $ 118   | $ 122   | $ 132   |           |         |              |              |\n| Net income attributable to Verizon | $ 481         | $ 120     | $ 109   | $ 229   |           |         |              |              |              |\n| Basic Earnings Per Common Share |                |           |         |         |         |         |           |         |         |              |\n| Net income (loss) attributable to Verizon | $ 12,095       | $ 4,722   | $ 4,702 | $ 9,424   |         |         |           |         |         |              |\n| Weighted-average shares outstanding (in millions) |                | 4,207     | 4,208   | 4,213   |         |         |           |         |         |              |\n| Diluted Earnings Per Common Share (1) |                |           |         |         |         |         |           |         |         |              |\n| Net income (loss) attributable to Verizon |                | $ 5.06   | $ 1.17   | $ 1.10   | $ 1.13   | $ (0.64) | $ 2.75   | $ 1.09   | $ 1.09   | $ 2.18       |\n| Weighted-average shares outstanding (in millions) |                | 4,214     | 4,211   | 4,215   | 4,215   | 4,215   |           |         |         |              |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "2022",
+          "Full Year",
+          "1Q",
+          "2Q",
+          "3Q",
+          "4Q",
+          "Full Year",
+          "1Q",
+          "2Q",
+          "Year to date"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 3,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses",
+          "Earnings Per Share"
+        ],
+        "total_rows": 30,
+        "total_cols": 11
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p3_t1"
+    },
+    {
+      "markdown_table": "|               | 12/31/22 | 3/31/23 | 6/30/23 | 9/30/23 | 12/31/23 | 3/31/24 | 6/30/24 |\n|----------------|----------|----------|----------|----------|----------|----------|----------|\n| Assets         |          |          |          |          |          |          |          |\n| Current assets |          |          |          |          |          |          |          |\n| Cash and cash equivalents | $ 2,605 | $ 2,234 | $ 4,803 | $ 4,210 | $ 2,065 | $ 2,365 | $ 2,432 |\n| Accounts receivable | 25,332 | 23,748 | 24,108 | 24,559 | 26,102 | 26,380 | 26,702 |\n| Less Allowance for credit losses |          | 826 | 892 | 922 | 957 | 1,017 | 1,061 |\n| Accounts receivable, net |          | 24,506 | 22,856 | 23,186 | 23,602 | 25,085 | 25,319 |\n| Inventories | 2,388 | 2,381 | 1,896 | 2,240 | 2,057 | 2,076 | 1,841 |\n| Prepaid expenses and other | 8,358 | 8,251 | 7,503 | 8,067 | 7,607 | 8,197 | 8,176 |\n| Total current assets | 37,857 | 35,722 | 37,388 | 38,119 | 36,814 | 37,957 | 38,056 |\n| Property, plant and equipment | 307,689 | 310,519 | 313,424 | 316,767 | 320,108 | 322,266 | 324,978 |\n| Less Accumulated depreciation | 200,255 | 203,532 | 206,154 | 209,277 | 211,798 | 214,403 | 217,088 |\n| Property, plant and equipment, net | 107,434 | 106,987 | 107,270 | 107,490 | 108,310 | 107,863 | 107,890 |\n| Investments in unconsolidated businesses | 1,071 | 1,052 | 1,015 | 929 | 953 | 941 | 908 |\n| Wireless licenses | 149,796 |          |          |          |          |          |          |\n| Goodwill | 28,671 | 28,674 | 28,647 | 28,642 | 22,843 | 22,842 | 22,842 |\n| Other intangible assets, net | 11,461 | 11,246 | 11,097 | 10,952 | 11,057 | 11,057 | 11,057 |\n| Operating lease right-of-use assets | 26,130 | 25,947 | 25,345 | 25,086 | 24,726 | 24,351 | 24,064 |\n| Other assets | 17,260 | 17,603 | 17,856 | 18,147 | 19,885 | 19,258 | 18,415 |\n| Total assets | $ 379,680 | $ 377,716 | $ 379,955 | $ 384,830 | $ 380,255 | $ 380,158 | $ 379,146 |\n| Liabilities and Equity |          |          |          |          |          |          |          |\n| Current liabilities |          |          |          |          |          |          |          |\n| Debt maturing within one year |          | $ 9,963 | $ 12,081 | $ 14,827 | $ 12,950 | $ 12,973 | $ 15,594 |\n| Accounts payable and accrued liabilities |          | 23,977 | 19,273 | 20,067 |          |          |          |\n| Current operating lease liabilities | 4,134 | 4,177 | 4,211 | 3,906 | 4,266 | 4,282 | 4,247 |\n| Other current liabilities | 12,097 | 12,237 | 12,299 | 12,681 | 12,531 | 13,616 | 13,577 |\n| Total current liabilities | 50,171 | 47,768 | 51,404 | 55,677 | 53,223 | 53,631 | 60,806 |\n| Long-term debt | 140,676 | 140,772 | 137,871 | 134,441 | 137,701 | 136,104 | 126,022 |\n| Employee benefit obligations | 12,974 | 12,750 | 12,357 |          |          |          |          |\n| Deferred income taxes | 43,441 | 43,667 | 44,055 | 44,434 | 45,781 | 45,980 | 46,082 |\n| Non-current operating lease liabilities | 21,558 | 21,303 | 20,745 | 20,773 | 20,002 | 19,654 | 19,456 |\n| Other liabilities | 18,397 | 17,237 | 17,021 | 18,191 | 16,560 | 16,258 | 16,429 |\n| Total long-term liabilities | 237,046 | 235,729 | 232,049 | 230,065 | 233,233 | 230,801 | 220,801 |\n| Equity |          |          |          |          |          |          |          |\n| Common stock | 429 | 429 |          |          |          |          |          |\n| Additional paid in capital | 13,420 | 13,523 | 13,523 | 13,524 | 13,631 | 13,571 | 13,539 |\n| Retained earnings | 82,380 | 84,543 | 86,448 | 88,416 | 82,915 | 84,714 | 86,504 |\n| Accumulated other comprehensive loss |          |          |          |          |          | (1,865) | (2,177) |\n| Common stock in treasury, at cost |          |          |          |          |          | (3,832) | (3,830) |\n| Noncontrolling interests |          |          |          |          |          | 1,319 | 1,336 |\n| Total equity |          | 92,463 | 94,219 | 96,502 | 99,088 | 93,799 | 95,726 |\n| Total liabilities and equity | $ 379,680 | $ 377,716 | $ 379,955 | $ 384,830 | $ 380,255 | $ 380,158 | $ 379,146 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12/31/22",
+          "3/31/23",
+          "6/30/23",
+          "9/30/23",
+          "12/31/23",
+          "3/31/24",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)",
+          "Unaudited"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 4,
+        "sections": [
+          "Assets",
+          "Current assets",
+          "Liabilities and Equity",
+          "Current liabilities",
+          "Long-term liabilities",
+          "Equity"
+        ],
+        "total_rows": 44,
+        "total_cols": 8
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p4_t2"
+    },
+    {
+      "markdown_table": "| Header | 12/31/22 | 3/31/23 | 6/30/23 | 9/30/23 | 12/31/23 | 3/31/24 | 6/30/24 |\n|---|---|---|---|---|---|---|---|\n| Total debt | $ 150,639 | $ 152,853 | $ 152,698 | $ 147,391 | $ 150,674 | $ 151,698 | $149,277 |\n| Unsecured debt | $ 130,631 | $ 132,018 | $ 131,356 | $ 126,440 | $ 128,491 | $ 128,408 | $125,262 |\n| Net unsecured debt (1) | $ 128,026 | $ 129,784 | $ 126,553 | $ 122,230 | $ 126,426 | $ 126,043 | $122,830 |\n| Unsecured debt / Consolidated Net Income (LTM) |  |  |  | 6.1x | 5.9x | 10.6x | 10.9x |\n| Net unsecured debt / Consolidated Adjusted EBITDA (1)(2) |  |  |  |  |  |  |  |\n| Common shares outstanding end of period (in millions) |  |  |  | 2.6x | 2.6x | 2.6x | 2.6x |\n| Total employees ('000) (3) |  | 4,200 | 4,204 | 4,204 | 4,204 | 4,209 | 4,210 |\n| Total employees ('000) (3) |  | 117.1 | 115.5 | 114.2 | 110.5 | 105.4 | 104.4 |\n| Quarterly cash dividends declared per common share | $ 0.6525 | $ 0.6525 | $ 0.6525 | $ 0.6650 | $ 0.6650 | $ 0.6650 | $ 0.6650 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12/31/22",
+          "3/31/23",
+          "6/30/23",
+          "9/30/23",
+          "12/31/23",
+          "3/31/24",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 5,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 8
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p5_t3"
+    },
+    {
+      "markdown_table": "|                                                     | 12 Mos. Ended 12/31/22 | 3 Mos. Ended 3/31/23 | 6 Mos. Ended 6/30/23 | 9 Mos. Ended 9/30/23 | 12 Mos. Ended 12/31/23 | 3 Mos. Ended 3/31/24 | 6 Mos. Ended 6/30/24 |\n|-----------------------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|\n| Unaudited                                            |                         |                         |                         |                         |                         |                         |                         |\n| Cash Flows from Operating Activities                 |                         |                         |                         |                         |                         |                         |                         |\n| Net Income                                           | $ 21,748                | $ 5,018                 | $ 9,784                 | $ 14,668                | $ 12,095                | $ 4,722                 | $ 9,424                 |\n| Adjustments to reconcile net income to net cash provided by operating activities: |                         |                         |                         |                         |                         |                         |                         |\n| Depreciation and amortization expense                |                         | 4,318                   | 8,677                   | 13,108                  | 17,624                  | 4,445                   | 8,928                   |\n| Employee retirement benefits                         |                         | (2,046)                 | 54                      | 108                     | 161                     | 1,206                   | 62                      |\n| Deferred income taxes                               |                         | 2,973                   | 331                    | 633                     | 822                     | 2,388                   |                         |\n| Provision for expected credit losses                 |                         |                         |                         |                         |                         | 141                     | 282                     |\n| Equity in (earnings) losses of unconsolidated businesses, net of dividends received |                         |                         |                         |                         |                         | (10)                    | 10                      |\n| Verizon Business Group goodwill impairment           |                         |                         |                         |                         |                         | -                       |                         |\n| Changes in current assets and liabilities, net of effects from acquisition/ disposition of businesses |                         | (456)                   | (774)                   | (620)                   | 972                     | (267)                   | (2,531)                  |\n| Other, net                                          |                         | (3,778)                 | (1,198)                 | (1,672)                 | (2,598)                 | (3,710)                 |                         |\n| Net cash provided by operating activities            | 37,141                  | 8,289                   | 18,020                  | 28,798                  | 37,475                  | 7,084                   | 16,569                  |\n| Cash Flows from Investing Activities                 |                         |                         |                         |                         |                         |                         |                         |\n| Capital expenditures (including capitalized software) | (23,087)                | (5,958)                 | (10,070)                | (14,164)                | (18,767)                | (4,376)                 | (8,071)                  |\n| Cash received (paid) related to acquisitions of businesses, net of cash acquired |                         |                         |                         |                         |                         |                         |                         |\n| Acquisitions of wireless licenses                    | 248                     | -                       | -                       | -                       | -                       | (30)                    | -                       |\n| Collateral receipts (payments) related to derivative contracts, net | (3,653)                 | (598)                   | (1,085)                 | (1,859)                 | (5,796)                 | (449)                   | (613)                   |\n| Proceeds from disposition of business                | 880                     | -                       | -                       | -                       | -                       | -                       | -                       |\n| Other, net                                          | 62                      | 79                      | 131                     | 253                     | 281                     | 12                      | (2)                     |\n| Net cash used in investing activities                |                         |                         |                         |                         |                         |                         |                         |\n| Cash Flows from Financing Activities                 |                         |                         |                         |                         |                         |                         |                         |\n| Proceeds from long-term borrowings                   |                         |                         |                         |                         |                         |                         |                         |\n| Proceeds from asset-backed long-term borrowings     |                         |                         |                         |                         |                         |                         |                         |\n| Net proceeds from (repayments of) short-term commercial paper | 4,656                   | 6,594                   | 2,510                   | 5,828                   |                         |                         |                         |\n| Repayments of long-term borrowings and finance lease obligations | (8,616)                 | (1,325)                 | (2,600)                 | (5,568)                 | (6,181)                 | (4,508)                 | (5,719)                 |\n| Repayments of asset-backed long-term borrowings     |                         | (4,948)                 | (931)                   | (2,383)                 | (3,729)                 | (4,443)                 | (1,408)                  |\n| Dividends paid                                       |                         | (10,805)                | (2,744)                 | (5,487)                 | (8,231)                 | (11,025)                | (2,796)                  |\n| Other, net                                          |                         | (2,072)                 | 17                      | (157)                   |                         |                         |                         |\n| Net cash used in financing activities                | (1,101)                 | (1,470)                 | (683)                   | (1,290)                 |                         |                         |                         |\n| Increase (decrease) in cash, cash equivalents and restricted cash | (50)                   | (204)                   | 2,234                   | 1,549                   |                         |                         |                         |\n| Cash, cash equivalents and restricted cash, beginning of period |                         |                         |                         |                         |                         |                         |                         |\n| Cash, cash equivalents and restricted cash, end of period |                         |                         |                         |                         |                         |                         |                         |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12 Mos. Ended 12/31/22",
+          "3 Mos. Ended 3/31/23",
+          "6 Mos. Ended 6/30/23",
+          "9 Mos. Ended 9/30/23",
+          "12 Mos. Ended 12/31/23",
+          "3 Mos. Ended 3/31/24",
+          "6 Mos. Ended 6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 6,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses",
+          "Cash Flows from Operating Activities",
+          "Cash Flows from Investing Activities",
+          "Cash Flows from Financing Activities"
+        ],
+        "total_rows": 33,
+        "total_cols": 8
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p6_t4"
+    },
+    {
+      "markdown_table": "|               | 1Q 2024 | 2Q 2024 | 3Q 2024 | 4Q 2024 | 1Q 2025 | 2Q 2025 |\n|----------------|---------|---------|---------|---------|---------|---------|\n| Unaudited      |         |         |         |         |         |         |\n| Operating Revenues |         |         |         |         |         |         |\n| Service        | $ 18,456 | $ 18,641 | $ 18,850 | $ 18,927 | $ 18,998 | $ 19,208 |\n| Wireless equipment | 4,878   | 4,430   | 4,902   |         |         |         |\n| Other          | 6,435   | 4,490   | 4,143   |         |         |         |\n| Total Operating Revenues | 24,857 | 24,558 | 25,257 | 26,954 | 25,057 | 24,927 |\n| Operating Expenses |         |         |         |         |         |         |\n| Cost of services | 4,432   | 4,367   | 4,419   | 4,362   | 4,537   | 4,450 |\n| Cost of wireless equipment | 5,191   | 4,626   | 5,133   | 6,877   | 4,750   | 4,432 |\n| Selling, general and administrative expense | 4,921   | 4,988   | 4,886   | 5,336   | 5,089   | 5,047 |\n| Depreciation and amortization expense | 3,214   | 3,247   | 3,272   | 3,344   | 3,309   | 3,394 |\n| Total Operating Expenses | 17,758 | 17,228 | 17,710 | 19,919 | 17,685 | 17,323 |\n| Operating Income | $ 7,099 | $ 7,330 | $ 7,547 | $ 7,035 | $ 7,372 | $ 7,604 |\n| Operating Income Margin | 28.6 % | 29.8 % | 29.9 % | 26.1 % | 29.4 % | 30.5 % |\n| Segment EBITDA (1) | $ 10,313 | $ 10,577 | $ 10,819 | $ 10,379 | $ 10,681 | $ 10,998 |\n| Segment EBITDA Margin (1) | 41.5 % | 43.1 % | 42.8 % | 38.5 % | 42.6 % | 44.0 % |\n| Segment EBITDA Margin (1) |         |         |         |         |         | 44.1 % |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "1Q 2024",
+          "2Q 2024",
+          "3Q 2024",
+          "4Q 2024",
+          "1Q 2025",
+          "2Q 2025"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)",
+          "(1) See accompanying notes"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 7,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses",
+          "Profitability"
+        ],
+        "total_rows": 19,
+        "total_cols": 7
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p7_t5"
+    },
+    {
+      "markdown_table": "|               | 2023    | 2024    |\n|----------------|---------|---------|\n| Unaudited      | 1Q      | 1Q      |\n| Wireless retail postpaid | 92,192  | 92,474  |\n| Wireless retail prepaid | 22,331  | 21,646  |\n| Wireless retail prepaid excl. SafeLink | 19,758  | 19,362  |\n| Wireless retail postpaid phone | 74,611  | 73,818  |\n| Wireless retail postpaid phone | 74,465  | 74,407  |\n| Fios video      | 3,160   | 3,091   |\n| Fios internet   | 6,803   | 6,854   |\n| Fixed wireless access (FWA) broadband | -       | -       |\n| Wireline broadband | 1,140   | 1,390   |\n| Wireline broadband | 1,641   | 1,866   |\n| Wireline broadband | 2,070   | 2,292   |\n| Wireline broadband | 7,062   | 7,098   |\n| Wireline broadband | 7,151   | 7,190   |\n| Wireline broadband | 7,227   | 7,238   |\n| Total broadband | 8,202   | 8,488   |\n| Total broadband | 8,792   | 9,056   |\n| Total broadband | 9,297   | 9,530   |\n| Gross Additions ('000): |         |         |\n| Wireless retail postpaid | 3,210   | 2,928   |\n| Wireless retail postpaid | 3,152   | 4,185   |\n| Wireless retail postpaid | 2,983   | 2,901   |\n| Wireless retail postpaid phone | 1,624   | 1,570   |\n| Wireless retail postpaid phone | 1,843   | 2,293   |\n| Wireless retail postpaid phone | 1,710   | 1,758   |\n| Net Additions Detail ('000): |         |         |\n| Wireless retail postpaid | 321     | 304     |\n| Wireless retail postpaid | 251     |         |\n| Wireless retail prepaid | 1,168   | 75      |\n| Wireless retail prepaid | 72      |         |\n| Total wireless retail | (30)    | -       |\n| Wireless retail prepaid excl. SafeLink | (277)   | (317)   |\n| Wireless retail postpaid phone | (221)   | (263)   |\n| Wireless retail postpaid phone | (136)   | (51)    |\n| Fios video      | (74)    | (62)    |\n| Fios internet   | 63      |         |\n| FWAbroadband | 256     | 251     |\n| FWAbroadband | 251     | 251     |\n| FWAbroadband | 231     | 203     |\n| FWAbroadband | 36      | 39      |\n| FWAbroadband | 39      | 36      |\n| FWAbroadband | 13      | 24      |\n| Total broadband | 46      | 36      |\n| Churn Rate: | 302     | 287     |\n| Wireless retail postpaid | 1.05 %  | 0.95 %  |\n| Wireless retail postpaid phone | 0.84 %  | 0.76 %  |\n| Wireless retail prepaid | 0.79 %  | 0.49 %  |\n| Wireless retail prepaid excl. SafeLink | 4.31 %  | 4.24 %  |\n| Wireless retail prepaid excl. SafeLink | 4.39 %  | 4.55 %  |\n| Wireless retail prepaid excl. SafeLink | 4.26 %  | 4.49 %  |\n| Wireless retail prepaid | 3.72 %  | 3.71 %  |\n| Wireless retail prepaid | 3.85 %  | 3.94 %  |\n| Wireless retail | 1.69 %  | 1.58 %  |\n| Wireless retail | 1.62 %  | 1.63 %  |\n| Revenue Statistics (in millions): |         |         |\n| Wireless service revenue | $ 15,599 | $ 15,762 |\n| Wireless service revenue | $ 15,963 | $ 16,034 |\n| Wireless service revenue | $ 16,134 | $ 16,342 |\n| Fios revenue | $ 2,889 | $ 2,886 |\n| Fios revenue | $ 2,897 | $ 2,942 |\n| Fios revenue | $ 2,896 | $ 2,896 |\n| Wireless retail postpaid ARPA (1) | $ 130.06 | $ 130.06 |\n| Wireless retail postpaid ARPA (1) | $ 131.83 | $ 133.47 |\n| Wireless retail postpaid ARPA (1) | $ 134.10 | $ 135.75 |\n| Wireless retail postpaid ARPA (1) | $ 138.44 |\n| Wireless retail postpaid upgrade rate | 4.0 %   | 3.5 %   |\n| Wireless retail postpaid upgrade rate | 3.6 %   | 4.4 %   |\n| Wireless retail postpaid upgrade rate | 3.1 %   | 2.9 %   |\n| Wireless retail postpaid accounts ('000) (2) | 33,034  | 32,976  |\n| Wireless retail postpaid accounts ('000) (2) | 32,938  | 32,990  |\n| Wireless retail postpaid accounts ('000) (2) | 32,876  | 32,769  |\n| Wireless retail postpaid connections per account (2) | 221.0754390656948 | 591.6184075474739 |\n| Wireless retail prepaidARPU (3) | $ 30.71 | $ 31.42 |\n| Wireless retail prepaidARPU (3) | $ 31.87 | $ 31.87 |\n| Wireless retail prepaidARPU (3) | $ 31.17 | $ 32.26 |\n| Wireless retail prepaidARPU (3) | $ 30.90 |\n| Wireless retail prepaidARPU (3) excl. SafeLink | $ 32.15 | $ 32.90 |\n| Wireless retail prepaidARPU (3) excl. SafeLink | $ 33.13 | $ 33.11 |\n| Wireless retail prepaidARPU (3) excl. SafeLink | $ 32.26 | $ 32.48 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "1Q 2023",
+          "1Q 2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 8,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 69,
+        "total_cols": 4
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p8_t6"
+    },
+    {
+      "markdown_table": "|               | 2024   | 1Q     | 2Q     | 3Q     | 4Q     | 1Q     | 2Q     |\n|----------------|--------|--------|--------|--------|--------|--------|--------|\n| Unaudited      |        |        |        |        |        |        |        |\n| Operating Revenues |        |        |        |        |        |        |        |\n| Enterprise and Public Sector | $ 3,787 | $ 3,784 | $ 3,787 | $ 3,718 | $ 3,587 | $ 3,545 |\n| Business Markets and Other | 3,104   | 3,109   | 3,184   | 3,318   | 3,195   | 3,203   |\n| Wholesale      |        |        |        |        |        |        |        |\n| Wholesale      | 603    | 590    | 556    | 582    | 594    | 552    |\n| Total Operating Revenues | 7,494   | 7,483   | 7,527   | 7,618   | 7,376   | 7,300   |\n| Operating Expenses |        |        |        |        |        |        |        |\n| Cost of services | 2,582   | 2,543   | 2,536   | 2,519   | 2,432   | 2,455   |\n| Cost of wireless equipment | 1,234   | 1,152   | 1,220   | 1,353   | 1,155   | 1,135   |\n| Selling, general and administrative expense | 2,033   | 2,152   | 2,105   | 2,139   | 2,262   | 2,132   |\n| Depreciation and amortization expense |        |        |        |        |        |        |        |\n| Depreciation and amortization expense | 1,094   | 1,103   | 1,127   | 1,164   | 1,128   | 1,078   |\n| Total Operating Expenses | 6,943   | 6,950   | 6,988   | 7,175   | 6,977   | 6,800   |\n| Operating Income |        |        |        |        |        |        |        |\n| Operating Income | $ 551   | $ 533   | $ 539   | $ 443   | $ 399   | $ 500   |\n| Operating Income Margin | 7.4 % | 7.1 % | 7.2 % | 5.8 % | 5.4 % | 6.8 % |\n| Segment EBITDA (1) | $ 1,645 | $ 1,636 | $ 1,666 | $ 1,607 | $ 1,527 | $ 1,578 |\n| Segment EBITDA Margin (1) | 22.0 % | 21.9 % | 22.1 % | 21.1 % | 20.7 % | 21.6 % |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "1Q 2024",
+          "2Q 2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)",
+          "(1) Segment EBITDA is a non-GAAP financial measure."
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 9,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 8
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p9_t7"
+    },
+    {
+      "markdown_table": "|               | 2023 | 2024 |\n|----------------|------|------|\n| Unaudited      | 1Q   | 1Q   |\n| Wireless retail postpaid | 28,820 | 29,105 |\n| Wireless retail postpaid phone | 17,703 | 17,856 |\n| Wireless retail postpaid phone | 18,019 | 18,170 |\n| Fios video      | 65   | 64   |\n| Fios video      | 63   | 61   |\n| Fios video      | 59   | 58   |\n| Fios internet   | 377  | 380  |\n| Fios internet   | 383  | 385  |\n| Fios internet   | 389  | 393  |\n| FWAbroadband    | 726  |      |\n| Fios internet   | 870  | 1,038 |\n| Fios internet   | 1,201 | 1,358 |\n| Wireline broadband | 466  | 464 |\n| Wireline broadband | 461  | 460 |\n| Wireline broadband | 458  | 458 |\n| Total broadband | 1,192 | 1,334 |\n| Total broadband | 1,499 | 1,661 |\n| Total broadband | 1,816 | 1,981 |\n| Gross Additions ( ' 000): |      |      |\n| Wireless retail postpaid | 1,607 | 1,590 |\n| Wireless retail postpaid | 1,618 | 1,605 |\n| Wireless retail postpaid phone | 757 | 733 |\n| Wireless retail postpaid phone | 761 | 738 |\n| Net Additions Detail ('000): |      |      |\n| Wireless retail postpaid | 312 | 308 |\n| Wireless retail postpaid | 330 | 292 |\n| Wireless retail postpaid phone | 178 | 268 |\n| Wireless retail postpaid phone | 136 | 144 |\n| Fios video      | (2)  | (1)  |\n| Fios video      | (1)  | (1)  |\n| Fios internet   | 4    | 3    |\n| Fios internet   | 3    | 3    |\n| FWAbroadband    | 137  |      |\n| Wireline broadband | (2)  | (2)  |\n| Wireline broadband | (2)  | (3)  |\n| Total broadband | 135  | 131  |\n| Wireless retail postpaid | 130 | 143 |\n| Wireless retail postpaid | 150 | 160 |\n| Churn Rate: |      |      |\n| Wireless retail postpaid | 1.50 % | 1.48 % |\n| Wireless retail postpaid | 1.47 % | 1.48 % |\n| Wireless retail postpaid | 1.51 % | 1.45 % |\n| Wireless retail postpaid phone | 1.16 % | 1.10 % |\n| Wireless retail postpaid phone | 1.14 % | 1.12 % |\n| Wireless retail postpaid phone | 1.13 % | 1.10 % |\n| Revenue Statistics (in millions): |      |      |\n| Wireless service revenue | $ 3,290 | $ 3,351 |\n| Wireless service revenue | $ 3,367 | $ 3,364 |\n| Wireless service revenue | $ 3,379 | $ 3,431 |\n| Fios revenue | $ 307 | $ 308 |\n| Fios revenue | $ 308 | $ 308 |\n| Fios revenue | $ 312 | $ 311 |\n| Fios revenue | $ 313 | $ 313 |\n| Other Operating Statistics: |      |      |\n| Wireless retail postpaid upgrade rate | 2.8 % | 2.7 % |\n| Wireless retail postpaid upgrade rate | 2.9 % | 2.4 % |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "2023",
+          "2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions, except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 10,
+        "sections": [
+          "Connections",
+          "Wireless retail postpaid",
+          "Wireless retail postpaid phone",
+          "Wireline broadband",
+          "Total broadband",
+          "Gross Additions",
+          "Churn Rate",
+          "Revenue Statistics"
+        ],
+        "total_rows": 56,
+        "total_cols": 4
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p10_t8"
+    },
+    {
+      "markdown_table": "|               | 2023 | 2024 |\n|----------------|------|------|\n| Unaudited      | 1Q   | 1Q   |\n| Retail postpaid | 121,012 | 121,579 |\n| Retail prepaid  | 22,331 | 21,646 |\n| Retail prepaid excl. SafeLink | 19,758 | 19,362 |\n| Retail postpaid phone | 92,314 | 91,123 |\n| Retail postpaid phone | 92,321 | 92,426 |\n| Net Additions Detail ('000) |       |       |\n| Retail postpaid phone | 633 | 612 |\n| Retail postpaid | 581 | 1,460 |\n| Retail prepaid | (351) | (304) |\n| Retail prepaid | (207) | (289) |\n| Retail prepaid | (216) | (624) |\n| Total retail | 282 | 308 |\n| Total retail | 374 | 1,171 |\n| Total retail | 37 | 37 |\n| Retail prepaid excl. SafeLink | (277) | (317) |\n| Retail prepaid excl. SafeLink | (221) | (263) |\n| Retail prepaid excl. SafeLink | (131) | (284) |\n| Account Statistics |       |       |\n| Retail postpaid accounts ('000) (1) | 34,877 | 34,855 |\n| Retail postpaid connections per account (1) | 3.47 | 3.49 |\n| Retail postpaid ARPA (2) | $ 152.27 | $ 154.51 |\n| Retail postpaid ARPA (2) | $ 156.48 | $ 158.25 |\n| Retail postpaid ARPA (2) | $ 161.20 | $ 161.20 |\n| Retail prepaidARPU (3) | $ 30.71 | $ 31.42 |\n| Retail prepaidARPU (3) | $ 31.87 | $ 31.87 |\n| Retail prepaidARPU (3) | $ 31.17 | $ 30.90 |\n| Retail prepaidARPU (3) excl. SafeLink | $ 32.15 | $ 32.90 |\n| Retail prepaidARPU (3) excl. SafeLink | $ 33.13 | $ 33.11 |\n| Retail prepaidARPU (3) excl. SafeLink | $ 32.26 | $ 32.48 |\n| Churn Detail |       |       |\n| Retail postpaid phone | 0.90 % | 0.83 % |\n| Retail postpaid phone |       | 0.90 % |\n| Retail postpaid phone |       | 0.93 % |\n| Retail postpaid phone |       | 0.89 % |\n| Retail postpaid phone |       | 0.85 % |\n| Retail postpaid | 1.15 % | 1.07 % |\n| Retail prepaid | 4.31 % | 4.24 % |\n| Retail prepaid |       | 4.39 % |\n| Retail prepaid |       | 4.55 % |\n| Retail prepaid |       | 4.26 % |\n| Retail prepaid |       | 4.49 % |\n| Retail prepaid excl. SafeLink |       |       |\n| Retail postpaid phone | 3.72 % | 3.71 % |\n| Retail postpaid phone |       | 3.85 % |\n| Retail postpaid phone |       | 3.94 % |\n| Retail postpaid phone |       | 3.61 % |\n| Retail postpaid phone |       | 3.59 % |\n| Retail | 1.65 % | 1.56 % |\n| Retail | 1.63 % | 1.67 % |\n| Retail | 1.60 % | 1.59 % |\n| Retail Postpaid Connection Statistics |       |       |\n| Upgrade rate | 3.7 % | 3.3 % |\n| Upgrade rate | 3.4 % | 4.1 % |\n| Upgrade rate | 3.0 % |       |\n| Revenue Statistics (in millions) (4) |       |       |\n| FWArevenue | $ 255 | $ 297 |\n| Wireless service | $ 18,889 | $ 19,113 |\n| Wireless equipment | 5,760 | 5,277 |\n| Wireless other | 7,472 | 5,361 |\n| Wireless other | 4,998 | 4,998 |\n| Total Wireless | $ 26,164 | $ 25,876 |\n| Total Wireless | $ 26,650 | $ 28,445 |\n| Total Wireless | $ 26,459 | $ 26,371 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "1Q 2023",
+          "1Q 2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(1)",
+          "(2)",
+          "(3)",
+          "(4)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 11,
+        "sections": [
+          "Connections",
+          "Account Statistics",
+          "Revenue Statistics"
+        ],
+        "total_rows": 62,
+        "total_cols": 3
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p11_t9"
+    },
+    {
+      "markdown_table": "| Header | 2022 | 3Q | 4Q | 1Q | 2Q | 3Q | 4Q | 1Q | 2Q |\n|---|---|---|---|---|---|---|---|---|---|\n| Unaudited |  |  |  |  |  |  |  |  |\n| Consolidated Net Income (Loss) | $ 5,024 | $ 6,698 | $ 5,018 | $ 4,766 | $ 4,884 | $(2,573) | $ 4,722 | $ 4,702 |\n| Add: |  |  |  |  |  |  |  |  |\n| Provision for income taxes | 1,496 | 2,113 | 1,482 | 1,346 | 1,308 | 756 | 1,353 | 1,332 |\n| Interest expense | 937 | 1,105 | 1,207 | 1,285 | 1,433 | 1,599 | 1,635 | 1,698 |\n| Depreciation and amortization expense (1) | 4,324 | 4,218 | 4,318 | 4,359 | 4,431 | 4,516 | 4,445 | 4,483 |\n| Consolidated EBITDA | $ 11,781 | $ 14,134 | $12,025 | $11,756 | $12,056 | $ 4,298 | $12,155 | $12,215 |\n| Add/(subtract): |  |  |  |  |  |  |  |  |\n| Other (income) expense, net (2) | $ 439 |  |  |  |  |  |  |  |\n| Equity in (earnings) losses of unconsolidated businesses | $ (2,687) | $ (114) | $ (210) | $ (170) | $ 807 | $ (198) | $ 72 | $ 14 |\n| Severance charges | - | 304 | - | - | - | - | - | - | - |\n| Legacy legal matter | 237 | - | 296 | - | - | - | - | 106 | - |\n| Verizon Business Group goodwill impairment | - | - | - | - | - | - | - | - | - |\n| Asset rationalization | 5,841 | - | - | - | 155 | - | 325 | - | - |\n| Legal settlement | - | - | - | - | - | - | 100 | - | - |\n| Business transformation costs | - | - | - | - | - | 176 | - | - | - |\n| Non-strategic business shutdown | - | - | - | - | - | 158 | - | - | - |\n| Consolidated Adjusted EBITDA | $ 12,218 | $ 11,747 | $11,902 | $11,971 | $12,238 | $11,678 | $12,072 | $12,301 |\n| Consolidated Adjusted EBITDA Margin | 36.7 % | 36.7 % | 33.2 % | 36.6 % | 37.5 % |  |  |  |\n| Consolidated Adjusted EBITDA - Year over year change% |  |  |  |  |  |  |  |  | 2.8 % |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "2022",
+          "3Q",
+          "4Q",
+          "1Q",
+          "2Q",
+          "3Q",
+          "4Q",
+          "1Q",
+          "2Q"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 14,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 24,
+        "total_cols": 10
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p14_t10"
+    },
+    {
+      "markdown_table": "|                               | 12 Mos. Ended 6/30/23 | 12 Mos. Ended 9/30/23 | 12 Mos. Ended 12/31/23 | 12 Mos. Ended 3/31/24 | 12 Mos. Ended 6/30/24 |\n| :----------------------------- | :--------------------- | :--------------------- | :----------------------- | :----------------------- | :--------------------- |\n| Unaudited                       |                        |                        |                          |                          |                        |\n| Consolidated Net Income        | $ 21,506               | $ 21,366               | $ 12,095                 | $ 11,799                 | $ 11,735               |\n| Add:                           |                        |                        |                          |                          |                        |\n| Provision for income taxes     | 6,437                  | 6,249                  | 4,892                    | 4,763                    | 4,749                  |\n| Interest expense                | 4,534                  | 5,030                  | 5,524                    | 5,952                    | 6,365                  |\n| Depreciation and amortization expense (1) | 17,219                 | 17,326                 | 17,624                   | 17,751                   | 17,875                 |\n| Consolidated EBITDA            | $ 49,696               | $ 49,971               | $ 40,135                 | $ 40,265                 | $ 40,724               |\n| Add/(subtract):                |                        |                        |                          |                          |                        |\n| Other (income) expense, net (2) | $ (2,572)              |                        |                          |                          |                        |\n| Equity in losses of unconsolidated businesses | 18                     | 38                     | 53                      | 71                      | 52                     |\n| Severance charges              | 541                    | 541                    | 533                      | 533                      | 296                    |\n| Legacy legal matter            | -                      | -                      | -                       | -                       | -                      |\n| Verizon Business Group goodwill impairment | -                      | -                      | 5,841                    | 5,841                    | 5,841                  |\n| Asset rationalization          | -                      | -                      | -                       | 480                     | 325                    |\n| Legal settlement               | -                      | -                      | -                       | 100                     | 100                    |\n| Business transformation costs  | -                      | -                      | 176                      | 176                      | 176                    |\n| Non-strategic business shutdown| -                      | -                      | 158                      | 158                      | 158                    |\n| Consolidated Adjusted EBITDA   | $ 47,838               | $ 47,858               | $ 47,789                 | $ 47,959                 | $ 48,289               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12 Mos. Ended 6/30/24",
+          "12 Mos. Ended 6/30/23",
+          "12 Mos. Ended 9/30/23",
+          "12 Mos. Ended 12/31/23",
+          "12 Mos. Ended 3/31/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 15,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 6
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p15_t11"
+    },
+    {
+      "markdown_table": "| Header | 12/31/22 | 3/31/23 | 6/30/23 | 9/30/23 | 12/31/23 | 3/31/24 | 6/30/24 |\n|----------|----------|----------|----------|----------|----------|----------|----------|\n| Debt maturing within one year | $ 9,963 | $ 12,081 | $ 14,827 | $ 12,950 | $ 12,973 | $ 15,594 | $ 23,255 |\n| Long-term debt | 140,676 | 140,772 |          |          |          |          |          |\n| Total Debt | 137,871 | 134,441 | 137,701 | 136,104 | 126,022 |\n| Total Debt | 150,639 | 152,853 | 152,698 | 147,391 | 150,674 | 151,698 | 149,277 |\n| Less Secured debt | 20,008 | 20,835 | 21,342 | 20,951 | 22,183 | 23,290 | |\n| Unsecured Debt | 130,631 | 132,018 | 131,356 | 126,440 | 128,491 | 128,408 | 125,262 |\n| Less Cash and cash equivalents | 2,605 | 2,234 | 4,803 | 4,210 | 2,065 | 2,365 | 2,432 |\n| Net Unsecured Debt | $ 128,026 | $ 129,784 |          |          |          |          |          |\n| Net Unsecured Debt | $ 126,553 | $ 122,230 | $ 126,426 | $ 126,043 | $ 122,830 |\n| Consolidated Net Income (LTM) |  |  |  |  | $ 21,506 | $ 21,366 | $ 12,095 |\n| Consolidated Net Income (LTM) |  |  |  |  | $ 11,799 | $ 11,735 |\n| Unsecured Debt to Consolidated Net Income Ratio |  |  |  |  | 6.1x | 5.9x | 10.6x |\n| Unsecured Debt to Consolidated Net Income Ratio |  |  |  |  | 10.9x | 10.7x |\n| Consolidated Adjusted EBITDA (LTM) |  |  |  |  | $ 47,838 | $ 47,858 | $ 47,789 |\n| Consolidated Adjusted EBITDA (LTM) |  |  |  |  | $ 47,789 | $ 47,959 | $ 48,289 |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio |  |  |  |  | 2.6x | 2.6x | 2.6x |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio |  |  |  |  | 2.6x | 2.6x | 2.6x |\n| Net Unsecured Debt - Quarter over quarter change |  |  |  |  |  |  | $ (3,213) |\n| Net Unsecured Debt - Year over year change |  |  |  |  |  |  | $ (3,723) |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio - Quarter over quarter change |  |  |  |  |  |  | (0.1x) |\n| Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio - Year over year change |  |  |  |  |  |  | (0.1x) |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "12/31/22",
+          "3/31/23",
+          "6/30/23",
+          "9/30/23",
+          "12/31/23",
+          "3/31/24",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 15,
+        "sections": [],
+        "total_rows": 28,
+        "total_cols": 8
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p15_t12"
+    },
+    {
+      "markdown_table": "|                                              | Mos. Ended 6/30/23 | After-Tax | Mos. Ended 6/30/24 |\n|-----------------------------------------------|--------------------|-----------|--------------------|\n| Unaudited                                     |                    |           |                    |\n| EPS                                           | $ 1.10             |           | $ 1.09             |\n| Amortization of acquisition-related intangible assets | $ 206              | 0.04      | $ 219              |\n| Severance, pension and benefits charges       | 237                |           |                    |\n| Asset rationalization                          | (59)               | 178       | 0.04               |\n| Asset rationalization                          | 155                | (33)      | 122                |\n| Asset rationalization                          | 0.03               | -         | -                  |\n| Asset rationalization                          | $ 598              | $ (145) $ | 453                |\n| Asset rationalization                          | $ 0.11             |           |                    |\n| Adjusted EPS                                  | $ 1.21             |           | $ 1.15             |\n| Year over year change%                        |                    |           | (5.0)%              |\n",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "6/30/23",
+          "6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions except per share amounts)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 16,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 28,
+        "total_cols": 4
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p16_t13"
+    },
+    {
+      "markdown_table": "|                                         | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 6/30/24 | 6 Mos. Ended 6/30/23 | 6 Mos. Ended 6/30/24 |\n|-----------------------------------------|----------------------|----------------------|----------------------|----------------------|\n| Unaudited                                |                      |                      |                      |                      |\n| Net Cash Provided by Operating Activities | $ 9,731              | $ 9,485              | $ 18,020             | $ 16,569             |\n| Capital expenditures (including capitalized software) | (4,112)              | (3,695)              | (10,070)             | (8,071)              |\n| Free Cash Flow                           | $ 5,619              | $ 5,790              | $ 7,950              | $ 8,498              |\n| Free Cash Flow for 3 Mos. Ended 6/30/24 - Year over year change% |                      | 3.0 %                 |                      |                      |\n| Free Cash Flow for 6 Mos. Ended 6/30/24 - Year over year change |                      |                      |                      | $ 548                |\n| Free Cash Flow for 6 Mos. Ended 6/30/24 - Year over year change% |                      |                      |                      | 6.9 %                 |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "6 Mos. Ended 6/30/24",
+          "6 Mos. Ended 6/30/23",
+          "3 Mos. Ended 6/30/24",
+          "3 Mos. Ended 6/30/23"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 16,
+        "sections": [
+          "Operating Revenues",
+          "Operating Expenses"
+        ],
+        "total_rows": 10,
+        "total_cols": 5
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p16_t14"
+    },
+    {
+      "markdown_table": "|                                                     | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 6/30/24 |\n|-----------------------------------------------------|----------------------|----------------------|\n| Unaudited                                            |                      |                      |\n| Consolidated Operating Expenses                      | $ 25,376             | $ 24,978             |\n| Depreciation and amortization expense (1)           | 4,359                | 4,483                |\n| Severance charges                                    | 237                  | -                    |\n| Asset rationalization                                | 155                  | -                    |\n| Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items | $ 20,625             | $ 20,495             |\n| Year over year change%                              |                      | (0.6)%               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "Q2 2023",
+          "Q2 2024"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": "Condensed Consolidated Statements of Income",
+        "page": 16,
+        "sections": [
+          "Operating Expenses"
+        ],
+        "total_rows": 7,
+        "total_cols": 3
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p16_t15"
+    },
+    {
+      "markdown_table": "|               | 3 Mos. Ended 3/31/23 | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 9/30/23 | 3 Mos. Ended 12/31/23 | 3 Mos. Ended 3/31/24 | 3 Mos. Ended 6/30/24 |\n|----------------|-----------------------|-----------------------|-----------------------|------------------------|-----------------------|-----------------------|\n| Unaudited      |                       |                       |                       |                        |                       |                       |\n| Operating Income | $ 7,099               | $ 7,330               | $ 7,547               | $ 7,035                | $ 7,372               | $ 7,604               |\n| D&A            | 3,214                 | 3,247                 | 3,272                 | 3,344                  | 3,309                 | 3,394                 |\n| Segment EBITDA | $ 10,313              | $ 10,577              | $ 10,819              | $ 10,379               | $ 10,681              | $ 10,998              |\n| Total operating revenues | $ 24,857              | $ 24,558              | $ 25,257              | $ 26,954               | $ 25,057              | $ 24,927              |\n| Operating Income Margin | 28.6 %                | 29.8 %                | 29.9 %                | 26.1 %                 | 29.4 %                | 30.5 %                |\n| Segment EBITDA Margin | 41.5 %                | 43.1 %                | 42.8 %                | 38.5 %                 | 42.6 %                | 44.1 %                |\n| Segment EBITDA - Year over year change% |                       |                       |                       |                        |                       | 4.0 %                |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3 Mos. Ended 3/31/23",
+          "3 Mos. Ended 6/30/23",
+          "3 Mos. Ended 9/30/23",
+          "3 Mos. Ended 12/31/23",
+          "3 Mos. Ended 3/31/24",
+          "3 Mos. Ended 6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 17,
+        "sections": [
+          "Operating Income",
+          "D&A",
+          "Segment EBITDA",
+          "Total operating revenues",
+          "Operating Income Margin",
+          "Segment EBITDA Margin"
+        ],
+        "total_rows": 13,
+        "total_cols": 7
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p17_t16"
+    },
+    {
+      "markdown_table": "|               | 3 Mos. Ended 3/31/23 | 3 Mos. Ended 6/30/23 | 3 Mos. Ended 9/30/23 | 3 Mos. Ended 12/31/23 | 3 Mos. Ended 3/31/24 | 3 Mos. Ended 6/30/24 |\n|----------------|-----------------------|-----------------------|-----------------------|------------------------|-----------------------|-----------------------|\n| Unaudited      |                       |                       |                       |                        |                       |                       |\n| Operating Income | $ 551                 | $ 533                 | $ 539                 | $ 443                  | $ 399                 | $ 500                 |\n| Depreciation and amortization expense | 1,094              | 1,103              | 1,127              | 1,164               | 1,128              | 1,078                 |\n| Segment EBITDA  | $ 1,645               | $ 1,636               | $ 1,666               | $ 1,607                | $ 1,527               | $ 1,578               |\n| Total operating revenues | $ 7,494              | $ 7,483              | $ 7,527              | $ 7,618               | $ 7,376              | $ 7,300              |\n| Operating Income Margin | 7.4 %                | 7.1 %                | 7.2 %                | 5.8 %                 | 5.4 %                 | 6.8 %                 |\n| Segment EBITDA Margin | 22.0 %               | 21.9 %               | 22.1 %               | 21.1 %                | 20.7 %               | 21.6 %               |\n| Segment EBITDA - Year over year change% |                       |                       |                       |                        |                       | (3.5)%               |",
+      "financial_context": {
+        "units": "millions USD",
+        "time_periods": [
+          "3 Mos. Ended 3/31/23",
+          "3 Mos. Ended 6/30/23",
+          "3 Mos. Ended 9/30/23",
+          "3 Mos. Ended 12/31/23",
+          "3 Mos. Ended 3/31/24",
+          "3 Mos. Ended 6/30/24"
+        ],
+        "currency": "USD",
+        "notes": [
+          "(dollars in millions)"
+        ]
+      },
+      "table_metadata": {
+        "title": null,
+        "page": 17,
+        "sections": [
+          "Operating Income",
+          "Depreciation and amortization expense",
+          "Segment EBITDA",
+          "Total operating revenues",
+          "Operating Income Margin",
+          "Segment EBITDA Margin",
+          "Segment EBITDA - Year over year change%"
+        ],
+        "total_rows": 13,
+        "total_cols": 7
+      },
+      "table_id": "download-financial-operating-information-pdf-56695261_p17_t17"
+    }
+  ],
+  "text_chunks": [
+    {
+      "text": "Financialand Operating Information",
+      "page_number": 1,
+      "original": "Financialand Operating Information",
+      "label": "section_header"
+    },
+    {
+      "text": "As of June 30, 2024",
+      "page_number": 1,
+      "original": "As of June 30, 2024",
+      "label": "text"
+    },
+    {
+      "text": "verizon",
+      "page_number": 1,
+      "original": "verizon",
+      "label": "text"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 2,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Table of Contents",
+      "page_number": 2,
+      "original": "Table of Contents",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 3,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Condensed Consolidated Statements of Income",
+      "page_number": 3,
+      "original": "Condensed Consolidated Statements of Income",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 3,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Where applicable, Diluted Earnings per Common Share includes the dilutive effect of shares issuable under our stock-based compensation plans, which represents the only potential dilution.",
+      "page_number": 3,
+      "original": "(1)  Where applicable, Diluted Earnings per Common Share includes the dilutive effect of shares issuable under our stock-based compensation plans, which represents the only potential dilution.",
+      "label": "footnote"
+    },
+    {
+      "text": "EPS may not add due to rounding.",
+      "page_number": 3,
+      "original": "EPS may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "3",
+      "page_number": 3,
+      "original": "3",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 4,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Condensed Consolidated Balance Sheets",
+      "page_number": 4,
+      "original": "Condensed Consolidated Balance Sheets",
+      "label": "section_header"
+    },
+    {
+      "text": "(dollars in millions)",
+      "page_number": 4,
+      "original": "(dollars in millions)",
+      "label": "text"
+    },
+    {
+      "text": "4",
+      "page_number": 4,
+      "original": "4",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 5,
+      "original": "Verizon Communications Inc.",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated - Selected Financial and Operating Statistics",
+      "page_number": 5,
+      "original": "Consolidated - Selected Financial and Operating Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 5,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Non-GAAP financial measure.",
+      "page_number": 5,
+      "original": "(1)  Non-GAAP financial measure.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Consolidated Adjusted EBITDA excludes the effects of non-operational items and special items.",
+      "page_number": 5,
+      "original": "(2)  Consolidated Adjusted EBITDA excludes the effects of non-operational items and special items.",
+      "label": "footnote"
+    },
+    {
+      "text": "(3)  Number of employees on a full-time equivalent basis.",
+      "page_number": 5,
+      "original": "(3)  Number of employees on a full-time equivalent basis.",
+      "label": "footnote"
+    },
+    {
+      "text": "5",
+      "page_number": 5,
+      "original": "5",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 6,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Condensed Consolidated Statements of Cash Flows",
+      "page_number": 6,
+      "original": "Condensed Consolidated Statements of Cash Flows",
+      "label": "section_header"
+    },
+    {
+      "text": "(dollars in millions)",
+      "page_number": 6,
+      "original": "(dollars in millions)",
+      "label": "text"
+    },
+    {
+      "text": "6",
+      "page_number": 6,
+      "original": "6",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 7,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Consumer - Selected Financial Results",
+      "page_number": 7,
+      "original": "Consumer - Selected Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 7,
+      "original": "Footnotes:",
+      "label": "text"
+    },
+    {
+      "text": "(1)  Non-GAAP financial measure.",
+      "page_number": 7,
+      "original": "(1)  Non-GAAP financial measure.",
+      "label": "footnote"
+    },
+    {
+      "text": "The segment financial results and metrics above exclude the effects of special items (other than the effects of acquisition-related intangible asset amortization), which the Company's chief operating decision maker does not consider in assessing segment performance.",
+      "page_number": 7,
+      "original": "The segment financial results and metrics above exclude the effects of special items (other than the effects of acquisition-related intangible asset amortization), which the Company's chief operating decision maker does not consider in assessing segment performance.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 7,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "7",
+      "page_number": 7,
+      "original": "7",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 8,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Consumer - Selected Operating Statistics",
+      "page_number": 8,
+      "original": "Consumer - Selected Operating Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 8,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)   Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "page_number": 8,
+      "original": "(1)   Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)   Statistics presented as of end of period.",
+      "page_number": 8,
+      "original": "(2)   Statistics presented as of end of period.",
+      "label": "footnote"
+    },
+    {
+      "text": "(3)   Wireless retail prepaid ARPU - average service revenue per unit from retail prepaid connections.",
+      "page_number": 8,
+      "original": "(3)   Wireless retail prepaid ARPU - average service revenue per unit from retail prepaid connections.",
+      "label": "footnote"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "page_number": 8,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 8,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "8",
+      "page_number": 8,
+      "original": "8",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 9,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Business - Selected Financial Results",
+      "page_number": 9,
+      "original": "Business - Selected Financial Results",
+      "label": "section_header"
+    },
+    {
+      "text": "(dollars in millions)",
+      "page_number": 9,
+      "original": "(dollars in millions)",
+      "label": "text"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 9,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Non-GAAP financial measure.",
+      "page_number": 9,
+      "original": "(1)  Non-GAAP financial measure.",
+      "label": "footnote"
+    },
+    {
+      "text": "The segment financial results and metrics above exclude the effects of special items (other than the effects of acquisition-related intangible asset amortization), which the Company's chief operating decision maker does not consider in assessing segment performance.",
+      "page_number": 9,
+      "original": "The segment financial results and metrics above exclude the effects of special items (other than the effects of acquisition-related intangible asset amortization), which the Company's chief operating decision maker does not consider in assessing segment performance.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 9,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "9",
+      "page_number": 9,
+      "original": "9",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 10,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Business - Selected Operating Statistics",
+      "page_number": 10,
+      "original": "Business - Selected Operating Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 10,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "page_number": 10,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "label": "text"
+    },
+    {
+      "text": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "page_number": 10,
+      "original": "Certain intersegment transactions with corporate entities have not been eliminated.",
+      "label": "text"
+    },
+    {
+      "text": "10",
+      "page_number": 10,
+      "original": "10",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 11,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Supplemental Information - Total Wireless Operating and Financial Statistics",
+      "page_number": 11,
+      "original": "Supplemental Information - Total Wireless Operating and Financial Statistics",
+      "label": "section_header"
+    },
+    {
+      "text": "The following supplemental schedule contains certain financial and operating metrics which reflect an aggregation of our Consumer and Business segments' wireless results.",
+      "page_number": 11,
+      "original": "The following supplemental schedule contains certain financial and operating metrics which reflect an aggregation of our Consumer and Business segments' wireless results.",
+      "label": "text"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 11,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Statistics presented as of end of period.",
+      "page_number": 11,
+      "original": "(1)  Statistics presented as of end of period.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "page_number": 11,
+      "original": "(2)  Wireless retail postpaid ARPA - average service revenue per account from retail postpaid accounts.",
+      "label": "footnote"
+    },
+    {
+      "text": "(3)  Wireless retail prepaid ARPU - average service revenue per unit from retail prepaid connections.",
+      "page_number": 11,
+      "original": "(3)  Wireless retail prepaid ARPU - average service revenue per unit from retail prepaid connections.",
+      "label": "footnote"
+    },
+    {
+      "text": "(4)  Intersegment transactions between Consumer or Business segment with corporate entities have not been eliminated.",
+      "page_number": 11,
+      "original": "(4)  Intersegment transactions between Consumer or Business segment with corporate entities have not been eliminated.",
+      "label": "footnote"
+    },
+    {
+      "text": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "page_number": 11,
+      "original": "Where applicable, the operating results reflect certain adjustments, including those related to the 3G network shutdowns, migration activity among different types of devices and plans, customer profile changes, and adjustments in connection with mergers, acquisitions and divestitures.",
+      "label": "text"
+    },
+    {
+      "text": "11",
+      "page_number": 11,
+      "original": "11",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 12,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Definitions - Non-GAAP Measures",
+      "page_number": 12,
+      "original": "Definitions - Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Non-GAAP Measures",
+      "page_number": 12,
+      "original": "Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Verizon's Financial and Operating Information includes financial information prepared in conformity with generally accepted accounting principles in the United States (GAAP) as well as non-GAAP financial information. It is management's intent to provide non-GAAP financial information to enhance the understanding of Verizon's GAAP financial information and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that providing these non-GAAP measures in addition to the GAAP measures allows management, investors and other users of our financial information to more fully and accurately assess both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies.",
+      "page_number": 12,
+      "original": "Verizon's Financial and Operating Information includes financial information prepared in conformity with generally accepted accounting principles in the United States (GAAP) as well as non-GAAP financial information. It is management's intent to provide non-GAAP financial information to enhance the understanding of Verizon's GAAP financial information and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that providing these non-GAAP measures in addition to the GAAP measures allows management, investors and other users of our financial information to more fully and accurately assess both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies.",
+      "label": "text"
+    },
+    {
+      "text": "EBITDA and EBITDA Margin Related Non-GAAP Measures",
+      "page_number": 12,
+      "original": "EBITDA and EBITDA Margin Related Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated earnings before interest, taxes, depreciation and amortization (EBITDA), Segment EBITDA and Segment EBITDA Margin are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information as they are widely accepted financial measures used in evaluating the profitability of a company and its operating performance in relation to its competitors.",
+      "page_number": 12,
+      "original": "Consolidated earnings before interest, taxes, depreciation and amortization (EBITDA), Segment EBITDA and Segment EBITDA Margin are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information as they are widely accepted financial measures used in evaluating the profitability of a company and its operating performance in relation to its competitors.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated EBITDA is calculated by adding back interest, taxes and depreciation and amortization expense to net income.",
+      "page_number": 12,
+      "original": "Consolidated EBITDA is calculated by adding back interest, taxes and depreciation and amortization expense to net income.",
+      "label": "text"
+    },
+    {
+      "text": "Segment  EBITDA  is  calculated  by  adding  back  segment  depreciation  and  amortization  expense  to  segment  operating  income.  Segment  EBITDA  Margin  is calculated by dividing Segment EBITDA by total segment operating revenues.",
+      "page_number": 12,
+      "original": "Segment  EBITDA  is  calculated  by  adding  back  segment  depreciation  and  amortization  expense  to  segment  operating  income.  Segment  EBITDA  Margin  is calculated by dividing Segment EBITDA by total segment operating revenues.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast",
+      "page_number": 12,
+      "original": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast are non-GAAP financial measures that we believe provide relevant and useful information to management, investors and other users of our financial information in evaluating the effectiveness of our  operations  and  underlying  business  trends.  We  believe  that  Consolidated  Adjusted  EBITDA,  Consolidated  Adjusted  EBITDA  Margin  and  Consolidated Adjusted EBITDA Growth Forecast are used by investors to compare a company's operating performance to its competitors by minimizing impacts caused by differences  in  capital  structure,  taxes  and  depreciation  and  amortization  policies.  Further,  the  exclusion  of  non-operational  items  and  special  items  enables comparability to prior period performance and trend analysis.",
+      "page_number": 12,
+      "original": "Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin and Consolidated Adjusted EBITDA Growth Forecast are non-GAAP financial measures that we believe provide relevant and useful information to management, investors and other users of our financial information in evaluating the effectiveness of our  operations  and  underlying  business  trends.  We  believe  that  Consolidated  Adjusted  EBITDA,  Consolidated  Adjusted  EBITDA  Margin  and  Consolidated Adjusted EBITDA Growth Forecast are used by investors to compare a company's operating performance to its competitors by minimizing impacts caused by differences  in  capital  structure,  taxes  and  depreciation  and  amortization  policies.  Further,  the  exclusion  of  non-operational  items  and  special  items  enables comparability to prior period performance and trend analysis.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA is calculated by excluding from Consolidated EBITDA the effect of the following non-operational items: equity in earnings and losses  of  unconsolidated  businesses  and  other  income  and  expense,  net,  and  the  following  special  items:  legacy  legal  matter,  severance  charges,  Verizon Business  Group  (\"Verizon  Business\")  goodwill  impairment,  asset  rationalization,  legal  settlement,  business  transformation  costs  and  non-strategic  business shutdown. Legacy legal matter recorded during 2024 relates to a litigation matter associated with a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon. Severance charges recorded during 2023 and 2022 primarily relate to involuntary separations under our existing plans. Verizon  Business  goodwill  impairment  relates  to  an  impairment  charge  recognized  in  the  fourth  quarter  of  2023  as  a  result  of  Verizon's  annual  goodwill impairment test. Asset rationalization recorded during the second quarter of 2023 relates to certain real estate and non-strategic assets that we made a decision to  cease use of as part of our transformation initiatives. Asset rationalization recorded during the fourth quarter of 2023 primarily relates to Verizon Business network assets that we made a decision to cease use of as part of our continued transformation initiatives. Legal settlement recorded during 2023 relates to the settlement of a litigation matter regarding certain administrative fees. Business transformation costs recorded during 2023 primarily relate to costs incurred in connection  with  strategic  partnership  initiatives  in  our  managed  network  support  services  for  certain  Verizon  Business  customers.  Non-strategic  business shutdown relates to the shutdown of our BlueJeans business offering in 2023.",
+      "page_number": 12,
+      "original": "Consolidated Adjusted EBITDA is calculated by excluding from Consolidated EBITDA the effect of the following non-operational items: equity in earnings and losses  of  unconsolidated  businesses  and  other  income  and  expense,  net,  and  the  following  special  items:  legacy  legal  matter,  severance  charges,  Verizon Business  Group  (\"Verizon  Business\")  goodwill  impairment,  asset  rationalization,  legal  settlement,  business  transformation  costs  and  non-strategic  business shutdown. Legacy legal matter recorded during 2024 relates to a litigation matter associated with a legacy contract for the production of telephone directories in Costa Rica by a subsidiary of Verizon. Severance charges recorded during 2023 and 2022 primarily relate to involuntary separations under our existing plans. Verizon  Business  goodwill  impairment  relates  to  an  impairment  charge  recognized  in  the  fourth  quarter  of  2023  as  a  result  of  Verizon's  annual  goodwill impairment test. Asset rationalization recorded during the second quarter of 2023 relates to certain real estate and non-strategic assets that we made a decision to  cease use of as part of our transformation initiatives. Asset rationalization recorded during the fourth quarter of 2023 primarily relates to Verizon Business network assets that we made a decision to cease use of as part of our continued transformation initiatives. Legal settlement recorded during 2023 relates to the settlement of a litigation matter regarding certain administrative fees. Business transformation costs recorded during 2023 primarily relate to costs incurred in connection  with  strategic  partnership  initiatives  in  our  managed  network  support  services  for  certain  Verizon  Business  customers.  Non-strategic  business shutdown relates to the shutdown of our BlueJeans business offering in 2023.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Adjusted EBITDA Margin is calculated by dividing Consolidated Adjusted EBITDA by consolidated operating revenues.",
+      "page_number": 12,
+      "original": "Consolidated Adjusted EBITDA Margin is calculated by dividing Consolidated Adjusted EBITDA by consolidated operating revenues.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation  for  our  Consolidated Adjusted  EBITDA  Growth  Forecast  because  we  cannot,  without  unreasonable  effort,  predict  the special items that could arise during 2024.",
+      "page_number": 12,
+      "original": "We have not provided a reconciliation  for  our  Consolidated Adjusted  EBITDA  Growth  Forecast  because  we  cannot,  without  unreasonable  effort,  predict  the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "page_number": 12,
+      "original": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "label": "section_header"
+    },
+    {
+      "text": "Net  Unsecured  Debt  and  Net  Unsecured  Debt  to  Consolidated  Adjusted  EBITDA  Ratio  are  non-GAAP  financial  measures  that  we  believe  are  useful  to management, investors and other users of our financial information in evaluating Verizon's ability to service its unsecured debt from continuing operations.",
+      "page_number": 12,
+      "original": "Net  Unsecured  Debt  and  Net  Unsecured  Debt  to  Consolidated  Adjusted  EBITDA  Ratio  are  non-GAAP  financial  measures  that  we  believe  are  useful  to management, investors and other users of our financial information in evaluating Verizon's ability to service its unsecured debt from continuing operations.",
+      "label": "text"
+    },
+    {
+      "text": "Net Unsecured Debt is calculated by subtracting secured debt and cash and cash equivalents, from the sum of debt maturing within one year and long-term debt. Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio is calculated by dividing Net Unsecured Debt by Consolidated Adjusted EBITDA. For purposes of Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio, Consolidated Adjusted EBITDA is calculated for the last twelve months.",
+      "page_number": 12,
+      "original": "Net Unsecured Debt is calculated by subtracting secured debt and cash and cash equivalents, from the sum of debt maturing within one year and long-term debt. Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio is calculated by dividing Net Unsecured Debt by Consolidated Adjusted EBITDA. For purposes of Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio, Consolidated Adjusted EBITDA is calculated for the last twelve months.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted Earnings per Common Share (Adjusted EPS) and Adjusted EPS Forecast",
+      "page_number": 12,
+      "original": "Adjusted Earnings per Common Share (Adjusted EPS) and Adjusted EPS Forecast",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted EPS and Adjusted EPS Forecast are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information in evaluating our operating results and understanding our operating trends without the effect of special items which could vary from period to period. We believe excluding special items provides more comparable assessment of our financial results from period to period.",
+      "page_number": 12,
+      "original": "Adjusted EPS and Adjusted EPS Forecast are non-GAAP financial measures that we believe are useful to management, investors and other users of our financial information in evaluating our operating results and understanding our operating trends without the effect of special items which could vary from period to period. We believe excluding special items provides more comparable assessment of our financial results from period to period.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted  EPS  is  calculated  by  excluding  from  the  calculation  of  reported  EPS  the  effect  of  the  following  special  items:  amortization  of  acquisition-related intangible assets, severance, pension and benefits charges and asset rationalization.",
+      "page_number": 12,
+      "original": "Adjusted  EPS  is  calculated  by  excluding  from  the  calculation  of  reported  EPS  the  effect  of  the  following  special  items:  amortization  of  acquisition-related intangible assets, severance, pension and benefits charges and asset rationalization.",
+      "label": "text"
+    },
+    {
+      "text": "We exclude the amortization of acquisition-related intangible assets because the amount and timing of such charges are significantly impacted by the timing, size, number and nature of the acquisitions we consummate. While we have a history of significant acquisition activity, we do not acquire businesses on a predictable cycle, and the amount of an acquisition's purchase price allocated to intangible assets and related amortization term are unique to each acquisition and can vary significantly from acquisition to acquisition. Exclusion of this amortization expense facilitates more consistent comparisons of operating results over time between our  newly  acquired  and  long-held  businesses,  and  with  both  acquisitive  and  non-acquisitive  peer  companies.  We  believe  that  it  is  important  for  investors  to",
+      "page_number": 12,
+      "original": "We exclude the amortization of acquisition-related intangible assets because the amount and timing of such charges are significantly impacted by the timing, size, number and nature of the acquisitions we consummate. While we have a history of significant acquisition activity, we do not acquire businesses on a predictable cycle, and the amount of an acquisition's purchase price allocated to intangible assets and related amortization term are unique to each acquisition and can vary significantly from acquisition to acquisition. Exclusion of this amortization expense facilitates more consistent comparisons of operating results over time between our  newly  acquired  and  long-held  businesses,  and  with  both  acquisitive  and  non-acquisitive  peer  companies.  We  believe  that  it  is  important  for  investors  to",
+      "label": "text"
+    },
+    {
+      "text": "12",
+      "page_number": 12,
+      "original": "12",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 13,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Definitions - Non-GAAP Measures",
+      "page_number": 13,
+      "original": "Definitions - Non-GAAP Measures",
+      "label": "section_header"
+    },
+    {
+      "text": "understand that our non-GAAP financial measure adjusts for the intangible asset amortization but does not adjust the revenue that is generated in part from the use of such intangible assets.",
+      "page_number": 13,
+      "original": "understand that our non-GAAP financial measure adjusts for the intangible asset amortization but does not adjust the revenue that is generated in part from the use of such intangible assets.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation for our Adjusted EPS Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "page_number": 13,
+      "original": "We have not provided a reconciliation for our Adjusted EPS Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Adjusted Effective Income Tax Rate Attributable to Verizon Forecast (Adjusted ETR Forecast)",
+      "page_number": 13,
+      "original": "Adjusted Effective Income Tax Rate Attributable to Verizon Forecast (Adjusted ETR Forecast)",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted ETR Forecast is a non-GAAP financial measure that we believe is useful to management, investors and other users of our financial information in assessing our effective income tax rate without the effect of special items which could vary from period to period. Adjusted ETR Forecast is calculated by dividing the provision for income taxes by net income attributable to Verizon before tax after adjusting for the effect of special items.",
+      "page_number": 13,
+      "original": "Adjusted ETR Forecast is a non-GAAP financial measure that we believe is useful to management, investors and other users of our financial information in assessing our effective income tax rate without the effect of special items which could vary from period to period. Adjusted ETR Forecast is calculated by dividing the provision for income taxes by net income attributable to Verizon before tax after adjusting for the effect of special items.",
+      "label": "text"
+    },
+    {
+      "text": "We have not provided a reconciliation for our Adjusted ETR Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "page_number": 13,
+      "original": "We have not provided a reconciliation for our Adjusted ETR Forecast because we cannot, without unreasonable effort, predict the special items that could arise during 2024.",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow",
+      "page_number": 13,
+      "original": "Free Cash Flow",
+      "label": "section_header"
+    },
+    {
+      "text": "Free cash flow is a non-GAAP financial measure that reflects an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows. We believe it is a more conservative measure of cash flow since capital expenditures are necessary for ongoing operations. Free cash flow has limitations due to the fact that it  does  not  represent  the  residual  cash  flow  available  for  discretionary expenditures. For example, free cash flow does not incorporate payments made or expected to be made on finance lease obligations or cash payments for acquisitions of businesses or wireless licenses. Therefore, we believe it is important to view free cash flow as a complement to our entire consolidated statements of cash flows.",
+      "page_number": 13,
+      "original": "Free cash flow is a non-GAAP financial measure that reflects an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows. We believe it is a more conservative measure of cash flow since capital expenditures are necessary for ongoing operations. Free cash flow has limitations due to the fact that it  does  not  represent  the  residual  cash  flow  available  for  discretionary expenditures. For example, free cash flow does not incorporate payments made or expected to be made on finance lease obligations or cash payments for acquisitions of businesses or wireless licenses. Therefore, we believe it is important to view free cash flow as a complement to our entire consolidated statements of cash flows.",
+      "label": "text"
+    },
+    {
+      "text": "Free cash flow is calculated by subtracting capital expenditures (including capitalized software) from net cash provided by operating activities.",
+      "page_number": 13,
+      "original": "Free cash flow is calculated by subtracting capital expenditures (including capitalized software) from net cash provided by operating activities.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "page_number": 13,
+      "original": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  a  non-GAAP  financial  measure  that  we  believe  is  useful  to management, investors  and  other  users  of  our  financial  information  in  evaluating  our  operating  expenses  and  underlying  operating  trends.  We  believe  that consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  used  by  investors  to  more  accurately  compare  a  company's operating expenses to those of its competitors by eliminating impacts caused by differences in depreciation and amortization policies. In addition, the exclusion of the effects of special items allows for better comparability of our financial results from period to period.",
+      "page_number": 13,
+      "original": "Consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  a  non-GAAP  financial  measure  that  we  believe  is  useful  to management, investors  and  other  users  of  our  financial  information  in  evaluating  our  operating  expenses  and  underlying  operating  trends.  We  believe  that consolidated  operating  expenses  excluding  depreciation  and  amortization  and  special  items  is  used  by  investors  to  more  accurately  compare  a  company's operating expenses to those of its competitors by eliminating impacts caused by differences in depreciation and amortization policies. In addition, the exclusion of the effects of special items allows for better comparability of our financial results from period to period.",
+      "label": "text"
+    },
+    {
+      "text": "Consolidated operating expenses excluding depreciation and amortization and special items is calculated by excluding from consolidated operating expenses the effects of depreciation and amortization expense and the following special items: severance charges and asset rationalization.",
+      "page_number": 13,
+      "original": "Consolidated operating expenses excluding depreciation and amortization and special items is calculated by excluding from consolidated operating expenses the effects of depreciation and amortization expense and the following special items: severance charges and asset rationalization.",
+      "label": "text"
+    },
+    {
+      "text": "13",
+      "page_number": 13,
+      "original": "13",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 14,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 14,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated EBITDA, Consolidated Adjusted EBITDA and Consolidated Adjusted EBITDA Margin",
+      "page_number": 14,
+      "original": "Consolidated EBITDA, Consolidated Adjusted EBITDA and Consolidated Adjusted EBITDA Margin",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 14,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "page_number": 14,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "page_number": 14,
+      "original": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "14",
+      "page_number": 14,
+      "original": "14",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 15,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 15,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated EBITDA and Consolidated Adjusted EBITDA (LTM)",
+      "page_number": 15,
+      "original": "Consolidated EBITDA and Consolidated Adjusted EBITDA (LTM)",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnotes:",
+      "page_number": 15,
+      "original": "Footnotes:",
+      "label": "section_header"
+    },
+    {
+      "text": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "page_number": 15,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets and a portion of the Non-strategic business shutdown, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "page_number": 15,
+      "original": "(2)  Includes Pension and benefits remeasurement adjustments, where applicable.",
+      "label": "footnote"
+    },
+    {
+      "text": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "page_number": 15,
+      "original": "Net Unsecured Debt and Net Unsecured Debt to Consolidated Adjusted EBITDA Ratio",
+      "label": "section_header"
+    },
+    {
+      "text": "15",
+      "page_number": 15,
+      "original": "15",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 16,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Consolidated",
+      "page_number": 16,
+      "original": "Non-GAAP Reconciliations - Consolidated",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted Earnings per Common Share (Adjusted EPS)",
+      "page_number": 16,
+      "original": "Adjusted Earnings per Common Share (Adjusted EPS)",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnote:",
+      "page_number": 16,
+      "original": "Footnote:",
+      "label": "section_header"
+    },
+    {
+      "text": "Adjusted EPS may not add due to rounding.",
+      "page_number": 16,
+      "original": "Adjusted EPS may not add due to rounding.",
+      "label": "text"
+    },
+    {
+      "text": "Free Cash Flow",
+      "page_number": 16,
+      "original": "Free Cash Flow",
+      "label": "section_header"
+    },
+    {
+      "text": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "page_number": 16,
+      "original": "Consolidated Operating Expenses Excluding Depreciation and Amortization and Special Items",
+      "label": "section_header"
+    },
+    {
+      "text": "Footnote:",
+      "page_number": 16,
+      "original": "Footnote:",
+      "label": "section_header"
+    },
+    {
+      "text": " Includes Amortization of acquisition-related intangible assets.",
+      "page_number": 16,
+      "original": "(1)  Includes Amortization of acquisition-related intangible assets.",
+      "label": "list_item"
+    },
+    {
+      "text": "16",
+      "page_number": 16,
+      "original": "16",
+      "label": "page_footer"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "page_number": 17,
+      "original": "Verizon Communications Inc.",
+      "label": "page_header"
+    },
+    {
+      "text": "Non-GAAP Reconciliations - Segments",
+      "page_number": 17,
+      "original": "Non-GAAP Reconciliations - Segments",
+      "label": "section_header"
+    },
+    {
+      "text": "Segment EBITDA and Segment EBITDA Margin",
+      "page_number": 17,
+      "original": "Segment EBITDA and Segment EBITDA Margin",
+      "label": "section_header"
+    },
+    {
+      "text": "Consumer",
+      "page_number": 17,
+      "original": "Consumer",
+      "label": "section_header"
+    },
+    {
+      "text": "Business",
+      "page_number": 17,
+      "original": "Business",
+      "label": "section_header"
+    },
+    {
+      "text": "17",
+      "page_number": 17,
+      "original": "17",
+      "label": "page_footer"
+    }
+  ]
+}

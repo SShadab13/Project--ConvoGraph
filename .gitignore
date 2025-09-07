@@ -1,0 +1,12 @@
+# Root .gitignore for Project
+# Ignore entire Version 0_1 folder (contains large outputs / copies)
+Version 0_1/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+env/
+venv/
+/.vscode/

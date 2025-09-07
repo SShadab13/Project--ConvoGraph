@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-non-gaap-reconciliations-pdf-d419afb0",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\Download Non-GAAP reconciliations PDF_d419afb0.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\download-non-gaap-reconciliations-pdf-d419afb0",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2025\\1Q\\download-non-gaap-reconciliations-pdf-d419afb0\\download-non-gaap-reconciliations-pdf-d419afb0.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}

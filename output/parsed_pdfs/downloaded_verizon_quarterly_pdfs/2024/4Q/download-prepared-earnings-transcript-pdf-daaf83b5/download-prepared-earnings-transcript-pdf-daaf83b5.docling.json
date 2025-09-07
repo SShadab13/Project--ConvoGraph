@@ -1,0 +1,3808 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.5.0",
+  "name": "Download Prepared Earnings Transcript PDF_daaf83b5",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 363456157607683410,
+    "filename": "Download Prepared Earnings Transcript PDF_daaf83b5.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/109"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.574,
+            "r": 464.636,
+            "b": 562.034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Verizon Communications Inc. Earnings Transcript Fourth Quarter 2024",
+      "text": "Verizon Communications Inc. Earnings Transcript Fourth Quarter 2024",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 534.546,
+            "r": 237.532,
+            "b": 517.311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "January 24, 2025",
+      "text": "January 24, 2025"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 715.674,
+            "r": 239.665,
+            "b": 701.856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Corporate Participants",
+      "text": "Corporate Participants",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.98,
+            "t": 681.737,
+            "r": 505.918,
+            "b": 645.222,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Brady Connor Verizon Communications Inc - Senior Vice President, Investor Relations Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer Anthony Skiadas Verizon Communications Inc - Chief Financial Officer",
+      "text": "Brady Connor Verizon Communications Inc - Senior Vice President, Investor Relations Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer Anthony Skiadas Verizon Communications Inc - Chief Financial Officer"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 597.294,
+            "r": 168.32,
+            "b": 583.476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Presentation",
+      "text": "Presentation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 563.357,
+            "r": 473.892,
+            "b": 554.317,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Brady Connor Verizon Communications Inc - Senior Vice President, Investor Relations",
+      "text": "Brady Connor Verizon Communications Inc - Senior Vice President, Investor Relations"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99,
+            "t": 535.882,
+            "r": 532.867,
+            "b": 499.307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "Hello and welcome to our fourth quarter and full year 2024 results discussion.  I'm Brady Connor, and on this recording you'll hear from our Chairman and Chief Executive Officer, Hans Vestberg, as well as our Chief Financial Officer, Tony Skiadas.",
+      "text": "Hello and welcome to our fourth quarter and full year 2024 results discussion.  I'm Brady Connor, and on this recording you'll hear from our Chairman and Chief Executive Officer, Hans Vestberg, as well as our Chief Financial Officer, Tony Skiadas."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99,
+            "t": 480.813,
+            "r": 532.886,
+            "b": 457.975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found at the start of the earnings presentation posted on our Investor Relations website.",
+      "text": "Before we begin, I'd like to draw your attention to our safe harbor statement, which can be found at the start of the earnings presentation posted on our Investor Relations website."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99,
+            "t": 439.54,
+            "r": 523.938,
+            "b": 389.167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Information in this presentation contains statements about expected future events and financial results that are forward-looking and subject to risks and uncertainties.  Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website.",
+      "text": "Information in this presentation contains statements about expected future events and financial results that are forward-looking and subject to risks and uncertainties.  Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our Investor Relations website."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99,
+            "t": 370.733,
+            "r": 542.129,
+            "b": 334.158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.",
+      "text": "This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 315.663,
+            "r": 538.651,
+            "b": 265.35,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "A detailed overview of our fourth quarter and full year results and other materials related to this discussion were posted this morning to our Investor Relations website. Additionally, we hope you'll join the webcast of our discussion of the earnings results and business update that starts at 8:30am Eastern time today, January 24th.",
+      "text": "A detailed overview of our fourth quarter and full year results and other materials related to this discussion were posted this morning to our Investor Relations website. Additionally, we hope you'll join the webcast of our discussion of the earnings results and business update that starts at 8:30am Eastern time today, January 24th."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 246.856,
+            "r": 224.304,
+            "b": 237.81500000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "With that, I'll turn it over to Hans.",
+      "text": "With that, I'll turn it over to Hans."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.996,
+            "t": 191.71699999999998,
+            "r": 505.928,
+            "b": 182.67700000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer",
+      "text": "Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.98,
+            "t": 164.183,
+            "r": 525.786,
+            "b": 141.40499999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Thank you, Brady. Good morning, everyone, and welcome to our fourth quarter and full year 2024 earnings update.",
+      "text": "Thank you, Brady. Good morning, everyone, and welcome to our fourth quarter and full year 2024 earnings update."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.98,
+            "t": 122.90999999999997,
+            "r": 378.482,
+            "b": 113.87,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "We had a year of strong growth with a great fourth quarter finish.",
+      "text": "We had a year of strong growth with a great fourth quarter finish."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.84,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99,
+            "t": 717.555,
+            "r": 531.664,
+            "b": 667.242,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "The team executed our strategy well, transforming Verizon into a more efficient and effective company, which is reflected in our solid operational and financial results. This demonstrates our commitment to continuous improvement as we strive to power and empower how people live, work and play.",
+      "text": "The team executed our strategy well, transforming Verizon into a more efficient and effective company, which is reflected in our solid operational and financial results. This demonstrates our commitment to continuous improvement as we strive to power and empower how people live, work and play."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.98,
+            "t": 648.748,
+            "r": 521.646,
+            "b": 598.435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "We delivered on our 2024 financial guidance. Wireless Service Revenue and adjusted EBITDA exceeded the mid-point of our guided ranges, and we generated strong free cash flow. We grew Wireless Service Revenue sequentially for the 18th consecutive quarter and grew year-over-year Adjusted EBITDA every quarter in 2024.",
+      "text": "We delivered on our 2024 financial guidance. Wireless Service Revenue and adjusted EBITDA exceeded the mid-point of our guided ranges, and we generated strong free cash flow. We grew Wireless Service Revenue sequentially for the 18th consecutive quarter and grew year-over-year Adjusted EBITDA every quarter in 2024."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.98,
+            "t": 579.94,
+            "r": 534.062,
+            "b": 543.365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "Our network, product portfolio, and brand are resonating with our customers and driving growth for us in the market. We are excited about 2025 and look forward to building on the strong execution and solid results delivered in 2024.",
+      "text": "Our network, product portfolio, and brand are resonating with our customers and driving growth for us in the market. We are excited about 2025 and look forward to building on the strong execution and solid results delivered in 2024."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.98,
+            "t": 524.87,
+            "r": 525.058,
+            "b": 502.092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Let me start with our strategic moves in 2024, which position Verizon for long-term growth as we better serve our customers with control, simplicity and value.",
+      "text": "Let me start with our strategic moves in 2024, which position Verizon for long-term growth as we better serve our customers with control, simplicity and value."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.98,
+            "t": 483.598,
+            "r": 541.993,
+            "b": 433.285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "These include refreshing our brand, introducing customer-first offerings like myHome, Verizon Access and Verizon Business Complete, accelerating our broadband expansion with the pending acquisition of Frontier, and signing strategic transactions including the tower deal and the agreement to acquire US Cellular spectrum.",
+      "text": "These include refreshing our brand, introducing customer-first offerings like myHome, Verizon Access and Verizon Business Complete, accelerating our broadband expansion with the pending acquisition of Frontier, and signing strategic transactions including the tower deal and the agreement to acquire US Cellular spectrum."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.98,
+            "t": 414.791,
+            "r": 537.91,
+            "b": 378.215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "We extended our network leadership even further. We announced satellite partnerships with AST SpaceMobile and Skylo to offer connectivity in dead zones. And, as you will hear more later today, we are connecting the AI ecosystem, putting Verizon at the forefront of next-generation technology.",
+      "text": "We extended our network leadership even further. We announced satellite partnerships with AST SpaceMobile and Skylo to offer connectivity in dead zones. And, as you will hear more later today, we are connecting the AI ecosystem, putting Verizon at the forefront of next-generation technology."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.97,
+            "t": 359.721,
+            "r": 526.026,
+            "b": 295.61,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "We continue to invest in the business. We have now deployed C-band on nearly 70 percent of our planned sites, and expect to be within 80 to 90 percent by the end of 2025. C-band deployment continues to improve our customers' mobility experience while expanding Fixed Wireless Access coverage. At the same time, we continued to expand our Fios footprint with 464 thousand new premises open for sale.",
+      "text": "We continue to invest in the business. We have now deployed C-band on nearly 70 percent of our planned sites, and expect to be within 80 to 90 percent by the end of 2025. C-band deployment continues to improve our customers' mobility experience while expanding Fixed Wireless Access coverage. At the same time, we continued to expand our Fios footprint with 464 thousand new premises open for sale."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.96,
+            "t": 277.116,
+            "r": 536.703,
+            "b": 213.06600000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        }
+      ],
+      "orig": "My new leadership team, which came together over the last 12 months, has performed very well and has continued to transform the business and drive efficiencies while improving our operating leverage. With the execution of the Voluntary Separation Program, we ended the year with fewer than 100 thousand employees, down close to 20 thousand over the last three years. This gives us more flexibility to execute our strategy and deliver on our capital allocation priorities.",
+      "text": "My new leadership team, which came together over the last 12 months, has performed very well and has continued to transform the business and drive efficiencies while improving our operating leverage. With the execution of the Voluntary Separation Program, we ended the year with fewer than 100 thousand employees, down close to 20 thousand over the last three years. This gives us more flexibility to execute our strategy and deliver on our capital allocation priorities."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.96,
+            "t": 194.57100000000003,
+            "r": 463.181,
+            "b": 185.53099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "These strategic moves and operational improvements drove strong financial results:",
+      "text": "These strategic moves and operational improvements drove strong financial results:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.96,
+            "t": 167.03600000000006,
+            "r": 477.399,
+            "b": 157.99599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Total wireless service revenue of 79.1 billion dollars was up 3.1 percent year-over-year.",
+      "text": "Total wireless service revenue of 79.1 billion dollars was up 3.1 percent year-over-year."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.95,
+            "t": 139.50099999999998,
+            "r": 506.317,
+            "b": 130.461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Adjusted EBITDA of 48.8 billion dollars was up 2.1 percent, or a billion dollars, year over year.",
+      "text": "Adjusted EBITDA of 48.8 billion dollars was up 2.1 percent, or a billion dollars, year over year."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 531.66,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 498.141,
+            "b": 708.515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "And, we generated strong free cash flow of 19.8 billion dollars while absorbing higher taxes.",
+      "text": "And, we generated strong free cash flow of 19.8 billion dollars while absorbing higher taxes."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99,
+            "t": 690.02,
+            "r": 539.272,
+            "b": 639.707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "Given the financial strength of our business, we increased our dividend for the 18th consecutive year while maintaining a healthy free cash flow dividend payout ratio of approximately 57 percent, and continued to pay down debt, ending the year with a net unsecured debt-to-adjusted EBITDA ratio of 2.3x, down from 2.6x a year ago.",
+      "text": "Given the financial strength of our business, we increased our dividend for the 18th consecutive year while maintaining a healthy free cash flow dividend payout ratio of approximately 57 percent, and continued to pay down debt, ending the year with a net unsecured debt-to-adjusted EBITDA ratio of 2.3x, down from 2.6x a year ago."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99,
+            "t": 621.213,
+            "r": 536.049,
+            "b": 598.435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Turning to our operational performance, we grew subscribers across all our core businesses for the full year.",
+      "text": "Turning to our operational performance, we grew subscribers across all our core businesses for the full year."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99,
+            "t": 579.94,
+            "r": 542.481,
+            "b": 557.102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "We added nearly 2.5 million postpaid mobility and broadband subscribers in the year while expanding our margins.",
+      "text": "We added nearly 2.5 million postpaid mobility and broadband subscribers in the year while expanding our margins."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99,
+            "t": 538.668,
+            "r": 537.014,
+            "b": 474.558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "On mobility, we added nearly 900 thousand postpaid phone subscribers. Consumer postpaid phone net adds were positive for the year. Business postpaid phone subscriber growth continued with another year of solid performance, with over half a million net adds. Prepaid net adds excluding SafeLink were also full-year positive for the first time since the TracFone acquisition. It's been a great turnaround by the Consumer team.",
+      "text": "On mobility, we added nearly 900 thousand postpaid phone subscribers. Consumer postpaid phone net adds were positive for the year. Business postpaid phone subscriber growth continued with another year of solid performance, with over half a million net adds. Prepaid net adds excluding SafeLink were also full-year positive for the first time since the TracFone acquisition. It's been a great turnaround by the Consumer team."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99,
+            "t": 456.063,
+            "r": 540.02,
+            "b": 405.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        }
+      ],
+      "orig": "On broadband, we added nearly 1.6 million subscribers in 2024, bringing our base to 12.3 million. Our growth was fueled by great momentum in both Fixed Wireless Access and Fios. We have the most complete and differentiated broadband offering, covering all segments of the market. As announced in October, we expect to cover more than 100 million homes and businesses nationwide over time.",
+      "text": "On broadband, we added nearly 1.6 million subscribers in 2024, bringing our base to 12.3 million. Our growth was fueled by great momentum in both Fixed Wireless Access and Fios. We have the most complete and differentiated broadband offering, covering all segments of the market. As announced in October, we expect to cover more than 100 million homes and businesses nationwide over time."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.97,
+            "t": 387.256,
+            "r": 541.215,
+            "b": 281.873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            758
+          ]
+        }
+      ],
+      "orig": "Our private networks business continues to scale, with significant wins across key verticals. In early 2024, we were selected for an IT systems modernization project from Xerox and a private network build for global power solutions leader Cummins, Inc. In sports and entertainment, we expanded our service from every NFL stadium in the country to individual teams and their training facilities. We won new mandates from FIFA to support the 2026 Men's World Cup as the Official Telecommunication Service Sponsor with state-of-the-art technology, and we expanded our partnership with Madison Square Garden. This month, the United States Air Force chose us to enhance its communications infrastructure across 35 bases, which will include new C-Band deployments.",
+      "text": "Our private networks business continues to scale, with significant wins across key verticals. In early 2024, we were selected for an IT systems modernization project from Xerox and a private network build for global power solutions leader Cummins, Inc. In sports and entertainment, we expanded our service from every NFL stadium in the country to individual teams and their training facilities. We won new mandates from FIFA to support the 2026 Men's World Cup as the Official Telecommunication Service Sponsor with state-of-the-art technology, and we expanded our partnership with Madison Square Garden. This month, the United States Air Force chose us to enhance its communications infrastructure across 35 bases, which will include new C-Band deployments."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96,
+            "t": 263.37799999999993,
+            "r": 523.361,
+            "b": 254.33799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "In summary, 2024 was a year of strategic execution with strong financial and subscriber growth.",
+      "text": "In summary, 2024 was a year of strategic execution with strong financial and subscriber growth."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96,
+            "t": 235.84299999999996,
+            "r": 249.885,
+            "b": 226.803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Now, let me turn to the fourth quarter:",
+      "text": "Now, let me turn to the fourth quarter:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96,
+            "t": 208.308,
+            "r": 531.487,
+            "b": 171.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "We had a very strong quarter, both financially and operationally, with subscriber gains in both mobility and broadband. We continued to gain share in broadband led by sustained growth in Fixed Wireless Access.",
+      "text": "We had a very strong quarter, both financially and operationally, with subscriber gains in both mobility and broadband. We continued to gain share in broadband led by sustained growth in Fixed Wireless Access."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96,
+            "t": 153.29899999999998,
+            "r": 519.849,
+            "b": 130.461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Wireless Service Revenue came in at 20 billion dollars, the highest in the industry, up 3.1 percent year over year.",
+      "text": "Wireless Service Revenue came in at 20 billion dollars, the highest in the industry, up 3.1 percent year over year."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 531.6,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 401.067,
+            "b": 708.515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Adjusted EBITDA was 11.9 billion dollars, up 2.1 percent year over year.",
+      "text": "Adjusted EBITDA was 11.9 billion dollars, up 2.1 percent year over year."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 690.02,
+            "r": 466.347,
+            "b": 680.98,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "We ended the year with a strong Free Cash Flow of 5.4 billion dollars for the quarter.",
+      "text": "We ended the year with a strong Free Cash Flow of 5.4 billion dollars for the quarter."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 662.485,
+            "r": 531.127,
+            "b": 639.707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Our subscriber growth demonstrated clear momentum. We added nearly 1 million postpaid mobility and broadband subscribers, our highest quarter result in over a decade.",
+      "text": "Our subscriber growth demonstrated clear momentum. We added nearly 1 million postpaid mobility and broadband subscribers, our highest quarter result in over a decade."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99,
+            "t": 621.213,
+            "r": 532.285,
+            "b": 557.102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "In mobility, total postpaid phone net adds were 568 thousand, our best quarterly performance in 5 years. This was driven by strong execution in Consumer and continued strength in our Business segment. Our Total Postpaid Phone Net Adds improved year-over-year in every quarter of 2024. In our value business, excluding SafeLink, prepaid net adds of 65 thousand in the fourth quarter brought us into positive territory for the year.",
+      "text": "In mobility, total postpaid phone net adds were 568 thousand, our best quarterly performance in 5 years. This was driven by strong execution in Consumer and continued strength in our Business segment. Our Total Postpaid Phone Net Adds improved year-over-year in every quarter of 2024. In our value business, excluding SafeLink, prepaid net adds of 65 thousand in the fourth quarter brought us into positive territory for the year."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99,
+            "t": 538.668,
+            "r": 539.25,
+            "b": 474.558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "Our broadband business continues to scale effectively. We delivered 408 thousand net adds, including 373 thousand from Fixed Wireless Access. We ended the year with nearly 4.6 million Fixed Wireless Access subscribers and we exceeded 2.1 billion dollars of Fixed Wireless Access revenue for the year. We are off to a great start to hit our next milestone of 8 to 9 million fixed wireless access subscribers by 2028.",
+      "text": "Our broadband business continues to scale effectively. We delivered 408 thousand net adds, including 373 thousand from Fixed Wireless Access. We ended the year with nearly 4.6 million Fixed Wireless Access subscribers and we exceeded 2.1 billion dollars of Fixed Wireless Access revenue for the year. We are off to a great start to hit our next milestone of 8 to 9 million fixed wireless access subscribers by 2028."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99,
+            "t": 456.063,
+            "r": 537.245,
+            "b": 405.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "Finally, in addition to the new Private Networks business that we won in the fourth quarter, we were the only U.S.-based carrier to be named a Leader in Gartner's Magic Quadrant for private networks. Gartner recognized us for our vision, our work in building the private networks market and our ability to build great private networks that our customers rely on.",
+      "text": "Finally, in addition to the new Private Networks business that we won in the fourth quarter, we were the only U.S.-based carrier to be named a Leader in Gartner's Magic Quadrant for private networks. Gartner recognized us for our vision, our work in building the private networks market and our ability to build great private networks that our customers rely on."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.98,
+            "t": 387.256,
+            "r": 536.418,
+            "b": 350.68,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "On Network, our capital efficiency continues to improve as we rollout our fiber and C-band ahead of plans and transform our network. Where we have C-Band deployed, customers are experiencing superior performance, and we are seeing higher gross adds and lower churn.",
+      "text": "On Network, our capital efficiency continues to improve as we rollout our fiber and C-band ahead of plans and transform our network. Where we have C-Band deployed, customers are experiencing superior performance, and we are seeing higher gross adds and lower churn."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.98,
+            "t": 332.186,
+            "r": 536.228,
+            "b": 254.33799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "We continue to enhance our network capabilities and innovate for the evolving needs of our customers. We recently launched Enhanced Video Calling powered by network slicing and we collaborated with NVIDIA to power AI workloads on private 5G networks with mobile edge compute. We also successfully tested next generation technology enabling faster and more energy efficient fiber network data transfers. Our continued advancements further strengthen our position as the best network for all of our customers.",
+      "text": "We continue to enhance our network capabilities and innovate for the evolving needs of our customers. We recently launched Enhanced Video Calling powered by network slicing and we collaborated with NVIDIA to power AI workloads on private 5G networks with mobile edge compute. We also successfully tested next generation technology enabling faster and more energy efficient fiber network data transfers. Our continued advancements further strengthen our position as the best network for all of our customers."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.98,
+            "t": 235.84299999999996,
+            "r": 511.801,
+            "b": 213.06600000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Looking ahead to 2025, we will continue to build on our momentum and execute our long-term strategy.",
+      "text": "Looking ahead to 2025, we will continue to build on our momentum and execute our long-term strategy."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.98,
+            "t": 194.57100000000003,
+            "r": 516.386,
+            "b": 171.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "We will focus on growing wireless service revenue, expanding Adjusted EBITDA and generating strong free cash flow.",
+      "text": "We will focus on growing wireless service revenue, expanding Adjusted EBITDA and generating strong free cash flow."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.98,
+            "t": 153.29899999999998,
+            "r": 537.66,
+            "b": 130.461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "We will accelerate our mobility momentum and broadband growth, with continued deployment of 5G Ultra Wideband and expanded fiber builds, while scaling our private networks business.",
+      "text": "We will accelerate our mobility momentum and broadband growth, with continued deployment of 5G Ultra Wideband and expanded fiber builds, while scaling our private networks business."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 531.9,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 542.204,
+            "b": 694.777,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "We will maintain our focus on operational excellence, financial discipline, and customer experience to drive both customer and financial growth.",
+      "text": "We will maintain our focus on operational excellence, financial discipline, and customer experience to drive both customer and financial growth."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 676.282,
+            "r": 530.922,
+            "b": 653.445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "We will continue to execute on our capital allocation model by investing in the business, supporting and growing our dividend, paying down our debt and eventually executing on share repurchases.",
+      "text": "We will continue to execute on our capital allocation model by investing in the business, supporting and growing our dividend, paying down our debt and eventually executing on share repurchases."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 634.95,
+            "r": 526.074,
+            "b": 612.172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "And, we will leverage our extensive fiber footprint and edge compute assets to open new revenue streams as we continue to connect the AI ecosystem.",
+      "text": "And, we will leverage our extensive fiber footprint and edge compute assets to open new revenue streams as we continue to connect the AI ecosystem."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 593.678,
+            "r": 542.581,
+            "b": 557.102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "Tony will provide more details on our 2025 guidance but we anticipate another year of strong wireless service revenue growth in the 2 to 2.8 percent range, with underlying growth expected to be nearly double the guided range when excluding promo amortization.",
+      "text": "Tony will provide more details on our 2025 guidance but we anticipate another year of strong wireless service revenue growth in the 2 to 2.8 percent range, with underlying growth expected to be nearly double the guided range when excluding promo amortization."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 538.668,
+            "r": 529.885,
+            "b": 502.092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Our adjusted EBITDA profile will continue to improve as we remain financially disciplined and execute on our business transformation programs. The midpoint of our adjusted EBITDA guidance represents an acceleration from our 2024 growth rate.",
+      "text": "Our adjusted EBITDA profile will continue to improve as we remain financially disciplined and execute on our business transformation programs. The midpoint of our adjusted EBITDA guidance represents an acceleration from our 2024 growth rate."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99,
+            "t": 483.598,
+            "r": 454.333,
+            "b": 474.558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "We expect to generate strong free cash flow while investing for long-term growth.",
+      "text": "We expect to generate strong free cash flow while investing for long-term growth."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99,
+            "t": 456.063,
+            "r": 395.175,
+            "b": 447.023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Now, I will hand it over to Tony to discuss our results in greater detail.",
+      "text": "Now, I will hand it over to Tony to discuss our results in greater detail."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.996,
+            "t": 400.937,
+            "r": 404.414,
+            "b": 391.897,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Anthony Skiadas Verizon Communications Inc - Chief Financial Officer",
+      "text": "Anthony Skiadas Verizon Communications Inc - Chief Financial Officer",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99,
+            "t": 373.402,
+            "r": 228.853,
+            "b": 364.362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Thanks, Hans, and good morning.",
+      "text": "Thanks, Hans, and good morning."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99,
+            "t": 345.928,
+            "r": 532.463,
+            "b": 281.817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "We finished the year with strong operational momentum in both mobility and broadband, demonstrating year-over-year improvement in postpaid phone net additions throughout the year. In addition, we delivered our highest broadband quarterly result of the year. All-in, we added nearly 1 million postpaid subscribers onto our mobility and broadband platforms in the fourth quarter, the highest quarterly result in over a decade.",
+      "text": "We finished the year with strong operational momentum in both mobility and broadband, demonstrating year-over-year improvement in postpaid phone net additions throughout the year. In addition, we delivered our highest broadband quarterly result of the year. All-in, we added nearly 1 million postpaid subscribers onto our mobility and broadband platforms in the fourth quarter, the highest quarterly result in over a decade."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99,
+            "t": 263.323,
+            "r": 535.11,
+            "b": 213.01,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "We did this while delivering on our financial guidance, including finishing above the midpoint of the guided ranges for both Wireless Service revenue and adjusted EBITDA, and generating strong cash flow. These results reflect our disciplined approach to growth, and position us well for continued success in 2025.",
+      "text": "We did this while delivering on our financial guidance, including finishing above the midpoint of the guided ranges for both Wireless Service revenue and adjusted EBITDA, and generating strong cash flow. These results reflect our disciplined approach to growth, and position us well for continued success in 2025."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 531.54,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 537.327,
+            "b": 612.172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            767
+          ]
+        }
+      ],
+      "orig": "Consumer postpaid phone net adds totaled 426 thousand for the fourth quarter, a substantial improvement from 318 thousand in the prior year period. For the full year, we delivered 82 thousand Consumer postpaid phone net adds excluding the impact of our second number offering - meeting our goal of positive net adds for the year. Volumes are important to delivering our growth objectives. We expect to build off the momentum exiting the year and deliver even more postpaid phone net additions in 2025. We also intend to transition our 2nd Number product to a perk offering within the next few months. As a result of that change, beginning in the first quarter of 2025, we will no longer count 2nd Number in calculating postpaid phone net adds and other phone metrics.",
+      "text": "Consumer postpaid phone net adds totaled 426 thousand for the fourth quarter, a substantial improvement from 318 thousand in the prior year period. For the full year, we delivered 82 thousand Consumer postpaid phone net adds excluding the impact of our second number offering - meeting our goal of positive net adds for the year. Volumes are important to delivering our growth objectives. We expect to build off the momentum exiting the year and deliver even more postpaid phone net additions in 2025. We also intend to transition our 2nd Number product to a perk offering within the next few months. As a result of that change, beginning in the first quarter of 2025, we will no longer count 2nd Number in calculating postpaid phone net adds and other phone metrics."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 593.678,
+            "r": 537.747,
+            "b": 515.83,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "The strong Consumer postpaid phone results in the quarter were primarily driven by postpaid phone gross adds, which were up more than 5 percent compared to the prior year period. The quarterly phone gross add result was our strongest in five years. Customers continue to be attracted to our myPlan offers, with nearly half of our phone base on myPlan at year-end. In addition, our C-band expansion, segmented go-to market approach, targeted promotions, and operational focus all contributed to our strong performance.",
+      "text": "The strong Consumer postpaid phone results in the quarter were primarily driven by postpaid phone gross adds, which were up more than 5 percent compared to the prior year period. The quarterly phone gross add result was our strongest in five years. Customers continue to be attracted to our myPlan offers, with nearly half of our phone base on myPlan at year-end. In addition, our C-band expansion, segmented go-to market approach, targeted promotions, and operational focus all contributed to our strong performance."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99,
+            "t": 497.335,
+            "r": 531.792,
+            "b": 447.023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "Consumer postpaid phone churn was 0.89 percent for the fourth quarter, up slightly versus the same period a year ago, reflecting pricing actions taken during the quarter. Churn management will remain an operational focus for the business in 2025 as we continue to pursue a balanced growth profile between volumes and price.",
+      "text": "Consumer postpaid phone churn was 0.89 percent for the fourth quarter, up slightly versus the same period a year ago, reflecting pricing actions taken during the quarter. Churn management will remain an operational focus for the business in 2025 as we continue to pursue a balanced growth profile between volumes and price."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99,
+            "t": 428.528,
+            "r": 534.797,
+            "b": 378.215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "The Consumer postpaid upgrade rate was 4.5 percent in the fourth quarter, up 10 basis points yearover-year, as a result of the approximately 3 percent increase in upgrades. While upgrades increased year-over-year for the first time in several quarters, we do not see a significant change in consumer behavior as customers continue to hold onto their phones for longer periods of time.",
+      "text": "The Consumer postpaid upgrade rate was 4.5 percent in the fourth quarter, up 10 basis points yearover-year, as a result of the approximately 3 percent increase in upgrades. While upgrades increased year-over-year for the first time in several quarters, we do not see a significant change in consumer behavior as customers continue to hold onto their phones for longer periods of time."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99,
+            "t": 359.721,
+            "r": 533.3,
+            "b": 323.145,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "Consumer ARPA of $139.77 in the fourth quarter represented an increase of 4.2 percent year-overyear. This was primarily driven by pricing actions taken throughout the year, growing perk adoption, and fixed wireless access subscriber growth. We expect continued healthy ARPA growth in 2025.",
+      "text": "Consumer ARPA of $139.77 in the fourth quarter represented an increase of 4.2 percent year-overyear. This was primarily driven by pricing actions taken throughout the year, growing perk adoption, and fixed wireless access subscriber growth. We expect continued healthy ARPA growth in 2025."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.98,
+            "t": 304.651,
+            "r": 540.977,
+            "b": 240.601,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "Our prepaid results showed continued momentum in the fourth quarter. Excluding SafeLink, we had 65 thousand prepaid net additions in the fourth quarter, leading to positive full year prepaid net adds. Our strategy is working and we continue to invest in the Straight Talk, Visible and Total Wireless prepaid brands. We expect to see continued improvement in 2025, with the financial contribution from prepaid expected to turn to a tailwind toward the back half of 2025.",
+      "text": "Our prepaid results showed continued momentum in the fourth quarter. Excluding SafeLink, we had 65 thousand prepaid net additions in the fourth quarter, leading to positive full year prepaid net adds. Our strategy is working and we continue to invest in the Straight Talk, Visible and Total Wireless prepaid brands. We expect to see continued improvement in 2025, with the financial contribution from prepaid expected to turn to a tailwind toward the back half of 2025."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.98,
+            "t": 222.106,
+            "r": 540.494,
+            "b": 157.99599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            450
+          ]
+        }
+      ],
+      "orig": "Verizon Business delivered another strong quarter with 142 thousand phone net adds. Our value proposition continues to resonate across all customer groups with particular strength in small and medium businesses. This is evident as we continue to retain our leading market share and reported a year over year improvement in Business phone churn for the full year 2024. We are confident that we will continue to deliver strong Business volumes in 2025.",
+      "text": "Verizon Business delivered another strong quarter with 142 thousand phone net adds. Our value proposition continues to resonate across all customer groups with particular strength in small and medium businesses. This is evident as we continue to retain our leading market share and reported a year over year improvement in Business phone churn for the full year 2024. We are confident that we will continue to deliver strong Business volumes in 2025."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 532.32,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 536.608,
+            "b": 612.172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            671
+          ]
+        }
+      ],
+      "orig": "Moving on to broadband, we delivered 408 thousand net additions in the quarter, continuing the quarterly pace of over 350 thousand broadband net adds. We are taking broadband share and continue to see strong demand for both our fiber and fixed wireless access offerings. We are confident that both Fios and FWA will continue to grow market share in 2025.  Key initiatives driving our optimism include expanding our Fios footprint by up to 650,000 new locations and further deploying C-Band spectrum. In addition, we anticipate bringing new products and offers to the market, such as our MDU solution for fixed wireless access that will be launched in the next few months.",
+      "text": "Moving on to broadband, we delivered 408 thousand net additions in the quarter, continuing the quarterly pace of over 350 thousand broadband net adds. We are taking broadband share and continue to see strong demand for both our fiber and fixed wireless access offerings. We are confident that both Fios and FWA will continue to grow market share in 2025.  Key initiatives driving our optimism include expanding our Fios footprint by up to 650,000 new locations and further deploying C-Band spectrum. In addition, we anticipate bringing new products and offers to the market, such as our MDU solution for fixed wireless access that will be launched in the next few months."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 593.678,
+            "r": 542.058,
+            "b": 515.83,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            506
+          ]
+        }
+      ],
+      "orig": "In fixed wireless access, we delivered 373 thousand net adds for the quarter, growing the base to nearly 4.6 million subscribers. In the fourth quarter, we saw a higher proportion of Consumer fixed wireless gross adds coming from suburban and rural customers, showing the high demand for quality broadband services in our newer C-Band markets. We are off to a great start towards achieving our 8 to 9 million subscriber goal by 2028 and see continued opportunities to grow as we expand our CBand footprint.",
+      "text": "In fixed wireless access, we delivered 373 thousand net adds for the quarter, growing the base to nearly 4.6 million subscribers. In the fourth quarter, we saw a higher proportion of Consumer fixed wireless gross adds coming from suburban and rural customers, showing the high demand for quality broadband services in our newer C-Band markets. We are off to a great start towards achieving our 8 to 9 million subscriber goal by 2028 and see continued opportunities to grow as we expand our CBand footprint."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 497.335,
+            "r": 531.506,
+            "b": 460.76,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "Fios internet net adds for the fourth quarter were 51 thousand versus 55 thousand in the prior year period. With 20 years of Fios experience, we continue to grow our fiber subscribers, while others face challenges.",
+      "text": "Fios internet net adds for the fourth quarter were 51 thousand versus 55 thousand in the prior year period. With 20 years of Fios experience, we continue to grow our fiber subscribers, while others face challenges."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.99,
+            "t": 442.326,
+            "r": 534.805,
+            "b": 405.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Let's now look at our financials. Consolidated revenue for the fourth quarter was 35.7 billion dollars, up 1.6% year-over-year. Service & Other revenue grew 1.8 percent, driven primarily by wireless service revenue growth, partially offset by ongoing Business Wireline declines.",
+      "text": "Let's now look at our financials. Consolidated revenue for the fourth quarter was 35.7 billion dollars, up 1.6% year-over-year. Service & Other revenue grew 1.8 percent, driven primarily by wireless service revenue growth, partially offset by ongoing Business Wireline declines."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.98,
+            "t": 387.256,
+            "r": 529.115,
+            "b": 336.943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "Total wireless service revenue was an industry-leading 20.0 billion dollars in the fourth quarter, up 3.1 percent year-over-year. Revenue growth benefited from targeted pricing actions, customer growth, sales of perks and add-on services, and growth in fixed wireless access. This was partially offset by the pressure from promo amortization as well as prepaid revenue.",
+      "text": "Total wireless service revenue was an industry-leading 20.0 billion dollars in the fourth quarter, up 3.1 percent year-over-year. Revenue growth benefited from targeted pricing actions, customer growth, sales of perks and add-on services, and growth in fixed wireless access. This was partially offset by the pressure from promo amortization as well as prepaid revenue."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.97,
+            "t": 318.448,
+            "r": 538.069,
+            "b": 240.601,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        }
+      ],
+      "orig": "Consolidated adjusted EBITDA in the quarter was 11.9 billion dollars, an increase of 2.1 percent compared to the prior year period. The increase was driven by higher wireless service revenue and benefits from cost saving initiatives, which were partially offset by investments to drive growth, and legacy wireline revenue declines. Notably, Business segment EBITDA for the fourth quarter was $1.7 billion dollars, up 3 percent year over year. This represents the first year over year increase in quarterly EBITDA for the Business segment since the fourth quarter of 2020.",
+      "text": "Consolidated adjusted EBITDA in the quarter was 11.9 billion dollars, an increase of 2.1 percent compared to the prior year period. The increase was driven by higher wireless service revenue and benefits from cost saving initiatives, which were partially offset by investments to drive growth, and legacy wireline revenue declines. Notably, Business segment EBITDA for the fourth quarter was $1.7 billion dollars, up 3 percent year over year. This represents the first year over year increase in quarterly EBITDA for the Business segment since the fourth quarter of 2020."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.97,
+            "t": 222.106,
+            "r": 528.36,
+            "b": 199.26800000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Adjusted EPS was $1.10 in the quarter, up 1.9 percent year over year, resulting in full year adjusted EPS of $4.59.",
+      "text": "Adjusted EPS was $1.10 in the quarter, up 1.9 percent year over year, resulting in full year adjusted EPS of $4.59."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 531.54,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 534.096,
+            "b": 625.91,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            606
+          ]
+        }
+      ],
+      "orig": "Turning to our cash flow summary, cash flow from operating activities for the fourth quarter was $10.4 billion dollars, bringing the total for 2024 to $36.9 billion dollars. For the fourth quarter, it's important to note that we received approximately $2.8 billion dollars in proceeds from the Vertical Bridge tower transaction, of which approximately $2 billion dollars flow through cash flow from operations. The remaining proceeds flow through cash flow from financing activities. In addition, we made severance payments related to our voluntary separation program of approximately $600 million dollars.",
+      "text": "Turning to our cash flow summary, cash flow from operating activities for the fourth quarter was $10.4 billion dollars, bringing the total for 2024 to $36.9 billion dollars. For the fourth quarter, it's important to note that we received approximately $2.8 billion dollars in proceeds from the Vertical Bridge tower transaction, of which approximately $2 billion dollars flow through cash flow from operations. The remaining proceeds flow through cash flow from financing activities. In addition, we made severance payments related to our voluntary separation program of approximately $600 million dollars."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 607.475,
+            "r": 539.103,
+            "b": 557.102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "CapEx for the quarter came in at $5.1 billion dollars compared to $4.6 billion dollars in the prior year. The full year CapEx totaled 17.1 billion dollars, down from $18.8 billion dollars in 2023. We came in at the low end of our guided range, supported by efficiencies in our C-Band buildout and fiber expansion activities.",
+      "text": "CapEx for the quarter came in at $5.1 billion dollars compared to $4.6 billion dollars in the prior year. The full year CapEx totaled 17.1 billion dollars, down from $18.8 billion dollars in 2023. We came in at the low end of our guided range, supported by efficiencies in our C-Band buildout and fiber expansion activities."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 538.668,
+            "r": 537.633,
+            "b": 488.295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "Free cash flow was $5.4 billion dollars in the fourth quarter and $19.8 billion dollars for full year 2024, including a net positive impact of $1.4 billion dollars from the tower transaction and voluntary separation payments. This result shows very strong underlying cash flow generation in the business, given that we paid $3.3 billion more in cash taxes in 2024 than in 2023.",
+      "text": "Free cash flow was $5.4 billion dollars in the fourth quarter and $19.8 billion dollars for full year 2024, including a net positive impact of $1.4 billion dollars from the tower transaction and voluntary separation payments. This result shows very strong underlying cash flow generation in the business, given that we paid $3.3 billion more in cash taxes in 2024 than in 2023."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 469.8,
+            "r": 531.499,
+            "b": 378.215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            635
+          ]
+        }
+      ],
+      "orig": "Net unsecured debt at the end of the quarter was $113.7 billion dollars, a $12.7 billion dollar improvement year-over-year and better by $7.7 billion dollars sequentially. Unsecured debt decreased sequentially primarily due to a debt tender offer of $3.3 billion, the repayment of $1.2 billion dollars of maturing notes in the quarter, and mark to market adjustments. Our net unsecured debt to consolidated adjusted EBITDA ratio was 2.3 times at year end, down from 2.5 times last quarter as we continue to focus on our debt reduction ahead of the closing of the Frontier transaction, in alignment with our capital allocation strategy.",
+      "text": "Net unsecured debt at the end of the quarter was $113.7 billion dollars, a $12.7 billion dollar improvement year-over-year and better by $7.7 billion dollars sequentially. Unsecured debt decreased sequentially primarily due to a debt tender offer of $3.3 billion, the repayment of $1.2 billion dollars of maturing notes in the quarter, and mark to market adjustments. Our net unsecured debt to consolidated adjusted EBITDA ratio was 2.3 times at year end, down from 2.5 times last quarter as we continue to focus on our debt reduction ahead of the closing of the Frontier transaction, in alignment with our capital allocation strategy."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 359.721,
+            "r": 523.47,
+            "b": 336.943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Now, let's look at our 2025 guidance, which, similar to 2024, reflects our commitment to wireless service revenue, adjusted EBITDA, and cash flow growth.",
+      "text": "Now, let's look at our 2025 guidance, which, similar to 2024, reflects our commitment to wireless service revenue, adjusted EBITDA, and cash flow growth."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 318.448,
+            "r": 539.859,
+            "b": 254.33799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            422
+          ]
+        }
+      ],
+      "orig": "For 2025, we expect total wireless service revenue to grow between 2 and 2.8 percent. We expect the growth to be driven by anticipated postpaid phone net additions in both Consumer and Business, fixed wireless access subscriber growth, perk adoption, and pricing actions implemented in 2024 that carryover into 2025. We anticipate significant promo amortization headwinds to impact wireless service revenue growth in 2025.",
+      "text": "For 2025, we expect total wireless service revenue to grow between 2 and 2.8 percent. We expect the growth to be driven by anticipated postpaid phone net additions in both Consumer and Business, fixed wireless access subscriber growth, perk adoption, and pricing actions implemented in 2024 that carryover into 2025. We anticipate significant promo amortization headwinds to impact wireless service revenue growth in 2025."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 235.84299999999996,
+            "r": 540.933,
+            "b": 157.99599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "Please note that, beginning in the first quarter of 2025, we are reclassifying recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue. The reclassification of more than $2.9 billion dollars better reflects that these products represent values our customers receive that is complementary to our connectivity services. Where applicable, historical results will be recast to conform to the updated presentation. The midpoint of the guidance implies $2 billion dollars of wireless service revenue growth over a higher base of revenue.",
+      "text": "Please note that, beginning in the first quarter of 2025, we are reclassifying recurring device protection and insurance related plan revenues from Other revenue into Wireless service revenue. The reclassification of more than $2.9 billion dollars better reflects that these products represent values our customers receive that is complementary to our connectivity services. Where applicable, historical results will be recast to conform to the updated presentation. The midpoint of the guidance implies $2 billion dollars of wireless service revenue growth over a higher base of revenue."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 531.54,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.555,
+            "r": 507.036,
+            "b": 680.98,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Consolidated adjusted EBITDA is expected to grow 2 to 3.5 percent compared to 2024. This outlook reflects higher expected wireless service revenue and benefits of ongoing cost transformation initiatives, partially offset by continued pressure in Business wireline revenues.",
+      "text": "Consolidated adjusted EBITDA is expected to grow 2 to 3.5 percent compared to 2024. This outlook reflects higher expected wireless service revenue and benefits of ongoing cost transformation initiatives, partially offset by continued pressure in Business wireline revenues."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 662.485,
+            "r": 533.912,
+            "b": 639.707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Full year adjusted earnings per share growth is expected to be between 0 and 3 percent, reflecting the adjusted EBITDA growth, partially offset by higher depreciation and amortization.",
+      "text": "Full year adjusted earnings per share growth is expected to be between 0 and 3 percent, reflecting the adjusted EBITDA growth, partially offset by higher depreciation and amortization."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 621.213,
+            "r": 540.939,
+            "b": 584.637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "As we discussed in October, capital spending for the full year is expected to be between $17.5 billion and $18.5 billion dollars. That is an all-in number that includes all of our growth initiatives, including accelerating our Fios expansion.",
+      "text": "As we discussed in October, capital spending for the full year is expected to be between $17.5 billion and $18.5 billion dollars. That is an all-in number that includes all of our growth initiatives, including accelerating our Fios expansion."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 566.143,
+            "r": 528.501,
+            "b": 543.365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "We expect free cash flow in the range of $17.5 to $18.5 billion dollars in 2025, which assumes midsingle digit growth in upgrades and no change to current tax legislation.",
+      "text": "We expect free cash flow in the range of $17.5 to $18.5 billion dollars in 2025, which assumes midsingle digit growth in upgrades and no change to current tax legislation."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 524.87,
+            "r": 535.453,
+            "b": 488.295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "Please note that our guidance excludes any impact from the pending acquisition of Frontier. We are currently working with all the regulatory bodies that must approve the transaction. The process is going as planned and we continue to expect the transaction to close by early 2026.",
+      "text": "Please note that our guidance excludes any impact from the pending acquisition of Frontier. We are currently working with all the regulatory bodies that must approve the transaction. The process is going as planned and we continue to expect the transaction to close by early 2026."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 469.8,
+            "r": 536.842,
+            "b": 433.285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "In summary, we delivered on our financial guidance and remain disciplined with our capital allocation approach. We exited 2024 with good momentum in both mobility and broadband. Overall, we are pleased with how we performed in 2024 and look forward to extending our leadership in 2025.",
+      "text": "In summary, we delivered on our financial guidance and remain disciplined with our capital allocation approach. We exited 2024 with good momentum in both mobility and broadband. Overall, we are pleased with how we performed in 2024 and look forward to extending our leadership in 2025."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 414.791,
+            "r": 421.201,
+            "b": 405.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "With that, I will now turn the call back over to Hans for his closing thoughts.",
+      "text": "With that, I will now turn the call back over to Hans for his closing thoughts."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.996,
+            "t": 359.657,
+            "r": 505.928,
+            "b": 350.617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer",
+      "text": "Hans Vestberg Verizon Communications Inc - Chairman of the Board, Chief Executive Officer"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 332.123,
+            "r": 153.433,
+            "b": 323.082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Thank you, Tony.",
+      "text": "Thank you, Tony."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 304.588,
+            "r": 423.191,
+            "b": 295.547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Let me close by saying I am proud of everything we accomplished in 2024.",
+      "text": "Let me close by saying I am proud of everything we accomplished in 2024."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99,
+            "t": 277.053,
+            "r": 518.361,
+            "b": 268.01199999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Our team delivered strong results through disciplined execution and relentless customer-focus.",
+      "text": "Our team delivered strong results through disciplined execution and relentless customer-focus."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 249.57799999999997,
+            "r": 534.153,
+            "b": 226.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "We strengthened our network leadership, transformed our operating model, and positioned Verizon for long-term success.",
+      "text": "We strengthened our network leadership, transformed our operating model, and positioned Verizon for long-term success."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 208.245,
+            "r": 541.465,
+            "b": 171.73000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "We enter 2025 with clear priorities and momentum across our business. Our network advantage continues to grow, our cost transformation is delivering results, and we are capturing opportunities in mobility, broadband, and private networks.",
+      "text": "We enter 2025 with clear priorities and momentum across our business. Our network advantage continues to grow, our cost transformation is delivering results, and we are capturing opportunities in mobility, broadband, and private networks."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 153.235,
+            "r": 506.143,
+            "b": 130.39800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "We will maintain focus on our three key financial metrics: Wireless Service Revenue, Adjusted EBITDA and Free Cash Flow.",
+      "text": "We will maintain focus on our three key financial metrics: Wireless Service Revenue, Adjusted EBITDA and Free Cash Flow."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 527.04,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.99,
+            "t": 717.555,
+            "r": 534.207,
+            "b": 694.777,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "As I always say, continuous improvement never ends - we will keep pushing forward to deliver value for our customers and our shareholders.",
+      "text": "As I always say, continuous improvement never ends - we will keep pushing forward to deliver value for our customers and our shareholders."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.99,
+            "t": 676.282,
+            "r": 537.443,
+            "b": 625.91,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "Finally, our industry sits at the center of the next wave of innovation as AI transforms how consumers and businesses operate. Our network assets and capabilities position us uniquely in this evolving landscape. I look forward to sharing more about how Verizon will connect the AI ecosystem on our 8:30am call this morning.",
+      "text": "Finally, our industry sits at the center of the next wave of innovation as AI transforms how consumers and businesses operate. Our network assets and capabilities position us uniquely in this evolving landscape. I look forward to sharing more about how Verizon will connect the AI ecosystem on our 8:30am call this morning."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 529.86,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 72.0,
+            "t": 714.546,
+            "r": 299.972,
+            "b": 697.311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "'Safe Harbor' Statement",
+      "text": "'Safe Harbor' Statement",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 71.964,
+            "t": 681.936,
+            "r": 542.262,
+            "b": 203.053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4301
+          ]
+        }
+      ],
+      "orig": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all.",
+      "text": "In this presentation we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words \"anticipates,\" \"assumes,\" \"believes,\" \"estimates,\" \"expects,\" \"forecasts,\" \"hopes,\" \"intends,\" \"plans,\" \"targets\" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the \"SEC\"), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: the effects of competition in the markets in which we operate, including the inability to successfully respond to competitive factors such as prices, promotional incentives and evolving consumer preferences; failure to take advantage of, or respond to competitors' use of, developments in technology, including artificial intelligence, and address changes in consumer demand; performance issues or delays in the deployment of our 5G network resulting in significant costs or a reduction in the anticipated benefits of the enhancement to our networks; the inability to implement our business strategy; adverse conditions in the U.S. and international economies, including inflation and changing interest rates in the markets in which we operate; cyberattacks impacting our networks or systems and any resulting financial or reputational impact; damage to our infrastructure or disruption of our operations from natural disasters, extreme weather conditions, acts of war, terrorist attacks or other hostile acts and any resulting financial or reputational impact; disruption of our key suppliers' or vendors' provisioning of products or services, including as a result of geopolitical factors or the potential impacts of global climate change; material adverse changes in labor matters and any resulting financial or operational impact; damage to our reputation or brands; the impact of public health crises on our business, operations, employees and customers; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks or businesses; allegations regarding the release of hazardous materials or pollutants into the environment from our, or our predecessors', network assets and any related government investigations, regulatory developments, litigation, penalties and other liability, remediation and compliance costs, operational impacts or reputational damage; our high level of indebtedness; significant litigation and any resulting material expenses incurred in defending against lawsuits or paying awards or settlements; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or regulations, or in their interpretation, or challenges to our tax positions, resulting in additional tax expense or liabilities; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and risks associated with mergers, acquisitions, divestitures and other strategic transactions, including our ability to consummate the proposed acquisition of Frontier Communications Parent, Inc. and obtain cost savings, synergies and other anticipated benefits within the expected time period or at all."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 71.973,
+            "t": 186.39599999999996,
+            "r": 541.039,
+            "b": 153.43600000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors.",
+      "text": "As required by SEC rules, we have provided a reconciliation of the non-GAAP financial measures included in this presentation to the most directly comparable GAAP measures in materials on our website at www.verizon.com/about/investors."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 527.7,
+            "t": 72.55500000000006,
+            "r": 540.745,
+            "b": 63.514999999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.76762390136719,
+            "t": 88.25128173828125,
+            "r": 181.49949645996094,
+            "b": 61.8662109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.83153533935547,
+            "t": 88.25067138671875,
+            "r": 181.32627868652344,
+            "b": 61.822265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.89144134521484,
+            "t": 88.20709228515625,
+            "r": 181.37388610839844,
+            "b": 61.87982177734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.9117660522461,
+            "t": 88.1925048828125,
+            "r": 181.33274841308594,
+            "b": 61.8701171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.91495513916016,
+            "t": 88.2215576171875,
+            "r": 181.32308959960938,
+            "b": 61.86639404296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.80943298339844,
+            "t": 88.10577392578125,
+            "r": 181.36553955078125,
+            "b": 61.89324951171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.87139892578125,
+            "t": 88.134521484375,
+            "r": 181.38314819335938,
+            "b": 61.947265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 70.80224609375,
+            "t": 88.09912109375,
+            "r": 181.36521911621094,
+            "b": 61.9580078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 70.851318359375,
+            "t": 88.158203125,
+            "r": 181.39540100097656,
+            "b": 61.9390869140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 70.91610717773438,
+            "t": 88.22674560546875,
+            "r": 181.352783203125,
+            "b": 61.807861328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 70.9289779663086,
+            "t": 88.09521484375,
+            "r": 181.36424255371094,
+            "b": 61.9432373046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.94475555419922,
+            "t": 88.1602783203125,
+            "r": 181.38046264648438,
+            "b": 61.95574951171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "download-formal-remarks-pdf-190da7d8",
+  "pdf_path": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\downloaded_verizon_financial_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\3Q\\Download Formal Remarks PDF_190da7d8.pdf",
+  "out_dir": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\3Q\\download-formal-remarks-pdf-190da7d8",
+  "artifacts": {
+    "docling_json": "i:\\My Drive\\M. Tech AI ML\\AIML SEM 4\\Dissertation\\Project\\output\\parsed_pdfs\\downloaded_verizon_quarterly_pdfs\\2023\\3Q\\download-formal-remarks-pdf-190da7d8\\download-formal-remarks-pdf-190da7d8.docling.json"
+  },
+  "stats": {
+    "docling_available": true
+  }
+}
